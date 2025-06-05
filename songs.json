@@ -561,17 +561,6 @@
         "upload_date": "2025-05-31 06:45:25"
     },
     {
-        "artist_name": "DEMBOW BÉLICO (Video Oficial)",
-        "id": 52,
-        "playlist_name": "Veneyork Belico",
-        "playlist_url": "https://www.youtube.com/playlist?list=PLPLzr65wJNvoc-LURh97-GlXwrq-MY9se",
-        "roblox_id": "70738531254786",
-        "roblox_name": "PiñaAguila976",
-        "song_name": "DEMBOW BÉLICO (Video Oficial) - Tito Double P, Luis R Conriquez, Joel De La P",
-        "status": "Completed",
-        "upload_date": "2025-05-31 18:13:44"
-    },
-    {
         "artist_name": "Natanael Cano, Steve Aoki",
         "id": 54,
         "playlist_name": "Veneyork Belico",
@@ -691,5 +680,104 @@
         "song_name": "Close Friends",
         "status": "Completed",
         "upload_date": "2025-05-31 18:12:55"
+    },
+    {
+        "artist_name": "Rawayana, Akapellah",
+        "id": 69,
+        "playlist_name": "veneyork",
+        "playlist_url": "https://www.youtube.com/playlist?list=PL4KQwQ3bcN4nR__dOciS2FFKmQqTjvVw8&si=C3zWxK8nTPUQoq8R",
+        "roblox_id": "131633525011862",
+        "roblox_name": "FresaCebra141",
+        "song_name": "Rawayana, Akapellah - Veneka (Official Audio)",
+        "status": "Completed",
+        "upload_date": "2025-06-05 05:35:04"
+    },
+    {
+        "artist_name": "Rawayana",
+        "id": 70,
+        "playlist_name": "veneyork",
+        "playlist_url": "https://www.youtube.com/playlist?list=PL4KQwQ3bcN4nR__dOciS2FFKmQqTjvVw8&si=C3zWxK8nTPUQoq8R",
+        "roblox_id": "119112086764658",
+        "roblox_name": "PiñaTigre386",
+        "song_name": "HIGH feat. Apache (Video Oficial)",
+        "status": "Completed",
+        "upload_date": "2025-06-05 05:34:46"
+    },
+    {
+        "artist_name": "ELENA ROSE, Danny Ocean, Jerry Di",
+        "id": 71,
+        "playlist_name": "veneyork",
+        "playlist_url": "https://www.youtube.com/playlist?list=PL4KQwQ3bcN4nR__dOciS2FFKmQqTjvVw8&si=C3zWxK8nTPUQoq8R",
+        "roblox_id": "139424525673800",
+        "roblox_name": "PeraFlamenco618",
+        "song_name": "CARACAS EN EL 2000 (Official Video)",
+        "status": "Completed",
+        "upload_date": "2025-06-05 05:32:32"
+    },
+    {
+        "artist_name": "Rawayana",
+        "id": 72,
+        "playlist_name": "veneyork",
+        "playlist_url": "https://www.youtube.com/playlist?list=PL4KQwQ3bcN4nR__dOciS2FFKmQqTjvVw8&si=C3zWxK8nTPUQoq8R",
+        "roblox_id": "128847963218998",
+        "roblox_name": "CocoRinoceronte833",
+        "song_name": "Feriado (Rawalizer)",
+        "status": "Completed",
+        "upload_date": "2025-06-05 05:34:15"
+    },
+    {
+        "artist_name": "Neutro Shorty",
+        "id": 73,
+        "playlist_name": "veneyork",
+        "playlist_url": "https://www.youtube.com/playlist?list=PL4KQwQ3bcN4nR__dOciS2FFKmQqTjvVw8&si=C3zWxK8nTPUQoq8R",
+        "roblox_id": "109155091630723",
+        "roblox_name": "FrambuesaAguila727",
+        "song_name": "Neutro Shorty - hichar(Video Oficial)",
+        "status": "Completed",
+        "upload_date": "2025-06-05 05:33:54"
+    },
+    {
+        "artist_name": "Bulin 47",
+        "id": 74,
+        "playlist_name": "veneyork",
+        "playlist_url": "https://www.youtube.com/playlist?list=PL4KQwQ3bcN4nR__dOciS2FFKmQqTjvVw8&si=C3zWxK8nTPUQoq8R",
+        "roblox_id": "118024679600111",
+        "roblox_name": "MoraPanda586",
+        "song_name": "Bulin 47 - Me Arreglé #ElLoco (Video oficial)",
+        "status": "Completed",
+        "upload_date": "2025-06-05 05:31:35"
+    },
+    {
+        "artist_name": "Amenazzy ft. Lary Over",
+        "id": 75,
+        "playlist_name": "veneyork",
+        "playlist_url": "https://www.youtube.com/playlist?list=PL4KQwQ3bcN4nR__dOciS2FFKmQqTjvVw8&si=C3zWxK8nTPUQoq8R",
+        "roblox_id": "128952405428176",
+        "roblox_name": "PapayaAguila975",
+        "song_name": "Solo (Video Oficial)",
+        "status": "Completed",
+        "upload_date": "2025-06-05 05:31:23"
+    },
+    {
+        "artist_name": "Lary Over & Lírico En la Casa",
+        "id": 76,
+        "playlist_name": "veneyork",
+        "playlist_url": "https://www.youtube.com/playlist?list=PL4KQwQ3bcN4nR__dOciS2FFKmQqTjvVw8&si=C3zWxK8nTPUQoq8R",
+        "roblox_id": "132449537346593",
+        "roblox_name": "FrambuesaTiburon370",
+        "song_name": "Subete (Official Video)",
+        "status": "Completed",
+        "upload_date": "2025-06-05 05:32:48"
+    },
+    {
+        "artist_name": "Emily Galaviz ",
+        "id": 84,
+        "playlist_name": "veneyork",
+        "playlist_url": "https://www.youtube.com/playlist?list=PL4KQwQ3bcN4nR__dOciS2FFKmQqTjvVw8&si=C3zWxK8nTPUQoq8R",
+        "roblox_id": "82916357422973",
+        "roblox_name": "ManzanaHalcon549",
+        "song_name": "Va colgando de un Hilito (Guayabo Tech )",
+        "status": "Completed",
+        "upload_date": "2025-06-05 05:36:35"
     }
 ]
