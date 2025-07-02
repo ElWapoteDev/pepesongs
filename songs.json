@@ -801,5 +801,93 @@
         "song_name": "tung-sahur ft. tralalero",
         "status": "Completed",
         "upload_date": "2025-06-02 00:00:00"
+    },
+    {
+        "artist_name": "Myke Towers, Farruko",
+        "id": 94,
+        "playlist_name": "FarrukoPlaylist",
+        "playlist_url": "https://www.youtube.com/playlist?list=PLPLzr65wJNvqrvTflcN5JOOLnoK6eMd4D&si=-n6TUC7QtaqTi9JZ",
+        "roblox_id": "103908432935039",
+        "roblox_name": "MaracuyaPinguino625",
+        "song_name": "Si Se Da",
+        "status": "Completed",
+        "upload_date": "2025-07-02 23:16:53"
+    },
+    {
+        "artist_name": "Farruko",
+        "id": 95,
+        "playlist_name": "FarrukoPlaylist",
+        "playlist_url": "https://www.youtube.com/playlist?list=PLPLzr65wJNvqrvTflcN5JOOLnoK6eMd4D&si=-n6TUC7QtaqTi9JZ",
+        "roblox_id": "136977545943655",
+        "roblox_name": "PapayaOso482",
+        "song_name": "Pepas",
+        "status": "Completed",
+        "upload_date": "2025-07-02 23:16:32"
+    },
+    {
+        "artist_name": "Bad Bunny, Arcangel, Ñengo Flow, Dj Luian, Mambo Kingz, Ozuna, Farruko, Benito A Martinez",
+        "id": 96,
+        "playlist_name": "FarrukoPlaylist",
+        "playlist_url": "https://www.youtube.com/playlist?list=PLPLzr65wJNvqrvTflcN5JOOLnoK6eMd4D&si=-n6TUC7QtaqTi9JZ",
+        "roblox_id": "81773641885536",
+        "roblox_name": "PiñaFlamenco587",
+        "song_name": "Diles",
+        "status": "Completed",
+        "upload_date": "2025-07-02 23:15:29"
+    },
+    {
+        "artist_name": "Farruko, Sean Paul",
+        "id": 97,
+        "playlist_name": "FarrukoPlaylist",
+        "playlist_url": "https://www.youtube.com/playlist?list=PLPLzr65wJNvqrvTflcN5JOOLnoK6eMd4D&si=-n6TUC7QtaqTi9JZ",
+        "roblox_id": "99299147032666",
+        "roblox_name": "SandiaHalcon227",
+        "song_name": "Passion Whine",
+        "status": "Completed",
+        "upload_date": "2025-07-02 23:16:16"
+    },
+    {
+        "artist_name": "Farruko",
+        "id": 99,
+        "playlist_name": "FarrukoPlaylist",
+        "playlist_url": "https://www.youtube.com/playlist?list=PLPLzr65wJNvqrvTflcN5JOOLnoK6eMd4D&si=-n6TUC7QtaqTi9JZ",
+        "roblox_id": "140223832899669",
+        "roblox_name": "MoraOso473",
+        "song_name": "Besas Tan Bien (Bonus Track)",
+        "status": "Completed",
+        "upload_date": "2025-07-02 23:14:18"
+    },
+    {
+        "artist_name": "Pedro Capó, Farruko",
+        "id": 100,
+        "playlist_name": "FarrukoPlaylist",
+        "playlist_url": "https://www.youtube.com/playlist?list=PLPLzr65wJNvqrvTflcN5JOOLnoK6eMd4D&si=-n6TUC7QtaqTi9JZ",
+        "roblox_id": "77821566055640",
+        "roblox_name": "MaracuyaRinoceronte949",
+        "song_name": "Calma (Remix)",
+        "status": "Completed",
+        "upload_date": "2025-07-02 23:14:33"
+    },
+    {
+        "artist_name": "Rauw Alejandro, Farruko",
+        "id": 101,
+        "playlist_name": "FarrukoPlaylist",
+        "playlist_url": "https://www.youtube.com/playlist?list=PLPLzr65wJNvqrvTflcN5JOOLnoK6eMd4D&si=-n6TUC7QtaqTi9JZ",
+        "roblox_id": "110345565539493",
+        "roblox_name": "UvaBallena862",
+        "song_name": "Fantasias",
+        "status": "Completed",
+        "upload_date": "2025-07-02 23:15:41"
+    },
+    {
+        "artist_name": "Farruko",
+        "id": 102,
+        "playlist_name": "FarrukoPlaylist",
+        "playlist_url": "https://www.youtube.com/playlist?list=PLPLzr65wJNvqrvTflcN5JOOLnoK6eMd4D&si=-n6TUC7QtaqTi9JZ",
+        "roblox_id": "77196520058431",
+        "roblox_name": "MoraCanguro407",
+        "song_name": "La Tóxica",
+        "status": "Completed",
+        "upload_date": "2025-07-02 23:15:57"
     }
 ]
