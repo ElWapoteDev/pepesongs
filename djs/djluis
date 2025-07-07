@@ -1,0 +1,1514 @@
+{
+  "timestamp": "2025-07-07T15:44:33.848822",
+  "operation_type": "bulk_audio",
+  "source_group": {
+    "id": 33876732,
+    "name": "xXDJxLUISXx"
+  },
+  "target_group": {
+    "id": 33965578,
+    "name": "Two Chiquilines"
+  },
+  "permissions_granted": [
+    {
+      "asset_id": 101521898178154,
+      "asset_name": "DJ_LUISy DJ FRESA-2025-VIUDAMILLONARIA",
+      "granted_at": "2025-07-07T15:44:35.273329",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 83475705616364,
+      "asset_name": "DJ_LUISy DJ FRESA-2025-LUIS SILVA-15ANERA",
+      "granted_at": "2025-07-07T15:44:36.543346",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 93034618147254,
+      "asset_name": "DJ_LUIS y DJ FRESA-2025-IRONIA",
+      "granted_at": "2025-07-07T15:44:37.794061",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 111019627424727,
+      "asset_name": "DJ_LUIS y  DJ FRESA-2025-STOY CONTIGO",
+      "granted_at": "2025-07-07T15:44:39.038011",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 84377272425726,
+      "asset_name": "DJ_LUIS Y DJ FRESA-2025-CUMPLEANO",
+      "granted_at": "2025-07-07T15:44:40.263225",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 107657180094663,
+      "asset_name": "DJ_LUIS-2025-efuresida",
+      "granted_at": "2025-07-07T15:44:41.504868",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 102947243260733,
+      "asset_name": "DJ_LUIS-2025-POR QUE SERA🎧🐎🐎",
+      "granted_at": "2025-07-07T15:44:42.755771",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 81874407116742,
+      "asset_name": "DJ_LUIS-2025-DIFERENTE",
+      "granted_at": "2025-07-07T15:44:44.011711",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 123037814634905,
+      "asset_name": "DJ_LUIS-2025-EL O ELLA",
+      "granted_at": "2025-07-07T15:44:45.265561",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 76926718728153,
+      "asset_name": "feliz cumple pao",
+      "granted_at": "2025-07-07T15:44:46.493237",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 78568381982270,
+      "asset_name": "DJ_LUIS-2025-afro-cumpleanos",
+      "granted_at": "2025-07-07T15:44:47.743950",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 127365690501049,
+      "asset_name": "DJ_LUIS-2025-Vallenato-Cumpleano",
+      "granted_at": "2025-07-07T15:44:49.003369",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 106650327792067,
+      "asset_name": "DJ_LUIS-2025-reggeton-cumpleanos",
+      "granted_at": "2025-07-07T15:44:50.267496",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 102052475769438,
+      "asset_name": "DJ_LUIS-2025-hello-kitty-rimex",
+      "granted_at": "2025-07-07T15:44:51.527137",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 128807447531079,
+      "asset_name": "DJ_LUIS-2025-lachorra-ft-elcoco",
+      "granted_at": "2025-07-07T15:44:52.781324",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 92169801505575,
+      "asset_name": "DJ_LUIS-2025-rimex-tralalero",
+      "granted_at": "2025-07-07T15:44:54.037427",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 79336478452536,
+      "asset_name": "DJ_LUIS-2025-tung-sahur-ft-tralalero",
+      "granted_at": "2025-07-07T15:44:55.253307",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 78824575929679,
+      "asset_name": "DJ_LUIS-2025-chris-browm",
+      "granted_at": "2025-07-07T15:44:56.504796",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 96587784663610,
+      "asset_name": "DJ_LUIS-2025-🎶deja🎶",
+      "granted_at": "2025-07-07T15:44:57.736360",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 93333784470225,
+      "asset_name": "DJ_LUIS-2025-CAN'T STOP",
+      "granted_at": "2025-07-07T15:44:58.995244",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 136318787625724,
+      "asset_name": "“Can’t Stop” DJ LUIS🎧",
+      "granted_at": "2025-07-07T15:45:00.244247",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 123224373863375,
+      "asset_name": "🎧Lose Control_ version DJ LUIS (2)",
+      "granted_at": "2025-07-07T15:45:01.488254",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 126326721101488,
+      "asset_name": "🎧Lose Control_ version DJ LUIS (1)",
+      "granted_at": "2025-07-07T15:45:02.741045",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 132097602327740,
+      "asset_name": "🎧Lose Control_ version DJ LUIS",
+      "granted_at": "2025-07-07T15:45:04.009875",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 95837349277505,
+      "asset_name": "DJ_LUIS-2025-rimexindio-afro",
+      "granted_at": "2025-07-07T15:45:05.245221",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 77715228601097,
+      "asset_name": "DJ_LUIS-2025-beat-dur2ftbiyonce",
+      "granted_at": "2025-07-07T15:45:06.625210",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 116075679504155,
+      "asset_name": "DJ_LUIS-2025-afrobrossrimes-b0d4",
+      "granted_at": "2025-07-07T15:45:07.881415",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 83871719646474,
+      "asset_name": "DJ_LUIS-2025-SOCARIMEX",
+      "granted_at": "2025-07-07T15:45:09.179228",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 73731661905635,
+      "asset_name": "DJ_LUIS-2025-RIMEX🔊🔉🔈brasil",
+      "granted_at": "2025-07-07T15:45:10.423756",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 91942337242753,
+      "asset_name": "DJ_LUIS-2025-SOCAREMIX1",
+      "granted_at": "2025-07-07T15:45:11.705223",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 74137797279848,
+      "asset_name": "DJ_LUIS-2025-BUSY-RIMEX",
+      "granted_at": "2025-07-07T15:45:12.946594",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 120713686154789,
+      "asset_name": "DJ_LUIS-2025-LI-ELECTRONICA-ARABE",
+      "granted_at": "2025-07-07T15:45:14.196050",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 130848097749008,
+      "asset_name": "DJ_LUIS-2025-MESCLAS DEL ALMA",
+      "granted_at": "2025-07-07T15:45:15.447337",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 73858247241906,
+      "asset_name": "_DJ LUIS _CLUB The Vybbora_ 🎵2",
+      "granted_at": "2025-07-07T15:45:16.785755",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 110187518103123,
+      "asset_name": "DJ_LUIS-CLUB The Vybbora_ 🎵",
+      "granted_at": "2025-07-07T15:45:18.032566",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 118319487753464,
+      "asset_name": "_DJ LUIS _CLUB The Vybbora_ 🎵",
+      "granted_at": "2025-07-07T15:45:19.284164",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 110045486005184,
+      "asset_name": "As Braba do Vybbora bombis e pandora",
+      "granted_at": "2025-07-07T15:45:20.585198",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 122393683747837,
+      "asset_name": "Amistad en The Vybbora bombis e pandora",
+      "granted_at": "2025-07-07T15:45:21.824990",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 70854701462559,
+      "asset_name": "Amistad en The Vybbora",
+      "granted_at": "2025-07-07T15:45:23.085940",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 93498707019950,
+      "asset_name": "CLUB The Vybbora_ 🎵-DJ_LUIS",
+      "granted_at": "2025-07-07T15:45:24.325650",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 92268752641093,
+      "asset_name": "DJ_LUIS-2025-rimesamistade",
+      "granted_at": "2025-07-07T15:45:25.604345",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 121104019700338,
+      "asset_name": "DJ_LUIS-2025-afro-rimexlambada",
+      "granted_at": "2025-07-07T15:45:26.846530",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 89666430317203,
+      "asset_name": "DJ_LUIS-2025-amistadrimex",
+      "granted_at": "2025-07-07T15:45:28.141063",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 75230701177732,
+      "asset_name": "DJ_LUIS-2025-electro-pose-rimex",
+      "granted_at": "2025-07-07T15:45:29.389419",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 122304163502729,
+      "asset_name": "2025-DJ_LUIS- version-bring-me-To-LiFEE",
+      "granted_at": "2025-07-07T15:45:30.641774",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 122156968163740,
+      "asset_name": "2025-DJ_LUIS-HCA-LA-DRANGON-BALL-ZVERSIONES",
+      "granted_at": "2025-07-07T15:45:31.888149",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 136486696208000,
+      "asset_name": "🎧 DJ LUIS - RESPETO Y EVOLUCIÓN 2 🔥",
+      "granted_at": "2025-07-07T15:45:33.128844",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 95530936770497,
+      "asset_name": "🎧 DJ LUIS - RESPETO Y EVOLUCIÓN 🔥",
+      "granted_at": "2025-07-07T15:45:34.387075",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 113472491604349,
+      "asset_name": "🎧 DJ LUIS - LOS VENDIDOS NO SUENAN 🔥",
+      "granted_at": "2025-07-07T15:45:35.639251",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 101519464317091,
+      "asset_name": "🎤 DJ LUIS PARA MIS HIJOS - POR USTEDES VIVO 2🎧",
+      "granted_at": "2025-07-07T15:45:36.889046",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 73329827954146,
+      "asset_name": "🎤 DJ LUIS PARA MIS HIJOS - POR USTEDES VIVO 🎧",
+      "granted_at": "2025-07-07T15:45:38.276565",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 129927589351188,
+      "asset_name": "🎤 DJ LUIS - EL MAESTRO DE LAS MEZCLAS 2 🎧",
+      "granted_at": "2025-07-07T15:45:39.510258",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 95097282393311,
+      "asset_name": "🎤 DJ LUIS - EL MAESTRO DE LAS MEZCLAS 🎧",
+      "granted_at": "2025-07-07T15:45:40.753273",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 119334374914289,
+      "asset_name": "🌍 Fiesta Global 2 (DJ Luis Mix)_ 🌍 ",
+      "granted_at": "2025-07-07T15:45:42.030711",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 123167160561890,
+      "asset_name": "🌍 Fiesta Global (DJ Luis Mix)_ 🌍",
+      "granted_at": "2025-07-07T15:45:43.278936",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 96032254436404,
+      "asset_name": "DJ_LUIS Maestro Beat",
+      "granted_at": "2025-07-07T15:45:44.560740",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 75536337405528,
+      "asset_name": "DJ_LUIS Ritmo Total",
+      "granted_at": "2025-07-07T15:45:45.804805",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 115326048450888,
+      "asset_name": "DJ LUIS VITAMINA REMIX",
+      "granted_at": "2025-07-07T15:45:47.065294",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 119200936151486,
+      "asset_name": "_Madre, Volvamos a Jesús_ Autor_ DJ Luis (1)",
+      "granted_at": "2025-07-07T15:45:48.327286",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 105755297871982,
+      "asset_name": "_Madre, Volvamos a Jesús_ Autor_ DJ Luis",
+      "granted_at": "2025-07-07T15:45:49.593588",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 85466357921547,
+      "asset_name": "_Lilibeth, Eres Mi Bendición_ Autor_ DJ Luis",
+      "granted_at": "2025-07-07T15:45:50.834892",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 103673907549125,
+      "asset_name": "DJ LUIS AGRADECIMIENTO Y EVOLUCION",
+      "granted_at": "2025-07-07T15:45:52.068973",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 106219670546906,
+      "asset_name": "2025-DJ_LUIS-vaile- inolvdaBle-RIMEX",
+      "granted_at": "2025-07-07T15:45:53.306358",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 81999993674627,
+      "asset_name": "2025-DJ_LUIS-BEST-DAY-&-CHIHIRO",
+      "granted_at": "2025-07-07T15:45:54.553254",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 128146880278582,
+      "asset_name": "2025-DJ_LUIS-ELLA-ES-INNSANA",
+      "granted_at": "2025-07-07T15:45:55.867844",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 135465669300855,
+      "asset_name": "2025-DJ_LUIS-PAQUE-LO-BAILES",
+      "granted_at": "2025-07-07T15:45:57.110822",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 118168613192889,
+      "asset_name": "2025-DJ_LUIS-smoke-&-greenlight",
+      "granted_at": "2025-07-07T15:45:58.376381",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 130171445578648,
+      "asset_name": "2025-DJ_LUIS-DE-GUIRIA-YO-SOY",
+      "granted_at": "2025-07-07T15:45:59.625417",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 131784681897017,
+      "asset_name": "DJ_LUIS-ft-DJ_SAMUEL-LONUEVO-2025-MTGRIMEX1",
+      "granted_at": "2025-07-07T15:46:00.876919",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 119255630493746,
+      "asset_name": "DJ_LUIS-ft-DJ_SAMUEL-LONUEVO-2025-MTGRIMEX",
+      "granted_at": "2025-07-07T15:46:02.205222",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 102338244067310,
+      "asset_name": "DJ_LUIS-ft-DJ_SAMUEL-LONUEVO-2025-FUNCK",
+      "granted_at": "2025-07-07T15:46:03.449258",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 138588785267195,
+      "asset_name": "DJ_LUIS-ft-DJ_SAMUEL-LONUEVO-2025-ropnrolla&duivel",
+      "granted_at": "2025-07-07T15:46:04.711822",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 126726184476981,
+      "asset_name": "DJ_LUIS-ft-DJ_SAMUEL-LONUEVO-2025-prophetkikk",
+      "granted_at": "2025-07-07T15:46:05.951457",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 73740924122441,
+      "asset_name": "DJ_LUIS-ft-DJ_SAMUEL-LONUEVO-2025-BANDOLERO&EYYA",
+      "granted_at": "2025-07-07T15:46:07.198742",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 126138997547242,
+      "asset_name": "DJ_LUIS-&-DJ_SAMUEL-LONUEVO-2025INCOGNITO-HIPNOSIS",
+      "granted_at": "2025-07-07T15:46:08.453678",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 94727356197986,
+      "asset_name": "DJ_LUIS-ft-DJ_SAMUEL-LONUEVO-2025-WARFACERIMEX",
+      "granted_at": "2025-07-07T15:46:09.842114",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 74142673490601,
+      "asset_name": "DJ_LUIS-ft-DJ_SAMUEL-LONUEVO-2025-AFRO-MADAME-OGUN",
+      "granted_at": "2025-07-07T15:46:11.118377",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 133343908010809,
+      "asset_name": "DJ_LUIS-ft-DJ_SAMUEL-LONUEVO-2025-NO-LIMITSRIMEX",
+      "granted_at": "2025-07-07T15:46:12.375100",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 105743179183745,
+      "asset_name": "DJ_LUIS-ft-DJ_SAMUEL-LONUEVO-2025-AFERRA2&1🎧",
+      "granted_at": "2025-07-07T15:46:13.623585",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 134615473571309,
+      "asset_name": "DJ_SAMUEL-LONUEVO-2025-RITMOLATINOftTAMBORSANJUAN",
+      "granted_at": "2025-07-07T15:46:14.868651",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 114071214272151,
+      "asset_name": "DJ_SAMUEL-LONUEVO-2025-RAN-D-REMIX",
+      "granted_at": "2025-07-07T15:46:16.104029",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 95777890789910,
+      "asset_name": "DJ_SAMUEL-LONUEVO-2025-AMERICAREMIX",
+      "granted_at": "2025-07-07T15:46:17.339743",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 104059738360998,
+      "asset_name": "DJ_SAMUEL-LONUEVO-2025-D-FRANCE-RIMEX",
+      "granted_at": "2025-07-07T15:46:18.580200",
+      "status": "already_had_permission"
+    },
+    {
+      "asset_id": 81143342800645,
+      "asset_name": "DJ_SAMUEL-LONUEVO-2025-louis-dimefttranquilo",
+      "granted_at": "2025-07-07T15:46:20.036651",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105974379610094,
+      "asset_name": "DJ_SAMUEL-LONUEVO-2025-cafe-con-pan-y-sorajate",
+      "granted_at": "2025-07-07T15:46:21.505041",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90932558232379,
+      "asset_name": "DJ_SAMUEL-LONUEVO-2025-dia-de-defuntos",
+      "granted_at": "2025-07-07T15:46:22.971998",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117442235092637,
+      "asset_name": "DJ_SAMUEL-LONUEVO-2025-FxMARATO3",
+      "granted_at": "2025-07-07T15:46:24.423513",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99490136112755,
+      "asset_name": "DJ_SAMUEL-LONUEVO-2025-FxMARATO2",
+      "granted_at": "2025-07-07T15:46:25.879015",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136067024066458,
+      "asset_name": "DJ_SAMUEL-LONUEVO-2025-FxMARATO1",
+      "granted_at": "2025-07-07T15:46:27.318797",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128431199722958,
+      "asset_name": "DJ_SAMUEL-LONUEVO-2025-D-BLOKRIMEX",
+      "granted_at": "2025-07-07T15:46:28.808010",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111103127660729,
+      "asset_name": "DJ_LUIS-ft-DJ_SAMUEL-LONUEVO-2025-electro",
+      "granted_at": "2025-07-07T15:46:30.274983",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139315461576503,
+      "asset_name": "DJ_SAMUEL-LONUEVO-2025-Aleteorimex2",
+      "granted_at": "2025-07-07T15:46:31.734406",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111938362077713,
+      "asset_name": "DJ_SAMUEL-LONUEVO-2025-Aleteorimex1",
+      "granted_at": "2025-07-07T15:46:33.182929",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129032155575280,
+      "asset_name": "DJ_SAMUEL-LONUEVO-2025-Aleteorimex",
+      "granted_at": "2025-07-07T15:46:34.637210",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107922449726376,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-GOTEO&AFRODISIAKO",
+      "granted_at": "2025-07-07T15:46:36.141083",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109425704173571,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-NAHAJ&PROFECIA",
+      "granted_at": "2025-07-07T15:46:37.634837",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86923751907873,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-ELECTRONIKHAUSE",
+      "granted_at": "2025-07-07T15:46:39.121077",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112204692109583,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-quimico&sueno-afrikano",
+      "granted_at": "2025-07-07T15:46:40.645588",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77296872347394,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-PENNYWISE&ROLLING-PAPER",
+      "granted_at": "2025-07-07T15:46:42.137835",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98334206453181,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-TNT&TWEENKA",
+      "granted_at": "2025-07-07T15:46:43.612457",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91749307556271,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-RIMEXSOCOLD&T'EMMENE",
+      "granted_at": "2025-07-07T15:46:45.244756",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73225679267402,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-funks",
+      "granted_at": "2025-07-07T15:46:46.753265",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112788327591025,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-RESET&SNAPDANCER",
+      "granted_at": "2025-07-07T15:46:48.334949",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121487583353606,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-INSIDE&BLABLA",
+      "granted_at": "2025-07-07T15:46:49.879358",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122677906743531,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-DIS(OTEK&HOAX",
+      "granted_at": "2025-07-07T15:46:51.359966",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130889218837173,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-MERENGASO-SND-Y-PAP0",
+      "granted_at": "2025-07-07T15:46:52.840186",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130149759835282,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025- CARRANGA",
+      "granted_at": "2025-07-07T15:46:54.327243",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107667938864218,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025- ASIATICTECGN",
+      "granted_at": "2025-07-07T15:46:55.809941",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133452648158129,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-TECNOITALIANO",
+      "granted_at": "2025-07-07T15:46:57.278081",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91325570531933,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-TOPJUMPSTIL",
+      "granted_at": "2025-07-07T15:46:58.755352",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112838978962207,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-MERENGUERONANTIGUO10",
+      "granted_at": "2025-07-07T15:47:00.214511",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111786625780581,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-MERENGUERONANTIGUO09",
+      "granted_at": "2025-07-07T15:47:01.714617",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105012700562716,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-MERENGUERONANTIGUO08",
+      "granted_at": "2025-07-07T15:47:03.178125",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136570953308790,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-MERENGUERONANTIGUO07",
+      "granted_at": "2025-07-07T15:47:04.692492",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127751144533912,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-MERENGUERONANTIGUO06",
+      "granted_at": "2025-07-07T15:47:06.203851",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 140703736994517,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-MERENGUERONANTIGUO05",
+      "granted_at": "2025-07-07T15:47:07.703139",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120099921078616,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-MERENGUERONANTIGUO04",
+      "granted_at": "2025-07-07T15:47:09.189492",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 89379099041240,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-MERENGUERONANTIGUO03",
+      "granted_at": "2025-07-07T15:47:10.671371",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86322781591231,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-MERENGUERONANTIGUO02",
+      "granted_at": "2025-07-07T15:47:12.151192",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93187956060598,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-MERENGUERONANTIGUO01",
+      "granted_at": "2025-07-07T15:47:13.621311",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80702053251888,
+      "asset_name": "DJ_LUIS-LONUEVODEL2025-MERENGUERONANTIGUO",
+      "granted_at": "2025-07-07T15:47:15.095233",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121181719846688,
+      "asset_name": "MIX🎧noes🎧mi🎧ploblemo🎧🥇DJ_LUIS",
+      "granted_at": "2025-07-07T15:47:16.692334",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135563262538080,
+      "asset_name": "MIX🚗🥇🔈🔉🔊🎶🎧criollos🎺🎸🎷hause🎧🥇DJ_LUIS",
+      "granted_at": "2025-07-07T15:47:18.240380",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82745534852232,
+      "asset_name": "MIX🚂🚂trenecitu🚂🚂🕺DJ_LUIS",
+      "granted_at": "2025-07-07T15:47:19.725655",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91899612348990,
+      "asset_name": "MIX🎶electronk🎶🎶navidena03🎶DJ_LUIS🎶",
+      "granted_at": "2025-07-07T15:47:21.205012",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122827055947585,
+      "asset_name": "MIX🎶electronk🎶🎶navidena02🎶DJ_LUIS🎶",
+      "granted_at": "2025-07-07T15:47:22.827970",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122427749432154,
+      "asset_name": "MIX🎶electronk🎶🎶navidena🎶DJ_LUIS🎶",
+      "granted_at": "2025-07-07T15:47:24.294373",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90117511152230,
+      "asset_name": "MIX🎶elnuevo🎶elect🎶sonando 2🎶DJ_LUIS",
+      "granted_at": "2025-07-07T15:47:25.787739",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87993232311962,
+      "asset_name": "MIX-tribalote01-Dj_luis🎶",
+      "granted_at": "2025-07-07T15:47:27.270922",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131578947310300,
+      "asset_name": "MIX-tribalote02-Dj_luis",
+      "granted_at": "2025-07-07T15:47:28.782704",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80722968899584,
+      "asset_name": "MIX-MEZCLAS-BAIBLES03-DJ_LUIS",
+      "granted_at": "2025-07-07T15:47:30.290395",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127889412872893,
+      "asset_name": "MIX-MEZCLAS-BAIBLES02-DJ_LUIS",
+      "granted_at": "2025-07-07T15:47:31.763427",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110865294919209,
+      "asset_name": "MIX-MEZCLAS-BAIBLES01-DJ_LUIS",
+      "granted_at": "2025-07-07T15:47:33.242630",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125474181764575,
+      "asset_name": "mix-MEZCLA- AFROMIX-05 DJLUIS",
+      "granted_at": "2025-07-07T15:47:34.747262",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119035071715318,
+      "asset_name": "MIX-TECNOGURACHOZO02-DJ_LUIS",
+      "granted_at": "2025-07-07T15:47:36.218047",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119904434847060,
+      "asset_name": "MIX-TECNOGURACHOZO01-DJ_LUIS",
+      "granted_at": "2025-07-07T15:47:37.693697",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86871202608551,
+      "asset_name": "mix-FUNK-REMIX-(05)-DJ_LUIS",
+      "granted_at": "2025-07-07T15:47:39.214799",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132691780155639,
+      "asset_name": "mix-MEZCLA- AFROMIX-05 DJLUIS",
+      "granted_at": "2025-07-07T15:47:40.724080",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111765319600532,
+      "asset_name": "mix-MEZCLA- AFROMIX-04 DJLUIS",
+      "granted_at": "2025-07-07T15:47:42.195658",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97847838085211,
+      "asset_name": "PRESENTACION-PARA-EVENTOS-DJ_LUIS",
+      "granted_at": "2025-07-07T15:47:43.669466",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139756343976469,
+      "asset_name": "MIX-TECNOMETAL02-DJ_LUIS",
+      "granted_at": "2025-07-07T15:47:45.140268",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74945188940467,
+      "asset_name": "MIX-TECNOMETAL03-DJ_LUIS",
+      "granted_at": "2025-07-07T15:47:46.623314",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73555041268953,
+      "asset_name": "MIX-TECNOMETAL.01-DJ_LUIS",
+      "granted_at": "2025-07-07T15:47:48.129217",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 89339942657582,
+      "asset_name": "mix-tecnometal-DJ_LUIS",
+      "granted_at": "2025-07-07T15:47:49.610260",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105821705677455,
+      "asset_name": "amix-MEZCLA- AFROMIXsuave-03 DJLUIS",
+      "granted_at": "2025-07-07T15:47:51.077862",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127304223142235,
+      "asset_name": "mix-MEZCLA- AFROMIX02 DJLUIS",
+      "granted_at": "2025-07-07T15:47:52.550811",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129068188952280,
+      "asset_name": "mix-MEZCLA- AFROMIX01 DJLUIS",
+      "granted_at": "2025-07-07T15:47:54.017319",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116682878599531,
+      "asset_name": "dj_luis- cumpleanos",
+      "granted_at": "2025-07-07T15:47:55.442203",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119066405921633,
+      "asset_name": "remix-CUMBIA-DJ_LUIS-(03)",
+      "granted_at": "2025-07-07T15:47:56.897595",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115461938940559,
+      "asset_name": "mix-reggetont-vercion06-DJ_LUIS",
+      "granted_at": "2025-07-07T15:47:58.383068",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104101120135358,
+      "asset_name": "mix-house-extremo-dj_luis(6)",
+      "granted_at": "2025-07-07T15:47:59.967638",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92733396274115,
+      "asset_name": "mix-reggetont-vercion05-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:01.479259",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124281485537492,
+      "asset_name": "remix-CUMBIA-DJ_LUIS-(02)",
+      "granted_at": "2025-07-07T15:48:02.941435",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90835979456814,
+      "asset_name": "mix-reggetont-vercion04-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:04.397419",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98784334261837,
+      "asset_name": "mix-EN-VERSION-SLS04-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:05.859141",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 89177918054959,
+      "asset_name": "mix-EN-VERSION-SLS03-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:07.326788",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131895478418610,
+      "asset_name": "mix-lonuevo denbow-sonando-01-Dj_luis",
+      "granted_at": "2025-07-07T15:48:08.820729",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128798108048501,
+      "asset_name": "maggee_couret-metalrochk(05)-dj_luis",
+      "granted_at": "2025-07-07T15:48:10.273670",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131237481262254,
+      "asset_name": "mix-reggetont-vercion03-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:11.734414",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98393036013092,
+      "asset_name": "maggee_couret-metalrochk(04)-dj_luis",
+      "granted_at": "2025-07-07T15:48:13.239932",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88136036886681,
+      "asset_name": "mix-EN-VERSION-SLS02-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:14.677273",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119541623552318,
+      "asset_name": "mix-EN-VERSION-SLS01-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:16.159963",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71601929606646,
+      "asset_name": "mix-reggetont-vercion01-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:17.644371",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125936377661118,
+      "asset_name": "mix-DJ_LUIS'hiphopnuevo",
+      "granted_at": "2025-07-07T15:48:19.083817",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131464870524115,
+      "asset_name": "mix-MUSICA-DE -DJ_LUIS-PARA-LA-PLAYA",
+      "granted_at": "2025-07-07T15:48:20.539698",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 89189364002400,
+      "asset_name": "riggue-para-dj_luis",
+      "granted_at": "2025-07-07T15:48:21.975010",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18868114327,
+      "asset_name": "MIX-OMEGA-CHAPATRA-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:23.516107",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18867657621,
+      "asset_name": "MIX-TECH-HOUSE-REMIX-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:25.011075",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18867572127,
+      "asset_name": "MIX-BAIBLES-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:26.464827",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18867309057,
+      "asset_name": "MIXMANBO-PERO-BEBEAGUA-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:27.907309",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18867188668,
+      "asset_name": "MIXMANBO-PERO-BEBEAGUA-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:29.343487",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18865506234,
+      "asset_name": "MIX-TRAP-INGLES02-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:30.778024",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18865375620,
+      "asset_name": "MIX-TRAP-INGLES01-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:32.208223",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18865207593,
+      "asset_name": "MIX-TRAP-INGLES-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:33.690071",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18835177816,
+      "asset_name": "mix-tambor-venezolano-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:35.171908",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18671071019,
+      "asset_name": "mix-african-version01-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:36.780312",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18668131973,
+      "asset_name": "mix-reggetont-vercion02-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:38.224226",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18667503446,
+      "asset_name": "mix-reggetont-vercion-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:39.691846",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18655800579,
+      "asset_name": "mix-african-version-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:41.130893",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18655594881,
+      "asset_name": "mix-repique-venzlano-vercion-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:42.578646",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18472501344,
+      "asset_name": "mixfeo-feoversion-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:44.010179",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18471858498,
+      "asset_name": "mix-rey-yulianremix_DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:45.450904",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18470980962,
+      "asset_name": "mix-quintero-version-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:46.909279",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18470549220,
+      "asset_name": "mix-electro-vrcion-spanol-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:48.373233",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18400159880,
+      "asset_name": "mix-house-extremo-dj_luis(5)",
+      "granted_at": "2025-07-07T15:48:49.834620",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18399969865,
+      "asset_name": "mix-house-extremo-dj_luis(4)",
+      "granted_at": "2025-07-07T15:48:51.332552",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18398200424,
+      "asset_name": "mix-FUNK-REMIX-(04)-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:52.833143",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18338057238,
+      "asset_name": "remixbeats-ksa-d-papl-DJ_LUIS (2)",
+      "granted_at": "2025-07-07T15:48:54.267666",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18212099390,
+      "asset_name": "mix-cover-Ro$a-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:55.708449",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18212092113,
+      "asset_name": "mix-cover-Ro$a-DJ_LUIS",
+      "granted_at": "2025-07-07T15:48:57.197862",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18201178836,
+      "asset_name": "remix-CUMBIAprocura-DJ_LUIS-(01)",
+      "granted_at": "2025-07-07T15:48:58.662538",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18200963786,
+      "asset_name": "mix-FUNK-REMIX-(03)-DJ_LUIS",
+      "granted_at": "2025-07-07T15:49:00.194424",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18200833466,
+      "asset_name": "mix-FUNK-REMIX-(02)-DJ_LUIS",
+      "granted_at": "2025-07-07T15:49:01.648021",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18200409329,
+      "asset_name": "mix-tingui-DJ_LUIS",
+      "granted_at": "2025-07-07T15:49:03.121436",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18127880915,
+      "asset_name": "mix-DJLUIS",
+      "granted_at": "2025-07-07T15:49:04.603002",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18126167370,
+      "asset_name": "mix-gogos_DJ_LUIS (1)",
+      "granted_at": "2025-07-07T15:49:06.088326",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18126114000,
+      "asset_name": "gogos_DJ_LUIS",
+      "granted_at": "2025-07-07T15:49:07.561456",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17893885659,
+      "asset_name": "himno del clan_LDA 2",
+      "granted_at": "2025-07-07T15:49:09.007521",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17893863871,
+      "asset_name": "himno del clam_LDA1",
+      "granted_at": "2025-07-07T15:49:10.453094",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17878898999,
+      "asset_name": "mix-house-extremo-dj_luis(3)",
+      "granted_at": "2025-07-07T15:49:11.909132",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17878511373,
+      "asset_name": "mix-house-extremo-dj_luis(2)",
+      "granted_at": "2025-07-07T15:49:13.552200",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17878343066,
+      "asset_name": "mix-house-extremo-dj_luis(1)",
+      "granted_at": "2025-07-07T15:49:14.990631",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17877520392,
+      "asset_name": "mix-fen-du-seimanu-DJ_LUIS",
+      "granted_at": "2025-07-07T15:49:16.457974",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17877290770,
+      "asset_name": "mix-no-danço-to-gua4a-dj_luis",
+      "granted_at": "2025-07-07T15:49:17.907666",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17823559349,
+      "asset_name": "mix´semos-la trriboo-DJ_LUIS",
+      "granted_at": "2025-07-07T15:49:19.354205",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17823450618,
+      "asset_name": "mix-mix-thielor-dj_luis",
+      "granted_at": "2025-07-07T15:49:20.878283",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17822573842,
+      "asset_name": "mix--mix-dj_luis-adhenle-01-DJ_LUIS",
+      "granted_at": "2025-07-07T15:49:22.336722",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17335352603,
+      "asset_name": "mix-dj_luis-algo-totalmente-diferente",
+      "granted_at": "2025-07-07T15:49:23.796449",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17309803396,
+      "asset_name": "mix-comedia-(001)-dj_luis",
+      "granted_at": "2025-07-07T15:49:25.284314",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17291704246,
+      "asset_name": "mix-huszi-toxite-dj_luis",
+      "granted_at": "2025-07-07T15:49:26.712490",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17291484452,
+      "asset_name": "mix-para escucha a peticion-dj_luis",
+      "granted_at": "2025-07-07T15:49:28.151830",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17285920148,
+      "asset_name": "mix-house-extremo-dj_luis",
+      "granted_at": "2025-07-07T15:49:29.608078",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17285731092,
+      "asset_name": "mix-mimi-dj_luis",
+      "granted_at": "2025-07-07T15:49:31.069447",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17275776369,
+      "asset_name": "mix-metalrochk(03)-dj_luis",
+      "granted_at": "2025-07-07T15:49:32.548032",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17275485342,
+      "asset_name": "mix-metalrochk(02)-dj_luis",
+      "granted_at": "2025-07-07T15:49:33.999234",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17273339997,
+      "asset_name": "mix-dj_luis-84tacha",
+      "granted_at": "2025-07-07T15:49:35.446104",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17190794136,
+      "asset_name": "mix-equivocastheis-dj_luis",
+      "granted_at": "2025-07-07T15:49:36.926420",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17190658435,
+      "asset_name": "mix-dj_luis-adhenle",
+      "granted_at": "2025-07-07T15:49:38.370879",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17188012539,
+      "asset_name": "mix-metalrochk(01)-dj_luis",
+      "granted_at": "2025-07-07T15:49:39.823555",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17186289439,
+      "asset_name": "mix-infractor-dj_luis",
+      "granted_at": "2025-07-07T15:49:41.271716",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17156957266,
+      "asset_name": "mix-partido-en-2-version-dj_luis",
+      "granted_at": "2025-07-07T15:49:42.729563",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17156586612,
+      "asset_name": "mix-lonuevo denbow-sonando-Dj_luis",
+      "granted_at": "2025-07-07T15:49:44.282701",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17117333286,
+      "asset_name": "mixtribalote-Dj_luis",
+      "granted_at": "2025-07-07T15:49:45.732675",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17102285384,
+      "asset_name": "mix-songs-Dj_luis",
+      "granted_at": "2025-07-07T15:49:47.185520",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17101932248,
+      "asset_name": "mix-distro(01)-Dj_luis",
+      "granted_at": "2025-07-07T15:49:48.639071",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17100835992,
+      "asset_name": "mix-distro-Dj_luis",
+      "granted_at": "2025-07-07T15:49:50.258493",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17100628966,
+      "asset_name": "mix-Dj_luis-dan-kidd(05)",
+      "granted_at": "2025-07-07T15:49:51.855138",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17100536166,
+      "asset_name": "mix-Dj_luis-dan-kidd(04)",
+      "granted_at": "2025-07-07T15:49:53.322191",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17100335862,
+      "asset_name": "Dj_luis-dan-kidd(02)",
+      "granted_at": "2025-07-07T15:49:54.803462",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17100189876,
+      "asset_name": "Dj_luis-dan_kidd(01)",
+      "granted_at": "2025-07-07T15:49:56.255364",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17089866966,
+      "asset_name": "mix-elnuevoelect-sonando 1-DJ_LUIS",
+      "granted_at": "2025-07-07T15:49:57.685274",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17050774515,
+      "asset_name": "mix-electrohause(03)-DJ_LUIS",
+      "granted_at": "2025-07-07T15:49:59.118941",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17050452985,
+      "asset_name": "mix-electro(01)-DJ_LUIS",
+      "granted_at": "2025-07-07T15:50:00.601713",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17050005136,
+      "asset_name": "mix-tawerx-DJ_LUIS",
+      "granted_at": "2025-07-07T15:50:02.062139",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17006432695,
+      "asset_name": "mi-VERCION_fan-BRS-RIIMEEX-DJ_LUID",
+      "granted_at": "2025-07-07T15:50:03.507617",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17006207668,
+      "asset_name": "mix-mais -unrimexbrasiUL-DJ_LUIS",
+      "granted_at": "2025-07-07T15:50:04.963560",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17006111139,
+      "asset_name": "mix-BRASILFANKrimex-version-DJ_LUIS",
+      "granted_at": "2025-07-07T15:50:06.410018",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17005851442,
+      "asset_name": "mix-EN-VERSION-SLS-DJ_LUIS",
+      "granted_at": "2025-07-07T15:50:07.868345",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16991339716,
+      "asset_name": "mix-FUNK-REMIX-DJ_LUID",
+      "granted_at": "2025-07-07T15:50:09.351339",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16987336096,
+      "asset_name": "mix-del8-electroremix-dj_luis",
+      "granted_at": "2025-07-07T15:50:10.785181",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16987030430,
+      "asset_name": "mix-comedia(3)mexicana",
+      "granted_at": "2025-07-07T15:50:12.315377",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16986800684,
+      "asset_name": "mix-electroballz-dj_luis",
+      "granted_at": "2025-07-07T15:50:13.782181",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16986592083,
+      "asset_name": "mix-comedia(2)dembow",
+      "granted_at": "2025-07-07T15:50:15.226133",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16985922898,
+      "asset_name": "mix mariotechn(1)-version-DJ_LUIS",
+      "granted_at": "2025-07-07T15:50:16.703140",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16985796757,
+      "asset_name": "mix dj_luis vercion-mariotechn",
+      "granted_at": "2025-07-07T15:50:18.151831",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16985458844,
+      "asset_name": "mix-bens bens ####################",
+      "granted_at": "2025-07-07T15:50:19.607326",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16979229652,
+      "asset_name": "mix DEMBOW 01DJ_LUIS",
+      "granted_at": "2025-07-07T15:50:21.271858",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16978853641,
+      "asset_name": "mix comedia",
+      "granted_at": "2025-07-07T15:50:22.826810",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16944130784,
+      "asset_name": "mix SILENCE OF",
+      "granted_at": "2025-07-07T15:50:24.266540",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16862445906,
+      "asset_name": "BTS LUIS DJ MIX",
+      "granted_at": "2025-07-07T15:50:25.734848",
+      "status": "newly_granted"
+    }
+  ]
+}
