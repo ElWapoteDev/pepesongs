@@ -1,0 +1,614 @@
+{
+  "timestamp": "2025-07-17T20:14:36.195065",
+  "operation_type": "bulk_audio",
+  "source_group": {
+    "id": 32660135,
+    "name": "Dj Davidx Music ID’s"
+  },
+  "target_group": {
+    "id": 33965578,
+    "name": "Two Chiquilines"
+  },
+  "permissions_granted": [
+    {
+      "asset_id": 108513959106079,
+      "asset_name": "La Noche de Anoche 🌙 - DJ Lima & DJ Davidx",
+      "granted_at": "2025-07-17T20:14:38.686386",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125632765447516,
+      "asset_name": "Me contagie AA 💙 - DJ Lima & ft Davidx",
+      "granted_at": "2025-07-17T20:14:39.596703",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127368425401911,
+      "asset_name": "Linda Mujer 🔥 - DJ Lima & ft Davidx",
+      "granted_at": "2025-07-17T20:14:40.423604",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106653466259086,
+      "asset_name": "Zawezo 33 - DJ Lima & ft Davidx",
+      "granted_at": "2025-07-17T20:14:41.234447",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91295946134835,
+      "asset_name": "Zawezo Trascendencia - DJ Lima & ft Davidx",
+      "granted_at": "2025-07-17T20:14:42.070610",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138545832320386,
+      "asset_name": "Dj Davidx ft Dj Angelisai - Indonesian Mix Vl1",
+      "granted_at": "2025-07-17T20:14:43.006714",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127021664108190,
+      "asset_name": "MIX BAD BUNNY DJ DORI FT DJ DAVIDX",
+      "granted_at": "2025-07-17T20:14:43.790026",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98835921875557,
+      "asset_name": "Mix W Sound - Ft Ovy On The Drums Ft David (Liz) ",
+      "granted_at": "2025-07-17T20:14:44.640179",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114533563606718,
+      "asset_name": "Mix P3RRE0 A Toda 2025 - Dj Davidx",
+      "granted_at": "2025-07-17T20:14:45.450171",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137671983227495,
+      "asset_name": "Mix Rauw Alejandro 2000s Years - Davidx Dj",
+      "granted_at": "2025-07-17T20:14:46.227512",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114144839419984,
+      "asset_name": "Mix Safari Party Vl5 - Dj Davidx ft Insano Remix",
+      "granted_at": "2025-07-17T20:14:46.998035",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106420053237194,
+      "asset_name": "Mix Safari Party Vl4 - Dj Davidx ft Insano Remix",
+      "granted_at": "2025-07-17T20:14:47.791393",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116993701084984,
+      "asset_name": "Mix Safari Party Vl3 - Dj Davidx ft Insano Remix",
+      "granted_at": "2025-07-17T20:14:48.554304",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125521023459172,
+      "asset_name": "Mix Safari Party Vl2 - Dj Davidx ft Insano Remix",
+      "granted_at": "2025-07-17T20:14:49.363183",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72920237941118,
+      "asset_name": "Mix Safari Party  VL1 - Dj Davidx ft Insano Remix",
+      "granted_at": "2025-07-17T20:14:50.122032",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74301539871878,
+      "asset_name": "ANDALE - AFRO MIX | DJ INSANO",
+      "granted_at": "2025-07-17T20:14:50.889542",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85307682459967,
+      "asset_name": "CALINDA - AFRO MIX | DJ INSANO",
+      "granted_at": "2025-07-17T20:14:51.690593",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116784181314560,
+      "asset_name": "ROSA QUE LINDA ERES - AFRO MIX | DJ INSANO",
+      "granted_at": "2025-07-17T20:14:52.455026",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125431001956139,
+      "asset_name": "AGUARDIENTE - AFRO MIX | DJ INSANO",
+      "granted_at": "2025-07-17T20:14:53.261935",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129227664055602,
+      "asset_name": "Mix Rauw Alejandro - Khe vs Cuki vs No Me Sueltes ",
+      "granted_at": "2025-07-17T20:14:54.090484",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93469719390340,
+      "asset_name": "Dj Davidx - Mix Latinas 💃 | PERREO | A Toda 💃 V2",
+      "granted_at": "2025-07-17T20:14:54.811736",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87106557905258,
+      "asset_name": "Dj Davidx - Mix Latinas 💃 | PERREO | A Toda 💃 Vl",
+      "granted_at": "2025-07-17T20:14:55.637434",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82065668483846,
+      "asset_name": "Ghostbusters Dj Davidx",
+      "granted_at": "2025-07-17T20:14:56.382050",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120530482713689,
+      "asset_name": "La cumbia de Alfredo - Dj Davidx",
+      "granted_at": "2025-07-17T20:14:57.177421",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79012066096422,
+      "asset_name": "Los Macías, Benito Doble P - Plebitos - Dj Davidx",
+      "granted_at": "2025-07-17T20:14:57.950318",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99329070348185,
+      "asset_name": "Pegando Fogo - Davidx (Insano Remix Prod)",
+      "granted_at": "2025-07-17T20:14:58.889708",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76561660013186,
+      "asset_name": " Deep Down Low - Davidx (Prod Insano Remix)",
+      "granted_at": "2025-07-17T20:14:59.694293",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84835024217274,
+      "asset_name": "Bellini - Samba de Amigo - Davidx (Prod Insano R)",
+      "granted_at": "2025-07-17T20:15:00.494972",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77424155416906,
+      "asset_name": "Haska - Madan Dj Davidx (Prod Insano Remix)",
+      "granted_at": "2025-07-17T20:15:01.289535",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118481715685543,
+      "asset_name": "Mix Aleteo Insano Vl1 - Dj Davidx",
+      "granted_at": "2025-07-17T20:15:02.099624",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114265629659333,
+      "asset_name": "Ahora te puedes marchar - Luis Miguel & Dj Davidx",
+      "granted_at": "2025-07-17T20:15:02.840281",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72869634636194,
+      "asset_name": "La camisa negra - Dj Davidx",
+      "granted_at": "2025-07-17T20:15:03.604797",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123049817991480,
+      "asset_name": "Es Un Secreto - Plan B & Dj Davidx",
+      "granted_at": "2025-07-17T20:15:04.420303",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139643400925229,
+      "asset_name": "Si no le contesto - plan b & Dj Davidx",
+      "granted_at": "2025-07-17T20:15:05.187131",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123666932601313,
+      "asset_name": "La Vecinita Plan b - Dj Davidx",
+      "granted_at": "2025-07-17T20:15:06.020393",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73180529169175,
+      "asset_name": "Dj Davidx - Besos Al Aire",
+      "granted_at": "2025-07-17T20:15:06.827985",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111583578113011,
+      "asset_name": "Besos Aire - Dj Davidx",
+      "granted_at": "2025-07-17T20:15:07.636456",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136772164298210,
+      "asset_name": "Dj Davidx - Mini Set 2024 Para bailarlo ✨",
+      "granted_at": "2025-07-17T20:15:08.400189",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126677166100874,
+      "asset_name": "Dj Davidx - Mix Regueton old shold vl1 🗣️",
+      "granted_at": "2025-07-17T20:15:09.149346",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 140473116694582,
+      "asset_name": "Tu con El 🕺 Franki Ruiz & Dj Davidx 🎙",
+      "granted_at": "2025-07-17T20:15:09.926244",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71211188560271,
+      "asset_name": "Sin Sentimientos 🕺 Grupo Niche & Dj Davidx 🎙",
+      "granted_at": "2025-07-17T20:15:10.753376",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71932984445872,
+      "asset_name": "Brujeria 🕺 El Combo De Puerto Rico & Dj Davidx 🎙",
+      "granted_at": "2025-07-17T20:15:11.570223",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86926726468542,
+      "asset_name": "Tiburon 💃 Proyecto Uno & Dj Davidx 🎙",
+      "granted_at": "2025-07-17T20:15:12.322571",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134996429152908,
+      "asset_name": "La Hora De Bailar 💃 Sandi Y Papo & Dj Davidx 🎙",
+      "granted_at": "2025-07-17T20:15:13.157862",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134193248687826,
+      "asset_name": "Another Night 💃 Proyecto Uno & Dj Davidx 🎙",
+      "granted_at": "2025-07-17T20:15:14.159346",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138352826417101,
+      "asset_name": "Afro Set Full Intenso Dj Davidx | Gozalo Ps!",
+      "granted_at": "2025-07-17T20:15:15.006418",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75997903549439,
+      "asset_name": "Full Latin Set Davidx 2024 | Gozalo Ps!",
+      "granted_at": "2025-07-17T20:15:15.855682",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119302745381264,
+      "asset_name": "Afro Set Davidx & Erick | Gozalo Ps!",
+      "granted_at": "2025-07-17T20:15:16.648111",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17139001691,
+      "asset_name": "Todos Tenemos Un ❤ La Moscas Tse Tse Ft Dj Davidx",
+      "granted_at": "2025-07-17T20:15:17.503470",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17138987928,
+      "asset_name": "SC-9 (El Cumbion De La Elsa) Dj Davidx 🔥",
+      "granted_at": "2025-07-17T20:15:18.353199",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17119102446,
+      "asset_name": "Dj Davidx Mix Fin De Semana De Parrando Vl3 🙌🏻",
+      "granted_at": "2025-07-17T20:15:19.410996",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17119081683,
+      "asset_name": "RITUAL AFRO HOUSE DJ DAVIDX",
+      "granted_at": "2025-07-17T20:15:20.249598",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17119075656,
+      "asset_name": "MIRAME AFRO HOUSE DJ DAVIDX",
+      "granted_at": "2025-07-17T20:15:21.086166",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17119030953,
+      "asset_name": "Esto Es Pa Ti Afro House Dj Davidx",
+      "granted_at": "2025-07-17T20:15:22.089426",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17119004080,
+      "asset_name": "Ese Soniditoo Afro House Dj Davidx",
+      "granted_at": "2025-07-17T20:15:22.941667",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16913683103,
+      "asset_name": "P.M.P ORIGINAL MIX LOS CASIQUES DJ DAVIDX 🥵🙌🏻",
+      "granted_at": "2025-07-17T20:15:23.752483",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16841299453,
+      "asset_name": "La Torta Veneco Tech Set - Dj Davidx",
+      "granted_at": "2025-07-17T20:15:24.602948",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16737190996,
+      "asset_name": "Dj Davidx Mix Fin De Semana De Parrando Vl2 🙌🏻",
+      "granted_at": "2025-07-17T20:15:25.431556",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16599401648,
+      "asset_name": "Dj Davidx Mix Fin De Semana De Parrando Vl1 🙌🏻",
+      "granted_at": "2025-07-17T20:15:26.249941",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16551352361,
+      "asset_name": "P#RRE0 FLOW BRASIL DAVIDX DJ 🔥🙉 VL2",
+      "granted_at": "2025-07-17T20:15:27.146145",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16551236287,
+      "asset_name": "Dj Davidx Mix Latin Gang House Flow Party 🔥",
+      "granted_at": "2025-07-17T20:15:28.019207",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16551211100,
+      "asset_name": "Dj Davidx - Hasta Abajo - Insano Remix",
+      "granted_at": "2025-07-17T20:15:28.847890",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16551192345,
+      "asset_name": "Dj Davidx - Subelo Bajalo - Insano Remix",
+      "granted_at": "2025-07-17T20:15:29.667618",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16317406822,
+      "asset_name": "Te Doy Mi Corazon , Album Piratero - Davidx",
+      "granted_at": "2025-07-17T20:15:30.463306",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16317383022,
+      "asset_name": "Sonidero 3000 Album Piratero - Davidx",
+      "granted_at": "2025-07-17T20:15:31.475954",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16317371675,
+      "asset_name": "Poblana Sonidera , Album Piratero - Davidx",
+      "granted_at": "2025-07-17T20:15:32.294078",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16317348479,
+      "asset_name": "La Kumbia Cienaguera , Album Piratero - Davidx",
+      "granted_at": "2025-07-17T20:15:33.149230",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16317340895,
+      "asset_name": "La Guaracha Poblana , Album Piratero - Davidx ",
+      "granted_at": "2025-07-17T20:15:34.001341",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16317298542,
+      "asset_name": "La danza Lms , Album Piratero - Davidx",
+      "granted_at": "2025-07-17T20:15:34.889624",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16317290179,
+      "asset_name": "La Cumbia Mas Viral - Album Piratero - Davidx",
+      "granted_at": "2025-07-17T20:15:35.759623",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16317267476,
+      "asset_name": "El Primer Duo Yambao , Album Piratero - Davidx",
+      "granted_at": "2025-07-17T20:15:36.559152",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16317236636,
+      "asset_name": "EL Paso Ma Ma Lona , Album Piratero - Davidx",
+      "granted_at": "2025-07-17T20:15:37.435556",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16317225696,
+      "asset_name": "Cuando Llora Mi Armonica , Album Piratero - Davidx",
+      "granted_at": "2025-07-17T20:15:38.294104",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16317212081,
+      "asset_name": "2Da Del Niño De La Selva , Album Piratero - Davidx",
+      "granted_at": "2025-07-17T20:15:39.114283",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16291095387,
+      "asset_name": "Davidx Music - Mix Carnavales 2024 Flow Venezuela",
+      "granted_at": "2025-07-17T20:15:39.934299",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16190600569,
+      "asset_name": "Davidx Dj - Dj Insano ft Dj Soulz , Vaquero RKT 🔥",
+      "granted_at": "2025-07-17T20:15:40.895612",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16158047589,
+      "asset_name": "Las Guitarritas Locas Sonido Pirata - Dj Davidx 🙉",
+      "granted_at": "2025-07-17T20:15:41.744445",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16157984358,
+      "asset_name": "El Paso Del Medio Metro Dj Davidx 🦁🙉🔥",
+      "granted_at": "2025-07-17T20:15:42.559767",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16143240359,
+      "asset_name": "Davidx Dj - Dj Gama Y Dj Residen Felicidades Maic",
+      "granted_at": "2025-07-17T20:15:43.399486",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16142006498,
+      "asset_name": "Mas que nada - Davidx Music - Latin House",
+      "granted_at": "2025-07-17T20:15:44.236655",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16141984263,
+      "asset_name": "La Maraca - Davidx Dj - Latin House",
+      "granted_at": "2025-07-17T20:15:45.065687",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16141970167,
+      "asset_name": "Freshco Davidx DJ - Latin House\n",
+      "granted_at": "2025-07-17T20:15:45.925237",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16141928935,
+      "asset_name": "Que Pasa Latin House Dj Davidx",
+      "granted_at": "2025-07-17T20:15:46.717564",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16020431404,
+      "asset_name": "Davidx Dj , Hugel y J Balvin - Llevo Latin House ",
+      "granted_at": "2025-07-17T20:15:47.542784",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16020420412,
+      "asset_name": "Davidx Dj - Dale Latin House 🎉✨",
+      "granted_at": "2025-07-17T20:15:48.504542",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16020394758,
+      "asset_name": "Davidx Dj Mix House Latino 💕✨🔥",
+      "granted_at": "2025-07-17T20:15:49.403093",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16019297789,
+      "asset_name": "Davidx DJ ✨ Mix Retro Disco Vl3",
+      "granted_at": "2025-07-17T20:15:50.206152",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16019278220,
+      "asset_name": "Davidx DJ ✨💕 Mix Retro Disco Vl2 Love 90s 🥵🔥",
+      "granted_at": "2025-07-17T20:15:51.109237",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16019230143,
+      "asset_name": "Davidx DJ ✨💕 Mix Retro Disco Vl1 Love 90s 🥵🔥",
+      "granted_at": "2025-07-17T20:15:51.854491",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 15773842721,
+      "asset_name": "P#RRE0 FLOW BRASIL DAVIDX DJ 🔥🙉 VL1",
+      "granted_at": "2025-07-17T20:15:52.604336",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 15705927550,
+      "asset_name": "Dj Davidx - Venezuela - (House Latino)",
+      "granted_at": "2025-07-17T20:15:53.289439",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 15705821412,
+      "asset_name": "Dj Davidx House Latino 🙉",
+      "granted_at": "2025-07-17T20:15:54.017555",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 15705772747,
+      "asset_name": "Dj Davidx Marianela (Latin House)",
+      "granted_at": "2025-07-17T20:15:54.706071",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 15483702073,
+      "asset_name": "DJ DAVIDX ft DJ LEE MIX RAVE FELIZ NAVIDAD 👑🌎",
+      "granted_at": "2025-07-17T20:15:55.397460",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 15248319237,
+      "asset_name": "Stayin Alive Bee Gees Tech House Mix DAVIDX DJ",
+      "granted_at": "2025-07-17T20:15:56.106219",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 15199109493,
+      "asset_name": "King Africa - Saltando Sin Parar Tech - DAVIDX DJ",
+      "granted_at": "2025-07-17T20:15:56.780517",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 15198947430,
+      "asset_name": "DAVIDX DJ - ALETEO NAVIDEÑO HOHOHO 🎅🏻",
+      "granted_at": "2025-07-17T20:15:57.500582",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 14919694952,
+      "asset_name": "Halloween Jump Up - DJ DAVIDX🎃",
+      "granted_at": "2025-07-17T20:15:58.214512",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 14919690434,
+      "asset_name": "Halloween 🎃 Conga House - DJ DAVIDX 🎃",
+      "granted_at": "2025-07-17T20:15:58.969392",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 14919685273,
+      "asset_name": "🎃 The Movie Lets Go - DJ DAVIDX Halloween 🎃\n",
+      "granted_at": "2025-07-17T20:15:59.675933",
+      "status": "newly_granted"
+    }
+  ]
+}
