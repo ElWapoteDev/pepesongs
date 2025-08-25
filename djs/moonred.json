@@ -1,0 +1,2450 @@
+{
+  "timestamp": "2025-08-24T21:54:14.157121",
+  "operation_type": "bulk_audio",
+  "source_group": {
+    "id": 33198896,
+    "name": "Moon Red"
+  },
+  "target_group": {
+    "id": 33965578,
+    "name": "Two Chiquilines"
+  },
+  "permissions_granted": [
+    {
+      "asset_id": 130227263609559,
+      "asset_name": "DJ Lonely🖤 - Love😻 Sick - 2",
+      "granted_at": "2025-08-24T21:54:20.036137",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87092510168617,
+      "asset_name": "DJ Lonely🖤- Topic, A7S - Kernkraft 400",
+      "granted_at": "2025-08-24T21:54:21.391170",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131771341102194,
+      "asset_name": "DJ Lonely🖤- Avici x N.Romero- I Could Be The One ",
+      "granted_at": "2025-08-24T21:54:22.843344",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79704043173747,
+      "asset_name": "DJ Lonely🖤 - Swedish House Mafia -One - Your Name",
+      "granted_at": "2025-08-24T21:54:24.238468",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77615788959347,
+      "asset_name": "DJ Lonely🖤 - Party-Mix. 1 - Lonely🖤",
+      "granted_at": "2025-08-24T21:54:25.690701",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95141530975931,
+      "asset_name": "DJ Lonely🖤 - 🎧FULLCLEAR 🗿 HARDTEKK💪🏾 mix. 1",
+      "granted_at": "2025-08-24T21:54:27.166488",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132374666920336,
+      "asset_name": "DJ Lonely🖤- Rauw Alejandro - 🎶DILUVIO 🎶",
+      "granted_at": "2025-08-24T21:54:28.646150",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123283555225879,
+      "asset_name": "DJ Lonely🖤 - Jowel & Randy😏🔥Ella Sola Viene🔥",
+      "granted_at": "2025-08-24T21:54:30.088821",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76175406606439,
+      "asset_name": "DJ Lonely🖤 - Beyoncé ft. Sean Paul - Baby Boy",
+      "granted_at": "2025-08-24T21:54:31.541801",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90224624994683,
+      "asset_name": "DJ Lonely🖤 - ⚡jumpstyle vs hardstyle ⚡⚡mix. 3⚡",
+      "granted_at": "2025-08-24T21:54:32.998647",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112125427383742,
+      "asset_name": "DJ Lonely🖤 - Shakira - Waka Waka 🔥🔥",
+      "granted_at": "2025-08-24T21:54:34.452456",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126019517804882,
+      "asset_name": "DJ Lonely🖤- 💽🎧Hip Hop 📼 R&B Mashup - 2 🤙📼",
+      "granted_at": "2025-08-24T21:54:35.831249",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116101154736362,
+      "asset_name": "DJ Lonely🖤- 💽🎧Hip Hop 📼 R&B Mashup - 1 🤙📼",
+      "granted_at": "2025-08-24T21:54:37.237060",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93597856804670,
+      "asset_name": "DJ Lonely🖤- TitoBambino ft Don Omar -Flow Natural",
+      "granted_at": "2025-08-24T21:54:38.600855",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113865004888846,
+      "asset_name": "DJ Lonely🖤- Deorro - Five Hours ",
+      "granted_at": "2025-08-24T21:54:40.037784",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118950639228619,
+      "asset_name": "DJ Lonely🖤 - by-JaredBSD",
+      "granted_at": "2025-08-24T21:54:45.706034",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131248192144953,
+      "asset_name": "DJ Lonely🖤 -   Alan Walker - Old Habits Remix",
+      "granted_at": "2025-08-24T21:54:47.200620",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126550043736848,
+      "asset_name": "DJ Lonely🖤 - Alan x Walkers - Your Side",
+      "granted_at": "2025-08-24T21:54:48.579890",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125409290226363,
+      "asset_name": "DJ Lonely🖤 - 😏🔥Mayor Que Yo🔞",
+      "granted_at": "2025-08-24T21:54:49.963989",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130234681408021,
+      "asset_name": "DJ Lonely🖤 - 🥵Jowell & Randy - Safaera remix 🔥",
+      "granted_at": "2025-08-24T21:54:51.701157",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110338108994320,
+      "asset_name": "DJ Lonely🖤 - Jowell & Randy - La Rockerita😏🔥",
+      "granted_at": "2025-08-24T21:54:53.184623",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91984761944070,
+      "asset_name": "DJ Lonely🖤 - 🌌🎪Tomorrowland🎪🌌 mix. 1",
+      "granted_at": "2025-08-24T21:54:54.665568",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127024674216891,
+      "asset_name": "DJ Lonely🖤 - 🤯 ⚡HARD TECHNO mix. 3⚡🤯",
+      "granted_at": "2025-08-24T21:54:56.141305",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101838490970555,
+      "asset_name": "DJ Lonely🖤 - 🤯 ⚡HARD TECHNO mix. 2⚡🤯",
+      "granted_at": "2025-08-24T21:54:57.637754",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117925426424526,
+      "asset_name": " DJ Lonely🖤 - 🤯 ⚡HARD TECHNO mix. 1⚡🤯",
+      "granted_at": "2025-08-24T21:54:59.104587",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78085511752358,
+      "asset_name": "DJ Lonely🖤 - Saint Lamaar - Buss At You",
+      "granted_at": "2025-08-24T21:55:00.602928",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83370466512775,
+      "asset_name": " DJ Lonely🖤 - Tamar Braxton, Future - Let Me Know",
+      "granted_at": "2025-08-24T21:55:02.068131",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100999329775101,
+      "asset_name": " DJ Lonely🖤 - Paranoid (DarkTechno)👁️",
+      "granted_at": "2025-08-24T21:55:03.530667",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93484868997678,
+      "asset_name": "DJ Lonely🖤 - DADDY YANKEE 🎶Mashup. - 4",
+      "granted_at": "2025-08-24T21:55:05.006155",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84561168752734,
+      "asset_name": "DJ Lonely🖤 - DADDY YANKEE 🎶Mashup. - 3",
+      "granted_at": "2025-08-24T21:55:06.497167",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128519331257500,
+      "asset_name": "DJ Lonely🖤 - DADDY YANKEE 🎶Mashup. - 2",
+      "granted_at": "2025-08-24T21:55:07.880770",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103577136344474,
+      "asset_name": "DJ Lonely🖤- 🔥Daddy Yankee ft. Fergie - Impacto🔥",
+      "granted_at": "2025-08-24T21:55:09.352221",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103617697872865,
+      "asset_name": "DJ Lonely🖤 - 😏🔥Daddy Yankee - Pose😏🔥",
+      "granted_at": "2025-08-24T21:55:10.863403",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138985055096366,
+      "asset_name": "DJ Lonely🖤 - DADDY YANKEE 🎶Mashup. - 1",
+      "granted_at": "2025-08-24T21:55:12.249707",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134720999908831,
+      "asset_name": "DJ Lonely🖤 ft DJ BENUS Tecca MIX. 10",
+      "granted_at": "2025-08-24T21:55:13.642822",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84275213501416,
+      "asset_name": "DJ Lonely🖤 ft DJ BENUS  Happines x Animals MIX. 9",
+      "granted_at": "2025-08-24T21:55:15.032369",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88163065272964,
+      "asset_name": "DJ Lonely🖤 ft DJ BENUS OLD TOWN ROAD MIX. 8",
+      "granted_at": "2025-08-24T21:55:16.408478",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137713851918328,
+      "asset_name": "DJ Lonely🖤 ft DJ BENUS UNFORGETTABLE MIX. 7",
+      "granted_at": "2025-08-24T21:55:17.794053",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100341975696495,
+      "asset_name": "DJ Lonely🖤 ft DJ BENUS Jeremih Vibes MIX. 6",
+      "granted_at": "2025-08-24T21:55:19.293277",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138421205076286,
+      "asset_name": "DJ Lonely🖤 ft DJ BENUS AKON MIX. 5",
+      "granted_at": "2025-08-24T21:55:20.782827",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118325570295894,
+      "asset_name": "DJ Lonely🖤 ft DJ BENUS wiz k. MIX. 4",
+      "granted_at": "2025-08-24T21:55:22.261801",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133377241286236,
+      "asset_name": "DJ Lonely🖤 ft DJ BENUS OR NAH MIX. 3",
+      "granted_at": "2025-08-24T21:55:23.702638",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100843318955830,
+      "asset_name": "DJ Lonely🖤 ft DJ BENUS  BOP YG MIX. 1",
+      "granted_at": "2025-08-24T21:55:25.086947",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74353028890381,
+      "asset_name": "DJ Lonely🖤 - 27. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T21:55:26.472596",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79757134881036,
+      "asset_name": "DJ Lonely🖤 - Daddy Yankee - Bonita 🥰",
+      "granted_at": "2025-08-24T21:55:27.868302",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80305440294081,
+      "asset_name": "DJ Lonely🖤 - Daddy Yankee - 👀 LOVEO 👀",
+      "granted_at": "2025-08-24T21:55:29.262291",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78945333742249,
+      "asset_name": "DJ Lonely🖤 - Daddy Yankee- BAILANDO EN LA LLUVIA ",
+      "granted_at": "2025-08-24T21:55:30.746287",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139315015288027,
+      "asset_name": "DJ Lonely🖤 - Daddy yankee - sonriele 😁",
+      "granted_at": "2025-08-24T21:55:32.213966",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123890239863350,
+      "asset_name": "DJ Lonely 🖤 - 300 Locos - Panchito Arredondo",
+      "granted_at": "2025-08-24T21:55:33.599996",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130445040174411,
+      "asset_name": "DJ Lonely 🖤 - La Cheyene Del Año - El Recodo",
+      "granted_at": "2025-08-24T21:55:34.985095",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99316012393865,
+      "asset_name": "DJ Lonely 🖤 - El Bazucazo - El Tigrillo Palma",
+      "granted_at": "2025-08-24T21:55:36.481871",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78862820423568,
+      "asset_name": "DJ Lonely 🖤 - Los Chismes - Chalino Sanchez",
+      "granted_at": "2025-08-24T21:55:37.867736",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78911489444515,
+      "asset_name": "DJ Lonely 🖤 - Que No Quede Huella - Bronco",
+      "granted_at": "2025-08-24T21:55:39.395263",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90121849988816,
+      "asset_name": "DJ Lonely 🖤 - Seis Pies Abajo - Banda El Recodo",
+      "granted_at": "2025-08-24T21:55:40.922425",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113633796632295,
+      "asset_name": "DJ Lonely🖤 -   🕺💃Danza Kuduro Remix 🕺💃🔥🎶",
+      "granted_at": "2025-08-24T21:55:42.321972",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77080659917965,
+      "asset_name": "DJ Lonely🖤 - 🔊Me Pones En Tensión👄 (Remix)",
+      "granted_at": "2025-08-24T21:55:43.802831",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103485405979381,
+      "asset_name": "DJ Lonely🖤 - Sensación Del Bloque😏(Remix)🔊🎶",
+      "granted_at": "2025-08-24T21:55:45.188811",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101704547256678,
+      "asset_name": "DJ Lonely🖤 - 🔥7sins 🥵 🔥 mix. 4 (V.2)",
+      "granted_at": "2025-08-24T21:55:46.578203",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96491230231251,
+      "asset_name": "DJ Lonely🖤 - 🇯🇵 Japan Hardstyle😎 - 4",
+      "granted_at": "2025-08-24T21:55:48.066662",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83156951922652,
+      "asset_name": "DJ Lonely🖤 - 🇯🇵 Japan Hardstyle😎 - 3",
+      "granted_at": "2025-08-24T21:55:49.462527",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93979609629963,
+      "asset_name": "DJ Lonely🖤 - 🇯🇵 Japan Hardstyle😎 - 2",
+      "granted_at": "2025-08-24T21:55:51.031816",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106048842057964,
+      "asset_name": "DJ Lonely🖤 - 🇯🇵 Japan Hardstyle😎 - 1",
+      "granted_at": "2025-08-24T21:55:53.081559",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80976460272243,
+      "asset_name": "DJ Lonely🖤 - 25. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T21:55:54.509809",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138141072666453,
+      "asset_name": "DJ Lonely🖤 - 💯SKRILLEX 💯MIX. 6🔥",
+      "granted_at": "2025-08-24T21:55:55.960511",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74935781110236,
+      "asset_name": "DJ Lonely🖤 - 💯SKRILLEX 💯MIX. 5🔥",
+      "granted_at": "2025-08-24T21:55:57.474001",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113524112799959,
+      "asset_name": "DJ Lonely🖤 - 💯SKRILLEX 💯MIX. 4🔥",
+      "granted_at": "2025-08-24T21:55:58.873333",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110807193342883,
+      "asset_name": "DJ Lonely🖤 - 💯SKRILLEX 💯MIX. 3🔥",
+      "granted_at": "2025-08-24T21:56:00.355283",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100239631957395,
+      "asset_name": "DJ Lonely🖤 - Nick Jonas - Jealous",
+      "granted_at": "2025-08-24T21:56:01.736215",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98021159884286,
+      "asset_name": "DJ Lonely🖤ft. DJ Belia 24. 🔊BEST TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T21:56:03.127166",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95791814428110,
+      "asset_name": "DJ Lonely🖤 - Love😻 Sick - 1",
+      "granted_at": "2025-08-24T21:56:04.973907",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127719529692233,
+      "asset_name": "DJ Lonely🖤 ft. DJ Saigo -🔊☢️HardStyle Mix. 5☢️🔊",
+      "granted_at": "2025-08-24T21:56:06.463652",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128401352675972,
+      "asset_name": "DJ Lonely🖤 - chamber of reflection🎶🖤",
+      "granted_at": "2025-08-24T21:56:07.940363",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118382901788312,
+      "asset_name": "DJ Lonely🖤 -  🦇Little Dark Age🦇",
+      "granted_at": "2025-08-24T21:56:09.326042",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72738096075757,
+      "asset_name": "DJ Lonely🖤 - .⋆♱ After Dark ♱⋆.",
+      "granted_at": "2025-08-24T21:56:10.805855",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103201768733594,
+      "asset_name": "DJ Lonely 🖤 -  🤪LOUCA ENCUBADA 🤪",
+      "granted_at": "2025-08-24T21:56:12.228652",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118520904386045,
+      "asset_name": "DJ Lonely🖤 - 🔥7sins 🥵 🔥 mix. 4",
+      "granted_at": "2025-08-24T21:56:13.814399",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99796030103047,
+      "asset_name": "DJ Lonely🖤 - 🔥🥵 7sins start🥵 🔥",
+      "granted_at": "2025-08-24T21:56:15.225222",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103394104530477,
+      "asset_name": "DJ Lonely🖤 - 22. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T21:56:16.632972",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124885094707387,
+      "asset_name": "DJ Lonely🖤 - 🔥7sins 🥵 🔥 mix. 3",
+      "granted_at": "2025-08-24T21:56:17.995748",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76952029543092,
+      "asset_name": "DJ Lonely🖤 - 🇷🇺 Lost Soul Down🖤 🇷🇺",
+      "granted_at": "2025-08-24T21:56:19.359317",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109251737223633,
+      "asset_name": "DJ Lonely🖤 - 🤪Loco - Neton Vega🤪",
+      "granted_at": "2025-08-24T21:56:20.766161",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107524259459357,
+      "asset_name": "DJ Lonely🖤 - 🔥7sins 🥵 🔥 mix. 2",
+      "granted_at": "2025-08-24T21:56:22.151645",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86468039441853,
+      "asset_name": "DJ Lonely🖤 - 🔥7sins 🥵 🔥 mix. 1",
+      "granted_at": "2025-08-24T21:56:23.552719",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126523075109805,
+      "asset_name": "DJ Lonely🖤 - Steve Aoki - All This Time ",
+      "granted_at": "2025-08-24T21:56:25.037977",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130346785989885,
+      "asset_name": "DJ Lonely🖤 -  🎵Don't Stop The Music 🎵",
+      "granted_at": "2025-08-24T21:56:26.503848",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129922225979885,
+      "asset_name": "ANOTHER LOVE INICIO SET LONELY ",
+      "granted_at": "2025-08-24T21:56:28.020911",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94884615148202,
+      "asset_name": "DJ Lonely🖤 - 21. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧 ",
+      "granted_at": "2025-08-24T21:56:29.414614",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73682783432679,
+      "asset_name": "DJ Lonely🖤 - 20. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T21:56:30.823675",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107258507137962,
+      "asset_name": "DJ Lonely🖤 -  Bruno Mars - BONDE DO BRUNÃO 🇧🇷",
+      "granted_at": "2025-08-24T21:56:32.254150",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124000740728468,
+      "asset_name": "DJ Lonely🖤 - Bruno Mars - 🌧️It Will Rain🌧️",
+      "granted_at": "2025-08-24T21:56:33.743831",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102548128797565,
+      "asset_name": "DJ Lonely🖤 - 🤫Destination Unknown",
+      "granted_at": "2025-08-24T21:56:35.244002",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114867210619958,
+      "asset_name": "DJ Lonely🖤 - Through the Fire🔥",
+      "granted_at": "2025-08-24T21:56:36.719682",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87499912871851,
+      "asset_name": "DJ Lonely🖤 - ⭐Heaven in Your Eyes⭐",
+      "granted_at": "2025-08-24T21:56:38.092957",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90281750394283,
+      "asset_name": "DJ Lonely🖤 - 🥵Hot Summer Nights🌴🌑",
+      "granted_at": "2025-08-24T21:56:39.539809",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77589358292090,
+      "asset_name": "DJ Lonely🖤 - 🔥Lead Me On 🔥",
+      "granted_at": "2025-08-24T21:56:41.028441",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105750999241154,
+      "asset_name": "DJ Lonely🖤 - 😏🔥Playing with the Boys🔥😏",
+      "granted_at": "2025-08-24T21:56:42.503214",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108149119133981,
+      "asset_name": "DJ Lonely🖤 - 🔥💖Mighty Wings 💖🔥",
+      "granted_at": "2025-08-24T21:56:43.870961",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77019871804320,
+      "asset_name": "DJ Lonely🖤 - 💝Berlin - Take My Breathe Away💝",
+      "granted_at": "2025-08-24T21:56:45.346214",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119119221585425,
+      "asset_name": "DJ Lonely🖤 - Kenny Loggins - ✈️⚠️Danger Zone ✈️⚠️",
+      "granted_at": "2025-08-24T21:56:46.758340",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114091838418503,
+      "asset_name": "DJ Lonely🖤 - Nick James Remix",
+      "granted_at": "2025-08-24T21:56:48.117834",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109808082510316,
+      "asset_name": "DJ Lonely🖤 - Roxette - The Look ",
+      "granted_at": "2025-08-24T21:56:49.719843",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133691529290520,
+      "asset_name": "DJ Lonely🖤 - Wisin ft. Daddy Yankee - 🗣️Saoco ",
+      "granted_at": "2025-08-24T21:56:51.194855",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123632605838725,
+      "asset_name": "DJ Lonely🖤 - Dile a tu amiga 😘",
+      "granted_at": "2025-08-24T21:56:52.658004",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76546857881304,
+      "asset_name": "DJ Lonely🖤 - Monchy & Alexandra - 😵Dos Locos😵",
+      "granted_at": "2025-08-24T21:56:54.108468",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74457883153266,
+      "asset_name": "DJ Lonely🖤 - Monchy & Alexandra - Te Quiero Igual",
+      "granted_at": "2025-08-24T21:56:55.603604",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138383071571278,
+      "asset_name": "DJ Lonely🖤 - Monchy Y Alexandra - THE BLANK SHEET",
+      "granted_at": "2025-08-24T21:56:57.056205",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130732774056997,
+      "asset_name": "DJ Lonely🖤 - Chris Paradise - Palacio",
+      "granted_at": "2025-08-24T21:56:58.519042",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102243892777377,
+      "asset_name": "DJ Lonely🖤 - Chris Paradise 😡Mala 😡Mala😡",
+      "granted_at": "2025-08-24T21:57:00.016531",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134870207544387,
+      "asset_name": "DJ Lonely🖤 - The Killers - Deadlines Commitments",
+      "granted_at": "2025-08-24T21:57:01.397026",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82137493642003,
+      "asset_name": "DJ Lonely🖤 - La Isla Bonita",
+      "granted_at": "2025-08-24T21:57:02.854411",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128210696480420,
+      "asset_name": "DJ Lonely🖤 - Metro Relax My Eyes ",
+      "granted_at": "2025-08-24T21:57:04.320427",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102606138868520,
+      "asset_name": "DJ Lonely🖤 - In And Out Of Love",
+      "granted_at": "2025-08-24T21:57:05.671591",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133793132353720,
+      "asset_name": "DJ Lonely🖤 - To the Moon & Back",
+      "granted_at": "2025-08-24T21:57:07.037770",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127597455994771,
+      "asset_name": "DJ Lonely🖤 - Your Reaction - KAAZE",
+      "granted_at": "2025-08-24T21:57:08.455894",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127216028807467,
+      "asset_name": "DJ Lonely🖤 - Snow Patrol - Chasing Cars",
+      "granted_at": "2025-08-24T21:57:09.936364",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110828717793638,
+      "asset_name": "DJ Lonely🖤 - Let's Ride Away - Avicii",
+      "granted_at": "2025-08-24T21:57:11.414277",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115031821033924,
+      "asset_name": "DJ Lonely🖤 ft. DJ SAIGO - ELECTRO ANTIGUO - mix 2",
+      "granted_at": "2025-08-24T21:57:12.899038",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139944039363435,
+      "asset_name": "DJ Lonely🖤 ft. DJ SAIGO - FRENCHCORE x HARDTRANCE",
+      "granted_at": "2025-08-24T21:57:14.425074",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106545923554841,
+      "asset_name": "DJ Lonely🖤 ft. DJ SAIGO - ELECTRO ANTIGUO",
+      "granted_at": "2025-08-24T21:57:15.875932",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108937331769790,
+      "asset_name": "DJ Lonely🖤 - Nirvana -👨🏾‍🎤🤘[1991]- 2🤘👨🏾‍🎤",
+      "granted_at": "2025-08-24T21:57:26.886215",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84539454926527,
+      "asset_name": "DJ Lonely🖤 - Nirvana -👨🏾‍🎤🤘[1991]- 1🤘👨🏾‍🎤",
+      "granted_at": "2025-08-24T21:57:28.252648",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139833537793015,
+      "asset_name": "DJ Lonely🖤 ft. DJ Saigo -🔊☢️HardStyle Mix. 4☢️🔊",
+      "granted_at": "2025-08-24T21:57:29.608172",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96131139591555,
+      "asset_name": "DJ Lonely🖤 ft. DJ Saigo -🔊☢️HardStyle Mix. 3☢️🔊",
+      "granted_at": "2025-08-24T21:57:30.961820",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96708785406005,
+      "asset_name": "DJ Lonely🖤 ft. DJ Saigo -🔊☢️HardStyle Mix. 2☢️🔊",
+      "granted_at": "2025-08-24T21:57:32.424560",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71523062724941,
+      "asset_name": "DJ Lonely🖤 ft. DJ Sav - 🔊☢️HardStyle Mix. 1☢️🔊",
+      "granted_at": "2025-08-24T21:57:33.922954",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79066368044593,
+      "asset_name": "DJ Lonely🖤Ft. DJSaigo -18🔊BEST MIX TECHNO RAVE🔊",
+      "granted_at": "2025-08-24T21:57:35.533138",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78025198433625,
+      "asset_name": "DJ - Lonely🖤- SÃO PAULO X TRANCE",
+      "granted_at": "2025-08-24T21:57:37.022747",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73525164586761,
+      "asset_name": "DJ - Lonely🖤 - 🔊HardStyle Mix. 1🤫🔊",
+      "granted_at": "2025-08-24T21:57:38.424553",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125893336970668,
+      "asset_name": " DJ - Lonely🖤 - 🔊Zombie Nation - Kernkraft 400🔊",
+      "granted_at": "2025-08-24T21:57:39.936273",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124018399075545,
+      "asset_name": "DJ - Lonely🖤 - 🔊Travis Scott 🔊- 🔥FE!N🔥",
+      "granted_at": "2025-08-24T21:57:41.313950",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102858329097410,
+      "asset_name": "DJ Lonely🖤 - ⚡jumpstyle vs hardstyle ⚡⚡mix. 5⚡",
+      "granted_at": "2025-08-24T21:57:42.807448",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134234898164511,
+      "asset_name": "DJ Lonely🖤 - ⚡jumpstyle vs hardstyle ⚡⚡mix. 4⚡",
+      "granted_at": "2025-08-24T21:57:44.211678",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114611448693696,
+      "asset_name": "DJ Lonely🖤 - 🖤niteboi - u.🖤",
+      "granted_at": "2025-08-24T21:57:45.706159",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105725666472588,
+      "asset_name": "DJ Lonely🖤 - 💯Hayzu - Reality💯",
+      "granted_at": "2025-08-24T21:57:47.102321",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118904795053515,
+      "asset_name": "DJ Lonely🖤 - 💯Hayzu - Revenge💯",
+      "granted_at": "2025-08-24T21:57:48.593152",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119113344459693,
+      "asset_name": "DJ Lonely🖤 - Marshmello ft Post Malone -SUNFLOWER",
+      "granted_at": "2025-08-24T21:57:50.085813",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106304597633516,
+      "asset_name": "DJ Lonely🖤 - The Weeknd°Post Malone°Ariana Grande",
+      "granted_at": "2025-08-24T21:57:51.478935",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87648356850594,
+      "asset_name": "DJ Lonely🖤 - The Weeknd Remix 🖤Save Your Tears🖤",
+      "granted_at": "2025-08-24T21:57:52.947865",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120756514088694,
+      "asset_name": "DJ Lonely🖤 - The Weeknd - ♰ Baptized In Fear ♰",
+      "granted_at": "2025-08-24T21:57:54.535946",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80186794484170,
+      "asset_name": "DJ Lonely🖤 - 🎺💃🎹MIX. 2 TECHNO CUMBIA🎹🕺🏽🎺",
+      "granted_at": "2025-08-24T21:57:55.918882",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85371531238916,
+      "asset_name": "DJ Lonely🖤 - 🎺💃🎹MIX TECHNO CUMBIA🎹🕺🏽🎺",
+      "granted_at": "2025-08-24T21:57:57.429824",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106176294074554,
+      "asset_name": "DJ Lonely 🖤 - 🪓🧔Dr Peacock Trip To Valhalla🪓🧔",
+      "granted_at": "2025-08-24T21:57:58.940649",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115707550355741,
+      "asset_name": "DJ Lonely🖤 - Shaboozey - A Bar Song ",
+      "granted_at": "2025-08-24T21:58:00.389806",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104902990087840,
+      "asset_name": "DJ Lonely🖤 -  😎 Bad Bunny - EoO 😎",
+      "granted_at": "2025-08-24T21:58:01.781825",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95338825705800,
+      "asset_name": "DJ Lonely🖤 - Rapper School - Mi Gran Amor  🖤",
+      "granted_at": "2025-08-24T21:58:03.268489",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96858532295352,
+      "asset_name": "DJ Lonely🖤 - Rapper School - Estoy Piola ",
+      "granted_at": "2025-08-24T21:58:04.820789",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81377445819460,
+      "asset_name": "DJ Lonely🖤 - Norick Rapper School - I Love🖤",
+      "granted_at": "2025-08-24T21:58:06.371726",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78678363166463,
+      "asset_name": "DJ Lonely🖤- Warrior Rapper School - Salam Alaykum",
+      "granted_at": "2025-08-24T21:58:07.854991",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120011049432925,
+      "asset_name": " DJ Lonely🖤 - 🇷🇺 Post Punk Russia 🇷🇺 mix. 1",
+      "granted_at": "2025-08-24T21:58:09.346247",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98690510338853,
+      "asset_name": "DJ Lonely 🖤 - ﾒ𝟶 The Weeknd mix. 1 ﾒ𝟶",
+      "granted_at": "2025-08-24T21:58:10.838341",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119071152988079,
+      "asset_name": "DJ Lonely 🖤 ft.  DJMillenium - Marroneo Mix. 2",
+      "granted_at": "2025-08-24T21:58:12.415339",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108230380256732,
+      "asset_name": "DJ Lonely 🖤 ft.  DJMillenium - Marroneo Mix. 1",
+      "granted_at": "2025-08-24T21:58:13.925343",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83259163785893,
+      "asset_name": "DJ Lonely 🖤 ft.  DJMillenium - HARD TECHNO mix. 5",
+      "granted_at": "2025-08-24T21:58:15.896743",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98868563541239,
+      "asset_name": "DJ Lonely 🖤 ft.  DJMillenium - HARD TECHNO mix. 4",
+      "granted_at": "2025-08-24T21:58:17.374366",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101115254101550,
+      "asset_name": "DJ Lonely 🖤 ft.  DJMillenium - HARD TECHNO mix. 3",
+      "granted_at": "2025-08-24T21:58:18.778948",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118923977411920,
+      "asset_name": "DJ Lonely 🖤 ft.  DJMillenium - HARD TECHNO mix. 2",
+      "granted_at": "2025-08-24T21:58:20.170069",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126701993628469,
+      "asset_name": "DJ Lonely 🖤 ft.  DJMillenium - HARD TECHNO mix. 1",
+      "granted_at": "2025-08-24T21:58:21.536907",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117978775378281,
+      "asset_name": "DJ Lonely🖤 - BAD BUNNY -😮‍💨 KETU TeCRÉ 😒",
+      "granted_at": "2025-08-24T21:58:23.006598",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97630340945997,
+      "asset_name": "DJ Lonely🖤 ft. DJ Sav Phonk Aura mix. 2",
+      "granted_at": "2025-08-24T21:58:24.498503",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120826181809595,
+      "asset_name": "DJ Lonely🖤 ft. DJ Sav Phonk Aura mix. 1",
+      "granted_at": "2025-08-24T21:58:25.960542",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110383730362343,
+      "asset_name": "DJ Sav ft. DJ Lonely🖤 - Take Over Control Remix",
+      "granted_at": "2025-08-24T21:58:27.442681",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138245244786281,
+      "asset_name": "DJ Sav ft. DJ Lonely🖤 - Ghostface HARDCORE",
+      "granted_at": "2025-08-24T21:58:28.923986",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75317055116201,
+      "asset_name": "DJ Sav ft. DJ Lonely🖤 - Evacuate The Dancefloor",
+      "granted_at": "2025-08-24T21:58:30.396088",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85147763764455,
+      "asset_name": "DJ Lonely🖤 - 🖤chase atlantic - consume🖤",
+      "granted_at": "2025-08-24T21:58:31.878226",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93355781136389,
+      "asset_name": "DJ Lonely🖤 ft. DJ Baku 🎶Electro & House 13🎶",
+      "granted_at": "2025-08-24T21:58:33.348023",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95445677047495,
+      "asset_name": "DJ Lonely🖤 ft. DJ Baku 🔥Dubstep mix. 5🔥",
+      "granted_at": "2025-08-24T21:58:34.954025",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139053559648297,
+      "asset_name": "DJ Lonely🖤 ft. DJ Baku 🔥Dubstep mix. 4🔥",
+      "granted_at": "2025-08-24T21:58:36.351844",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82249277967551,
+      "asset_name": "DJ Lonely🖤 - 🔥  🌟Solo🌟 (Funk Peruano) 🔥 ",
+      "granted_at": "2025-08-24T21:58:37.836111",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105909235119933,
+      "asset_name": "DJ Lonely🖤 ft. DJ Baku 🔥R.Santos-Drake-Faraon🔥",
+      "granted_at": "2025-08-24T21:58:39.332020",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102521162531589,
+      "asset_name": "DJ Lonely🖤 ft. DJ Baku 🔥Dubstep mix. 3🔥",
+      "granted_at": "2025-08-24T21:58:40.828120",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120133716093755,
+      "asset_name": "DJ Lonely🖤 ft. DJ Baku 🔥Dubstep mix. 2🔥",
+      "granted_at": "2025-08-24T21:58:42.324035",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116349528250620,
+      "asset_name": "DJ Lonely🖤 ft. DJ Baku 🔥Dubstep mix. 1🔥",
+      "granted_at": "2025-08-24T21:58:43.807475",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90056278335288,
+      "asset_name": "DJ Lonely🖤 ft. DJ Baku 🎶Electro & House 12🎶",
+      "granted_at": "2025-08-24T21:58:45.303021",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116537195530470,
+      "asset_name": "DJ Lonely🖤 - 🎊PARTY 5 DE MAYO🎊 mix.4",
+      "granted_at": "2025-08-24T21:58:46.691524",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127529529977692,
+      "asset_name": "DJ Lonely🖤 - 🎊PARTY 5 DE MAYO🎊 mix.3",
+      "granted_at": "2025-08-24T21:58:48.138281",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133464640512277,
+      "asset_name": "DJ Lonely🖤 - 🎊PARTY 5 DE MAYO🎊 mix.2",
+      "granted_at": "2025-08-24T21:58:49.649078",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101397184924411,
+      "asset_name": "DJ Lonely🖤 - 🇲🇽Pitbull Remix  Cinco De Mayo🇲🇽",
+      "granted_at": "2025-08-24T21:58:51.040908",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98979477650823,
+      "asset_name": "DJ Lonely🖤 - 🎊PARTY 5 DE MAYO🎊",
+      "granted_at": "2025-08-24T21:58:52.442863",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123659595414499,
+      "asset_name": "DJ Lonely 🖤 - 💪🏾TECHNO FAST 80S Y 90S mix.6",
+      "granted_at": "2025-08-24T21:58:53.897582",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85630970245084,
+      "asset_name": "DJ Lonely 🖤 - 💪🏾TECHNO FAST 80S Y 90S mix.5",
+      "granted_at": "2025-08-24T21:58:55.281285",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96447991540042,
+      "asset_name": "DJ Lonely 🖤 - 💪🏾TECHNO FAST 80S Y 90S mix.4",
+      "granted_at": "2025-08-24T21:58:56.761696",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134080766577464,
+      "asset_name": "DJ Lonely 🖤 - 💪🏾TECHNO FAST 80S Y 90S mix.3",
+      "granted_at": "2025-08-24T21:58:58.251596",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107799296361696,
+      "asset_name": "DJ Lonely 🖤 - 💪🏾TECHNO FAST 80S Y 90S mix.2",
+      "granted_at": "2025-08-24T21:58:59.780572",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85298648704811,
+      "asset_name": "DJ Lonely 🖤 - 💪🏾TECHNO FAST 80S Y 90S ",
+      "granted_at": "2025-08-24T21:59:01.290451",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132690969212627,
+      "asset_name": "DJ Lonely🖤 - Cris MJ - Conmigo Se Escapa",
+      "granted_at": "2025-08-24T21:59:02.652897",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73265272800783,
+      "asset_name": "DJ Lonely🖤- Franquito, Duki, Bad Bunny, Eminem",
+      "granted_at": "2025-08-24T21:59:04.069834",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83107152445624,
+      "asset_name": "DJ Lonely🖤 - Bad Bunny Ft. Drake - Mia",
+      "granted_at": "2025-08-24T21:59:05.476224",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136580486515115,
+      "asset_name": "DJ Lonely🖤 - 🎶Electro & House 11 parte🎶",
+      "granted_at": "2025-08-24T21:59:07.014810",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108355638680851,
+      "asset_name": "DJ Lonely🖤 - 🎶Electro & House 10 parte🎶",
+      "granted_at": "2025-08-24T21:59:08.454791",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91955088455302,
+      "asset_name": "DJ Lonely🖤 - 🎶Electro & House 9 parte🎶",
+      "granted_at": "2025-08-24T21:59:09.996057",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115221327366773,
+      "asset_name": "DJ Lonely🖤 - 🎶Alemán, Neton Vega -Te Quería Ver",
+      "granted_at": "2025-08-24T21:59:11.482854",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95427966563322,
+      "asset_name": "DJ Lonely🖤 - 🤘👨🏽‍🎤ROCK PARTY👨🏽‍🎤🤘 mix. 3",
+      "granted_at": "2025-08-24T21:59:12.974433",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125091501839159,
+      "asset_name": "DJ Lonely🖤 - 🤘👨🏽‍🎤ROCK PARTY👨🏽‍🎤🤘 mix. 2",
+      "granted_at": "2025-08-24T21:59:14.465687",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100017908316939,
+      "asset_name": "DJ Lonely🖤 - 🤘👨🏽‍🎤ROCK PARTY👨🏽‍🎤🤘 mix. 1",
+      "granted_at": "2025-08-24T21:59:16.036053",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115718923867836,
+      "asset_name": "DJ Lonely🖤 - 17. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T21:59:17.556433",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101843874367995,
+      "asset_name": "DJ Lonely🖤 - 16. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T21:59:19.020327",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77817329872482,
+      "asset_name": "DJ Lonely🖤 - 15. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T21:59:20.464018",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94772655250386,
+      "asset_name": "DJ Lonely 🖤 - Bad Bunny ft. feid - PeRRO Negr0",
+      "granted_at": "2025-08-24T21:59:21.859552",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85147710281128,
+      "asset_name": "DJ Lonely 🖤 - 🇦🇷 CUMBIA ARGENTINA 🇦🇷 mix. 1",
+      "granted_at": "2025-08-24T21:59:23.463576",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133272870258757,
+      "asset_name": "DJ Lonely🖤 - 🎶Xscape. Mix. 1🎶",
+      "granted_at": "2025-08-24T21:59:24.865296",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78684656849694,
+      "asset_name": "DJ Lonely🖤 - 🕺🏾Michael Jackson - Mix. 1🕺🏾",
+      "granted_at": "2025-08-24T21:59:26.500765",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106567764077276,
+      "asset_name": "DJ Lonely 🖤 - 🇦🇷 CUMBIA ARGENTINA 🇦🇷 mix. 2",
+      "granted_at": "2025-08-24T21:59:28.067942",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110723683331910,
+      "asset_name": "DJ Lonely🖤 - 🎶🎧SisQó - Mix. 2🎶🎧",
+      "granted_at": "2025-08-24T21:59:29.586075",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109237505131532,
+      "asset_name": "DJ Lonely🖤 - 🎶🎧SisQó Mix. 1🎶🎧",
+      "granted_at": "2025-08-24T21:59:31.002836",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86153236655248,
+      "asset_name": "DJ Lonely🖤 - 😘Jagged Edge mix. 3😘",
+      "granted_at": "2025-08-24T21:59:32.498805",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121484310042086,
+      "asset_name": "DJ Lonely🖤 - 😘Jagged Edge mix. 2😘",
+      "granted_at": "2025-08-24T21:59:33.922890",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105688039227589,
+      "asset_name": "DJ Lonely🖤 - 😘Jagged Edge mix. 1😘",
+      "granted_at": "2025-08-24T21:59:35.484589",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134336310320309,
+      "asset_name": "DJ Lonely🖤 - 💃🕺Concert - Selena Quintanilla - 2",
+      "granted_at": "2025-08-24T21:59:36.918064",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90851650837909,
+      "asset_name": "DJ Lonely🖤 -  📻📼90's Best R&B featuring📼📻- 5",
+      "granted_at": "2025-08-24T21:59:38.301721",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138978702570673,
+      "asset_name": "DJ Lonely🖤 -  📻📼90's Best R&B featuring📼📻- 4",
+      "granted_at": "2025-08-24T21:59:39.797055",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106582379804949,
+      "asset_name": "DJ Lonely🖤 -  📻📼90's Best R&B featuring📼📻- 3",
+      "granted_at": "2025-08-24T21:59:41.390839",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128495177872656,
+      "asset_name": "DJ Lonely🖤 -  📻📼90's Best R&B featuring📼📻- 2",
+      "granted_at": "2025-08-24T21:59:42.972157",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86922854945181,
+      "asset_name": "DJ Lonely🖤 -  📻📼90's Best R&B featuring📼📻",
+      "granted_at": "2025-08-24T21:59:44.387166",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81228985517836,
+      "asset_name": "DJ Lonely🖤 - Party In Canadá ",
+      "granted_at": "2025-08-24T21:59:47.810049",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119804912165688,
+      "asset_name": "DJ Lonely🖤 -🎧 JERSEY CLUB mix. 3🖇️🎧",
+      "granted_at": "2025-08-24T21:59:49.304614",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111990448372988,
+      "asset_name": "DJ Lonely🖤 -🎧 JERSEY CLUB mix. 2🖇️🎧",
+      "granted_at": "2025-08-24T21:59:50.801475",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91369026862125,
+      "asset_name": "DJ Lonely🖤 -🎧 JERSEY CLUB mix. 1🖇️🎧",
+      "granted_at": "2025-08-24T21:59:54.591675",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105877110289754,
+      "asset_name": "DJ Lonely🖤- Illuminati KiddTetoon ft Diego Smith",
+      "granted_at": "2025-08-24T21:59:55.990643",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77783885369242,
+      "asset_name": "DJ Lonely🖤 ft. DJ Sav 🎶 🔥Reggaeton old🔥🎶",
+      "granted_at": "2025-08-24T21:59:57.518314",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101176977122106,
+      "asset_name": "DJ Lonely🖤 - mix. 1 By. Clan - RBL  ⚡",
+      "granted_at": "2025-08-24T21:59:58.907118",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101547475426910,
+      "asset_name": "DJ Lonely🖤 - ⚡Starboy vibes - Mix. 7⚡",
+      "granted_at": "2025-08-24T22:00:00.306501",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121604414381714,
+      "asset_name": "DJ Lonely🖤 - ⚡Starboy vibes - Mix. 6⚡",
+      "granted_at": "2025-08-24T22:00:01.685179",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105552508601714,
+      "asset_name": "DJ Lonely🖤 - ⚡Starboy vibes - Mix. 5⚡",
+      "granted_at": "2025-08-24T22:00:03.142280",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93465338181850,
+      "asset_name": "DJ Lonely🖤 - ⚡Starboy vibes - Mix. 4⚡",
+      "granted_at": "2025-08-24T22:00:06.088019",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124534190262747,
+      "asset_name": "💀Death Angel💀 - INTRO - 💀The Rumbling💀",
+      "granted_at": "2025-08-24T22:00:07.554246",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99997019734285,
+      "asset_name": "💀Death Angel - 👨🏽‍🎤Heavy metal mix. 1 👩🏽‍🎤",
+      "granted_at": "2025-08-24T22:00:09.043148",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107275507870923,
+      "asset_name": "DJ Lonely🖤ft Death Angel - 🤘 Rammstein mix. 2 🤘",
+      "granted_at": "2025-08-24T22:00:10.447143",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107406472981393,
+      "asset_name": "DJ Lonely🖤ft Death Angel - 🤘 Rammstein mix. 1 🤘",
+      "granted_at": "2025-08-24T22:00:11.965731",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91284715646139,
+      "asset_name": "DJ Lonely🖤 - 🤘 ♫ Disturbed Mix. 1♫ 🤘",
+      "granted_at": "2025-08-24T22:00:13.328167",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100121367958835,
+      "asset_name": "DJ Lonely🖤 - 🤘 🎸♫ System of a down Mix. 3🎸♫ 🤘",
+      "granted_at": "2025-08-24T22:00:14.736861",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87508018594254,
+      "asset_name": "DJ Lonely🖤 - 🤘 🎸♫ System of a down Mix. 2🎸♫ 🤘",
+      "granted_at": "2025-08-24T22:00:16.115660",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125701571066476,
+      "asset_name": "DJ Lonely🖤 - 🤘 🎸♫ System of a down Mix. 1🎸♫ 🤘",
+      "granted_at": "2025-08-24T22:00:17.588206",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136246056673209,
+      "asset_name": "DJ Lonely🖤 - 🤘 🎸♫ Korn mix. 2 Brutal🎸♫ 🤘",
+      "granted_at": "2025-08-24T22:00:19.081056",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79512642807130,
+      "asset_name": "DJ Lonely🖤 - 🤘 🎸♫ Korn mix. 1 Brutal🎸♫ 🤘",
+      "granted_at": "2025-08-24T22:00:20.602533",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73661136529508,
+      "asset_name": "DJ Lonely🖤 - 🤘Till Lindemann - Sport Frei!🤘",
+      "granted_at": "2025-08-24T22:00:22.007861",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90311541599941,
+      "asset_name": "DJ Lonely🖤 - ⚡🤘System Of A Down - Chop Suey!🤘⚡",
+      "granted_at": "2025-08-24T22:00:23.558682",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138606463104251,
+      "asset_name": "DJ Lonely🖤 - 🤘Bury The Light🤘",
+      "granted_at": "2025-08-24T22:00:24.944840",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91641820068762,
+      "asset_name": "DJ Lonely🖤 - 🤘Korn - Freak On a Leash🤘",
+      "granted_at": "2025-08-24T22:00:26.328494",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133059196130088,
+      "asset_name": "DJ Lonely🖤 Ft. DJ Cobra🐍 - 🔥Intro Nickelodeon🔥",
+      "granted_at": "2025-08-24T22:00:27.868331",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71718380764044,
+      "asset_name": "DJ Lonely🖤 - Drake Bell - I Found A Way ",
+      "granted_at": "2025-08-24T22:00:29.443185",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75943990357007,
+      "asset_name": "DJLonely🖤-Swae Lee, Tyga, Lil Mosey - Krabby Step",
+      "granted_at": "2025-08-24T22:00:31.648376",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98856353453461,
+      "asset_name": "DJ Lonely🖤- 🧽Spongebob - Jelly Fish Jam🧽",
+      "granted_at": "2025-08-24T22:00:33.152091",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135300986142521,
+      "asset_name": "DJ Lonely🖤- 🕺🏾💃Carrapicho Tic Tic Tac💃🕺🏾",
+      "granted_at": "2025-08-24T22:00:34.562361",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134739411537524,
+      "asset_name": "DJ Lonely🖤 - MIX 4. BRASIL AXE BAHIA 2000 🇧🇷",
+      "granted_at": "2025-08-24T22:00:36.018375",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131507789032539,
+      "asset_name": "DJ Lonely🖤 - MIX 3. BRASIL AXE BAHIA 2000 🇧🇷",
+      "granted_at": "2025-08-24T22:00:37.437737",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128805562563863,
+      "asset_name": "DJ Lonely🖤 - Bad Bunny - 🖤BAILE INoLVIDABLE🖤",
+      "granted_at": "2025-08-24T22:00:38.823168",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83789832446865,
+      "asset_name": "DJ Lonely🖤- 🧽 SpongeBob SquarePants 🧽",
+      "granted_at": "2025-08-24T22:00:40.216589",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124027111004294,
+      "asset_name": "DJ Lonely🖤- Mix. 3 🎧😄Nickelodeon😄🎧",
+      "granted_at": "2025-08-24T22:00:41.721108",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107468875671106,
+      "asset_name": "DJ Lonely🖤- 🎸🎧🔥🔥Sonne - Rammstein🔥🔥🎸🎧",
+      "granted_at": "2025-08-24T22:00:43.195056",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76401278494080,
+      "asset_name": "DJ Lonely🖤- Mix. 2 🎧😄 Nickelodeon😄🎧",
+      "granted_at": "2025-08-24T22:00:44.706622",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 140261378414888,
+      "asset_name": "DJ Lonely🖤- Mix. 1🎧😄 Nickelodeon😄🎧",
+      "granted_at": "2025-08-24T22:00:46.311518",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91249766923626,
+      "asset_name": "DJ Lonely🖤 ft DJ Ghost - 🐇bad bunny🐇",
+      "granted_at": "2025-08-24T22:00:47.951494",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82653814107686,
+      "asset_name": "DJ Lonely 🖤 - Mix 1. 🔪☠️ Witch House🔪 ☠️",
+      "granted_at": "2025-08-24T22:00:49.317478",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105327211331443,
+      "asset_name": "DJ Lonely 🖤 - 💣LINKIN PARK Best Hits .4💣",
+      "granted_at": "2025-08-24T22:00:50.814266",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82797706103770,
+      "asset_name": "DJ Lonely 🖤 - 💣LINKIN PARK Best Hits .3💣",
+      "granted_at": "2025-08-24T22:00:52.783454",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80225333268150,
+      "asset_name": "DJ Lonely 🖤 - 💣LINKIN PARK Best Hits .1💣",
+      "granted_at": "2025-08-24T22:00:54.248843",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125666211456419,
+      "asset_name": "DJ Lonely 🖤 - Chevelle - 🖤Send the Pain Below🖤",
+      "granted_at": "2025-08-24T22:00:55.750121",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71890908741492,
+      "asset_name": "DJ Lonely 🖤 - 🤠🐴Mami soy tu Vaquero🐴🤠",
+      "granted_at": "2025-08-24T22:00:57.275896",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103333784293931,
+      "asset_name": "DJ Lonely🖤 - 🕯️Mr.Kitty - Messiah🕯️",
+      "granted_at": "2025-08-24T22:00:58.659836",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129832656981117,
+      "asset_name": "DJ Lonely🖤 - ❤️‍🔥 Bad Bunny - NUEVAYoL❤️‍🔥",
+      "granted_at": "2025-08-24T22:01:00.114214",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125685181442599,
+      "asset_name": "DJ Lonely🖤 - Rakim Y Ken-Y - Un Sueño",
+      "granted_at": "2025-08-24T22:01:01.517800",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99812366029462,
+      "asset_name": "DJ Lonely🖤 - Trebol Clan - ❌👫Amor Prohibido❌",
+      "granted_at": "2025-08-24T22:01:02.916291",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111334238543910,
+      "asset_name": "DJ Lonely🖤 - 🎶Yomo, Jowel, Randy - Descara 2.0🎶",
+      "granted_at": "2025-08-24T22:01:04.406843",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125310935511734,
+      "asset_name": "DJ Lonely🖤 - 💅Britney Spears💅 - Gimme More",
+      "granted_at": "2025-08-24T22:01:05.846010",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95931171472653,
+      "asset_name": "DJ Lonely🖤 - J-Balvin, Bad Bunny - QUE PRETENDES",
+      "granted_at": "2025-08-24T22:01:07.264895",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115738425198640,
+      "asset_name": "DJ Lonely🖤 -  Mix. 3 we go back to the 2000s",
+      "granted_at": "2025-08-24T22:01:08.648739",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99347870997529,
+      "asset_name": "DJ Lonely🖤 - Agua Marina Mix. 1 Cumbia",
+      "granted_at": "2025-08-24T22:01:10.163998",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77871939928542,
+      "asset_name": "JO AYA NAKAMURA 🎵🎧💃🕺🎶  By. Clan-Z1",
+      "granted_at": "2025-08-24T22:01:11.573033",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132690277623270,
+      "asset_name": "REMIX RAP FR 🎵🎧💃🕺🎶 By. Clan-Z1",
+      "granted_at": "2025-08-24T22:01:13.102045",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124858286821476,
+      "asset_name": "MARIO FRANCE X EMINEM 🎵🎧💃🕺🎶 By. Clan-Z1",
+      "granted_at": "2025-08-24T22:01:14.640689",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85063461087630,
+      "asset_name": "FOULE REMIX 🎵🎧💃🕺🎶 By. Clan-Z1",
+      "granted_at": "2025-08-24T22:01:16.200480",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76594453661887,
+      "asset_name": "DAFT PUNK MEGAMIX 🎵🎧💃🕺🎶 By. Clan-Z1",
+      "granted_at": "2025-08-24T22:01:17.719108",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125201017491404,
+      "asset_name": "DJ Lonely 🖤 - ☠️W0rd of death ☠️",
+      "granted_at": "2025-08-24T22:01:19.232804",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71100581585927,
+      "asset_name": "DJ Lonely🖤 - ✟ PROTECTION CHARM - STOIC ✟",
+      "granted_at": "2025-08-24T22:01:20.697634",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124539968505806,
+      "asset_name": "DJ Lonely🖤 - ⭐Tokio Drift ⭐TECHNO Fast⭐",
+      "granted_at": "2025-08-24T22:01:22.074821",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120596046187888,
+      "asset_name": "DJ Lonely🖤 - ⭐Just Dance ⭐TECHNO Fast⭐",
+      "granted_at": "2025-08-24T22:01:23.616878",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99004520397112,
+      "asset_name": "DJ Lonely🖤 - ⭐S&M - Rihanna⭐TECHNO Fast⭐",
+      "granted_at": "2025-08-24T22:01:25.088574",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95465317528235,
+      "asset_name": "DJ Lonely🖤 - 🥳crazy party🥳 mix .2",
+      "granted_at": "2025-08-24T22:01:26.581593",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79552392482118,
+      "asset_name": "DJ Lonely🖤 - 🥳crazy party🥳 mix .1 ",
+      "granted_at": "2025-08-24T22:01:28.107024",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91098384478280,
+      "asset_name": "DJ Lonely🖤 - 🔥TECHNO MIX. 2-  2023 🔥",
+      "granted_at": "2025-08-24T22:01:29.567417",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84362314808089,
+      "asset_name": "DJ Lonely🖤 - 🔥TECHNO MIX. 1-  2023 🔥",
+      "granted_at": "2025-08-24T22:01:30.931611",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131040302115848,
+      "asset_name": "DJ Lonely🖤 - ⚡jumpstyle vs hardstyle ⚡⚡mix. 2⚡",
+      "granted_at": "2025-08-24T22:01:32.315326",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135955066035211,
+      "asset_name": "DJ Lonely🖤 - ⚡jumpstyle vs hardstyle ⚡⚡mix. 1⚡",
+      "granted_at": "2025-08-24T22:01:33.692733",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132744361604984,
+      "asset_name": "DJ Lonely🖤 ft DJ Ghost 😎mix 2😎",
+      "granted_at": "2025-08-24T22:01:35.099051",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74004641449657,
+      "asset_name": "DJ Lonely🖤 ft DJ Ghost 😎Mix. 1😎",
+      "granted_at": "2025-08-24T22:01:36.516449",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81584188801379,
+      "asset_name": "DJ Lonely🖤 - 14. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T22:01:37.996954",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106086037154125,
+      "asset_name": "DJ Lonely🖤 - 13. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T22:01:39.468158",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121692509616279,
+      "asset_name": "DJ Lonely🖤 - 12. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T22:01:40.930661",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138154265578110,
+      "asset_name": "DJ Lonely🖤 - 11. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T22:01:42.289741",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117263262867641,
+      "asset_name": "DJ Lonely🖤 - ⚡Starboy vibes - Mix. 3⚡",
+      "granted_at": "2025-08-24T22:01:43.649722",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75852543230866,
+      "asset_name": "DJ Lonely🖤 - ⚡Starboy vibes - Mix. 2⚡",
+      "granted_at": "2025-08-24T22:01:45.176197",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71913520190220,
+      "asset_name": "DJ Lonely🖤 - Mix 11 Megamashup 2010 - 2020",
+      "granted_at": "2025-08-24T22:01:47.130649",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80545632060079,
+      "asset_name": "DJ Lonely🖤 - Mix 10 Megamashup 2010 - 2020",
+      "granted_at": "2025-08-24T22:01:48.498229",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85903792449083,
+      "asset_name": "DJ Lonely🖤 - Mix 9 Megamashup 2010 - 2020",
+      "granted_at": "2025-08-24T22:01:49.914190",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125775964396453,
+      "asset_name": "DJ Lonely🖤 - ⚡Starboy vibes - Mix. 1⚡",
+      "granted_at": "2025-08-24T22:01:51.419755",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130041072475515,
+      "asset_name": "DJ Lonely🖤 - 10. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T22:01:52.900540",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74223079103871,
+      "asset_name": "DJ Lonely🖤 - 9. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T22:01:54.378546",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90562039132861,
+      "asset_name": "DJ Lonely🖤 - 8. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T22:01:55.907808",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81081839210064,
+      "asset_name": "DJ Lonely🖤 - 7. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T22:01:58.861648",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92583872774769,
+      "asset_name": "DJ Lonely🖤 - 🚴‍♀️✝︎sped up phonk 2.✝︎🚴‍♀️",
+      "granted_at": "2025-08-24T22:02:00.320488",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93721953635195,
+      "asset_name": "DJ Lonely🖤 - 6. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T22:02:03.116999",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123890537422909,
+      "asset_name": " DJ Lonely🖤 - 5. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T22:02:04.628577",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137771007440891,
+      "asset_name": " DJ Lonely🖤 - 4. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T22:02:05.977440",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106778664457613,
+      "asset_name": " DJ Lonely🖤 - 3. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T22:02:07.458936",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121364297148357,
+      "asset_name": " DJ Lonely🖤 - 2. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T22:02:08.915414",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123986563059055,
+      "asset_name": " DJ Lonely🖤 - 1. 🎧🔊BEST MIX OF TECHNO RAVE🔊🎧",
+      "granted_at": "2025-08-24T22:02:10.399996",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139588347201390,
+      "asset_name": "DJ Lonely🖤 - MIX 2. BRASIL AXE BAHIA 2000 🇧🇷",
+      "granted_at": "2025-08-24T22:02:11.878600",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92550906200207,
+      "asset_name": "DJ Lonely🖤 - MIX 1. BRASIL AXE BAHIA 2000 🇧🇷",
+      "granted_at": "2025-08-24T22:02:13.354982",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115164000177415,
+      "asset_name": "DJ Lonely🖤 - MIX 11. 🎸ROCK LATINO 80 90 2000 🎸",
+      "granted_at": "2025-08-24T22:02:14.742137",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86880959482930,
+      "asset_name": "DJ Lonely🖤 - MIX 10. 🎸ROCK LATINO 80 90 2000 🎸",
+      "granted_at": "2025-08-24T22:02:16.279063",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119554031672524,
+      "asset_name": "DJ Lonely🖤 - MIX 9. 🎸ROCK LATINO 80 90 2000 🎸",
+      "granted_at": "2025-08-24T22:02:17.754938",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 140266108660924,
+      "asset_name": "DJ Lonely🖤 - MIX 7. 🎸ROCK LATINO 80 90 2000 🎸",
+      "granted_at": "2025-08-24T22:02:19.124535",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77806227305913,
+      "asset_name": "DJ Lonely🖤 - MIX 6. 🎸ROCK LATINO 80 90 2000 🎸",
+      "granted_at": "2025-08-24T22:02:20.486030",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129633485768184,
+      "asset_name": "DJ Lonely🖤 - MIX 5. 🎸ROCK LATINO 80 90 2000 🎸",
+      "granted_at": "2025-08-24T22:02:21.980523",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82041756728418,
+      "asset_name": "DJ Lonely🖤 - MIX 4. 🎸ROCK LATINO 80 90 2000 🎸",
+      "granted_at": "2025-08-24T22:02:23.487144",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126125824508577,
+      "asset_name": "DJ Lonely🖤 - MIX 3. 🎸ROCK LATINO 80 90 2000 🎸",
+      "granted_at": "2025-08-24T22:02:24.844602",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106390382963892,
+      "asset_name": "DJ Lonely🖤 - MIX 2. 🎸ROCK LATINO 80 90 2000 🎸",
+      "granted_at": "2025-08-24T22:02:26.232517",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137968297029615,
+      "asset_name": "DJ Lonely🖤 - MIX 1. 🎸ROCK LATINO 80 90 2000 🎸",
+      "granted_at": "2025-08-24T22:02:27.724132",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113100294610670,
+      "asset_name": "DJ Lonely🖤 - 🥵FloyyMenor, Cris MJ mix. 3🥵",
+      "granted_at": "2025-08-24T22:02:29.208997",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106544702064145,
+      "asset_name": "DJ Lonely🖤 - 🥵FloyyMenor, Cris MJ mix. 2🥵",
+      "granted_at": "2025-08-24T22:02:30.682216",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111310338467182,
+      "asset_name": "DJ Lonely🖤 - 🥵FloyyMenor, Cris MJ mix. 1🥵",
+      "granted_at": "2025-08-24T22:02:32.035626",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121698916814052,
+      "asset_name": "DJ Lonely🖤 - 🎧 NEOPERREO MIX VOL. 1",
+      "granted_at": "2025-08-24T22:02:33.509691",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107257221668115,
+      "asset_name": "DJ Lonely🖤 - 🎧😎Reggaeton Old School mix. 4🎧😎",
+      "granted_at": "2025-08-24T22:02:34.912233",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127763650883510,
+      "asset_name": "DJ Lonely🖤 - 🎧😎Reggaeton Old School mix. 3🎧😎",
+      "granted_at": "2025-08-24T22:02:36.383856",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74592667812206,
+      "asset_name": "DJ Lonely🖤 - 🎧😎Reggaeton Old School mix. 2🎧😎",
+      "granted_at": "2025-08-24T22:02:37.740666",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117367593349425,
+      "asset_name": "DJ Lonely🖤 - 🎧😎Reggaeton Old School mix. 1🎧😎",
+      "granted_at": "2025-08-24T22:02:39.271502",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100152730781349,
+      "asset_name": "DJ Lonely🖤 - Korn Narcissistic Cannibal",
+      "granted_at": "2025-08-24T22:02:40.778482",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104025699390133,
+      "asset_name": "DJ Lonely🖤 - Korn - Falling Away from Me",
+      "granted_at": "2025-08-24T22:02:42.335075",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71111375482045,
+      "asset_name": "DJ Lonely🖤 - Evanescence - Going Under",
+      "granted_at": "2025-08-24T22:02:43.868145",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77573440364061,
+      "asset_name": "DJ Lonely🖤 - Paint It Black",
+      "granted_at": "2025-08-24T22:02:45.370995",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99581387542117,
+      "asset_name": "DJ Lonely🖤 - Disturbed - Decadence",
+      "granted_at": "2025-08-24T22:02:46.885987",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117786660954467,
+      "asset_name": "DJ Lonely🖤 - army of me",
+      "granted_at": "2025-08-24T22:02:48.277222",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123981890049464,
+      "asset_name": "DJ Lonely🖤 - Paramore  Decode",
+      "granted_at": "2025-08-24T22:02:49.768411",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85858208827895,
+      "asset_name": "DJ Lonely🖤- 🐯 LA TIGRESA DEL ORIENTE 🐯",
+      "granted_at": "2025-08-24T22:02:51.176288",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115026649222188,
+      "asset_name": "DJ Lonely🖤 -🎧🎶 Miami - Will Smith🎶🎧",
+      "granted_at": "2025-08-24T22:02:52.580513",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123492617708511,
+      "asset_name": "DJ Lonely🖤 -  Mix. 1 we go back to the 2000s",
+      "granted_at": "2025-08-24T22:02:53.937278",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83589250163698,
+      "asset_name": "DJ Lonely🖤 -  Mix. 2 we go back to the 2000s",
+      "granted_at": "2025-08-24T22:02:55.443415",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94152601639215,
+      "asset_name": "DJ Lonely🖤 - Mix 8 Megamashup 2010 - 2020",
+      "granted_at": "2025-08-24T22:02:57.021671",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76929876040890,
+      "asset_name": "DJ Lonely🖤 - Mix 7 Megamashup 2010 - 2020",
+      "granted_at": "2025-08-24T22:02:58.516542",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90416867938431,
+      "asset_name": "DJ Lonely🖤 - Mix 6ta Megamashup 2010 - 2020",
+      "granted_at": "2025-08-24T22:03:01.450481",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87800679682868,
+      "asset_name": "DJ Lonely🖤 - Mix 5ta Megamashup 2010 - 2020",
+      "granted_at": "2025-08-24T22:03:03.385661",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127555941901604,
+      "asset_name": "DJ Lonely🖤 - Mix 4ta Megamashup 2010 - 2020",
+      "granted_at": "2025-08-24T22:03:04.787112",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127127987421205,
+      "asset_name": "DJ Lonely🖤 - Mix 3ra Megamashup 2010 - 2020",
+      "granted_at": "2025-08-24T22:03:06.314683",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78212597720176,
+      "asset_name": "DJ Lonely🖤 - Mix 2da Megamashup 2010 - 2020",
+      "granted_at": "2025-08-24T22:03:07.818727",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 70821505055158,
+      "asset_name": "DJ Lonely🖤 -  🌑🌨️ Carti mix. 1🌑🌨️",
+      "granted_at": "2025-08-24T22:03:09.204644",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97719916243332,
+      "asset_name": "DJ Lonely🖤 - 🎧🎶 1Nonly mix 3🎶🎧",
+      "granted_at": "2025-08-24T22:03:10.805262",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130734948994433,
+      "asset_name": "DJ Lonely🖤 - 🎧🎶 1Nonly mix 2🎶🎧",
+      "granted_at": "2025-08-24T22:03:12.249876",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73345369685035,
+      "asset_name": "DJ Lonely🖤 - 🎧🎶 1Nonly mix 1🎶🎧",
+      "granted_at": "2025-08-24T22:03:13.790856",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97746877000512,
+      "asset_name": "DJ Lonely🖤-  ☠️su[i]cidé squad mix. 2☠️ ",
+      "granted_at": "2025-08-24T22:03:15.257786",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82919814030079,
+      "asset_name": "DJ Lonely🖤-  ☠️su[i]cidé squad mix. 1☠️ ",
+      "granted_at": "2025-08-24T22:03:16.687580",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135961655958233,
+      "asset_name": "DJ Lonely🖤 - 🎶🎧lonely dynasty mix. 2🎶🎧",
+      "granted_at": "2025-08-24T22:03:18.337421",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86197608453473,
+      "asset_name": "DJ Lonely🖤 - 🎶🎧lonely dynasty mix. 1🎶🎧",
+      "granted_at": "2025-08-24T22:03:19.857506",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79357311224398,
+      "asset_name": "DJ Lonely🖤- 📼POST PUNK SPANISH Mix. 3📼",
+      "granted_at": "2025-08-24T22:03:21.403909",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128282797007326,
+      "asset_name": "DJ Lonely🖤- 📼POST PUNK SPANISH Mix. 2📼",
+      "granted_at": "2025-08-24T22:03:22.810779",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121008446494390,
+      "asset_name": "DJ Lonely🖤- 📼POST PUNK SPANISH Mix. 1📼",
+      "granted_at": "2025-08-24T22:03:24.325149",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86111519681365,
+      "asset_name": "DJ Lonely🖤 - Mix Sigma parte 2",
+      "granted_at": "2025-08-24T22:03:25.730798",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71453583045671,
+      "asset_name": "DJ Lonely🖤 -   hopeless romantics mix. 2 ❤️‍🩹",
+      "granted_at": "2025-08-24T22:03:27.246025",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120961206051357,
+      "asset_name": "DJ Lonely🖤 -  ❤️‍🩹hopeless romantics mix.1 ❤️‍🩹",
+      "granted_at": "2025-08-24T22:03:28.780654",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94339959470221,
+      "asset_name": "DJ Lonely🖤 - 💯SKRILLEX 💯MIX. 2🔥",
+      "granted_at": "2025-08-24T22:03:30.187855",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137313362951719,
+      "asset_name": "DJ Lonely🖤 -  🌑🌨️ Carti mix. 3🌑🌨️",
+      "granted_at": "2025-08-24T22:03:31.544971",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92182336907371,
+      "asset_name": "DJ Lonely🖤 -  🌑🌨️ Carti mix. 4🌑🌨️",
+      "granted_at": "2025-08-24T22:03:33.079861",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107219642704051,
+      "asset_name": "DJ Lonely🖤 -  🌑🌨️ Carti mix. 2🌑🌨️",
+      "granted_at": "2025-08-24T22:03:34.476015",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86924620903844,
+      "asset_name": "DJ Lonely🖤 - 😈💯👅Project X Mix.1😈💯👅",
+      "granted_at": "2025-08-24T22:03:36.000509",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137556173208866,
+      "asset_name": "DJ Lonely🖤 - 💯SKRILLEX 💯MIX. 1🔥",
+      "granted_at": "2025-08-24T22:03:37.400441",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113227857555293,
+      "asset_name": "DJ Lonely🖤 - 🖤Katy Perry - Dark Horse🖤",
+      "granted_at": "2025-08-24T22:03:38.813374",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121901652316116,
+      "asset_name": "DJ Lonely🖤 - Mix Sigma parte 1",
+      "granted_at": "2025-08-24T22:03:40.350605",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95714188160514,
+      "asset_name": "DJ Lonely🖤 - Mix Salsa parte. 3",
+      "granted_at": "2025-08-24T22:03:41.781018",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99146898290115,
+      "asset_name": "DJ Lonely🖤 - Mix Salsa parte. 2",
+      "granted_at": "2025-08-24T22:03:43.304902",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123195535078314,
+      "asset_name": "DJ Lonely🖤 - Mix Salsa parte. 1",
+      "granted_at": "2025-08-24T22:03:44.738472",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88461598802675,
+      "asset_name": "DJ Lonely🖤 - 🚴‍♀️✝︎sped up phonk 1✝︎🚴‍♀️",
+      "granted_at": "2025-08-24T22:03:46.268555",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90041402215067,
+      "asset_name": "DJ Lonely🖤 - ✝︎Travis Scott✝︎🔊🎶🎶💥3ra.",
+      "granted_at": "2025-08-24T22:03:47.682459",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129330690535820,
+      "asset_name": "DJ Lonely🖤 - ✝︎Travis Scott✝︎🔊🎶🎶💥2da.",
+      "granted_at": "2025-08-24T22:03:49.185559",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71757031693532,
+      "asset_name": "DJ Lonely🖤 - ✝︎Travis Scott✝︎🔊🎶🎶💥 1ra.",
+      "granted_at": "2025-08-24T22:03:50.590523",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 89120292959859,
+      "asset_name": "DJ Lonely🖤 - MIX 👄AMBIENTE 1👄MmmmFF",
+      "granted_at": "2025-08-24T22:03:52.088405",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99335282444085,
+      "asset_name": "DJ Lonely🖤 - Mix  Can't Handle Me ",
+      "granted_at": "2025-08-24T22:03:53.546398",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97535460877647,
+      "asset_name": "DJ Lonely🖤 - Mix 1ra Megamashup 2010 - 2020 ",
+      "granted_at": "2025-08-24T22:03:55.048406",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82439478617666,
+      "asset_name": "DJ Lonely🖤 - 🎶Electro & House 8va parte🎶",
+      "granted_at": "2025-08-24T22:03:56.424055",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92961833745760,
+      "asset_name": "DJ Lonely🖤 - 🎶Electro & House 7ma parte🎶",
+      "granted_at": "2025-08-24T22:03:57.820683",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83211008860497,
+      "asset_name": "DJ Lonely🖤 - 🎶Electro & House 6ta parte🎶",
+      "granted_at": "2025-08-24T22:03:59.230672",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120190467532293,
+      "asset_name": "DJ Lonely🖤 - 🎶Electro & House 5ta parte🎶",
+      "granted_at": "2025-08-24T22:04:00.790878",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85991834043940,
+      "asset_name": "DJ Lonely🖤 - 🎶Electro & House 4ta parte🎶",
+      "granted_at": "2025-08-24T22:04:02.302057",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129287167886499,
+      "asset_name": "DJ Lonely🖤 - 🎶Electro & House 3ra parte🎶",
+      "granted_at": "2025-08-24T22:04:03.705118",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132564294394202,
+      "asset_name": "DJ Lonely🖤 - 🎶Electro & House 2da parte🎶",
+      "granted_at": "2025-08-24T22:04:05.221209",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105315548999234,
+      "asset_name": "DJ Lonely🖤 - 🎶Electro & House 1ra parte🎶",
+      "granted_at": "2025-08-24T22:04:06.620054",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123570892057734,
+      "asset_name": "DJ Lonely🖤 - 🎶los mejores hits 2da parte🎶",
+      "granted_at": "2025-08-24T22:04:08.030551",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79539503570334,
+      "asset_name": "DJ Lonely🖤 - 🎶los mejores hits🎶",
+      "granted_at": "2025-08-24T22:04:09.645063",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94108442084395,
+      "asset_name": "DJ Lonely🖤 - ⭐Bad⭐",
+      "granted_at": "2025-08-24T22:04:11.164473",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127620023214654,
+      "asset_name": "DJ Lonely🖤 - 🤠Lovers On The Sun🤠",
+      "granted_at": "2025-08-24T22:04:12.694761",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115735034557638,
+      "asset_name": "DJ Lonely🖤 - lml🔥☠️Self Vs. Self 🔥☠️lml",
+      "granted_at": "2025-08-24T22:04:14.089829",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86284489393601,
+      "asset_name": "DJ Lonely🖤 - 🔥You Say Run🔥",
+      "granted_at": "2025-08-24T22:04:15.497609",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129004282325895,
+      "asset_name": "DJ Lonely🖤 - 🔥GOD Ascension🔥",
+      "granted_at": "2025-08-24T22:04:16.871709",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76977849954198,
+      "asset_name": "DJ Lonely🖤 - 🔥GOD COMPLEX🔥",
+      "granted_at": "2025-08-24T22:04:18.434943",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85539334576720,
+      "asset_name": "DJ Lonely🖤- ☠️My Soldiers Rage 2☠️",
+      "granted_at": "2025-08-24T22:04:19.966369",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123691210707332,
+      "asset_name": "DJ Lonely🖤- ☠️My Soldiers Rage☠️",
+      "granted_at": "2025-08-24T22:04:21.367740",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139552156471779,
+      "asset_name": "DJ Lonely🖤 - 👄Lil Nas X, Katy Perry👄",
+      "granted_at": "2025-08-24T22:04:22.775500",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124833090456574,
+      "asset_name": "DJ - Lonely🖤 - 😼 Mix Old 5ta parte Jowel y Randy",
+      "granted_at": "2025-08-24T22:04:24.179801",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137454874967176,
+      "asset_name": "DJ - Lonely🖤 - 😼 Mix Old 4ta parte Jowel y Randy",
+      "granted_at": "2025-08-24T22:04:25.740883",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119615144356347,
+      "asset_name": "DJ - Lonely🖤 - 😼 Mix Old 3ra parte Jowel y Randy",
+      "granted_at": "2025-08-24T22:04:27.260462",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109445099977216,
+      "asset_name": "DJ - Lonely🖤 - 😼 Mix Old 2da parte Jowel y Randy",
+      "granted_at": "2025-08-24T22:04:28.658582",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83098616233344,
+      "asset_name": "DJ Lonely🖤 - 😎METAMORPHOSIS😎",
+      "granted_at": "2025-08-24T22:04:30.188986",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137158871242337,
+      "asset_name": "DJ Lonely🖤 - 😎END OF THE WORLD😎",
+      "granted_at": "2025-08-24T22:04:31.745719",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128654967338444,
+      "asset_name": "DJ Lonely🖤 - ❤️‍🩹help_urself 2❤️‍🩹",
+      "granted_at": "2025-08-24T22:04:33.273179",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92664223722731,
+      "asset_name": "DJ Lonely🖤 - ☠️SILENT DEATH☠️",
+      "granted_at": "2025-08-24T22:04:34.799653",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117919797908891,
+      "asset_name": "DJ - Lonely🖤 - 😼 Mix Old 1ra parte Jowel y Randy",
+      "granted_at": "2025-08-24T22:04:36.201324",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113372945986983,
+      "asset_name": "DJ - Lonely🖤 - 🤯W0RLDWlDE CRlSlS🤯",
+      "granted_at": "2025-08-24T22:04:37.807550",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97446019538932,
+      "asset_name": "DJ - Lonely🖤 - 🤫Yo no fui🤫",
+      "granted_at": "2025-08-24T22:04:39.242889",
+      "status": "newly_granted"
+    }
+  ]
+}
