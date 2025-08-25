@@ -11,6 +11,678 @@
   },
   "permissions_granted": [
     {
+      "asset_id": 119098659943942,
+      "asset_name": "DJ Saigo - Hardtekk - Vielleicht Vielleicht",
+      "granted_at": "2025-08-24T22:49:44.893215",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101894301972742,
+      "asset_name": "DJ Saigo - Stronger ",
+      "granted_at": "2025-08-24T22:49:46.449794",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134128817321246,
+      "asset_name": "DJ Saigo - Lo Poco Que Me Quejo - (Techno bounce)",
+      "granted_at": "2025-08-24T22:49:47.972795",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83023613308497,
+      "asset_name": "DJ Saigo - Discipline - Hardcore",
+      "granted_at": "2025-08-24T22:49:49.722013",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118543069390454,
+      "asset_name": "DJ Saigo - Soupe De Frenchcore - Venom",
+      "granted_at": "2025-08-24T22:49:51.274417",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113569470230204,
+      "asset_name": "DJ Saigo - El Sonidito - House",
+      "granted_at": "2025-08-24T22:49:52.952985",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99161169385204,
+      "asset_name": "DJ Saigo - Mora Ft Yovngchimi - Modelito",
+      "granted_at": "2025-08-24T22:49:54.542544",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85834570329870,
+      "asset_name": "DJ Saigo - Fireflies (Ephoric Hardstyle)",
+      "granted_at": "2025-08-24T22:49:56.106914",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115094932290458,
+      "asset_name": "DJ Saigo - Ritmo Frenchcore x LSD PROBLEM",
+      "granted_at": "2025-08-24T22:49:57.654781",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83032834315060,
+      "asset_name": "DJ Saigo - Meet Her At Love Parade - Hardcore",
+      "granted_at": "2025-08-24T22:49:59.312663",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100235967860323,
+      "asset_name": "DJ Saigo - Human error (Techno Bounce)",
+      "granted_at": "2025-08-24T22:50:00.859745",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105362359874305,
+      "asset_name": "DJ Saigo - Eins Zwei - Zapravka",
+      "granted_at": "2025-08-24T22:50:02.495361",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91721268712966,
+      "asset_name": "DJ Saigo - Still Happy (Ephoric Hardstyle)",
+      "granted_at": "2025-08-24T22:50:04.063846",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111352434293149,
+      "asset_name": "DJ Saigo - Story Of My Life - Frenchcore",
+      "granted_at": "2025-08-24T22:50:05.625083",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76684591656966,
+      "asset_name": "DJ Saigo - Italy Frenchcore x France Frenchcore",
+      "granted_at": "2025-08-24T22:50:07.277928",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123349180569022,
+      "asset_name": "DJ Saigo - Bruno Power - ITALY",
+      "granted_at": "2025-08-24T22:50:09.064103",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138861012954813,
+      "asset_name": "DJ Saigo Танцуй",
+      "granted_at": "2025-08-24T22:50:10.732012",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129907360365388,
+      "asset_name": "DJ Saigo - Slow Broken Ties - Frenchcore",
+      "granted_at": "2025-08-24T22:50:12.285901",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125210057411219,
+      "asset_name": "DJ Saigo - I Wanna Play Remix (Hardcore)",
+      "granted_at": "2025-08-24T22:50:13.873099",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74972686076491,
+      "asset_name": "DJ Saigo - The Masters Of Hardcore Monster Mashup",
+      "granted_at": "2025-08-24T22:50:15.556124",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127066788668141,
+      "asset_name": "DJ Saigo - Straight To The Core x DJ Paul Hardcore",
+      "granted_at": "2025-08-24T22:50:17.224798",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110937143149191,
+      "asset_name": "DJ Saigo - Hardcore Uptempo Xtreme",
+      "granted_at": "2025-08-24T22:50:18.904000",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93158934973171,
+      "asset_name": "DJ Saigo - Proyect Bouncer (Hardstyle)",
+      "granted_at": "2025-08-24T22:50:20.461469",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115528526228876,
+      "asset_name": "DJ Saigo - Rave Cultur Uptempo bounce ",
+      "granted_at": "2025-08-24T22:50:22.140006",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92154068258606,
+      "asset_name": "DJ Saigo - Early Gabber Vibe Colombia",
+      "granted_at": "2025-08-24T22:50:23.704542",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99380786200394,
+      "asset_name": "DJ Saigo - Tierra Mala (Vallenato)",
+      "granted_at": "2025-08-24T22:50:25.564547",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 70926342403447,
+      "asset_name": "DJ Saigo - No Voy a Llorar (Vallenato)",
+      "granted_at": "2025-08-24T22:50:27.241680",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102285497537438,
+      "asset_name": "DJ Saigo - Oh Que Sera (Salsa)",
+      "granted_at": "2025-08-24T22:50:28.911958",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91183180756062,
+      "asset_name": "DJ Saigo - El Santo Cach/on (Vallenato)",
+      "granted_at": "2025-08-24T22:50:30.457849",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112933765768674,
+      "asset_name": "DJ Saigo - Tres Noches (Vallenato)",
+      "granted_at": "2025-08-24T22:50:32.136362",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96546433607093,
+      "asset_name": "DJ Saigo - Sickmode - To Happy",
+      "granted_at": "2025-08-24T22:50:33.811537",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80860399434470,
+      "asset_name": "DJ Saigo - Sickmode - One And Only",
+      "granted_at": "2025-08-24T22:50:35.384124",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130351980758826,
+      "asset_name": "DJ Saigo - Sickmode - Go Stupid",
+      "granted_at": "2025-08-24T22:50:37.130650",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118665372546110,
+      "asset_name": "DJ Saigo - Xtreme Hardcore ",
+      "granted_at": "2025-08-24T22:50:38.661282",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79417490653159,
+      "asset_name": "DJ Saigo - 7 Locas (Dembow)",
+      "granted_at": "2025-08-24T22:50:40.352392",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127591915560438,
+      "asset_name": "DJ Saigo - No Tiene Sentido",
+      "granted_at": "2025-08-24T22:50:42.028046",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73687006396145,
+      "asset_name": "DJ Saigo - Si Te Pillara",
+      "granted_at": "2025-08-24T22:50:43.718420",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93455881806991,
+      "asset_name": "DJ Saigo - Mashup Hardcore",
+      "granted_at": "2025-08-24T22:50:45.284674",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86464737376172,
+      "asset_name": "DJ Saigo - Major Bounce (Hardcore)",
+      "granted_at": "2025-08-24T22:50:46.862518",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98013072676511,
+      "asset_name": "DJ Saigo - Bang Bang ",
+      "granted_at": "2025-08-24T22:50:48.412050",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88696303174649,
+      "asset_name": "DJ Saigo - Locked Out Of Heaven (Hardstyle)",
+      "granted_at": "2025-08-24T22:50:50.087467",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73400455886173,
+      "asset_name": "DJ Saigo - Kimetsu no Yaiba (Hardstyle)",
+      "granted_at": "2025-08-24T22:50:51.763839",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97024647080190,
+      "asset_name": "DJ Saigo - Techno Bounce ",
+      "granted_at": "2025-08-24T22:50:53.338354",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129864793063495,
+      "asset_name": "DJ Saigo - HARDCORE MF - KICK GABBER",
+      "granted_at": "2025-08-24T22:50:55.091661",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116741880641820,
+      "asset_name": "DJ Deadmon FT Saigo (TERROR X GABBER)",
+      "granted_at": "2025-08-24T22:50:56.678596",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136902069487124,
+      "asset_name": "DJ Deadmon FT Saigo (FRENCHCORE X HARDCORE)",
+      "granted_at": "2025-08-24T22:50:58.239652",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98900150778847,
+      "asset_name": "DJ Saigo - Samurai (Hardtechno)",
+      "granted_at": "2025-08-24T22:50:59.800877",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111472519995168,
+      "asset_name": "DJ Saigo - Gravity Falls (Hardstyle)",
+      "granted_at": "2025-08-24T22:51:01.368414",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106722464082859,
+      "asset_name": "DJ Saigo - Kygo - Firestone (Hardstyle)",
+      "granted_at": "2025-08-24T22:51:02.937336",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100097708369548,
+      "asset_name": "DJ Saigo - Boom Kick - Rawstyle",
+      "granted_at": "2025-08-24T22:51:04.678254",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72516369524927,
+      "asset_name": "DJ Saigo - Uptempo bounce ",
+      "granted_at": "2025-08-24T22:51:06.387945",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113963785034195,
+      "asset_name": "DJ Saigo - Party Rock Anthem - Rawstyle",
+      "granted_at": "2025-08-24T22:51:08.703341",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132921714294021,
+      "asset_name": "DJ Saigo - Gravity falls X The Simpsons (DUSTEP)",
+      "granted_at": "2025-08-24T22:51:10.331618",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87191322960397,
+      "asset_name": "DJ Saigo - Sky (HARDTECHNO)",
+      "granted_at": "2025-08-24T22:51:11.933540",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135210641810623,
+      "asset_name": "DJ Saigo - Mix Duki x Khea ",
+      "granted_at": "2025-08-24T22:51:13.557979",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107549170442985,
+      "asset_name": "DJ Saigo - Ba Ba Bad Remix - Ryan Cas/tro",
+      "granted_at": "2025-08-24T22:51:15.182137",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139101487125359,
+      "asset_name": "DJ Saigo - Una Noche De Locura - Blessed",
+      "granted_at": "2025-08-24T22:51:16.816811",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129245407880067,
+      "asset_name": "DJ Saigo - Una Co/pa Mas - Los Pibes Chorros",
+      "granted_at": "2025-08-24T22:51:18.342198",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129914157241077,
+      "asset_name": "DJ Saigo - Capaz (Merengueton) Alleh Y Yorghaki",
+      "granted_at": "2025-08-24T22:51:19.959900",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109647462754398,
+      "asset_name": "DJ Saigo - Alleh y Yorghaki - El Ingeniero ",
+      "granted_at": "2025-08-24T22:51:21.464109",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100186775688834,
+      "asset_name": "DJ Saigo - Real Thunder (THUNDERDOME)",
+      "granted_at": "2025-08-24T22:51:22.977970",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120521340051135,
+      "asset_name": "⚡DJ Saigo - Thunderdome - False IDOL ⚡",
+      "granted_at": "2025-08-24T22:51:24.492778",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98075625001705,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. XXVII 💊",
+      "granted_at": "2025-08-24T22:51:26.050837",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127018339220366,
+      "asset_name": "⚡DJ Saigo - Thunderdome - From The Future ⚡",
+      "granted_at": "2025-08-24T22:51:27.734017",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72351959656753,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. XXVI 💊",
+      "granted_at": "2025-08-24T22:51:29.365963",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91236863033298,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. XXV 💊",
+      "granted_at": "2025-08-24T22:51:30.865958",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107098236869706,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. XXIV 💊",
+      "granted_at": "2025-08-24T22:51:32.525446",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81487100576581,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. XXIII 💊",
+      "granted_at": "2025-08-24T22:51:34.017206",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105351765240132,
+      "asset_name": "⚡DJ Saigo - Thunderdome - Rave Machine ⚡",
+      "granted_at": "2025-08-24T22:51:35.555787",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115097091725195,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. XXII 💊",
+      "granted_at": "2025-08-24T22:51:37.078720",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115561881328230,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. XXI 💊",
+      "granted_at": "2025-08-24T22:51:38.592571",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85557163776587,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. XX 💊",
+      "granted_at": "2025-08-24T22:51:40.097931",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117213663355079,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. XIX 💊",
+      "granted_at": "2025-08-24T22:51:41.620551",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131606124729637,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. XVIII 💊",
+      "granted_at": "2025-08-24T22:51:43.153578",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103041894299150,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. XVII 💊",
+      "granted_at": "2025-08-24T22:51:44.699020",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101911196654502,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. XVI 💊",
+      "granted_at": "2025-08-24T22:51:46.423939",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95363000116739,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. XV 💊",
+      "granted_at": "2025-08-24T22:51:48.043107",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93039495725047,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. XIV 💊",
+      "granted_at": "2025-08-24T22:51:49.664396",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95537400793494,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. XIII 💊",
+      "granted_at": "2025-08-24T22:51:51.282192",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81473500323881,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. XII 💊",
+      "granted_at": "2025-08-24T22:51:52.916765",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85745595438579,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. XI 💊",
+      "granted_at": "2025-08-24T22:51:54.547855",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103954071741533,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. X 💊",
+      "granted_at": "2025-08-24T22:51:56.201673",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132544042398555,
+      "asset_name": "DJ Saigo Ruthless Rhythms Vol. IX 💊",
+      "granted_at": "2025-08-24T22:51:57.807059",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92914440126419,
+      "asset_name": "DJ Saigo Ruthless Rhythms Vol. VIII 💊",
+      "granted_at": "2025-08-24T22:51:59.374446",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130394298021828,
+      "asset_name": "DJ Saigo Ruthless Rhythms Vol. VII 💊",
+      "granted_at": "2025-08-24T22:52:00.879739",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103727600804025,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. VI 💊",
+      "granted_at": "2025-08-24T22:52:02.431460",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 70705194823247,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. V 💊",
+      "granted_at": "2025-08-24T22:52:04.046900",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108958788116030,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. IV 💊",
+      "granted_at": "2025-08-24T22:52:05.730580",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94793118961525,
+      "asset_name": "⚡DJ Saigo - Thunderdome - How To Survive In 2025 ⚡",
+      "granted_at": "2025-08-24T22:52:07.221615",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 89746039164700,
+      "asset_name": "DJ Deadmon ft Saigo - Ruthless Rhythms Vol. III 💊",
+      "granted_at": "2025-08-24T22:52:08.842607",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119806658951985,
+      "asset_name": "DJ Saigo - Ruthless Rhythms Vol. II 💊",
+      "granted_at": "2025-08-24T22:52:10.475440",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132144630152231,
+      "asset_name": "DJ Deadmon ft Saigo - Ruthless Rhythms Vol. I 💊",
+      "granted_at": "2025-08-24T22:52:11.982050",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78484135645865,
+      "asset_name": "DJei || ETE COCO - ARLENE MC",
+      "granted_at": "2025-08-24T22:52:13.532490",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121462898013543,
+      "asset_name": "DJei || M4M4Z0T4 - ARLENE MC",
+      "granted_at": "2025-08-24T22:52:15.086607",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124666862587407,
+      "asset_name": "DJ Saigo - Кислый данс - Zapravka 🇷🇺",
+      "granted_at": "2025-08-24T22:52:16.710724",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87953432910776,
+      "asset_name": "DJ Saigo 3 Per Dose 🇷🇺",
+      "granted_at": "2025-08-24T22:52:18.343985",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137755073451346,
+      "asset_name": "🕹️DJ Saigo - Hardtrance 3 🕹️",
+      "granted_at": "2025-08-24T22:52:19.972339",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82456220610019,
+      "asset_name": "⚡DJ Saigo - Thunderdome - Prophecy 2019 ⚡",
+      "granted_at": "2025-08-24T22:52:21.602898",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103731091001299,
+      "asset_name": "DJ Saigo - Самурай - Zapravka 🇷🇺",
+      "granted_at": "2025-08-24T22:52:23.125426",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101923085100890,
+      "asset_name": "DJ Saigo - ЗАВОД - Zapravka 🇷🇺",
+      "granted_at": "2025-08-24T22:52:24.670653",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124404399873232,
+      "asset_name": "🎉DJ Saigo - Set Guaracha 1 🎉",
+      "granted_at": "2025-08-24T22:52:26.466075",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73442168430306,
+      "asset_name": "⚡DJ Saigo - Thunderdome - Dissis ⚡",
+      "granted_at": "2025-08-24T22:52:27.971786",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105107617074868,
+      "asset_name": "DJ Saigo - La Fama - Destro 🧿",
+      "granted_at": "2025-08-24T22:52:29.601483",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135532220759840,
+      "asset_name": "🎉DJ Saigo - Set Guaracha 2 🎉",
+      "granted_at": "2025-08-24T22:52:31.243870",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74250935649969,
+      "asset_name": "DJ Saigo - Product Of The Street 🧿",
+      "granted_at": "2025-08-24T22:52:32.859854",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127273590474750,
+      "asset_name": "DJ Saigo - Throw It Back 🧿",
+      "granted_at": "2025-08-24T22:52:34.395752",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123047689667185,
+      "asset_name": "DJ Saigo - That Acid 🧿",
+      "granted_at": "2025-08-24T22:52:35.914222",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121779650543286,
+      "asset_name": "DJ Saigo - Techno Vip - Zapravka 🇷🇺",
+      "granted_at": "2025-08-24T22:52:37.543226",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85861789136973,
+      "asset_name": "DJ Saigo - Elektric ⚡",
+      "granted_at": "2025-08-24T22:52:39.042680",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84985560150917,
+      "asset_name": "🤌DJ Saigo - Volevi Solo IL Basso 🇮🇹",
+      "granted_at": "2025-08-24T22:52:40.635433",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93852353346612,
+      "asset_name": "🍕DJ Saigo - Pasta Pizza Mandolino 🇮🇹",
+      "granted_at": "2025-08-24T22:52:42.143953",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134248313109790,
+      "asset_name": "DJ Saigo - I Fink U Freeky 🧿",
+      "granted_at": "2025-08-24T22:52:43.789728",
+      "status": "newly_granted"
+    },
+    {
       "asset_id": 74132179650580,
       "asset_name": "DJ Saigo - Squid Game (HARDSTYLE)",
       "granted_at": "2025-07-25T21:41:31.750706",
