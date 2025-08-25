@@ -10,6 +10,540 @@
     "name": "Two Chiquilines"
   },
   "permissions_granted": [
+        {
+      "asset_id": 90835040671747,
+      "asset_name": "🪩 MC TONIGHT EVENT 🪩",
+      "granted_at": "2025-08-24T22:28:14.645981",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132139607829440,
+      "asset_name": "DJ GUN - Vida Ganster x Yo por ti Mashup",
+      "granted_at": "2025-08-24T22:28:16.224711",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127655140562824,
+      "asset_name": "DJ GUN - Donde estan las gatas Mashup",
+      "granted_at": "2025-08-24T22:28:17.888575",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115397911362717,
+      "asset_name": "DJ GUN - Hey ma x Gargola Mashup",
+      "granted_at": "2025-08-24T22:28:19.576430",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119586949076031,
+      "asset_name": "DJ GUN - Mercho x Armonia 10 Mashup",
+      "granted_at": "2025-08-24T22:28:21.269947",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74579922852936,
+      "asset_name": "DJ GUN - Hasta abajo Mashup",
+      "granted_at": "2025-08-24T22:28:22.847110",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97794646321542,
+      "asset_name": "DJ GUN - Dile que yo quiero bailar Mashup",
+      "granted_at": "2025-08-24T22:28:24.522366",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120134549728421,
+      "asset_name": "BRAINRO EVENT CONCERT - DJ GUN",
+      "granted_at": "2025-08-24T22:28:26.083987",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106458917904037,
+      "asset_name": "DJ GUN - No te veo Mashup",
+      "granted_at": "2025-08-24T22:28:27.771182",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105958879034670,
+      "asset_name": "DJ GUN - Acercate Bandida 😈",
+      "granted_at": "2025-08-24T22:28:29.329680",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98587136430083,
+      "asset_name": "🦀 Crab Rave EVENT 🦀 - DJ GUN 🦀",
+      "granted_at": "2025-08-24T22:28:31.015661",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105083684700068,
+      "asset_name": "🌮 RAINING TACOS EVENT 🌮- DJ GUN 🌮",
+      "granted_at": "2025-08-24T22:28:32.608085",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107348382084629,
+      "asset_name": "DJ GUN - WICKED MIX 😈",
+      "granted_at": "2025-08-24T22:28:34.307643",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132749093257061,
+      "asset_name": "DJ GUN -  El Fin del Karma Vol. 5 😈🔥",
+      "granted_at": "2025-08-24T22:28:35.867243",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96094777570114,
+      "asset_name": "DJ GUN -  El Fin del Karma Vol. 3 😈🔥",
+      "granted_at": "2025-08-24T22:28:37.436508",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72240865227524,
+      "asset_name": "DJ GUN -  El Fin del Karma Vol. 2 😈🔥",
+      "granted_at": "2025-08-24T22:28:39.122074",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76585792008933,
+      "asset_name": "DJ GUN -  El Fin del Karma Vol. 4 😈🔥",
+      "granted_at": "2025-08-24T22:28:40.705982",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127267370208146,
+      "asset_name": "DJ GUN -  El Fin del Karma Vol. 1 😈🔥",
+      "granted_at": "2025-08-24T22:28:42.209787",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80862503788587,
+      "asset_name": "DJ GUN - Capaz",
+      "granted_at": "2025-08-24T22:28:43.878450",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133686435305108,
+      "asset_name": "Dj Gun ft Dj Ghost - Se Portal Mal",
+      "granted_at": "2025-08-24T22:28:45.464363",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104531204008214,
+      "asset_name": "Dj Gun ft Dj Ghost - Chichi Mix",
+      "granted_at": "2025-08-24T22:28:47.026329",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100247786790006,
+      "asset_name": "DJ GUN ft DJ GHOST - Taladro",
+      "granted_at": "2025-08-24T22:28:48.583435",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138224399917993,
+      "asset_name": "DJ GUN - Candy Shop Mashup",
+      "granted_at": "2025-08-24T22:28:50.316489",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102546320058585,
+      "asset_name": "DJ GUN - Linda flor vs Shorty Mashup",
+      "granted_at": "2025-08-24T22:28:51.881972",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104246818943108,
+      "asset_name": "DJ GUN - Descontrol Mashup",
+      "granted_at": "2025-08-24T22:28:53.576127",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86798637863200,
+      "asset_name": "DJ GUN - Raining Tacos",
+      "granted_at": "2025-08-24T22:28:55.423385",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80116687366640,
+      "asset_name": "DJ GUN - INICIO PURGA",
+      "granted_at": "2025-08-24T22:28:57.114145",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105738752205219,
+      "asset_name": "DJ GUN - Saoko",
+      "granted_at": "2025-08-24T22:28:58.806189",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110673572844639,
+      "asset_name": "Vilkata ",
+      "granted_at": "2025-08-24T22:29:00.479194",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115633114180910,
+      "asset_name": "DJ GUN -  One More Night x Dile a tu amiga Mashup",
+      "granted_at": "2025-08-24T22:29:02.080567",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138363551641146,
+      "asset_name": "DJ GUN -  Tu Principe Mashup",
+      "granted_at": "2025-08-24T22:29:03.642108",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136191772905141,
+      "asset_name": "DJ GUN - TQG X Hola Mashup",
+      "granted_at": "2025-08-24T22:29:05.336637",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106130487950737,
+      "asset_name": "DJ GUN - a3Mashup",
+      "granted_at": "2025-08-24T22:29:06.882584",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109966541649730,
+      "asset_name": "Dj Gun -  10 Y 35 Tiesto (Hardstyle)",
+      "granted_at": "2025-08-24T22:29:08.447099",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83420474528687,
+      "asset_name": "Dj Gun -  rock civilization technoboy Underground",
+      "granted_at": "2025-08-24T22:29:09.976593",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100694175570688,
+      "asset_name": "Dj Gun -  Anthem 2012 🧿🦋",
+      "granted_at": "2025-08-24T22:29:11.526265",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139111442909477,
+      "asset_name": "Dj Gun - PSYCHO DREAMS (HARDSTYLE)",
+      "granted_at": "2025-08-24T22:29:13.143615",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77092002505278,
+      "asset_name": "Dj Gun -  Lo que paso x Rumbaton MASHUP",
+      "granted_at": "2025-08-24T22:29:14.786349",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123841109666337,
+      "asset_name": "Dj Gun - Ella no es tuya",
+      "granted_at": "2025-08-24T22:29:16.494158",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129651710203721,
+      "asset_name": "Dj Gun -  Playa x Got Us MASHUP",
+      "granted_at": "2025-08-24T22:29:18.046697",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134368054273747,
+      "asset_name": "DJ GUN - Danza Kuduro Mashup🥳",
+      "granted_at": "2025-08-24T22:29:19.583797",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127721823844011,
+      "asset_name": "DJ GUN - Gold Digger x Bel Mercy Mashup🥳",
+      "granted_at": "2025-08-24T22:29:21.164660",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122354086987202,
+      "asset_name": "DJ GUN - MIX Britney 💃🏻",
+      "granted_at": "2025-08-24T22:29:22.672297",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79404383970884,
+      "asset_name": "DJ GUN - LLORARAS 💃🏻",
+      "granted_at": "2025-08-24T22:29:24.213599",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98066846513764,
+      "asset_name": "DJ GUN - AGUANILE 💃🏻",
+      "granted_at": "2025-08-24T22:29:25.875030",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 70417233040173,
+      "asset_name": "DJ GUN - UN VERANO EN NUEVA YORK 💃🏻",
+      "granted_at": "2025-08-24T22:29:27.402692",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134288484352285,
+      "asset_name": "DJ GUN - NIRVANA MIX 🎸",
+      "granted_at": "2025-08-24T22:29:28.956813",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100060170716098,
+      "asset_name": "DJ GUN - Kiss - I was made for lv 🎸",
+      "granted_at": "2025-08-24T22:29:30.504619",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128075518713930,
+      "asset_name": "DJ GUN - MIX ACDC VOL3 🎸",
+      "granted_at": "2025-08-24T22:29:32.150895",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94415201150679,
+      "asset_name": "DJ GUN - MIX ACDC VOL1 🎸",
+      "granted_at": "2025-08-24T22:29:33.796495",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94564521469280,
+      "asset_name": "DJ GUN - MIX ACDC VOL2 🎸",
+      "granted_at": "2025-08-24T22:29:35.625685",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94571827892604,
+      "asset_name": "DJ GUN - MIX BON JOVI VOL2 🎸",
+      "granted_at": "2025-08-24T22:29:37.177881",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134115134132947,
+      "asset_name": "DJ GUN - MIX BON JOVI VOL1 🎸",
+      "granted_at": "2025-08-24T22:29:38.751539",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79626587423152,
+      "asset_name": "Dj Gun -  Love Story - Indila (Hardstyle) 🔥",
+      "granted_at": "2025-08-24T22:29:40.298431",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86811471616798,
+      "asset_name": "Dj Gun - BEST TOMORROWLAND Vol. 12 🦋",
+      "granted_at": "2025-08-24T22:29:41.983452",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126108153144480,
+      "asset_name": "Dj Gun - BEST TOMORROWLAND Vol. 11 🦋",
+      "granted_at": "2025-08-24T22:29:43.600781",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113888527909104,
+      "asset_name": "Dj Gun - BEST TOMORROWLAND Vol. 10 🦋",
+      "granted_at": "2025-08-24T22:29:45.334181",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100173370415429,
+      "asset_name": "Dj Gun - BEST TOMORROWLAND Vol. 9 🦋",
+      "granted_at": "2025-08-24T22:29:47.029834",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115954408835151,
+      "asset_name": "Dj Gun -  Mix Regalame una noche Mashup",
+      "granted_at": "2025-08-24T22:29:48.553338",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85570608785984,
+      "asset_name": "Dj Gun -  Secreto x Enloqueceme Mashup",
+      "granted_at": "2025-08-24T22:29:50.156357",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133144804746310,
+      "asset_name": "Dj Gun -  Rich girl vs Choca Mashup",
+      "granted_at": "2025-08-24T22:29:51.685350",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 70867075627458,
+      "asset_name": "Dj Gun -  Las mujeres Facturan vs No es culpa mia",
+      "granted_at": "2025-08-24T22:29:53.345360",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 89918942998272,
+      "asset_name": "Dj Gun -  Jeans Vs Wao Mashup",
+      "granted_at": "2025-08-24T22:29:55.028328",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80234196334057,
+      "asset_name": "Dj Gun -  Mueve vs Titi me pregunto Mashup",
+      "granted_at": "2025-08-24T22:29:56.565857",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125353834870580,
+      "asset_name": "Dj Gun -  CHAINED Yves V Dani L Tomorrowland",
+      "granted_at": "2025-08-24T22:29:58.109974",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99394329754738,
+      "asset_name": "Dj Gun - BEST TOMORROWLAND Vol. 8 🦋 ",
+      "granted_at": "2025-08-24T22:29:59.805733",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112653474780843,
+      "asset_name": "Dj Gun - BEST TOMORROWLAND Vol. 7 🦋",
+      "granted_at": "2025-08-24T22:30:01.407834",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124216651911548,
+      "asset_name": "Dj Gun - BEST TOMORROWLAND Vol. 6 🦋",
+      "granted_at": "2025-08-24T22:30:02.986865",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97353460326673,
+      "asset_name": "Dj Gun - BEST TOMORROWLAND Vol. 5 🦋",
+      "granted_at": "2025-08-24T22:30:04.575906",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139823784031461,
+      "asset_name": "Dj Gun - BEST TOMORROWLAND Vol. 4 🦋",
+      "granted_at": "2025-08-24T22:30:06.273648",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124669937206068,
+      "asset_name": "Dj Gun - BEST TOMORROWLAND Vol. 3 🦋",
+      "granted_at": "2025-08-24T22:30:07.994288",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137192391330037,
+      "asset_name": "Dj Gun - BEST TOMORROWLAND Vol. 2 🦋",
+      "granted_at": "2025-08-24T22:30:09.736557",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95373129994554,
+      "asset_name": "Dj Gun - BEST TOMORROWLAND Vol. 1 🦋",
+      "granted_at": "2025-08-24T22:30:11.346351",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137205477632707,
+      "asset_name": "Dj Ghost Ft Dj Gun - Basshunter Dota",
+      "granted_at": "2025-08-24T22:30:12.880635",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102557035811590,
+      "asset_name": "Dj Gun - Si nos Organizamos 🇦🇷 Mashup",
+      "granted_at": "2025-08-24T22:30:14.414742",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73009721324520,
+      "asset_name": "Dj Gun - Te Bote VS el Bllkeo Mashup",
+      "granted_at": "2025-08-24T22:30:16.135607",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 89056827130719,
+      "asset_name": "Dj Gun - Un Finde Mashup",
+      "granted_at": "2025-08-24T22:30:17.787976",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83862354748114,
+      "asset_name": "Dj Gun - Una Nota Mashup J. Balvin x Sech",
+      "granted_at": "2025-08-24T22:30:19.328248",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129780782356684,
+      "asset_name": "Dj Gun -  Alambre Púa Remix Electro 🔥🔥",
+      "granted_at": "2025-08-24T22:30:20.886061",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108177257193429,
+      "asset_name": "Dj Gun -  Alambre Púa Version Fiestero 🔥🔥",
+      "granted_at": "2025-08-24T22:30:22.541351",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112187275051274,
+      "asset_name": "Dj Gun -  LA DIETA DE MELISA 😈😈",
+      "granted_at": "2025-08-24T22:30:24.077862",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119898876014594,
+      "asset_name": "Dj Gun -  Gangsta Zone X John Cena MASHUP 😈😈",
+      "granted_at": "2025-08-24T22:30:25.619956",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92929808982246,
+      "asset_name": "Dj Gun -  BUGUTU MASHUP 😈😈",
+      "granted_at": "2025-08-24T22:30:27.271691",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78367813173139,
+      "asset_name": "Dj Gun -  Wiggle Vs Pase lo que pase MASHUP",
+      "granted_at": "2025-08-24T22:30:28.827843",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126423281148233,
+      "asset_name": "Dj Gun -  HOPE (HARDSTYLE)",
+      "granted_at": "2025-08-24T22:30:30.391600",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88900253008152,
+      "asset_name": "Dj Gun -  LEFT RIGHT (HARDSTYLE)",
+      "granted_at": "2025-08-24T22:30:31.926771",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97375595296782,
+      "asset_name": "Dj Gun - JUMP (HARDSTYLE)",
+      "granted_at": "2025-08-24T22:30:33.469123",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105670614084848,
+      "asset_name": "Dj Gun - Best 2010 Hardstyle",
+      "granted_at": "2025-08-24T22:30:35.010931",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83365528942613,
+      "asset_name": "Dj Gun - San Francisco (AREA31 REMIX)",
+      "granted_at": "2025-08-24T22:30:36.666420",
+      "status": "newly_granted"
+    },
     {
       "asset_id": 75631339041171,
       "asset_name": "Dj Gun - LA BEBE X BEBE 💥🔫",
