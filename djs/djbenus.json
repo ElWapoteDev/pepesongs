@@ -1,0 +1,1340 @@
+{
+  "timestamp": "2025-08-24T21:47:08.361713",
+  "operation_type": "bulk_audio",
+  "source_group": {
+    "id": 35624879,
+    "name": "DJ BENUS"
+  },
+  "target_group": {
+    "id": 33965578,
+    "name": "Two Chiquilines"
+  },
+  "permissions_granted": [
+    {
+      "asset_id": 137058883766054,
+      "asset_name": "DJ BENUS - Bajo Control 🇵🇷 🔥",
+      "granted_at": "2025-08-24T21:47:11.732400",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133762669396980,
+      "asset_name": "DJ BENUS - No es una canción de amor 🥀",
+      "granted_at": "2025-08-24T21:47:13.267215",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87797160744363,
+      "asset_name": "DJ BENUS - Vuelve 💿🔥 Bad Bunny Ft. Daddy Yankee",
+      "granted_at": "2025-08-24T21:47:14.823426",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76323309745675,
+      "asset_name": "DJ BENUS - Tu no metes cabra 😈🔥 Bad Bunny",
+      "granted_at": "2025-08-24T21:47:16.614604",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84296875808495,
+      "asset_name": "DJ BENUS - Arcangel Clásicos 💿🔥",
+      "granted_at": "2025-08-24T21:47:18.140959",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104435970343147,
+      "asset_name": "DJ BENUS - Quédate 🌴 Beéle ",
+      "granted_at": "2025-08-24T21:47:19.543947",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113962073245354,
+      "asset_name": "DJ BENUS - Hasta Abajo 🔥💿 ",
+      "granted_at": "2025-08-24T21:47:21.018451",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131407683550090,
+      "asset_name": "DJ Benus - Todavía 💿🔥 La Factoria",
+      "granted_at": "2025-08-24T21:47:22.386439",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100693256769471,
+      "asset_name": "DJ BENUS - Hay otro en mi vida 💿🔥",
+      "granted_at": "2025-08-24T21:47:24.062410",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94617474137226,
+      "asset_name": "DJ BENUS - Todo o Nada 💿🔥 Eladio Ft. Corina",
+      "granted_at": "2025-08-24T21:47:25.439799",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114341404058541,
+      "asset_name": "DJ BENUS - 3 AM 😈 Eladio Carrion Ft. Brytiago",
+      "granted_at": "2025-08-24T21:47:26.869499",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128971360149459,
+      "asset_name": "DJ BENUS - Loco 🌴 Beéle",
+      "granted_at": "2025-08-24T21:47:28.327347",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103962393137810,
+      "asset_name": "DJ BENUS - Yo y Tú ✨Beéle Ft. Quevedo",
+      "granted_at": "2025-08-24T21:47:29.758410",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115345517089511,
+      "asset_name": "DJ BENUS - Obsesion 💃🔥",
+      "granted_at": "2025-08-24T21:47:31.158120",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113705122437315,
+      "asset_name": "DJ Benus  - Su Veneno 💃🔥",
+      "granted_at": "2025-08-24T21:47:32.562257",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83437559545182,
+      "asset_name": "DJ BENUS - Tu ❤️ me hace bien ",
+      "granted_at": "2025-08-24T21:47:34.041390",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71932001447101,
+      "asset_name": "DJ BENUS - Deseandote 💃🔥",
+      "granted_at": "2025-08-24T21:47:35.558417",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96499311951598,
+      "asset_name": "DJ BENUS - Nada sin ti 💃🔥",
+      "granted_at": "2025-08-24T21:47:37.052150",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116861104489608,
+      "asset_name": "DJ BENUS - WISIN & YANDEL 💿🔥",
+      "granted_at": "2025-08-24T21:47:38.542190",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114766092328416,
+      "asset_name": "DJ BENUS - APROVECHALO 👽🔥 WISIN Y YANDEL",
+      "granted_at": "2025-08-24T21:47:39.982693",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80762635209295,
+      "asset_name": "DJ BENUS - APROVECHALO 👽🔥 WISIN Y YANDEL",
+      "granted_at": "2025-08-24T21:47:41.466439",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83703361342643,
+      "asset_name": "DJ BENUS - Amante 💿🔥 Daddy Yankee Ft. J Alvarez",
+      "granted_at": "2025-08-24T21:47:42.892376",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94638211613160,
+      "asset_name": "DJ BENUS - Aprovecha 💿🔥 Jory Ft. Daddy Yankee",
+      "granted_at": "2025-08-24T21:47:44.267833",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132355613132867,
+      "asset_name": "DJ BENUS - C😈",
+      "granted_at": "2025-08-24T21:47:45.671315",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121525732643513,
+      "asset_name": "DJ Benus - Falsas Mentiras 💿🔥 Ozuna",
+      "granted_at": "2025-08-24T21:47:47.093163",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120317374706131,
+      "asset_name": "DJ Benus - Rolia 💊 Bryant Myers",
+      "granted_at": "2025-08-24T21:47:48.623929",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73327930895392,
+      "asset_name": "DJ Benus - Loco Remix 💿🔥 ",
+      "granted_at": "2025-08-24T21:47:50.093915",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129025807137787,
+      "asset_name": "DJ BENUS - Ya te olvide 🔥 🇩🇴",
+      "granted_at": "2025-08-24T21:47:51.637310",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139257404304072,
+      "asset_name": "DJ Benus - Ella 👑🔥 ",
+      "granted_at": "2025-08-24T21:47:53.155257",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112514944934600,
+      "asset_name": "DJ BENUS - M O T I V A T E 🔥",
+      "granted_at": "2025-08-24T21:47:54.628260",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127427589684075,
+      "asset_name": "DJ Benus - / E P A W E I ✨",
+      "granted_at": "2025-08-24T21:47:56.145869",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132196627457644,
+      "asset_name": "DJ Benus - Baul de Recuerdos 🎶💗",
+      "granted_at": "2025-08-24T21:47:57.626716",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83453612621563,
+      "asset_name": "DJ Benus - Just Wanna Rock Remix 💜",
+      "granted_at": "2025-08-24T21:47:59.093482",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136890822309834,
+      "asset_name": "DJ Benus - Miss The Rage Remix 👹🔥",
+      "granted_at": "2025-08-24T21:48:00.492559",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121443532783564,
+      "asset_name": "DJ Benus - Ojos de gato 👁️‍🗨️",
+      "granted_at": "2025-08-24T21:48:01.902443",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128382880105244,
+      "asset_name": "DJ Benus - Everyday 💿🔥 Jowell y Randy Ft. Arca",
+      "granted_at": "2025-08-24T21:48:03.291026",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129884683909921,
+      "asset_name": "DJ Benus - Amanecio Conmigo 💿🔥 Farruko Ft. Ñengo",
+      "granted_at": "2025-08-24T21:48:04.690598",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114113427757218,
+      "asset_name": "DJ Benus - Dime Mami 💿🔥 Nerak Ft. Ñengo Flow",
+      "granted_at": "2025-08-24T21:48:06.096837",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112927690564835,
+      "asset_name": "DJ Benus - Te extraño tanto 💗🔥 ",
+      "granted_at": "2025-08-24T21:48:07.563774",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128530893038959,
+      "asset_name": "DJ Benus - Dance with me x Lil Peep 💿🔥",
+      "granted_at": "2025-08-24T21:48:09.048424",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122445504809237,
+      "asset_name": "DJ Benus - 444 💿🔥 Lithe",
+      "granted_at": "2025-08-24T21:48:10.441267",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79070640446940,
+      "asset_name": "DJ Benus - Ghostboi Clique 💿🔥",
+      "granted_at": "2025-08-24T21:48:11.853810",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136159077541566,
+      "asset_name": "DJ Benus - Last night 🎶 Young N Fly",
+      "granted_at": "2025-08-24T21:48:13.282760",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103749168308066,
+      "asset_name": "DJ Benus - Perdida 💿 Luar la L ",
+      "granted_at": "2025-08-24T21:48:14.689186",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101803885260972,
+      "asset_name": "DJ BENUS x DJ VYBE - Liro Shaq #ELSOFOKE 🇩🇴🔥",
+      "granted_at": "2025-08-24T21:48:16.077569",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90010756184605,
+      "asset_name": "DJ Benus x DJ Maicol - #TanCelosos 🇩🇴🔥",
+      "granted_at": "2025-08-24T21:48:17.542148",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73132824254615,
+      "asset_name": "DJ Benus - Maniqui 🇩🇴🔥",
+      "granted_at": "2025-08-24T21:48:19.048587",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95968092090985,
+      "asset_name": "DJ Benus - Lollipop x Motorcito 🔊🔥",
+      "granted_at": "2025-08-24T21:48:22.837539",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88010638530385,
+      "asset_name": "DJ Benus x DJ Maicol - VOLTAJE 🔊",
+      "granted_at": "2025-08-24T21:48:25.461820",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83193501472890,
+      "asset_name": "DJ Benus - Don't ♡ me ",
+      "granted_at": "2025-08-24T21:48:28.654219",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112370759933651,
+      "asset_name": "DJ Benus - Test my ♡ Lithe Remix",
+      "granted_at": "2025-08-24T21:48:30.158103",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116904634627853,
+      "asset_name": "DJ Benus - B e a T B a c k",
+      "granted_at": "2025-08-24T21:48:31.632849",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88834429139997,
+      "asset_name": "DJ Benus - A s t r a l y s",
+      "granted_at": "2025-08-24T21:48:33.419053",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136509656879170,
+      "asset_name": "DJ Benus - Secret Lover x Partynextdoor 💿",
+      "granted_at": "2025-08-24T21:48:34.796214",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119378193948307,
+      "asset_name": "DJ Benus - Want To x 88glam 🐍",
+      "granted_at": "2025-08-24T21:48:36.190655",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112593145560772,
+      "asset_name": "DJ Benus - Spider Man x Metro Boomin 🕷️",
+      "granted_at": "2025-08-24T21:48:37.689912",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96994316567928,
+      "asset_name": "DJ Benus - No piensas en mi x Cosculluela 🔥",
+      "granted_at": "2025-08-24T21:48:41.287490",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91643494477044,
+      "asset_name": "DJ Benus x DJ Vybe - Reggaeton old 💿🔥",
+      "granted_at": "2025-08-24T21:48:42.678641",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88254472634307,
+      "asset_name": "DJ Benus - Gotay Reggaeton Old 💿🔥",
+      "granted_at": "2025-08-24T21:48:46.252511",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86233302201922,
+      "asset_name": "DJ Benus - Silueta x Rayo & Toby ",
+      "granted_at": "2025-08-24T21:48:47.723816",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94418807324949,
+      "asset_name": "DJ Benus - Lejos de ti ♡",
+      "granted_at": "2025-08-24T21:48:49.557314",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83587701463175,
+      "asset_name": "DJ Benus - Yours💗 ",
+      "granted_at": "2025-08-24T21:48:51.433490",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112431121268314,
+      "asset_name": "DJ Benus - Nvscvr 🏁",
+      "granted_at": "2025-08-24T21:48:53.267858",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83960812436015,
+      "asset_name": "DJ Benus - I can't see you 🚀 mood",
+      "granted_at": "2025-08-24T21:48:55.803932",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78238268413140,
+      "asset_name": "DJ Benus - Young Miko 🌸",
+      "granted_at": "2025-08-24T21:48:57.285315",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93682062315795,
+      "asset_name": "DJ Benus - Millenium Rhythm 💿",
+      "granted_at": "2025-08-24T21:48:58.729944",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79143433487929,
+      "asset_name": "DJ Benus - Midnight Melody 🎶",
+      "granted_at": "2025-08-24T21:49:00.255390",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124697640969244,
+      "asset_name": "DJ Benus - Na Na x Trey Songz 💿🔥",
+      "granted_at": "2025-08-24T21:49:01.783450",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105730316779607,
+      "asset_name": "DJ Benus - Go Off 🏁 One more race",
+      "granted_at": "2025-08-24T21:49:03.187257",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108829802034667,
+      "asset_name": "DJ Benus - Lejos de aquí remix 💿🔥",
+      "granted_at": "2025-08-24T21:49:04.605570",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88825582308403,
+      "asset_name": "DJ Benus - Plan B Remix 💿🔥",
+      "granted_at": "2025-08-24T21:49:06.077610",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94756503765064,
+      "asset_name": "DJ Benus - Cosculluela Remix 🔥",
+      "granted_at": "2025-08-24T21:49:07.460877",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118727582440180,
+      "asset_name": "DJ Benus - More remix ❤️🔥",
+      "granted_at": "2025-08-24T21:49:08.933409",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135067143330687,
+      "asset_name": "DJ Benus - Pegate x Standly 🔥",
+      "granted_at": "2025-08-24T21:49:10.340848",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126523598983791,
+      "asset_name": "DJ Benus - Besties 🇩🇴 🔥",
+      "granted_at": "2025-08-24T21:49:11.793502",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119927417810793,
+      "asset_name": "DJ Benus - All you need x Jacquees 💿",
+      "granted_at": "2025-08-24T21:49:13.317126",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127261829360444,
+      "asset_name": "DJ Benus - Better of alone 🌙",
+      "granted_at": "2025-08-24T21:49:14.726442",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94884327999871,
+      "asset_name": "DJ BENUS - Llama al sol ☀️",
+      "granted_at": "2025-08-24T21:49:16.154620",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118704549097521,
+      "asset_name": "DJ BENUS - Slow Gyal 🌴",
+      "granted_at": "2025-08-24T21:49:17.628605",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104484679797511,
+      "asset_name": "DJ BENUS - Enterrao 🎶 Ft. Perry",
+      "granted_at": "2025-08-24T21:49:19.019554",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91095827113405,
+      "asset_name": "DJ BENUS - Cold Blooded 🎶 Ft. Perry ",
+      "granted_at": "2025-08-24T21:49:20.408234",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108238728602381,
+      "asset_name": "DJ BENUS - Nightmare On 7th 🎶 Ft. Perry",
+      "granted_at": "2025-08-24T21:49:21.857104",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86626130698433,
+      "asset_name": "DJ BENUS - 1tasO 🎶 Ft. Perry",
+      "granted_at": "2025-08-24T21:49:23.315426",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124144384452508,
+      "asset_name": "DJ BENUS - No Sleep Tonight 🎶 Ft. Perry",
+      "granted_at": "2025-08-24T21:49:24.742905",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112395195872634,
+      "asset_name": "DJ BENUSSS - Tourner Dans Le Vide 🔊",
+      "granted_at": "2025-08-24T21:49:26.215084",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127014695166470,
+      "asset_name": "DJ BENUS - Aquella vez 🥀",
+      "granted_at": "2025-08-24T21:49:27.688278",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79432758033349,
+      "asset_name": "DJ BENUS - Happy Birthday 🥳🎉",
+      "granted_at": "2025-08-24T21:49:29.155890",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133860999507827,
+      "asset_name": "DJ BENUS - Showing you 🔊🔥",
+      "granted_at": "2025-08-24T21:49:30.552051",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102720608567367,
+      "asset_name": "DJ BENUS - k h a l i l ? 🔊 Chill",
+      "granted_at": "2025-08-24T21:49:31.933588",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110711153484541,
+      "asset_name": "DJ BENUS - I ain't goin back to Jail 🔊",
+      "granted_at": "2025-08-24T21:49:33.459749",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124841611675130,
+      "asset_name": "DJ BENUS - Locked Up 🔊",
+      "granted_at": "2025-08-24T21:49:35.049819",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73493266276690,
+      "asset_name": "DJ BENUS - Como lo haces 🔊🔥",
+      "granted_at": "2025-08-24T21:49:36.994601",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115840418367883,
+      "asset_name": "DJ BENUS - Tu planeta 🔊🔥",
+      "granted_at": "2025-08-24T21:49:38.748715",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73367775854811,
+      "asset_name": "DJ BENUS - Aurora | LO MISMO DE SIEMPRE",
+      "granted_at": "2025-08-24T21:49:40.263393",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73224593327769,
+      "asset_name": "DJ BENUS - The Reason 🎸❤️ ",
+      "granted_at": "2025-08-24T21:49:41.825332",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101331411161850,
+      "asset_name": "DJ BENUS - Baby Boy 🔊🔥",
+      "granted_at": "2025-08-24T21:49:43.290909",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133188205618545,
+      "asset_name": "DJ BENUS - Murder She Wrote / Dale P 🔊🔥",
+      "granted_at": "2025-08-24T21:49:44.741868",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99544559889583,
+      "asset_name": "DJ BENUS - Homely Girl ❤️",
+      "granted_at": "2025-08-24T21:49:46.174600",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92886437234445,
+      "asset_name": "DJ BENUS - Red Red W ❤️",
+      "granted_at": "2025-08-24T21:49:47.697846",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138256166841357,
+      "asset_name": "DJ BENUS - Dark Light Rhythm 🔊",
+      "granted_at": "2025-08-24T21:49:49.127399",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86439123811656,
+      "asset_name": "DJ BENUS - I like the way you kss me ❤️",
+      "granted_at": "2025-08-24T21:49:50.759776",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117801287636073,
+      "asset_name": "DJ BENUS - Middle of the Night ✨",
+      "granted_at": "2025-08-24T21:49:52.326852",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126551051531711,
+      "asset_name": "DJ BENUS - No feelings x Partynextdoor 🌒",
+      "granted_at": "2025-08-24T21:49:53.849973",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131533461099682,
+      "asset_name": "DJ BENUS - Fantasmita 🤍",
+      "granted_at": "2025-08-24T21:49:55.288033",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83201070383977,
+      "asset_name": "DJ BENUS - Luna 🌙 Eddy Lover ",
+      "granted_at": "2025-08-24T21:49:56.805408",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75109871654255,
+      "asset_name": "DJ BENUS - 88 dizzy 🦋",
+      "granted_at": "2025-08-24T21:49:58.249681",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115623515704845,
+      "asset_name": "DJ BENUS - La fuga 🚀",
+      "granted_at": "2025-08-24T21:49:59.727399",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91482975066249,
+      "asset_name": "DJ BENUS - Y te vas 🦋",
+      "granted_at": "2025-08-24T21:50:01.124983",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84365502382897,
+      "asset_name": "DJ BENUS - Conmigo se escapa 💿",
+      "granted_at": "2025-08-24T21:50:02.645638",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 140582832549685,
+      "asset_name": "DJ BENUS - Mean Streets Hardstyle 🔊",
+      "granted_at": "2025-08-24T21:50:04.162662",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75536167756544,
+      "asset_name": "DJ BENUS - Shameless Hardstyle 🔊",
+      "granted_at": "2025-08-24T21:50:05.680934",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 140234288729425,
+      "asset_name": "DJ BENUS - Rolling In Sweet Dreams ✨",
+      "granted_at": "2025-08-24T21:50:07.197625",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110311340596796,
+      "asset_name": "DJ BENUS - Jersey Club Session 4 💿",
+      "granted_at": "2025-08-24T21:50:09.293989",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84675571329910,
+      "asset_name": "DJ BENUS - Kimetsu No Yaiba Hardstyle 👹",
+      "granted_at": "2025-08-24T21:50:10.834429",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131342713403993,
+      "asset_name": "DJ BENUS x DJ VYBE - Jersey Club Session 3 💿",
+      "granted_at": "2025-08-24T21:50:12.268359",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90023010178720,
+      "asset_name": "DJ BENUS x DJ VYBE - Jersey Club Session 2 💿",
+      "granted_at": "2025-08-24T21:50:13.695110",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136454513826074,
+      "asset_name": "DJ BENUS - Blue HardStyle 🔊",
+      "granted_at": "2025-08-24T21:50:15.135729",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92239124813243,
+      "asset_name": "DJ BENUS - Call Me Maybe HardStyle 🔊",
+      "granted_at": "2025-08-24T21:50:16.643688",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99990564775509,
+      "asset_name": "DJ BENUS - Watcha Say HardStyle 🔊",
+      "granted_at": "2025-08-24T21:50:18.097944",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73028780988462,
+      "asset_name": "DJ BENUS - Jersey Club Session 💿",
+      "granted_at": "2025-08-24T21:50:19.605935",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139455270904800,
+      "asset_name": "DJ BENUS - This is Halloween Remix💀",
+      "granted_at": "2025-08-24T21:50:21.032834",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97189377743965,
+      "asset_name": "DJ BENUS - Come hold me ❤️",
+      "granted_at": "2025-08-24T21:50:22.471843",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103904330215028,
+      "asset_name": "DJ BENUS - Need u tonite 🥀",
+      "granted_at": "2025-08-24T21:50:23.917870",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96475494084863,
+      "asset_name": "DJ BENUS - Under the moon 🌘",
+      "granted_at": "2025-08-24T21:50:25.409438",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118909291092470,
+      "asset_name": "DJ BENUS - Acuario 🌴",
+      "granted_at": "2025-08-24T21:50:26.982947",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105407380459204,
+      "asset_name": "DJ BENUS - Beauty and the Beast 💗",
+      "granted_at": "2025-08-24T21:50:28.530527",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76809833836008,
+      "asset_name": "DJ BENUS - Pollàri Vibes ✨",
+      "granted_at": "2025-08-24T21:50:30.024722",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115302666371428,
+      "asset_name": "DJ BENUS - Playing games 🥀",
+      "granted_at": "2025-08-24T21:50:31.526533",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79148425703602,
+      "asset_name": "DJ BENUS - You belong to somebody else ",
+      "granted_at": "2025-08-24T21:50:32.921888",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132057749398530,
+      "asset_name": "DJ BENUS - Pepas x Incomprendido 🎉",
+      "granted_at": "2025-08-24T21:50:34.326104",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108770968690660,
+      "asset_name": "Happy Birthday Queen 💗🎉✨",
+      "granted_at": "2025-08-24T21:50:35.796076",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100510112567576,
+      "asset_name": "DJ BENUS - Hey ladie 💃🔥",
+      "granted_at": "2025-08-24T21:50:37.275664",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117822637787860,
+      "asset_name": "DJ BENUS - The party begins 🎉",
+      "granted_at": "2025-08-24T21:50:38.760815",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133194224017827,
+      "asset_name": "DJ BENUS - Akon Vibes 💖",
+      "granted_at": "2025-08-24T21:50:40.228303",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90685523009870,
+      "asset_name": "DJ BENUS - Wiz Khalifa 👽✨",
+      "granted_at": "2025-08-24T21:50:41.679804",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117825687606409,
+      "asset_name": "DJ BENUS - Stereo Vibes 💖",
+      "granted_at": "2025-08-24T21:50:43.168709",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80503874988133,
+      "asset_name": "DJ BENUS - We found lv 💖",
+      "granted_at": "2025-08-24T21:50:44.653705",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106785223554867,
+      "asset_name": "DJ BENUS - Tyga x Summer trip 2 🏝️",
+      "granted_at": "2025-08-24T21:50:46.140486",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88268583072116,
+      "asset_name": "DJ BENUS - Tyga x Summer trip 🏝️",
+      "granted_at": "2025-08-24T21:50:48.461925",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130995604894128,
+      "asset_name": "DJ BENUS x Bedroom Vibes 2 | DKZA",
+      "granted_at": "2025-08-24T21:50:49.883287",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74033199824444,
+      "asset_name": "DJ BENUS x Bedroom Vibes | DKZA",
+      "granted_at": "2025-08-24T21:50:51.313192",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126310907382326,
+      "asset_name": "DJ BENUS - De la Rose 🌹✨",
+      "granted_at": "2025-08-24T21:50:52.760917",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131301298033651,
+      "asset_name": "DJ BENUS - WYA RED REMIX 🩸",
+      "granted_at": "2025-08-24T21:50:54.251959",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92567263618422,
+      "asset_name": "DJ BENUS - OMW x 66Hades 💣🔥",
+      "granted_at": "2025-08-24T21:50:55.736787",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108325438325335,
+      "asset_name": "DJ BENUS - Island Gyal 💗🏝️",
+      "granted_at": "2025-08-24T21:51:02.545086",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117181031467230,
+      "asset_name": "DJ BENUS - BCA Mix 🔥",
+      "granted_at": "2025-08-24T21:51:03.959877",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96530803871616,
+      "asset_name": "DJ BENUS - Farruko Old Mix 📀",
+      "granted_at": "2025-08-24T21:51:05.374907",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132853824135491,
+      "asset_name": "DJ BENUS - YAN BLOCK 💣",
+      "granted_at": "2025-08-24T21:51:06.840455",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106648003829297,
+      "asset_name": "DJ BENUS - PPP x 3 am 💋",
+      "granted_at": "2025-08-24T21:51:08.385886",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90101731006490,
+      "asset_name": "DJ BENUS - A$AP Rocky x Fashion Killa ✨",
+      "granted_at": "2025-08-24T21:51:09.839213",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83482960586516,
+      "asset_name": "DJ BENUS - smkpurpp x to the moon 🌙",
+      "granted_at": "2025-08-24T21:51:11.559685",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107227057365354,
+      "asset_name": "DJ BENUS - Trippie Red 💔",
+      "granted_at": "2025-08-24T21:51:13.055632",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95014426332807,
+      "asset_name": "DJ BENUS - Chris Brown 🕺✨",
+      "granted_at": "2025-08-24T21:51:14.448218",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117083240063024,
+      "asset_name": "DJ BENUS - Young, wild and free 🍃",
+      "granted_at": "2025-08-24T21:51:15.943263",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105538097895249,
+      "asset_name": "DJ BENUS - PRicky R&B🥀",
+      "granted_at": "2025-08-24T21:51:17.423267",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87607229872339,
+      "asset_name": "DJ BENUS - FinalSong 🪐✨",
+      "granted_at": "2025-08-24T21:51:18.822618",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90214590304166,
+      "asset_name": "DJ BENUS - Still D.R.E vs JJ  🚨",
+      "granted_at": "2025-08-24T21:51:20.215846",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87034409632609,
+      "asset_name": "DJ BENUS - Major Lazer x Travis 📀",
+      "granted_at": "2025-08-24T21:51:21.721698",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76557986743903,
+      "asset_name": "DJ BENUS - Sza x Good Days✨",
+      "granted_at": "2025-08-24T21:51:24.740618",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86249539526248,
+      "asset_name": "DJ BENUS - Bad boys 👽✨",
+      "granted_at": "2025-08-24T21:51:27.675503",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130874561621380,
+      "asset_name": "DJ BENUS - Skrillex x Candy Shop 📀",
+      "granted_at": "2025-08-24T21:51:29.092141",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80071937610954,
+      "asset_name": "DJ BENUS - Kid Cudi x Animals 🤖🔥",
+      "granted_at": "2025-08-24T21:51:31.216023",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119870979010645,
+      "asset_name": "DJ BENUSSS - Bears x Barney 🐻🔥",
+      "granted_at": "2025-08-24T21:51:32.643384",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119321041010661,
+      "asset_name": "DJ BENUSSS - Care Bears Transition 🐻🔥",
+      "granted_at": "2025-08-24T21:51:34.012015",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121931613094592,
+      "asset_name": "DJ BENUSSS - Five Nights at Freddy's 🐻🤖",
+      "granted_at": "2025-08-24T21:51:37.785415",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 89058129137834,
+      "asset_name": "DJ BENUSSS - Gummy Bears Remix 🐻",
+      "granted_at": "2025-08-24T21:51:41.547885",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113445033484052,
+      "asset_name": "DJ BENUSSS - If Your Happy And You Know It ✨",
+      "granted_at": "2025-08-24T21:51:43.215223",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99471994886553,
+      "asset_name": "DJ BENUS - Uwaie x Beele 🏝️💗",
+      "granted_at": "2025-08-24T21:51:46.796851",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76792137185279,
+      "asset_name": "DJ BENUS - Anuel x Ozuna x Lunay 💿✨",
+      "granted_at": "2025-08-24T21:51:48.523353",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127869035477898,
+      "asset_name": "DJ BENUS - Anuel x Karol G 💗",
+      "granted_at": "2025-08-24T21:51:49.923342",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114321809692170,
+      "asset_name": "DJ BENUS - Rauw Alejandro 🥀🔥",
+      "granted_at": "2025-08-24T21:51:51.427268",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131009299649788,
+      "asset_name": "DJ BENUS - Sheck Wes x Lil Nas X 🏇🔥",
+      "granted_at": "2025-08-24T21:51:52.852618",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105942344195113,
+      "asset_name": "DJ BENUS X DJ SAV - Flo Rida Techno 🔥🌊",
+      "granted_at": "2025-08-24T21:51:54.335229",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104174964612066,
+      "asset_name": "DJ BENUSSS - Skarlet in your ears 🎸",
+      "granted_at": "2025-08-24T21:51:55.811710",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119502109485140,
+      "asset_name": "DJ BENUS - How you gonna act x Mario 💿✨",
+      "granted_at": "2025-08-24T21:51:57.323185",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124062600741453,
+      "asset_name": "DJ BENUS - Soulja Boy x Dilemma💖",
+      "granted_at": "2025-08-24T21:51:58.880601",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87713978062602,
+      "asset_name": "DJ BENUS - UNFORGETTABLE 🌬️",
+      "granted_at": "2025-08-24T21:52:00.368932",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120943752050578,
+      "asset_name": "DJ BENUS - POST MALONE 999 💿🔥",
+      "granted_at": "2025-08-24T21:52:01.852679",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78327525461974,
+      "asset_name": "DJ BENUS - Midnight TokyoO ✨",
+      "granted_at": "2025-08-24T21:52:03.249091",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113402129433387,
+      "asset_name": "DJ BENUS - Tiësto x 21 Savage 👹",
+      "granted_at": "2025-08-24T21:52:04.727604",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87085672079759,
+      "asset_name": "DJ BENUS - TOCO EL CIELO🕊️",
+      "granted_at": "2025-08-24T21:52:06.197181",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128789614387042,
+      "asset_name": "DJ BENUS - Me provocas ❤️",
+      "granted_at": "2025-08-24T21:52:07.669071",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108347883641296,
+      "asset_name": "DJ BENUS - FUNK 2000s x KNGSTON 💖✨",
+      "granted_at": "2025-08-24T21:52:09.078088",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116305809918220,
+      "asset_name": "DJ BENUS - Roses x Middle 🥀✨",
+      "granted_at": "2025-08-24T21:52:10.459938",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102654189667053,
+      "asset_name": "DJ BENUS - STARGAZING X SCREW 🎪🎠",
+      "granted_at": "2025-08-24T21:52:11.989983",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 89794960171259,
+      "asset_name": "DJ BENUS - G o o s e b u m p s 🎶",
+      "granted_at": "2025-08-24T21:52:13.497276",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76234995677301,
+      "asset_name": "DJ BENUS - In to deep x Dej Loaf 🍇",
+      "granted_at": "2025-08-24T21:52:14.913222",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118789753651483,
+      "asset_name": "DJ BENUS - Bop x Still Be Friends 🔥",
+      "granted_at": "2025-08-24T21:52:16.388283",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126872976575641,
+      "asset_name": "DJ BENUS - Come Closer x Can't Believe ✨",
+      "granted_at": "2025-08-24T21:52:17.886617",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128051112148011,
+      "asset_name": "DJ BENUS - T O R Y  L A N E Z 💗🔥 ",
+      "granted_at": "2025-08-24T21:52:19.308487",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115781196165355,
+      "asset_name": "DJ BENUS - THE WEEKND X CARTI X TRVS 💿 ",
+      "granted_at": "2025-08-24T21:52:20.723159",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73970820882356,
+      "asset_name": "DJ BENUS - SEAN PAUL MIX 💿",
+      "granted_at": "2025-08-24T21:52:22.268361",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92534640238672,
+      "asset_name": "DJ BENUS - R. KELLY OLD 💋",
+      "granted_at": "2025-08-24T21:52:23.814245",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98195099315835,
+      "asset_name": "DJ BENUS - REGGAETON OLD MIX 3 💿🔥",
+      "granted_at": "2025-08-24T21:52:25.311635",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108652577513220,
+      "asset_name": "DJ BENUS - REGGAETON OLD MIX 2 💿🔥",
+      "granted_at": "2025-08-24T21:52:26.756182",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80121722775420,
+      "asset_name": "DJ BENUS - REGGAETON OLD MIX 💿🔥 ",
+      "granted_at": "2025-08-24T21:52:28.253698",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121045268002192,
+      "asset_name": "DJ BENUS - ÑENGO FLOW OLD MIX 👹 ",
+      "granted_at": "2025-08-24T21:52:29.672807",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100690799826793,
+      "asset_name": "DJ BENUS - Bad Bunny x YHLQMDLG 🥀🔥 ",
+      "granted_at": "2025-08-24T21:52:31.157494",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117610531352466,
+      "asset_name": "DJ BENUS - SUMMER W X NO1 ☔ ",
+      "granted_at": "2025-08-24T21:52:32.566952",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132931556263523,
+      "asset_name": "DJ BENUS - DOJA CAT 🍭",
+      "granted_at": "2025-08-24T21:52:33.939486",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 89080015037460,
+      "asset_name": "DJ BENUS - MEMO X SPEAKER X 310b 🩸",
+      "granted_at": "2025-08-24T21:52:35.592602",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132746745259001,
+      "asset_name": "DJ BENUS - P A R T Y N E X T D O O R 💿 ",
+      "granted_at": "2025-08-24T21:52:37.133860",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100947524266425,
+      "asset_name": "DJ BENUS - T R A P S O U L 🥀 ",
+      "granted_at": "2025-08-24T21:52:38.645498",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120082129085823,
+      "asset_name": "DJ BENUS - SO BAD X GREET HER 💗 ",
+      "granted_at": "2025-08-24T21:52:40.123970",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103769430625464,
+      "asset_name": "DJ BENUS - LIL TECCA VOL 1 💿 ",
+      "granted_at": "2025-08-24T21:52:41.608302",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124699787229911,
+      "asset_name": "DJ BENUSS - JEREMIH VIBES 💋",
+      "granted_at": "2025-08-24T21:52:43.317513",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73847827408664,
+      "asset_name": "DJ BENUS - SEAN PAUL X FARRUKO 💿 ",
+      "granted_at": "2025-08-24T21:52:44.798404",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72996116181965,
+      "asset_name": "DJ BENUS - MYKE TOWERS 😈 ",
+      "granted_at": "2025-08-24T21:52:46.236367",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79017281760878,
+      "asset_name": "DJ BENUS - TJAY X POP SMOKE 🥀🖤 ",
+      "granted_at": "2025-08-24T21:52:47.640499",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121491247916164,
+      "asset_name": "DJ BENUS - $NOT X SIMPLE 🎮",
+      "granted_at": "2025-08-24T21:52:49.155159",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94137129080269,
+      "asset_name": "DJ BENUS - Sunshine | Next to you 🔥",
+      "granted_at": "2025-08-24T21:52:50.636037",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98646298300791,
+      "asset_name": "DJ BENUS - FLEX X KRANIUM 👹 ",
+      "granted_at": "2025-08-24T21:52:52.125322",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82314256672479,
+      "asset_name": "DJ BENUS - NTG x RD 🇩🇴 ",
+      "granted_at": "2025-08-24T21:52:53.554281",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121652664466618,
+      "asset_name": "DJ BENUS - NITRO x TDOND🚀 ",
+      "granted_at": "2025-08-24T21:52:55.044528",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127729788620235,
+      "asset_name": "DJ BENUS - OMAR COURTZ 🔥 ",
+      "granted_at": "2025-08-24T21:52:56.514011",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79541481800843,
+      "asset_name": "DJ BENUS - Cris MJ 👻",
+      "granted_at": "2025-08-24T21:52:58.004828",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104486908295167,
+      "asset_name": "DJ BENUSSS - PND X 4BATZ 💣 ",
+      "granted_at": "2025-08-24T21:52:59.476935",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105846627532904,
+      "asset_name": "BENUS MIX 4 // (prod. Benus)",
+      "granted_at": "2025-08-24T21:53:00.872280",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116761188111115,
+      "asset_name": "BENUS MIX 3 // (prod. Benusss)",
+      "granted_at": "2025-08-24T21:53:03.140606",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117952198747897,
+      "asset_name": "BENUS MIX 2 // prod. (Benusss)",
+      "granted_at": "2025-08-24T21:53:04.946788",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83563567838399,
+      "asset_name": "BENUS MIX 1 // (prod. Benus)",
+      "granted_at": "2025-08-24T21:53:07.791639",
+      "status": "newly_granted"
+    }
+  ]
+}
