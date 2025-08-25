@@ -10,6 +10,78 @@
     "name": "Two Chiquilines"
   },
   "permissions_granted": [
+        {
+      "asset_id": 110227122106498,
+      "asset_name": "Mix Dema Ga Ge Gi -DJ Lima & DJ Faraon & ft Davidx",
+      "granted_at": "2025-08-24T21:46:20.816909",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136815299542129,
+      "asset_name": "🔥 Centollo Bob Esponja 🔥- DJ Lima & DJ Davidx",
+      "granted_at": "2025-08-24T21:46:22.330834",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138571245436244,
+      "asset_name": "Pretty Little Baby👸🏼💙 - DJ Lima & ft DJ Davidx",
+      "granted_at": "2025-08-24T21:46:23.691802",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123415288830006,
+      "asset_name": "This is My Style - Dj Davidx",
+      "granted_at": "2025-08-24T21:46:25.162306",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85396451090698,
+      "asset_name": "Dale Que No Te Veo - DJ Davidx",
+      "granted_at": "2025-08-24T21:46:26.625012",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109268178353299,
+      "asset_name": "Podcats 3025 - DJ Davidx",
+      "granted_at": "2025-08-24T21:46:28.083169",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108207419562316,
+      "asset_name": "Bebido Afro House Dj Davidx ",
+      "granted_at": "2025-08-24T21:46:29.560575",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73984211571781,
+      "asset_name": "Prendelo Pinguino - Neutro Ft Dj Davidx - Veneyork",
+      "granted_at": "2025-08-24T21:46:31.090894",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103558556569019,
+      "asset_name": "🔥 Mandanga style 🔥 - DJ Lima & DJ Davidx",
+      "granted_at": "2025-08-24T21:46:32.475027",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99173229866270,
+      "asset_name": "Me contagie 2 VOL 2 🔊 - DJ Lima & DJ Davidx",
+      "granted_at": "2025-08-24T21:46:33.970298",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139933623000214,
+      "asset_name": "Dale ven que estoy pa` ti 👑 - DJ Lima & DJ Davidx",
+      "granted_at": "2025-08-24T21:46:35.437247",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104734371242547,
+      "asset_name": "👑 Yo Muero por los mios 🔥 - DJ Lima & DJ Davidx",
+      "granted_at": "2025-08-24T21:46:36.910452",
+      "status": "newly_granted"
+    },
     {
       "asset_id": 108513959106079,
       "asset_name": "La Noche de Anoche 🌙 - DJ Lima & DJ Davidx",
