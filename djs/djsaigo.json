@@ -11,6 +11,1386 @@
   },
   "permissions_granted": [
     {
+      "asset_id": 140617990321426,
+      "asset_name": "DJ Saigo - Sábado Rebelde - Daddy yankie 🥵",
+      "granted_at": "2025-10-09T15:07:27.590517",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105220446445466,
+      "asset_name": "DJ Saigo - Pursuit Of Happiness x Bingo Players 🔥",
+      "granted_at": "2025-10-09T15:07:29.202417",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78084706221703,
+      "asset_name": "DJ Saigo - Bandida - Zion y Lennox 🥵",
+      "granted_at": "2025-10-09T15:07:30.816452",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118113009377474,
+      "asset_name": "DJ Saigo - Na Na Na Na Na - Baby Rasta y Gri*go 🥵",
+      "granted_at": "2025-10-09T15:07:32.426779",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138512367520475,
+      "asset_name": "DJ Saigo - Salgamos - Kevin Roldan Ft Maluma 🥵",
+      "granted_at": "2025-10-09T15:07:34.032374",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74021350888947,
+      "asset_name": "DJ Saigo - Chica Paranormal - Paulo Londra 🥵",
+      "granted_at": "2025-10-09T15:07:35.511638",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109399525551856,
+      "asset_name": "🐸 DJ Saigo - El Baile Del Sapito 🐸",
+      "granted_at": "2025-10-09T15:07:37.083603",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101074692334787,
+      "asset_name": "DJ Saigo Ft Airen - Levanta Muertos Vol. 11 🎃",
+      "granted_at": "2025-10-09T15:07:38.561347",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94593807607257,
+      "asset_name": "DJ Saigo Ft. Airen - Levanta Muertos Vol. 10 🎃",
+      "granted_at": "2025-10-09T15:07:40.203337",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126178082420266,
+      "asset_name": "🎃 DJ Saigo - Temple Of Resonance - Angelfist 🔥",
+      "granted_at": "2025-10-09T15:07:41.687334",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126161810516089,
+      "asset_name": "🎃 DJ Saigo - Supreme Dominator 2025 🔥",
+      "granted_at": "2025-10-09T15:07:43.318562",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119602802418235,
+      "asset_name": "🎃 DJ Saigo - Mix Dominator (Hardcore) 🔥",
+      "granted_at": "2025-10-09T15:07:44.798478",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78225252555035,
+      "asset_name": "📀 DJ Saigo - Himno Electronico - Tecktonik 📀",
+      "granted_at": "2025-10-09T15:07:46.284338",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127656551267724,
+      "asset_name": "DJ Saigo - Automovil - Ñejo y Dalmata 🥵",
+      "granted_at": "2025-10-09T15:07:47.771168",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86536207636904,
+      "asset_name": "🎃DJ Saigo - Levanta Muertos (Rawstyle) Vol 9 🔥",
+      "granted_at": "2025-10-09T15:07:49.389178",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116320455796801,
+      "asset_name": "🎃DJ Saigo - Levanta Muertos (Rawstyle) Vol 8🔥",
+      "granted_at": "2025-10-09T15:07:51.057376",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 140048431962205,
+      "asset_name": "🎃DJ Saigo - Levanta Muertos (Hardcore) Vol 7🔥",
+      "granted_at": "2025-10-09T15:07:52.618123",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97596139634941,
+      "asset_name": "🎃DJ Saigo - Levanta Muertos (Hardstyle) Vol 6 🔥",
+      "granted_at": "2025-10-09T15:07:54.096083",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132424697849203,
+      "asset_name": "🎃DJ Saigo - Levanta Muertos (Hardstyle) Vol 5🔥",
+      "granted_at": "2025-10-09T15:07:55.570929",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85965079982965,
+      "asset_name": "🎃DJ Saigo - Levanta Muertos (Hardstyle) Vol 4 🔥",
+      "granted_at": "2025-10-09T15:07:57.056499",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118158444240669,
+      "asset_name": "🎃DJ Saigo - Levanta Muertos (Hardstyle) Vol3🔥",
+      "granted_at": "2025-10-09T15:07:58.531805",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75397223611378,
+      "asset_name": "🎃DJ Saigo - Levanta Muertos (Hardstyle) Vol 2🔥",
+      "granted_at": "2025-10-09T15:08:00.021433",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120851672838098,
+      "asset_name": "🎃DJ Saigo - Levanta Muertos (Hardstyle) Vol 1🔥",
+      "granted_at": "2025-10-09T15:08:01.653933",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85208301832650,
+      "asset_name": "DJ Deadmon Ft Saigo - Gabber Jump Kicks 👻",
+      "granted_at": "2025-10-09T15:08:03.133620",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133134355191926,
+      "asset_name": "DJ Deadmon Ft Saigo - Techno Rave Pt 1 👻",
+      "granted_at": "2025-10-09T15:08:04.615737",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119068410317107,
+      "asset_name": "DJ Deadmon Ft Saigo - Techno Rave Pt 2👻",
+      "granted_at": "2025-10-09T15:08:06.221448",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128741867627611,
+      "asset_name": "DJ Deadmon Ft Saigo - Techno Rave x Gabber 👻",
+      "granted_at": "2025-10-09T15:08:07.751362",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132627494836905,
+      "asset_name": "DJ Saigo - I Want To Play a Game  - Jigsaw 🎃",
+      "granted_at": "2025-10-09T15:08:09.331532",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85041764984920,
+      "asset_name": "DJ Saigo - Master Of Hardcore 5 Fighter 🔥",
+      "granted_at": "2025-10-09T15:08:10.960191",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125303658920088,
+      "asset_name": "DJ Saigo - Enseñame a Soñar (Guaracha)",
+      "granted_at": "2025-10-09T15:08:12.566262",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106259403261181,
+      "asset_name": "DJ LOSTY⚡️Mi Otra Mitad ( Anri ) 🌻💗",
+      "granted_at": "2025-10-09T15:08:14.061447",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114960455148091,
+      "asset_name": "DJ LOSTY⚡️Dos Locos 💗💗",
+      "granted_at": "2025-10-09T15:08:15.536340",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128570327581311,
+      "asset_name": "DJ LOSTY⚡️Veneno - Danny Ocean 🔥❤️",
+      "granted_at": "2025-10-09T15:08:17.030140",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135854421562455,
+      "asset_name": "DJ LOSTY⚡️Taboo - Don Omar 🔥",
+      "granted_at": "2025-10-09T15:08:18.493190",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136281530711321,
+      "asset_name": "DJ LOSTY⚡️Tú Foto - Ozuna 🐻🔥",
+      "granted_at": "2025-10-09T15:08:19.972726",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122731269003068,
+      "asset_name": "DJ Saigo - Egoismo - Julio Miranda (Llanera) 🇻🇪",
+      "granted_at": "2025-10-09T15:08:21.457566",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108128813993369,
+      "asset_name": "DJ Saigo - Nightcore x Jumpstyle - JUMP!!! 🎪",
+      "granted_at": "2025-10-09T15:08:22.950170",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86194005360584,
+      "asset_name": "DJ Saigo - Reminiscencias - Julio Jaramillo 🗣️",
+      "granted_at": "2025-10-09T15:08:24.538787",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98259227265247,
+      "asset_name": "DJ Saigo - Triste Recuerdo - Antonio Aguilar 🇲🇽",
+      "granted_at": "2025-10-09T15:08:26.026026",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110987415274774,
+      "asset_name": "DJ Saigo - ¿Por Que Me Haces Llorar? Juan Gabriel ",
+      "granted_at": "2025-10-09T15:08:27.565885",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138249100387094,
+      "asset_name": "DJ Saigo - Zapatito Roto x Mi Cama Huele a Ti 🥵",
+      "granted_at": "2025-10-09T15:08:29.059753",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86983029883828,
+      "asset_name": "DJ Saigo - ¿Por Que Te Demoras? Plan B 🥵",
+      "granted_at": "2025-10-09T15:08:30.659631",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108660049661713,
+      "asset_name": "DJ LOSTY ⚡️Viernes De 2pa1 🥵",
+      "granted_at": "2025-10-09T15:08:32.139620",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130731239864474,
+      "asset_name": "DJ LOSTY ⚡️Calabria 🔥🪐",
+      "granted_at": "2025-10-09T15:08:33.752443",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105209928570297,
+      "asset_name": "DJ LOSTY⚡️ Una Vaina Loca - Fuego 🔥❤️",
+      "granted_at": "2025-10-09T15:08:35.376756",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130317395776979,
+      "asset_name": "DJ LOSTY ⚡️ Se Preparó - Ozuna 🐻",
+      "granted_at": "2025-10-09T15:08:36.866597",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102924332669614,
+      "asset_name": "DJ Saigo - Gabber Del Pedazo - Early Gabber",
+      "granted_at": "2025-10-09T15:08:38.348260",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84644126508724,
+      "asset_name": "DJ Saigo - Las Animas Del Terror - Early Gabber",
+      "granted_at": "2025-10-09T15:08:39.818295",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96620275239942,
+      "asset_name": "DJ Saigo - Puro Venga Venga 🦊 - Simon Correa",
+      "granted_at": "2025-10-09T15:08:41.295430",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122872179512648,
+      "asset_name": "DJ Saigo - Manicomio - Cosculluela 🥵",
+      "granted_at": "2025-10-09T15:08:42.773399",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108806065636085,
+      "asset_name": "DJ Saigo - Perdida - Yelsid 🇨🇴",
+      "granted_at": "2025-10-09T15:08:44.383705",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102417548663098,
+      "asset_name": "DJ Saigo - La Creciente (Vallenato) 🇨🇴",
+      "granted_at": "2025-10-09T15:08:45.961997",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73969505606162,
+      "asset_name": "💸DJ Saigo - Almighty - Vacio 💔",
+      "granted_at": "2025-10-09T15:08:47.461867",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90764557108075,
+      "asset_name": "DJ Saigo - Una Cosa Loca - Twister (Champeta) 🎉",
+      "granted_at": "2025-10-09T15:08:48.960532",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135218992385371,
+      "asset_name": "DJ Saigo - Come Back To My Crib - Jowell y Randy🥵",
+      "granted_at": "2025-10-09T15:08:50.436583",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135439252614698,
+      "asset_name": "DJ Saigo - Don - Miranda! 🎸",
+      "granted_at": "2025-10-09T15:08:52.041898",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105296012627697,
+      "asset_name": "DJ Saigo - Mirala Bien - Wisin y Yandel 🥵",
+      "granted_at": "2025-10-09T15:08:53.532964",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104986885036377,
+      "asset_name": "DJ Saigo - Si Me Tocan Esta Play, Si bailo 🍓",
+      "granted_at": "2025-10-09T15:08:55.000136",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121961011275081,
+      "asset_name": "DJ Saigo - Fumaratto Sax To Me (Guaracha) 🦊",
+      "granted_at": "2025-10-09T15:08:56.473967",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 89401710546711,
+      "asset_name": "DJ Saigo - Mirame - Blessed 💙",
+      "granted_at": "2025-10-09T15:08:57.961774",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135871875643882,
+      "asset_name": "DJ Saigo - Amantes & Amigos - Arcangel ft. Sech 🥵",
+      "granted_at": "2025-10-09T15:08:59.445849",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102748627831219,
+      "asset_name": "DJ Saigo - Noches de aventura - Ozuna 🐻",
+      "granted_at": "2025-10-09T15:09:01.064911",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127966226604434,
+      "asset_name": "DJ Saigo - El Bus🚌 x Volveras a Mi🙄 - Yelsid🇨🇴",
+      "granted_at": "2025-10-09T15:09:02.682916",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99938831188673,
+      "asset_name": "DJ Saigo - Octubre Hardcore Vol 2 ☠️",
+      "granted_at": "2025-10-09T15:09:04.193867",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 89391639494826,
+      "asset_name": "DJ Saigo - Octubre Hardcore Vol 1 ☠️",
+      "granted_at": "2025-10-09T15:09:05.803578",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119678612129016,
+      "asset_name": "DJ Saigo - Señal De Vida - Dalmata y Ñejo 🥵",
+      "granted_at": "2025-10-09T15:09:07.294432",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112184585173128,
+      "asset_name": "🎉 DJ Saigo - Che Che - Chimbala 🎉",
+      "granted_at": "2025-10-09T15:09:08.763275",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124863162467905,
+      "asset_name": "DJ Saigo - Ay Vamos - J. Balvin 🥵",
+      "granted_at": "2025-10-09T15:09:10.255563",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114036915035755,
+      "asset_name": "DJ LOSTY ⚡️ Síguelo Bailando - Ozuna 🐻",
+      "granted_at": "2025-10-09T15:09:11.747593",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85674296816533,
+      "asset_name": "DJ LOSTY⚡️ Ojitos Chiquititos - Don Omar 🔥",
+      "granted_at": "2025-10-09T15:09:13.233203",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120690412165242,
+      "asset_name": "DJ Saigo - Ni Contigo, Ni Sin Ti, Pepe Aguilar🇲🇽",
+      "granted_at": "2025-10-09T15:09:14.712162",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139812022249559,
+      "asset_name": "DJ Saigo - Carnaval - Maluma 🎉",
+      "granted_at": "2025-10-09T15:09:16.196571",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76112158267105,
+      "asset_name": "DJ Saigo - Mix Regueton Old Triste 🥵",
+      "granted_at": "2025-10-09T15:09:17.808038",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71963860530823,
+      "asset_name": "DJ Saigo - El Amante - Daddy Yankee 🥵",
+      "granted_at": "2025-10-09T15:09:19.302997",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104308052419761,
+      "asset_name": "DJ LOSTY⚡️Self Esteem - Lambo4oe ☄️",
+      "granted_at": "2025-10-09T15:09:20.775984",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73647796502229,
+      "asset_name": "DJ LOSTY⚡️ Robandoo 🥵🔥",
+      "granted_at": "2025-10-09T15:09:22.373982",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71245688866033,
+      "asset_name": "DJ LOSTY ⚡️Perdóname - La Factoria 💔",
+      "granted_at": "2025-10-09T15:09:23.992929",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101051333324458,
+      "asset_name": "DJ LOSTY⚡️LOVE - Kendrick Lamar 💗",
+      "granted_at": "2025-10-09T15:09:25.622049",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84695405689169,
+      "asset_name": "DJ LOSTY⚡️ Cumbiaton 🥵🔥",
+      "granted_at": "2025-10-09T15:09:27.109968",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103923484527408,
+      "asset_name": "DJ LOSTY⚡️Bellaka Pvtona 🥵🔥",
+      "granted_at": "2025-10-09T15:09:28.703734",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 89079763430695,
+      "asset_name": "DJ LOSTY⚡️- Hace Mucho Tiempo - Arcangel 🪐",
+      "granted_at": "2025-10-09T15:09:30.187838",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138910134689672,
+      "asset_name": "DJ LOSTY ⚡️- K Bendicion JH 😹",
+      "granted_at": "2025-10-09T15:09:31.659743",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132537913210799,
+      "asset_name": "DJ LOSTY⚡️ - Deseándote - Frankie Ruiz ❤️",
+      "granted_at": "2025-10-09T15:09:33.145695",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111596921842367,
+      "asset_name": "DJ LOSTY⚡️- Corazón De Acero - Yiyo Sarante ❤️ ",
+      "granted_at": "2025-10-09T15:09:34.629572",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104879881104300,
+      "asset_name": "DJ Saigo - Como Me Gusta La Noche (Car Audio) 🍓",
+      "granted_at": "2025-10-09T15:09:36.129053",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74439651934657,
+      "asset_name": "DJ Saigo - Hasta Abajo - Don Omar x Daddy yankie🥵",
+      "granted_at": "2025-10-09T15:09:37.627869",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84614839218873,
+      "asset_name": "DJ Saigo - Kisses (Alan Perelli) TECHNO 🧨",
+      "granted_at": "2025-10-09T15:09:39.264556",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97152386052797,
+      "asset_name": "DJ Saigo - Mix Prreo Insano 🥵",
+      "granted_at": "2025-10-09T15:09:40.749349",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124768884637254,
+      "asset_name": "DJ Saigo - R.K.M, Ken - Down x Fantasma - Zion 🥵",
+      "granted_at": "2025-10-09T15:09:42.236718",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131493755641561,
+      "asset_name": "DJ Saigo - Mix Dread Mar I ☘️",
+      "granted_at": "2025-10-09T15:09:43.706332",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105860891194008,
+      "asset_name": "DJ Saigo - X Ultima Vez - Daddy Yankie x Bad Bunny",
+      "granted_at": "2025-10-09T15:09:45.318820",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80981309373385,
+      "asset_name": "🎸DJ Saigo - Los Caligaris - Kilometros 🇦🇷",
+      "granted_at": "2025-10-09T15:09:46.903257",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118217035836718,
+      "asset_name": "DJ Saigo - Dile a Tu Amiga x Si No Le Contesto 🥵",
+      "granted_at": "2025-10-09T15:09:48.463465",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113033161485744,
+      "asset_name": "DJ Saigo - Sin Pijama - Becky G, Natti Natasha 🥵",
+      "granted_at": "2025-10-09T15:09:49.942456",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115824058809827,
+      "asset_name": "DJ LOSTY⚡️ - Tu Con El - Frankie Ruiz 💔",
+      "granted_at": "2025-10-09T15:09:51.420593",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 140720843810295,
+      "asset_name": "DJ Saigo - On The Edge - Bruno Power 🇮🇹",
+      "granted_at": "2025-10-09T15:09:53.044034",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136645515520551,
+      "asset_name": "🎪DJ Saigo - Mix Tomorrowland Ultra Insano 🎪",
+      "granted_at": "2025-10-09T15:09:54.550578",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72737135468939,
+      "asset_name": "DJ Saigo - La Pantera Mambo - La 33 (Salsa) 💃🕺",
+      "granted_at": "2025-10-09T15:09:56.041420",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134182007206055,
+      "asset_name": "DJ Saigo - Lluvia Con Nieve (Salsa) 💃🕺",
+      "granted_at": "2025-10-09T15:09:57.545940",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82238355081205,
+      "asset_name": "DJ Saigo - Un Verano En NuevaYork (Salsa) 💃🕺",
+      "granted_at": "2025-10-09T15:09:59.177077",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78049634517536,
+      "asset_name": "DJ Saigo - Una Locura - Ozuna x J Balvin x Chencho",
+      "granted_at": "2025-10-09T15:10:01.006997",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96200106377934,
+      "asset_name": "DJ Saigo - Vaina Loca - Ozuna x Manuel Turizo 🥵",
+      "granted_at": "2025-10-09T15:10:02.621218",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74210411416563,
+      "asset_name": "DJ Saigo - Salgo Pa' La Calle - Daddy Yankie 🥵",
+      "granted_at": "2025-10-09T15:10:04.234655",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77183447978540,
+      "asset_name": "DJ Saigo - El Dinero No Lo Es Todo - Kendo Kaponi",
+      "granted_at": "2025-10-09T15:10:05.795089",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138504388241651,
+      "asset_name": "DJ Saigo - Yasuri Yamile 🥵",
+      "granted_at": "2025-10-09T15:10:07.282696",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128934982629818,
+      "asset_name": "DJ Saigo - Hay Algo En Ti - Zion y Lennox 🥵",
+      "granted_at": "2025-10-09T15:10:08.934713",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135440794722056,
+      "asset_name": " DJ Saigo - Ozuna ft Zion y Lennox - Egoísta 🥵",
+      "granted_at": "2025-10-09T15:10:10.412661",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136617524290323,
+      "asset_name": "DJ Saigo - 6 AM - J Balvin Ft Farruko 🥵",
+      "granted_at": "2025-10-09T15:10:11.894869",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139254796080989,
+      "asset_name": "DJ Saigo - Tu Foto - Ozuna 🐻",
+      "granted_at": "2025-10-09T15:10:13.520289",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121979883733366,
+      "asset_name": "⚡DJ Saigo - Gocoke (Thunderdome) ⚡",
+      "granted_at": "2025-10-09T15:10:15.115407",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99953565652398,
+      "asset_name": "DJ Saigo - Se Preparo - Ozuna 🐻",
+      "granted_at": "2025-10-09T15:10:16.619849",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121202286240470,
+      "asset_name": "DJ David Ft Saigo - Hoy Me Di Cuenta - Binomio🇨🇴",
+      "granted_at": "2025-10-09T15:10:18.139448",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129688407995330,
+      "asset_name": "DJ Saigo - Quiero Volar - Convinacion Vllenata🇨🇴",
+      "granted_at": "2025-10-09T15:10:19.808272",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125598219543644,
+      "asset_name": "DJ Saigo - Dile - Don Omar 🥵",
+      "granted_at": "2025-10-09T15:10:21.287323",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108608902008736,
+      "asset_name": "DJ Saigo - Felina - Hector y Tito 🥵",
+      "granted_at": "2025-10-09T15:10:22.938351",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83464985240659,
+      "asset_name": "DJ Saigo - Bailame Despacio x La Player 🥵",
+      "granted_at": "2025-10-09T15:10:24.546388",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123059693055392,
+      "asset_name": "DJ Saigo - Mix - Afrohouse X aleteo 🏖️",
+      "granted_at": "2025-10-09T15:10:26.031990",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100388676680324,
+      "asset_name": "🎸DJ Saigo - Mix Pxnda (Rock) 🎸",
+      "granted_at": "2025-10-09T15:10:27.512117",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126836941230608,
+      "asset_name": "🎸DJ Saigo - Mix Rock 🇵🇪",
+      "granted_at": "2025-10-09T15:10:28.991124",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119628428954165,
+      "asset_name": "DJ Saigo - La Patrulla X Hollywood Peso Pluma 🇲🇽",
+      "granted_at": "2025-10-09T15:10:30.612207",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97092973741446,
+      "asset_name": "DJ Saigo - Mix Insano 🥵",
+      "granted_at": "2025-10-09T15:10:32.204062",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108297751748259,
+      "asset_name": "DJ Saigo - Me Dejo Solito - Jorge Celedon 🇨🇴",
+      "granted_at": "2025-10-09T15:10:33.829109",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113532097057344,
+      "asset_name": "DJ Saigo - Ay Mi Gatito Miau Miau 🇵🇪",
+      "granted_at": "2025-10-09T15:10:35.314027",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72973997376591,
+      "asset_name": "DJ Saigo - Tu Peor Error - Darell 💔",
+      "granted_at": "2025-10-09T15:10:36.957876",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88130378700852,
+      "asset_name": "DJ Saigo - Chismofilia - Luis Alfonso 🇨🇴",
+      "granted_at": "2025-10-09T15:10:38.573108",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93617346574387,
+      "asset_name": "💫DJ Saigo - Peces En El Rio (Hardstyle) 💫",
+      "granted_at": "2025-10-09T15:10:40.169717",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120249000977041,
+      "asset_name": "DJ Saigo - La Vecinita - Vico C 🥵",
+      "granted_at": "2025-10-09T15:10:41.781506",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87096664878269,
+      "asset_name": "DJ Saigo - Mix Farruko - RKT 🥵",
+      "granted_at": "2025-10-09T15:10:43.396477",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77871812716029,
+      "asset_name": "DJ Saigo - Mix J Balvin - RKT 🥵",
+      "granted_at": "2025-10-09T15:10:45.030591",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75489373531422,
+      "asset_name": "DJ Saigo - Mix Daddy Yankie - RKT 🥵",
+      "granted_at": "2025-10-09T15:10:46.643289",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72801211558876,
+      "asset_name": "DJ Saigo - Estar Enamorado - Golpe a Golpe ❤️",
+      "granted_at": "2025-10-09T15:10:48.136175",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128631253982053,
+      "asset_name": "DJ Saigo - Amor De Primavera (Salsa) 💃🕺",
+      "granted_at": "2025-10-09T15:10:49.759980",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77537186534709,
+      "asset_name": "🎪DJ Deadmon Ft Saigo - Tomorrowland Uptempo 🎪",
+      "granted_at": "2025-10-09T15:10:51.243442",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100269170611080,
+      "asset_name": "👀DJ Saigo - Ojitos Chiquititos - Don Omar 🥵",
+      "granted_at": "2025-10-09T15:10:52.875139",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129110067092586,
+      "asset_name": "DJ Saigo -  Easykid - Shiny 🥵",
+      "granted_at": "2025-10-09T15:10:54.367161",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79807338911031,
+      "asset_name": "🎪DJ Saigo - Set Tomorrowland - Session HardTechno",
+      "granted_at": "2025-10-09T15:10:55.854234",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98897554221541,
+      "asset_name": "🎪DJ Saigo - Set Tomorrowland - Session Terror🎪",
+      "granted_at": "2025-10-09T15:10:57.469045",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125813280197823,
+      "asset_name": " 🎪DJ Saigo - Set Tomorrowland - Session Uptempo🎪",
+      "granted_at": "2025-10-09T15:10:58.968221",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117740827226357,
+      "asset_name": "🍓DJ Saigo - Inicio Set Tussineli (Guaracha) 🍓",
+      "granted_at": "2025-10-09T15:11:00.467919",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90483356561353,
+      "asset_name": "🍓DJ Saigo Ft Tinx Set Tussineli Vol 1 🍓",
+      "granted_at": "2025-10-09T15:11:02.094816",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109615320248563,
+      "asset_name": "🍓DJ Saigo Ft Ghost - Set tussineli Vol 2 🍓",
+      "granted_at": "2025-10-09T15:11:03.570091",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124177560327850,
+      "asset_name": "🍓DJ Saigo Ft Deadmon - Set Tussineli Vol 3 🍓",
+      "granted_at": "2025-10-09T15:11:05.061004",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91403776369316,
+      "asset_name": "🍓DJ Saigo Ft Deadmon - Set Tussineli Vol 4 🍓",
+      "granted_at": "2025-10-09T15:11:06.528263",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110948418192880,
+      "asset_name": "🍓DJ Saigo Ft Lonely - Set Tussineli Vol 5 🍓",
+      "granted_at": "2025-10-09T15:11:07.998687",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76066923831886,
+      "asset_name": "🍓DJ Saigo Ft Apocalipto - Set Tussineli Vol 6 🍓",
+      "granted_at": "2025-10-09T15:11:09.614653",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127333879421998,
+      "asset_name": "🍓DJ Saigo Ft Residen - Set Tussineli Vol 7🍓",
+      "granted_at": "2025-10-09T15:11:11.247581",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100077698533893,
+      "asset_name": "🍓DJ Saigo - Set Tussineli Vol 8🍓",
+      "granted_at": "2025-10-09T15:11:12.696831",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113659843369543,
+      "asset_name": "🍓DJ Saigo Ft Airen - Set Tussineli Vol 9🍓",
+      "granted_at": "2025-10-09T15:11:14.309501",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104776163030666,
+      "asset_name": "🍓DJ Saigo Ft Conni - Set Tussineli Vol 10🍓",
+      "granted_at": "2025-10-09T15:11:15.785459",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139935781064154,
+      "asset_name": " 🎪DJ Saigo - Mix Tomorrowland 🎪",
+      "granted_at": "2025-10-09T15:11:17.241562",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72453502804671,
+      "asset_name": "👀 DJ Saigo - Mi Vida Eres Tu - Sonyk El Dragon 👀",
+      "granted_at": "2025-10-09T15:11:18.893569",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134907718659029,
+      "asset_name": "DJ Saigo - Esta Dañado - Ivan Cornejo 🇲🇽",
+      "granted_at": "2025-10-09T15:11:20.375472",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94064563366628,
+      "asset_name": "DJ Saigo - Busca Un Confidente (Vallenato) 🇨🇴",
+      "granted_at": "2025-10-09T15:11:21.856485",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 89079740188744,
+      "asset_name": "DJ Saigo - Sin Tu Amor - N99A 😔",
+      "granted_at": "2025-10-09T15:11:23.317260",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84324789167989,
+      "asset_name": "☔DJ Saigo - Lagunas - Peso Pluma ☔",
+      "granted_at": "2025-10-09T15:11:24.794256",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80674129705192,
+      "asset_name": "DJ Saigo - La Boda - Fuerza Regida ⛪",
+      "granted_at": "2025-10-09T15:11:26.273166",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118134036941917,
+      "asset_name": "DJ Saigo - Hoja En Blanco - Sentir Vallenato 🇨🇴",
+      "granted_at": "2025-10-09T15:11:27.755711",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79340949648662,
+      "asset_name": "DJ Saigo - Soltera - Wsound Blessed 🥵",
+      "granted_at": "2025-10-09T15:11:29.251261",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132351054354177,
+      "asset_name": "DJ Saigo - Baby Rasta y Gr/ingo - Me Niegas 🥵",
+      "granted_at": "2025-10-09T15:11:30.894059",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139129297542948,
+      "asset_name": "DJ Saigo - Mix Clasicos Yandel 🥵",
+      "granted_at": "2025-10-09T15:11:32.380044",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82129133537717,
+      "asset_name": "DJ Saigo - Que Le Pasa A Lupita - Fruco Y Orquesta",
+      "granted_at": "2025-10-09T15:11:34.007782",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134240033461874,
+      "asset_name": "DJ Saigo - Los Charcos - Fruko y Su Conjunto🕺💃",
+      "granted_at": "2025-10-09T15:11:35.484872",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129526351578214,
+      "asset_name": "DJ Saigo - Se Le Moja La Canoa 🇨🇴",
+      "granted_at": "2025-10-09T15:11:36.970086",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74144691708339,
+      "asset_name": "DJ Saigo - Un Pasito I Like (Car Audio) 🍓",
+      "granted_at": "2025-10-09T15:11:38.595959",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111082597166288,
+      "asset_name": "DJ Saigo - Shake Shake (Guaratech) 🍓",
+      "granted_at": "2025-10-09T15:11:40.192794",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109313696074311,
+      "asset_name": "DJ Saigo - Perros Salvajes - Daddy Yankie 🥵",
+      "granted_at": "2025-10-09T15:11:41.688447",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110675504347789,
+      "asset_name": "DJ Saigo - Mix Reggaetón OLD 🥵",
+      "granted_at": "2025-10-09T15:11:43.307986",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79302869099271,
+      "asset_name": "DJ Saigo - Tú Me Tientas x Impacto 🥵",
+      "granted_at": "2025-10-09T15:11:44.798788",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135555018896337,
+      "asset_name": "DJ Saigo - Cuando Me Dirá - Ñengo Flow 🥵",
+      "granted_at": "2025-10-09T15:11:46.411471",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108863828683843,
+      "asset_name": "DJ Saigo - Gata Official - Arcangel 🥵",
+      "granted_at": "2025-10-09T15:11:48.027225",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74945564081219,
+      "asset_name": "DJ Saigo - Aqui Hay Guaracha HP 🍓",
+      "granted_at": "2025-10-09T15:11:49.499424",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127984053320563,
+      "asset_name": "DJ Saigo - Miss Independent (Dancehall) 🥵",
+      "granted_at": "2025-10-09T15:11:50.990018",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104626388926155,
+      "asset_name": "DJ Saigo - No Quiero Envejeser (Cumbia) 🇨🇴",
+      "granted_at": "2025-10-09T15:11:52.478863",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87879483476590,
+      "asset_name": "DJ Saigo - La Cumbia Sampuesana 🇨🇴",
+      "granted_at": "2025-10-09T15:11:53.990400",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76537441336151,
+      "asset_name": "DJ Saigo - El Diario De Un Crudo 🇨🇴",
+      "granted_at": "2025-10-09T15:11:55.467275",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119650136817615,
+      "asset_name": "DJ Saigo - Tú no eres para mi - Fany lu 🇨🇴🤠",
+      "granted_at": "2025-10-09T15:11:57.095288",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138081215039685,
+      "asset_name": "📀 DJ Saigo - Bla Bla Bla - GIGI D'AGOSTINO 📀",
+      "granted_at": "2025-10-09T15:11:58.705918",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106286456026426,
+      "asset_name": "DJ Saigo - La Matraca - Dani Flow 🥵",
+      "granted_at": "2025-10-09T15:12:00.314395",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78064998480628,
+      "asset_name": "DJ Saigo - Slauterhouse - In The Dark (Uptempo) 🎪",
+      "granted_at": "2025-10-09T15:12:01.984572",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129846079398080,
+      "asset_name": "DJ Saigo - 💿 Again (House) Sonido 8D 💿",
+      "granted_at": "2025-10-09T15:12:03.472996",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97155473586251,
+      "asset_name": "DJ Saigo - Tal Vez - Primos De Durando Huapongo 🤠",
+      "granted_at": "2025-10-09T15:12:04.975444",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92727071578998,
+      "asset_name": "DJ Saigo - Checo Costa - Carnaval 🎭 🇨🇴",
+      "granted_at": "2025-10-09T15:12:06.436442",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111276416951288,
+      "asset_name": "DJ Saigo - China - Anuel Remix 🥵",
+      "granted_at": "2025-10-09T15:12:08.044414",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108073418495555,
+      "asset_name": "DJ Saigo - 🧨 HardTechno Xtreme 🧨",
+      "granted_at": "2025-10-09T15:12:09.566888",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131234891855629,
+      "asset_name": "DJ Saigo - Nueva Vida - Peso Pluma 🇲🇽",
+      "granted_at": "2025-10-09T15:12:11.058255",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102052449986518,
+      "asset_name": "DJ Saigo - Billete Grande - Fuerza Regida 🇲🇽",
+      "granted_at": "2025-10-09T15:12:12.683850",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71574248345774,
+      "asset_name": "DJei || MAMAZOTA - ARLENE MC",
+      "granted_at": "2025-10-09T15:12:14.145032",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99907655649754,
+      "asset_name": "🥵 DJ Saigo - Secretos - Kevin Roldan 👀",
+      "granted_at": "2025-10-09T15:12:15.628344",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86450867037913,
+      "asset_name": "DJ Saigo - Bebe - Anuel Ft Ozuna 🥵",
+      "granted_at": "2025-10-09T15:12:17.108818",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87081186563949,
+      "asset_name": "DJ Saigo - Sopla Tussi (Guaracha) 🍓🥄",
+      "granted_at": "2025-10-09T15:12:18.721719",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104013951565409,
+      "asset_name": "DJ Saigo - Stunami - DVBBS & Borgeous 🌊",
+      "granted_at": "2025-10-09T15:12:20.330542",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77257382089866,
+      "asset_name": "DJ Saigo - 💿 Unicorn Zombie Apocalypse 💿",
+      "granted_at": "2025-10-09T15:12:21.949829",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93081537750864,
+      "asset_name": "DJ Saigo - Dime Que Paso (Salsa) 🕺💃",
+      "granted_at": "2025-10-09T15:12:23.470871",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91345915105320,
+      "asset_name": "⚔️ DJ Saigo - Fight 2.0 Uptempo Hardcore ⚔️",
+      "granted_at": "2025-10-09T15:12:25.082614",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136545934064507,
+      "asset_name": "⚡DJ Saigo - F.R.E.N.C.H.C.O.R.E - Dr - French⚡",
+      "granted_at": "2025-10-09T15:12:26.774552",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96716099782586,
+      "asset_name": "DJ Saigo - 🦇♥️We Fell In Love In Octover♥️🦇",
+      "granted_at": "2025-10-09T15:12:28.253414",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73055021969743,
+      "asset_name": "DJ Saigo - Ballerina Cappucina Funk 🇧🇷",
+      "granted_at": "2025-10-09T15:12:29.853698",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123041617658928,
+      "asset_name": "DJ Saigo - Montagem Sonic Ritmado 🇧🇷 ",
+      "granted_at": "2025-10-09T15:12:31.461351",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72130248271890,
+      "asset_name": "DJ Saigo - Emoções Mistas 🇧🇷",
+      "granted_at": "2025-10-09T15:12:32.941240",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85652972298151,
+      "asset_name": "💔 DJ Saigo - Ultra Solo Remix 🥵",
+      "granted_at": "2025-10-09T15:12:34.428610",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101323613950303,
+      "asset_name": "🔊🌴 DJ Saigo - La Playa 🔊🌴",
+      "granted_at": "2025-10-09T15:12:36.050460",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134209463279754,
+      "asset_name": "💸 DJ Saigo - Fronteamos Porque Podemos 💸",
+      "granted_at": "2025-10-09T15:12:37.657030",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95261859812404,
+      "asset_name": " DJ Saigo - Eladio Carrion - Flores En Anónimo 💐",
+      "granted_at": "2025-10-09T15:12:39.128112",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86554067051286,
+      "asset_name": "DJ Saigo - M@gical Cure! Love Shot! (Hatsune Miku)",
+      "granted_at": "2025-10-09T15:12:40.739167",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71456037104947,
+      "asset_name": "💥 DJ Saigo - The Monster Rihana (Hardstyle)💥",
+      "granted_at": "2025-10-09T15:12:42.211079",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74411348105688,
+      "asset_name": "📞 DJ Saigo - Que Te Parece 📞",
+      "granted_at": "2025-10-09T15:12:43.696972",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88628636126260,
+      "asset_name": "👾 DJ Saigo - Play Hard (Hardstyle) 👾",
+      "granted_at": "2025-10-09T15:12:45.227872",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91607345214361,
+      "asset_name": "👯‍♀️ DJ Saigo - Conejita Mix 🥵",
+      "granted_at": "2025-10-09T15:12:46.833691",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71125074556060,
+      "asset_name": "📞 DJ Saigo - Can I Call You Tonight? 📞",
+      "granted_at": "2025-10-09T15:12:48.317730",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81630269017923,
+      "asset_name": "DJ Saigo - María Teresa (Los 50 de Joselito) 💃🏻",
+      "granted_at": "2025-10-09T15:12:49.810030",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119679920338664,
+      "asset_name": " 🎸DJ Saigo - Y De Pronto Un Accidente... 🎸",
+      "granted_at": "2025-10-09T15:12:51.299967",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131606977994377,
+      "asset_name": "⚡ DJ Saigo - Enter The Dome (THUNDERDOME) ⚡",
+      "granted_at": "2025-10-09T15:12:52.783668",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112399084112862,
+      "asset_name": "🧿 DJ Saigo - Take You Home x El Telefono🧿",
+      "granted_at": "2025-10-09T15:12:54.267034",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112632748784050,
+      "asset_name": "💔 DJ Saigo - Eladio Carrion - Hola, Cómo Vas? 💔",
+      "granted_at": "2025-10-09T15:12:55.754835",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108976133936814,
+      "asset_name": "⚡DJ Saigo - Sloop Die Speakers! (THUNDERDOME) ⚡",
+      "granted_at": "2025-10-09T15:12:57.231733",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100925608108671,
+      "asset_name": "🧙⚡ DJ Saigo - How Do You Do (Nightcore) 🧙⚡",
+      "granted_at": "2025-10-09T15:12:58.710348",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131969417215142,
+      "asset_name": "DJ Saigo - Sobre Las Olas (Salsa) 💃🕺",
+      "granted_at": "2025-10-09T15:13:00.336539",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130674854661815,
+      "asset_name": "🕹️ DJ Saigo - Hardtrance techno 4 🕹️",
+      "granted_at": "2025-10-09T15:13:01.828654",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88792940244881,
+      "asset_name": "DJ Saigo - Mix Rompe Cintura 2💃🕺",
+      "granted_at": "2025-10-09T15:13:03.309374",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76521076499416,
+      "asset_name": "DJ Saigo - Mix Rompe Cintura 💃🕺",
+      "granted_at": "2025-10-09T15:13:04.974868",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112142777610092,
+      "asset_name": "🏴‍☠DJ SAIGO - Opening One Piece (HARDSTYLE) 🏴‍☠️",
+      "granted_at": "2025-10-09T15:13:06.594261",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137548202481634,
+      "asset_name": "🪗DJ Saigo - Caracoles De Colores-Diomedes Días 🇨",
+      "granted_at": "2025-10-09T15:13:08.214997",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115666154786268,
+      "asset_name": "🪗 DJ Saigo - La Plata - Diomedes Días 🇨🇴",
+      "granted_at": "2025-10-09T15:13:09.782256",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108737956514179,
+      "asset_name": "🪗 DJ Saigo - Ron Pa Todo El Mundo 🇨🇴",
+      "granted_at": "2025-10-09T15:13:11.275307",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130346053486300,
+      "asset_name": "🪗 DJ Saigo - Traicionera - Pasto Lopez 🇨🇴",
+      "granted_at": "2025-10-09T15:13:12.926258",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118647343048085,
+      "asset_name": "⚡ DJ Saigo - Romantika - Brutalismus 3000 💥",
+      "granted_at": "2025-10-09T15:13:14.681156",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96651596610960,
+      "asset_name": "DJ Saigo - JUST CAN'T GET ENOUGH OF TEKK🪚",
+      "granted_at": "2025-10-09T15:13:16.300025",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127758213720025,
+      "asset_name": "⚡ DJ Saigo - Veilinghallen (THUNDERDOME) ⚡",
+      "granted_at": "2025-10-09T15:13:17.778113",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94906362078286,
+      "asset_name": "⚡DJ Saigo - Turn It Up - Gonzi  (Techno) 💥",
+      "granted_at": "2025-10-09T15:13:19.255666",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116274412295403,
+      "asset_name": "💥DJ Saigo - Astro (Hard Techno)💥",
+      "granted_at": "2025-10-09T15:13:20.912280",
+      "status": "newly_granted"
+    },
+    {
       "asset_id": 119098659943942,
       "asset_name": "DJ Saigo - Hardtekk - Vielleicht Vielleicht",
       "granted_at": "2025-08-24T22:49:44.893215",
