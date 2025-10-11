@@ -10,7 +10,49 @@
     "name": "Two Chiquilines"
   },
   "permissions_granted": [
-        {
+    {
+      "asset_id": 90963267900587,
+      "asset_name": "Dj Davidx - Pa q Luis Gaitas",
+      "granted_at": "2025-10-11T16:05:35.928384",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115789324755306,
+      "asset_name": "La Renovacion Vallenata - Raspa Canilla - Davidx",
+      "granted_at": "2025-10-11T16:05:37.539548",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76478430695391,
+      "asset_name": "Dj Davidx Hablame de Maracaibo Gaitas",
+      "granted_at": "2025-10-11T16:05:39.161818",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104347561990410,
+      "asset_name": "Dj Davidx - Gaita Con La Mano En El Pecxo",
+      "granted_at": "2025-10-11T16:05:40.606545",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124486707561699,
+      "asset_name": "La Creciente - DJ Saigo Dj Davidx Vallenato",
+      "granted_at": "2025-10-11T16:05:42.060996",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83262112068082,
+      "asset_name": "Hoy Me Di Cuenta - Vallenato Dj Davidx y Dj Saigo",
+      "granted_at": "2025-10-11T16:05:43.515054",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125689184595841,
+      "asset_name": "Si No Me Falla El Corazon - Dj Davidx y Dj Saigo ",
+      "granted_at": "2025-10-11T16:05:45.000510",
+      "status": "newly_granted"
+    },
+    {
       "asset_id": 110227122106498,
       "asset_name": "Mix Dema Ga Ge Gi -DJ Lima & DJ Faraon & ft Davidx",
       "granted_at": "2025-08-24T21:46:20.816909",
