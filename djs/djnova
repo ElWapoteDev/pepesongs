@@ -1,0 +1,4628 @@
+{
+  "timestamp": "2025-10-31T00:22:21.493958",
+  "operation_type": "bulk_audio",
+  "source_group": {
+    "id": 33780397,
+    "name": "DJ NOVA"
+  },
+  "target_group": {
+    "id": 33965578,
+    "name": "Two Chiquilines"
+  },
+  "permissions_granted": [
+    {
+      "asset_id": 70435142399630,
+      "asset_name": "DJ NOVA - Bad Bunny - EoO",
+      "granted_at": "2025-10-31T00:22:31.224228",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131753349679009,
+      "asset_name": "DJ NOVA - Bad Bunny - BAILE INoLVIDABLE",
+      "granted_at": "2025-10-31T00:22:32.720168",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139771828190304,
+      "asset_name": "DJ NOVA - Bad Bunny - VeLDÁ",
+      "granted_at": "2025-10-31T00:22:34.085980",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98009894444841,
+      "asset_name": "DJ NOVA, DJ JAJA - RITMADA ELA SENTE PAZ",
+      "granted_at": "2025-10-31T00:22:35.689519",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124181523870399,
+      "asset_name": "DJ NOVA - Deftones - Change",
+      "granted_at": "2025-10-31T00:22:37.059283",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110831906462848,
+      "asset_name": "DJ NOVA - Nirvana - Smells Like Teen Spirit",
+      "granted_at": "2025-10-31T00:22:38.418645",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113466619099436,
+      "asset_name": "DJ NOVA - KL0UFRENDS",
+      "granted_at": "2025-10-31T00:22:39.781559",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103568886194546,
+      "asset_name": "DJ NOVA - SAVE ME (HARDSTYLE)",
+      "granted_at": "2025-10-31T00:22:41.143255",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96325796230934,
+      "asset_name": "DJ NOVA - MONTAGEM NOITE DE $3XT4",
+      "granted_at": "2025-10-31T00:22:42.649393",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137374476443244,
+      "asset_name": "DJ NOVA - Romeo Santos - Hilito",
+      "granted_at": "2025-10-31T00:22:44.018153",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113173561197706,
+      "asset_name": "DJ NOVA - Can You Feel My Heart (Hardstyle)",
+      "granted_at": "2025-10-31T00:22:45.528319",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123439924927588,
+      "asset_name": "DJ NOVA - MONTAGEM NOSTALGIA DEPRESSIVO",
+      "granted_at": "2025-10-31T00:22:47.033188",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90956013107500,
+      "asset_name": "DJ NOVA - Romeo Santos - Eres Mia",
+      "granted_at": "2025-10-31T00:22:48.402105",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124958344346835,
+      "asset_name": "DJ NOVA - Romeo Santos - Si yo muero",
+      "granted_at": "2025-10-31T00:22:49.909438",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113442817425033,
+      "asset_name": "DJ NOVA - Stars Of Destiny",
+      "granted_at": "2025-10-31T00:22:51.284297",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98061554506569,
+      "asset_name": "DJ NOVA Ft. DJ JAJA - MEGA A SAUDADE BATEU",
+      "granted_at": "2025-10-31T00:22:52.782152",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92955877605403,
+      "asset_name": "DJ NOVA Ft. DJ JAJA - MEGA RAVE ATTENTION",
+      "granted_at": "2025-10-31T00:22:54.142363",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107616464359501,
+      "asset_name": "sa",
+      "granted_at": "2025-10-31T00:22:55.644300",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81524721158980,
+      "asset_name": "san",
+      "granted_at": "2025-10-31T00:22:57.144455",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97675952938792,
+      "asset_name": "LETS GO!!",
+      "granted_at": "2025-10-31T00:22:58.510961",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113202712643432,
+      "asset_name": "ALL READY?",
+      "granted_at": "2025-10-31T00:23:00.006333",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92210613644467,
+      "asset_name": "THIS IS ME",
+      "granted_at": "2025-10-31T00:23:01.516504",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72433821507813,
+      "asset_name": "👑 The Kings Have Returned 👑",
+      "granted_at": "2025-10-31T00:23:03.069959",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106617354028549,
+      "asset_name": "DJ NOVA - The Notorious - Hypnotize Prod.(Dahlia)",
+      "granted_at": "2025-10-31T00:23:04.563516",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126705523499454,
+      "asset_name": "DJ NOVA - Slipknot - The Devil In Prod.(Kittyzok)",
+      "granted_at": "2025-10-31T00:23:06.018137",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96819389359290,
+      "asset_name": "DJ NOVA - Ryan Castro - Wasa Wasa",
+      "granted_at": "2025-10-31T00:23:07.630191",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112286516856867,
+      "asset_name": "DJ NOVA - Ryan Castro - JORDAN",
+      "granted_at": "2025-10-31T00:23:09.102113",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104848921204450,
+      "asset_name": "DJ NOVA - Nirvana - Smells Like T Prod.(Kittyzok)",
+      "granted_at": "2025-10-31T00:23:10.604827",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96399771759237,
+      "asset_name": "DJ NOVA - Maluma - Hawái",
+      "granted_at": "2025-10-31T00:23:12.082783",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115108325455643,
+      "asset_name": "DJ NOVA - Linkin Park - In the End Prod.(Kittyzok)",
+      "granted_at": "2025-10-31T00:23:13.555360",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94219447221488,
+      "asset_name": "DJ NOVA - Deftones - My Own Summer Prod.(Kittyzok)",
+      "granted_at": "2025-10-31T00:23:15.065737",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81634987414785,
+      "asset_name": "DJ NOVA - Bodies Prod.(Kittyzok)",
+      "granted_at": "2025-10-31T00:23:16.546658",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119559368215246,
+      "asset_name": "DJ NOVA - Arcangel - Por Amar A Ciegas",
+      "granted_at": "2025-10-31T00:23:18.020874",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90969046889362,
+      "asset_name": "DJ NOVA - Arcangel - JS4E",
+      "granted_at": "2025-10-31T00:23:19.531657",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83698400032523,
+      "asset_name": "DJ NOVA - Arcángel - Hace Mucho Tiempo",
+      "granted_at": "2025-10-31T00:23:21.035554",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85574214858829,
+      "asset_name": "DJ NOVA - Trap Capos, Noriel - De las 2",
+      "granted_at": "2025-10-31T00:23:22.535508",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129065631446917,
+      "asset_name": "DJ NOVA - Percocet Remix",
+      "granted_at": "2025-10-31T00:23:24.040476",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130442625399118,
+      "asset_name": "DJ NOVA - Monalisa - Alkilados",
+      "granted_at": "2025-10-31T00:23:25.393516",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90081884779089,
+      "asset_name": "DJ NOVA - Maluma - Cuatro Babys",
+      "granted_at": "2025-10-31T00:23:26.903973",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137265884623620,
+      "asset_name": "DJ NOVA - La Ocasion",
+      "granted_at": "2025-10-31T00:23:28.270951",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77269020292617,
+      "asset_name": "DJ NOVA - Jon Z - 0 Sentimientos Remix",
+      "granted_at": "2025-10-31T00:23:29.787018",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76249152551136,
+      "asset_name": "DJ NOVA - Esclava REMIX ",
+      "granted_at": "2025-10-31T00:23:31.294610",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82284240468406,
+      "asset_name": "DJ NOVA - El Serrucho",
+      "granted_at": "2025-10-31T00:23:32.809249",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134580621946596,
+      "asset_name": "DJ NOVA - Cosculluela x Bad Bunny - Madura",
+      "granted_at": "2025-10-31T00:23:34.320375",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116185597957327,
+      "asset_name": "DJ NOVA - Te Pintaron Pajaritos",
+      "granted_at": "2025-10-31T00:23:35.838374",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103924258865285,
+      "asset_name": "DJ NOVA - Soltera Remix - Bad Bunny",
+      "granted_at": "2025-10-31T00:23:37.172357",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91748334408094,
+      "asset_name": "DJ NOVA - MIKE TOWERS MIX Prod.(Anny)",
+      "granted_at": "2025-10-31T00:23:38.746929",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119037344425008,
+      "asset_name": "DJ NOVA - Micro TDH Lenny Tavarez Demasiado tarde",
+      "granted_at": "2025-10-31T00:23:40.264012",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137871755021959,
+      "asset_name": "DJ NOVA - MC Collin - Papo de Sumico",
+      "granted_at": "2025-10-31T00:23:41.774026",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129473229908164,
+      "asset_name": "DJ NOVA - MAGRAO MEGA AVANCADO - UIE",
+      "granted_at": "2025-10-31T00:23:43.169787",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107593608942073,
+      "asset_name": "DJ NOVA - Karol G - Ocean",
+      "granted_at": "2025-10-31T00:23:44.745094",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111566268503582,
+      "asset_name": "DJ NOVA - ASSOBIO DO LOBAO VS BEAT DAS TREVAS",
+      "granted_at": "2025-10-31T00:23:46.253099",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71611875708722,
+      "asset_name": "DJ NOVA - Anuel AA - Si Yo Me Muero",
+      "granted_at": "2025-10-31T00:23:47.760059",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103701409921559,
+      "asset_name": "DJ NOVA -  No Se Nada - Lenny Tavarez",
+      "granted_at": "2025-10-31T00:23:49.119858",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126004000978140,
+      "asset_name": "DJ NOVA - Lil Peep - Life Is Beautiful",
+      "granted_at": "2025-10-31T00:23:50.578404",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82558400408714,
+      "asset_name": "DJ NOVA - Lil Peep - Crybaby",
+      "granted_at": "2025-10-31T00:23:51.886108",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105125331559522,
+      "asset_name": "DJ NOVA - Justin Bieber - What Do You Mean",
+      "granted_at": "2025-10-31T00:23:53.247089",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87439077649659,
+      "asset_name": "DJ NOVA - Justin Bieber - Somebody To Love",
+      "granted_at": "2025-10-31T00:23:54.585226",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131189672251992,
+      "asset_name": "DJ NOVA - Justin Bieber - Boyfriend",
+      "granted_at": "2025-10-31T00:23:56.072283",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98575079166971,
+      "asset_name": "DJ NOVA - Justin Bieber - Beauty And A Beat",
+      "granted_at": "2025-10-31T00:23:57.427263",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111844671162129,
+      "asset_name": "DJ NOVA - Machuquei",
+      "granted_at": "2025-10-31T00:23:58.802269",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101348581854122,
+      "asset_name": "DJ NOVA - Michele Morrone - Feel It",
+      "granted_at": "2025-10-31T00:24:00.301187",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79897050219424,
+      "asset_name": "DJ NOVA - Michele Morrone - Hard For Me",
+      "granted_at": "2025-10-31T00:24:01.804913",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92793501608523,
+      "asset_name": "DJ NOVA - Michele Morrone - Watch Me Burn",
+      "granted_at": "2025-10-31T00:24:03.166358",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79095736498574,
+      "asset_name": "DJ NOVA - Ran-D Ft. Leprince - Run From Reality",
+      "granted_at": "2025-10-31T00:24:04.674460",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122722956157424,
+      "asset_name": "DJ NOVA Ft DJ JAJA - AUTOMØTIVØ TERAPIA ALUCINANTE",
+      "granted_at": "2025-10-31T00:24:06.149378",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133983725621743,
+      "asset_name": "DJ NOVA Ft DJ JAJA - MTG MISS YOU",
+      "granted_at": "2025-10-31T00:24:07.671957",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100863046065967,
+      "asset_name": "DJ NOVA Ft DJ JAJA - MTG - METE UM BLOCK NELE",
+      "granted_at": "2025-10-31T00:24:09.025441",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103931943902107,
+      "asset_name": "DJ NOVA Ft DJ JAJA - DEPOIS DO RODEIO REMIX",
+      "granted_at": "2025-10-31T00:24:10.545342",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129413431824953,
+      "asset_name": "DJ NOVA - MTG - Eu Sou Do Morrao",
+      "granted_at": "2025-10-31T00:24:12.050420",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71230902741751,
+      "asset_name": "DJ NOVA - Me mata - BadBunny x Arcangel x Almighty",
+      "granted_at": "2025-10-31T00:24:13.569878",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98543988952905,
+      "asset_name": "DJ NOVA - Cuerpo en venta - Noriel, Myke Towers ",
+      "granted_at": "2025-10-31T00:24:14.935479",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109628166351540,
+      "asset_name": "DJ NOVA - Automotivo Desapego",
+      "granted_at": "2025-10-31T00:24:16.310025",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83469911991523,
+      "asset_name": "DJ NOVA - Pablo_ Imprevistos",
+      "granted_at": "2025-10-31T00:24:17.668983",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110451637242129,
+      "asset_name": "DJ NOVA - Noriel - 60 Barras",
+      "granted_at": "2025-10-31T00:24:19.179257",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91180865995174,
+      "asset_name": "DJ NOVA - Luar La L, Ozuna - Otra Vibra",
+      "granted_at": "2025-10-31T00:24:20.781041",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83484014040598,
+      "asset_name": "DJ NOVA - Gata Fiera",
+      "granted_at": "2025-10-31T00:24:22.291000",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128173520442995,
+      "asset_name": "DJ NOVA - DUKI - GIVENCHY",
+      "granted_at": "2025-10-31T00:24:23.800389",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104257496434094,
+      "asset_name": "DJ NOVA - Don Omar ft Daddy Yankee - Hasta Abajo",
+      "granted_at": "2025-10-31T00:24:25.164428",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128866048667833,
+      "asset_name": "DJ NOVA - Bryant Myers, Omar Courtz - Garchin",
+      "granted_at": "2025-10-31T00:24:26.526677",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87928099619253,
+      "asset_name": "DJ NOVA - Rave Republic - Do You Think About Me",
+      "granted_at": "2025-10-31T00:24:27.891077",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118332427124205,
+      "asset_name": "DJ NOVA Ft. DJ RAUL - Pitbull Mix",
+      "granted_at": "2025-10-31T00:24:29.394843",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76611679618298,
+      "asset_name": "DJ NOVA Ft. DJ MANlAC - Rave Mix",
+      "granted_at": "2025-10-31T00:24:30.759958",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114889488102566,
+      "asset_name": "DJ NOVA - Ta Tudo Bem Speedplug",
+      "granted_at": "2025-10-31T00:24:32.275516",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136729031895499,
+      "asset_name": "DJ NOVA - Pablo - Desculpe Aí",
+      "granted_at": "2025-10-31T00:24:33.646730",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84844461753223,
+      "asset_name": "DJ NOVA - AVAO - EXPLODE",
+      "granted_at": "2025-10-31T00:24:35.003029",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121696950722751,
+      "asset_name": "DJ NOVA - HARDSTYLE MIX P.2",
+      "granted_at": "2025-10-31T00:24:36.516991",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130660684195559,
+      "asset_name": "DJ NOVA - HARDSTYLE MIX",
+      "granted_at": "2025-10-31T00:24:37.880010",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114295138968980,
+      "asset_name": "DJ NOVA - Hardwell Blasterjaxx - BEAT OF THE DRUM",
+      "granted_at": "2025-10-31T00:24:39.392950",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114429296029146,
+      "asset_name": "DJ NOVA - Hardwell & Deorro - ID",
+      "granted_at": "2025-10-31T00:24:40.905933",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92695489857118,
+      "asset_name": "DJ NOVA - PHUTURE NOIZE & B-FRONT - THE TRIBUTE",
+      "granted_at": "2025-10-31T00:24:42.263891",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116330784053513,
+      "asset_name": "DJ NOVA Ft. DJ Rosalia - Bigroom Mix",
+      "granted_at": "2025-10-31T00:24:43.619276",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94214037926971,
+      "asset_name": "DJ NOVA - Avao - Ex To See",
+      "granted_at": "2025-10-31T00:24:45.129015",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96912013126782,
+      "asset_name": "DJ NOVA - A Que No Te Atreves",
+      "granted_at": "2025-10-31T00:24:46.712232",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134984903142218,
+      "asset_name": "DJ NOVA - Act of Rage - Make That Body Move",
+      "granted_at": "2025-10-31T00:24:48.080960",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138550681603394,
+      "asset_name": "DJ NOVA - Arcangel Mix",
+      "granted_at": "2025-10-31T00:24:49.406004",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87931619314032,
+      "asset_name": "DJ NOVA - AVAO - Show Me Love",
+      "granted_at": "2025-10-31T00:24:50.881099",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93687873714489,
+      "asset_name": "DJ NOVA - Avao & Hazrain Norman - Tonight",
+      "granted_at": "2025-10-31T00:24:52.237166",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 140547857437554,
+      "asset_name": "DJ NOVA - B-Front & Adrenalize - Eternal",
+      "granted_at": "2025-10-31T00:24:53.748319",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116034817398926,
+      "asset_name": "DJ NOVA - Captain Jack",
+      "granted_at": "2025-10-31T00:24:55.254971",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78395494649373,
+      "asset_name": "DJ NOVA - CORPSE",
+      "granted_at": "2025-10-31T00:24:56.870342",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71842467639293,
+      "asset_name": "DJ NOVA - Efecto",
+      "granted_at": "2025-10-31T00:24:58.239189",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120440258517275,
+      "asset_name": "DJ NOVA - FOVOS & Lister - Flashing Lights",
+      "granted_at": "2025-10-31T00:24:59.723036",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128373637186159,
+      "asset_name": "DJ NOVA - Hardwaxx & Hexos - Dead Zone",
+      "granted_at": "2025-10-31T00:25:01.081030",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131248640932087,
+      "asset_name": "DJ NOVA - Hardwell & AVAO - I'm The Devil",
+      "granted_at": "2025-10-31T00:25:02.441238",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94287507886977,
+      "asset_name": "DJ NOVA - Hardwell & Sub Zero Project Judgemnt Day",
+      "granted_at": "2025-10-31T00:25:03.977158",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122994151145509,
+      "asset_name": "DJ NOVA - Krowdexx - KEROSENE",
+      "granted_at": "2025-10-31T00:25:05.333756",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78639029059702,
+      "asset_name": "DJ NOVA - Lister & Achilles - Just A Dream",
+      "granted_at": "2025-10-31T00:25:06.835249",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137568931261766,
+      "asset_name": "DJ NOVA - Lokotron Remix",
+      "granted_at": "2025-10-31T00:25:08.380529",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96112944460619,
+      "asset_name": "DJ NOVA - Mark Sixma - Decibels",
+      "granted_at": "2025-10-31T00:25:09.748266",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122675919130950,
+      "asset_name": "DJ NOVA - Mix Daddy Yankee",
+      "granted_at": "2025-10-31T00:25:11.227445",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119323614884582,
+      "asset_name": "DJ NOVA - Ozuna - Ibiza",
+      "granted_at": "2025-10-31T00:25:12.740504",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110755424340948,
+      "asset_name": "DJ NOVA - PABLO PECADO DE AMR",
+      "granted_at": "2025-10-31T00:25:14.264243",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118474875684989,
+      "asset_name": "DJ NOVA - Reels B Mix",
+      "granted_at": "2025-10-31T00:25:15.591171",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114147288194474,
+      "asset_name": "DJ NOVA - REMA - Calm Down",
+      "granted_at": "2025-10-31T00:25:17.105400",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77969544773839,
+      "asset_name": "DJ NOVA - Ritmada Interestelar - MC Lipivox",
+      "granted_at": "2025-10-31T00:25:18.467285",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84498088602277,
+      "asset_name": "DJ NOVA - SEQUÊNCIA DO SOLTEIRO 2",
+      "granted_at": "2025-10-31T00:25:19.822210",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94219226553827,
+      "asset_name": "DJ NOVA - Si No Le Contesto",
+      "granted_at": "2025-10-31T00:25:21.185466",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135966790385086,
+      "asset_name": "DJ NOVA - Soy Una Gargola",
+      "granted_at": "2025-10-31T00:25:22.698046",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125531745182765,
+      "asset_name": "DJ NOVA - Trap Capos, Noriel - Amigos y Enemigos",
+      "granted_at": "2025-10-31T00:25:24.051001",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101617216628073,
+      "asset_name": "DJ NOVA - What Is Still To Come",
+      "granted_at": "2025-10-31T00:25:25.400396",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118955474825177,
+      "asset_name": "DJ NOVA - Wisin y Yandel Mix",
+      "granted_at": "2025-10-31T00:25:26.881780",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86921335571160,
+      "asset_name": "DJ NOVA - Diles - Bad Bunny, Ozuna, Ñengo",
+      "granted_at": "2025-10-31T00:25:28.360573",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127580826448984,
+      "asset_name": "DJ NOVA - Daddy Yankee & Bad Bunny - Vuelve",
+      "granted_at": "2025-10-31T00:25:29.722273",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72701114398749,
+      "asset_name": "DJ NOVA - GHOSTEMANE - Squeeze",
+      "granted_at": "2025-10-31T00:25:31.227484",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81544130849034,
+      "asset_name": "DJ NOVA - GHOSTEMANE - Nihil",
+      "granted_at": "2025-10-31T00:25:32.686760",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112869060607945,
+      "asset_name": "DJ NOVA - GHOSTEMANE - Andromeda",
+      "granted_at": "2025-10-31T00:25:34.061167",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120409148475299,
+      "asset_name": "DJ NOVA - Desiigner - Panda",
+      "granted_at": "2025-10-31T00:25:35.422231",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84404030595677,
+      "asset_name": "DJ NOVA - Showtek, Sam Pounds - Good Times",
+      "granted_at": "2025-10-31T00:25:36.785862",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84138264485036,
+      "asset_name": "DJ NOVA - METAL & BLOOD (CYBERGORE Remix)",
+      "granted_at": "2025-10-31T00:25:38.303375",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112543783187602,
+      "asset_name": "DJ NOVA - DEATH CODE & KAMI - RUN IT BACK",
+      "granted_at": "2025-10-31T00:25:39.666871",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79922396654929,
+      "asset_name": "DJ NOVA - Angerfist - Yes",
+      "granted_at": "2025-10-31T00:25:41.176951",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111320252532396,
+      "asset_name": "DJ NOVA FT. DJ JAJA - MTG NAVE ESPACIAL",
+      "granted_at": "2025-10-31T00:25:42.535911",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86937170982218,
+      "asset_name": "DJ NOVA - VERSÃO GRAVÃO AUTOMOTIVO",
+      "granted_at": "2025-10-31T00:25:44.016779",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100848928194570,
+      "asset_name": "DJ NOVA - Pablo - Tomara",
+      "granted_at": "2025-10-31T00:25:45.526729",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82471377927254,
+      "asset_name": "DJ NOVA - Pablo - Agora",
+      "granted_at": "2025-10-31T00:25:46.894388",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120925627804591,
+      "asset_name": "DJ NOVA - AUTOMOTIVO DO POU",
+      "granted_at": "2025-10-31T00:25:48.247028",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129288433748684,
+      "asset_name": "DJ NOVA - Trébol Clan - En La Disco Apreta Plan B",
+      "granted_at": "2025-10-31T00:25:49.752974",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77713621713704,
+      "asset_name": "DJ NOVA - Sprinter",
+      "granted_at": "2025-10-31T00:25:51.113962",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72115846884521,
+      "asset_name": "DJ NOVA - Si No Te Quiere (Remix)",
+      "granted_at": "2025-10-31T00:25:52.626654",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120957207909496,
+      "asset_name": "DJ NOVA - P0ntysito",
+      "granted_at": "2025-10-31T00:25:54.158341",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88015815336049,
+      "asset_name": "DJ NOVA - En La De Ella",
+      "granted_at": "2025-10-31T00:25:55.523346",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74226335686653,
+      "asset_name": "DJ NOVA - D-Block & S-te-Fan - GODD Is A DJ",
+      "granted_at": "2025-10-31T00:25:56.882977",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112206307268574,
+      "asset_name": "DJ NOVA - Ángel & Khriz  Ven Báilalo",
+      "granted_at": "2025-10-31T00:25:58.242993",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83436175086176,
+      "asset_name": "DJ NOVA - Agárrala (Remix)",
+      "granted_at": "2025-10-31T00:25:59.758505",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95480462343942,
+      "asset_name": "DJ NOVA FT. DJ JAJA - RAVE TUDØ DE BØM",
+      "granted_at": "2025-10-31T00:26:01.122920",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124703288908950,
+      "asset_name": "DJ NOVA FT. DJ JAJA - RAVE SE EU TIVER S0LTEIR0",
+      "granted_at": "2025-10-31T00:26:02.656068",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86773133749528,
+      "asset_name": "DJ NOVA FT. DJ JAJA - MTG - KISS ME THRU THE PHONE",
+      "granted_at": "2025-10-31T00:26:04.014319",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102772653817910,
+      "asset_name": "DJ NOVA FT. DJ JAJA - MELODIA ALUCINANTE 3",
+      "granted_at": "2025-10-31T00:26:05.342547",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111741320876154,
+      "asset_name": "DJ NOVA FT. DJ JAJA - MEGA BATE O POPØ NO CHÃO",
+      "granted_at": "2025-10-31T00:26:06.881952",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138387287372565,
+      "asset_name": "DJ NOVA FT. DJ JAJA - É SÓ LIGAR PRA MIM",
+      "granted_at": "2025-10-31T00:26:08.500296",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105652479462959,
+      "asset_name": "DJ NOVA - Rammstein Mix Prod.(LWH_Tomate)",
+      "granted_at": "2025-10-31T00:26:10.006108",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75334773300565,
+      "asset_name": "DJ NOVA - KAROL G, Nicki Minaj - Tusa",
+      "granted_at": "2025-10-31T00:26:11.515146",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119759880195965,
+      "asset_name": "DJ NOVA - Feid, Young Miko - Classy 101",
+      "granted_at": "2025-10-31T00:26:13.024755",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114955096667807,
+      "asset_name": "DJ NOVA - Feid, Sean Paul - Niña Bonita",
+      "granted_at": "2025-10-31T00:26:14.376995",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79531523999358,
+      "asset_name": "DJ NOVA - Feid - Normal",
+      "granted_at": "2025-10-31T00:26:15.887153",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 140599851526789,
+      "asset_name": "DJ NOVA - Feid - MEMORIAS",
+      "granted_at": "2025-10-31T00:26:17.401928",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138754725839225,
+      "asset_name": "DJ NOVA - Erva da Jamaica - Prod.(iManzo)",
+      "granted_at": "2025-10-31T00:26:18.950254",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 70757299654694,
+      "asset_name": "DJ NOVA - Eladio Carrión, Bad Bunny - Kemba Walker",
+      "granted_at": "2025-10-31T00:26:20.462420",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 140218164850886,
+      "asset_name": "DJ NOVA - Eladio Carrión - Paz Mental",
+      "granted_at": "2025-10-31T00:26:21.822984",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131358247190649,
+      "asset_name": "DJ NOVA - Eladio Carrión BZRP Music Sessions #40",
+      "granted_at": "2025-10-31T00:26:23.180804",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139857674646040,
+      "asset_name": "DJ NOVA - Ayer Me Llamó Mi Ex Remix",
+      "granted_at": "2025-10-31T00:26:24.687368",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80162918264220,
+      "asset_name": "DJ NOVA - Aventura- Ella Y Yo feat. Don Omar",
+      "granted_at": "2025-10-31T00:26:26.052857",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88406420427197,
+      "asset_name": "DJ NOVA - Automotivo da Turbulencia",
+      "granted_at": "2025-10-31T00:26:27.570933",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18995763513,
+      "asset_name": "DJ NOVA - ANTES QUE EU ME ESQUEÇA Prod.(iManzo)",
+      "granted_at": "2025-10-31T00:26:28.929332",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18995760073,
+      "asset_name": "DJ NOVA - Confesser Prod.(iManzo)",
+      "granted_at": "2025-10-31T00:26:30.288025",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18995753242,
+      "asset_name": "DJ NOVA - Welcome To The Future Prod.(iManzo)",
+      "granted_at": "2025-10-31T00:26:31.806546",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18964381117,
+      "asset_name": "DJ NOVA - MAGRÃO SPEAKS TO ME",
+      "granted_at": "2025-10-31T00:26:33.180193",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18964378644,
+      "asset_name": "DJ NOVA - Eu Sou Patrão Nao Funcionario",
+      "granted_at": "2025-10-31T00:26:34.528984",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18964376082,
+      "asset_name": "DJ NOVA - É HOJE QUE TU FOD4",
+      "granted_at": "2025-10-31T00:26:35.892964",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18964365280,
+      "asset_name": "DJ NOVA - Alexis & Fido - Eso Ehh..!!!",
+      "granted_at": "2025-10-31T00:26:37.315246",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18964361071,
+      "asset_name": "DJ NOVA - Alan Walker, K-391 & Emelie - Lily ",
+      "granted_at": "2025-10-31T00:26:38.823128",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925483964,
+      "asset_name": "DJ NOVA FT. DJ JAJA - RAVE TERROR DA CIDADE",
+      "granted_at": "2025-10-31T00:26:40.336855",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925480467,
+      "asset_name": "DJ NOVA FT. DJ JAJA - RAVE DO COLDPLAY Vs VAI DNDO",
+      "granted_at": "2025-10-31T00:26:41.742734",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925475487,
+      "asset_name": "DJ NOVA FT. DJ JAJA - MEGA PHØNK RAVE",
+      "granted_at": "2025-10-31T00:26:43.302176",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925469393,
+      "asset_name": "DJ NOVA FT. DJ JAJA - MEGA FAZ A PØSE OLHA O FLASH",
+      "granted_at": "2025-10-31T00:26:44.776855",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925465444,
+      "asset_name": "DJ NOVA FT. DJ JAJA - MEGA BATIDAO DA RIHANNA",
+      "granted_at": "2025-10-31T00:26:46.299230",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925457465,
+      "asset_name": "DJ NOVA FT. DJ JAJA - BALLENA REMIX",
+      "granted_at": "2025-10-31T00:26:47.664213",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925450880,
+      "asset_name": "DJ NOVA - PIQUE DA RITMADA",
+      "granted_at": "2025-10-31T00:26:49.182510",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925443885,
+      "asset_name": "DJ NOVA - LOUD GUXTA - ENTÃO FAZ Prod.(i_Sininho)",
+      "granted_at": "2025-10-31T00:26:50.695279",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925405049,
+      "asset_name": "DJ NOVA - Beat das Trevas",
+      "granted_at": "2025-10-31T00:26:52.203025",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925402151,
+      "asset_name": "DJ NOVA - 155 x 157 ESSE É O SEU CPF x FUNK",
+      "granted_at": "2025-10-31T00:26:53.566929",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925397255,
+      "asset_name": "DJ NOVA - Mix Personalizado Prod.(M) 1",
+      "granted_at": "2025-10-31T00:26:55.083383",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925390575,
+      "asset_name": "DJ NOVA - Yandel - Encantadora",
+      "granted_at": "2025-10-31T00:26:56.616819",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925387182,
+      "asset_name": "DJ NOVA - Virtual Diva - Don Omar",
+      "granted_at": "2025-10-31T00:26:57.983823",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925383047,
+      "asset_name": "DJ NOVA - Me Prefieres A Mi",
+      "granted_at": "2025-10-31T00:26:59.338281",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925379191,
+      "asset_name": "DJ NOVA - Luna - Don Omar",
+      "granted_at": "2025-10-31T00:27:00.853903",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925373677,
+      "asset_name": "DJ NOVA - Don Omar - Salió El Sol",
+      "granted_at": "2025-10-31T00:27:02.242998",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925368589,
+      "asset_name": "DJ NOVA - Don Omar - Pobre Diabla",
+      "granted_at": "2025-10-31T00:27:03.603918",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925360655,
+      "asset_name": "DJ NOVA - Don Omar - Dutty Love",
+      "granted_at": "2025-10-31T00:27:05.137303",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925355706,
+      "asset_name": "DJ NOVA - Don Omar - Bandolero ft. Tego Calderon",
+      "granted_at": "2025-10-31T00:27:06.498387",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925352205,
+      "asset_name": "DJ NOVA - Don Omar - Adiós",
+      "granted_at": "2025-10-31T00:27:07.876980",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925348833,
+      "asset_name": "DJ NOVA - Dile - Don Omar",
+      "granted_at": "2025-10-31T00:27:09.374775",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18925345418,
+      "asset_name": "DJ NOVA - Ayer La Vi - Don Omar",
+      "granted_at": "2025-10-31T00:27:10.922411",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18912541522,
+      "asset_name": "DJ NOVA - MASHA ULTRAFUNK",
+      "granted_at": "2025-10-31T00:27:12.439305",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18912538006,
+      "asset_name": "DJ NOVA - ELA VEM, BROTA NO MEU SETOR",
+      "granted_at": "2025-10-31T00:27:13.797270",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18912534895,
+      "asset_name": "DJ NOVA - Bye bye bye NSYNC - Alexander Chung",
+      "granted_at": "2025-10-31T00:27:15.149270",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18912532137,
+      "asset_name": "DJ NOVA - Ray Charles - Hit The Road Jack Deadpool",
+      "granted_at": "2025-10-31T00:27:16.683132",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18912527599,
+      "asset_name": "DJ NOVA - Tomahawk - Tigerblood Jewel",
+      "granted_at": "2025-10-31T00:27:18.203506",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18912497744,
+      "asset_name": "DJ NOVA - DEITADO NO SOFÁ Prod.(i_Sininho)",
+      "granted_at": "2025-10-31T00:27:19.724164",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18912494441,
+      "asset_name": "DJ NOVA - Hoje Sou Eu Que Não Mas Prod.(i_Sininho)",
+      "granted_at": "2025-10-31T00:27:21.198573",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18912486602,
+      "asset_name": "DJ NOVA - Gnarls Barkley - Crazy Prod.(i_Sininho)",
+      "granted_at": "2025-10-31T00:27:22.711147",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18892188167,
+      "asset_name": "DJ NOVA - Aeroplano Prod.(xMidnightxPANTHERx)",
+      "granted_at": "2025-10-31T00:27:24.223380",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18892179561,
+      "asset_name": "DJ NOVA - El Telephone Prod.(xMidnightxPANTHERx)",
+      "granted_at": "2025-10-31T00:27:25.735053",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18892160435,
+      "asset_name": "DJ NOVA - Fuego Prod.(xMidnightxPANTHERx)",
+      "granted_at": "2025-10-31T00:27:27.259868",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18877984847,
+      "asset_name": "DJ NOVA FT. DJ JAJA - RITMADA MOVIMENTA",
+      "granted_at": "2025-10-31T00:27:28.763125",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18877979486,
+      "asset_name": "DJ NOVA FT. DJ JAJA - RAVE TOMA CATUCADA FORTE",
+      "granted_at": "2025-10-31T00:27:30.278519",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18877973775,
+      "asset_name": "DJ NOVA FT. DJ JAJA - RAVE FAZER FALTA REMIX",
+      "granted_at": "2025-10-31T00:27:31.642118",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18877943683,
+      "asset_name": "DJ NOVA - MTG PASSA PRA EU SARRAR Prod.(Pa0la)",
+      "granted_at": "2025-10-31T00:27:33.207567",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18877933990,
+      "asset_name": "DJ NOVA FT. DJ JAJA - MTG KISS KISS (Chris Brown)",
+      "granted_at": "2025-10-31T00:27:34.595710",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18877926805,
+      "asset_name": "DJ NOVA FT. DJ JAJA - MTG CLOSER  - AND I JUST",
+      "granted_at": "2025-10-31T00:27:35.950983",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18877918596,
+      "asset_name": "DJ NOVA FT. DJ JAJA - MTG BBY IF YØU GIVE IT TØ ME",
+      "granted_at": "2025-10-31T00:27:37.315292",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18877888816,
+      "asset_name": "DJ NOVA FT. DJ JAJA - MEGA RAVE SUPER PODEROSAS",
+      "granted_at": "2025-10-31T00:27:38.668413",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18877865718,
+      "asset_name": "DJ NOVA FT. DJ JAJA - LAST NIGHT REMIX ",
+      "granted_at": "2025-10-31T00:27:40.170405",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18877851265,
+      "asset_name": "DJ NOVA - MONTAGEM - DA UMA SENTADA DAQUELA",
+      "granted_at": "2025-10-31T00:27:41.532641",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18877774120,
+      "asset_name": "DJ NOVA - ME DESCULPA PAI, ME DESCULPA MÃE",
+      "granted_at": "2025-10-31T00:27:42.891148",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18877761185,
+      "asset_name": "DJ NOVA - GHOSTEMANE - Mercury",
+      "granted_at": "2025-10-31T00:27:44.366445",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18877756106,
+      "asset_name": "DJ NOVA - ANGEL",
+      "granted_at": "2025-10-31T00:27:45.732009",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18877748883,
+      "asset_name": "DJ NOVA - ALIBI (REMIX)",
+      "granted_at": "2025-10-31T00:27:47.073624",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18867034696,
+      "asset_name": "DJ NOVA - Showtek - Real One",
+      "granted_at": "2025-10-31T00:27:48.591739",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18867029472,
+      "asset_name": "DJ NOVA - Tchan no Havaí - Tchan Prod.(i_Sininho)",
+      "granted_at": "2025-10-31T00:27:50.105127",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18866669026,
+      "asset_name": "DJ_NOVA - Tigerblood - Tumbleweed ",
+      "granted_at": "2025-10-31T00:27:51.681689",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18856015748,
+      "asset_name": "DjNOVA - Mad Dog- Focul Arde Prod.(akiraO01)",
+      "granted_at": "2025-10-31T00:27:53.219385",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18855835397,
+      "asset_name": "DjNOVA - Murilo Huff - Anestesiado Prod.(RNzd)",
+      "granted_at": "2025-10-31T00:27:54.582655",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18837861888,
+      "asset_name": "DjNOVA - Estilo Mohamed Jr  - Filho da Lenda",
+      "granted_at": "2025-10-31T00:27:56.100793",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18837852842,
+      "asset_name": "DjNOVA - AUTOMOTIVO TOMA SEQUENCIA DE ROCK",
+      "granted_at": "2025-10-31T00:27:57.584440",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18837848160,
+      "asset_name": "DjNOVA - AUTOMOTIVO TOMA SAFADA",
+      "granted_at": "2025-10-31T00:27:58.947711",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18837161588,
+      "asset_name": "DjNOVA - TROPA DO CORINGA",
+      "granted_at": "2025-10-31T00:28:00.300822",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18837125988,
+      "asset_name": "DjNOVA - 5 LETRA 5 PvTA 5 X0T4 PRO COMBATE",
+      "granted_at": "2025-10-31T00:28:01.815705",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18837113224,
+      "asset_name": "DjNOVA - 3. BOLHAS DO APOCALIPSE",
+      "granted_at": "2025-10-31T00:28:03.171468",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18837108721,
+      "asset_name": "DJ Baki x DjNOVA - Funk Mix",
+      "granted_at": "2025-10-31T00:28:04.695591",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18823770903,
+      "asset_name": "DjNOVA - Tropa do Kong",
+      "granted_at": "2025-10-31T00:28:06.066102",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18823756284,
+      "asset_name": "DjNOVA - OS 3 MACETES 2 (DJ Blakes)",
+      "granted_at": "2025-10-31T00:28:07.442309",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18823741662,
+      "asset_name": "DjNOVA - MONTAGEM DE OUTRO MUNDO",
+      "granted_at": "2025-10-31T00:28:08.960206",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18823737879,
+      "asset_name": "DjNOVA - Mil Horas",
+      "granted_at": "2025-10-31T00:28:10.452404",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18823734312,
+      "asset_name": "DjNOVA - MEDLEY DA MC MAE 2",
+      "granted_at": "2025-10-31T00:28:11.803891",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18823727031,
+      "asset_name": "DjNOVA - La Tormenta De Arena - Dorian ",
+      "granted_at": "2025-10-31T00:28:13.188021",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18823720958,
+      "asset_name": "DjNOVA - Enanitos Verdes ",
+      "granted_at": "2025-10-31T00:28:14.669690",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18803966089,
+      "asset_name": "DjNOVA - MEU AMIGO MUDO Prod.(i_Sininho)",
+      "granted_at": "2025-10-31T00:28:16.240938",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18801741088,
+      "asset_name": "DjNOVA - Peter Pan - Samantha Prod.(i_Sininho)",
+      "granted_at": "2025-10-31T00:28:17.598275",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18801736016,
+      "asset_name": "DjNOVA - PEDRO SAMPAIO - SEQUÊNCIA COLOCADÃO",
+      "granted_at": "2025-10-31T00:28:18.960968",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18801728092,
+      "asset_name": "DjNOVA - Ombrim Ai Que Delícia Prod.(i_Sininho)",
+      "granted_at": "2025-10-31T00:28:20.316474",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18801722054,
+      "asset_name": "DjNOVA - NAVE ESPACIAL - Liu Prod.(i_Sininho)",
+      "granted_at": "2025-10-31T00:28:21.676315",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18801711594,
+      "asset_name": "DjNOVA - NA ONDA DO BERIMBAU - MC Menor MT",
+      "granted_at": "2025-10-31T00:28:23.206339",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18801705610,
+      "asset_name": "DjNOVA - MC Loma - Envolvimento Prod.(i_Sininho)",
+      "granted_at": "2025-10-31T00:28:24.748526",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18801699684,
+      "asset_name": "DjNOVA - MC Ingry VmMe Satisfazer Prod.(i_Sininho)",
+      "granted_at": "2025-10-31T00:28:26.264048",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18801688035,
+      "asset_name": "DjNOVA - MARIA MARIAH VOCÊ NÃO SAI DA MINHA CABEÇA",
+      "granted_at": "2025-10-31T00:28:27.786328",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18801609536,
+      "asset_name": "DjNOVA - EU BEM QUE TE AVISEI - TU EMPINO ELE PEI ",
+      "granted_at": "2025-10-31T00:28:29.145756",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18801595371,
+      "asset_name": "DjNOVA - CALMA AMOR CALMA BEB",
+      "granted_at": "2025-10-31T00:28:30.501168",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18801588736,
+      "asset_name": "DjNOVA - Biel, Luísa Sonza - Posição de Ataque",
+      "granted_at": "2025-10-31T00:28:31.895151",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18801575046,
+      "asset_name": "DjNOVA - BELLAKEO - Peso P Anitta Prod.(i_Sininho)",
+      "granted_at": "2025-10-31T00:28:33.355297",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18800120544,
+      "asset_name": "DjNOVA - BEAT FSTA - EuQuero fsta Prod.(i_Sininho)",
+      "granted_at": "2025-10-31T00:28:34.740377",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18800066956,
+      "asset_name": "DjNOVA - Anitta - Funk Rave Prod.(i_Sininho)",
+      "granted_at": "2025-10-31T00:28:36.257424",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762267821,
+      "asset_name": "🔥VAI NO VUK VS EU DOU PRA ELA BALINHA (20K)#102🔥",
+      "granted_at": "2025-10-31T00:28:37.834496",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762261090,
+      "asset_name": "🔥Ritmadinha do Hg, Pt. 5 (20K)#101🔥",
+      "granted_at": "2025-10-31T00:28:39.241387",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762257968,
+      "asset_name": "🔥RITMADINHA DO HG - MC VITINHO DA 3 (20K)#100🔥",
+      "granted_at": "2025-10-31T00:28:40.644892",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762254749,
+      "asset_name": "🔥PEDRO SAMPAIO - POCPOC (20K)#99🔥",
+      "granted_at": "2025-10-31T00:28:42.043219",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762245517,
+      "asset_name": "🔥NEXT! (20K)#98🔥",
+      "granted_at": "2025-10-31T00:28:43.608400",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762242651,
+      "asset_name": "🔥Não Vou Namorar (20K)#97🔥",
+      "granted_at": "2025-10-31T00:28:45.010412",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762238762,
+      "asset_name": "🔥Mega Putaria do Dj Miller 2.0 (20K)#96🔥",
+      "granted_at": "2025-10-31T00:28:46.674126",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762235105,
+      "asset_name": "🔥MC Kevinho - Olha a Explosão (20K)#95🔥",
+      "granted_at": "2025-10-31T00:28:48.242991",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762229727,
+      "asset_name": "🔥MAGRÃO MEGA AVANÇADO - UIÉ - MC MN (20K)#94🔥",
+      "granted_at": "2025-10-31T00:28:49.805955",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762225449,
+      "asset_name": "🔥Ichiss - Whine in Brazil (20K)#93🔥",
+      "granted_at": "2025-10-31T00:28:51.357477",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762221441,
+      "asset_name": "🔥HISTED - MASHA ULTRAFUNK EDIT (20K)#92🔥",
+      "granted_at": "2025-10-31T00:28:52.762268",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762217538,
+      "asset_name": "🔥ELAS GOSTA DE BAILE DE MARGINAL (20K)#91🔥",
+      "granted_at": "2025-10-31T00:28:54.164524",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762210763,
+      "asset_name": "🔥DOU PRA ELA BALINHA - DJ Yure 22 (20K)#90🔥",
+      "granted_at": "2025-10-31T00:28:55.564003",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762204953,
+      "asset_name": "🔥DJ FKU - MTG - VINGANÇA (20K)#89🔥",
+      "granted_at": "2025-10-31T00:28:56.967057",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762198035,
+      "asset_name": "🔥AUTOMOTIVO DA ZONA SUL 4 (20K)#88🔥",
+      "granted_at": "2025-10-31T00:28:58.521427",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762156641,
+      "asset_name": "🔥Will Sparks - Annihilate (20K)#87🔥",
+      "granted_at": "2025-10-31T00:28:59.924163",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762149548,
+      "asset_name": "🔥W&W x Blasterjaxx - Dynamite (20K)#86🔥",
+      "granted_at": "2025-10-31T00:29:01.498133",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762143158,
+      "asset_name": "🔥Toneshiftrz - We Will Be Legends (20K)#85🔥",
+      "granted_at": "2025-10-31T00:29:02.905921",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762135851,
+      "asset_name": "🔥Tom Odell - Another Love (20K)#84🔥",
+      "granted_at": "2025-10-31T00:29:04.466022",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762130527,
+      "asset_name": "🔥TNT - 2003 (20K)#83🔥",
+      "granted_at": "2025-10-31T00:29:06.036979",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762125627,
+      "asset_name": "🔥Swedish House - Don't You Worry Child (20K)#82🔥",
+      "granted_at": "2025-10-31T00:29:07.607526",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762114328,
+      "asset_name": "🔥Sub Zero Project JDX - The Showdown (20K)#81🔥",
+      "granted_at": "2025-10-31T00:29:09.012775",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762106565,
+      "asset_name": "🔥Sub Zero Project - TECHNOBOTS (20K)#80🔥",
+      "granted_at": "2025-10-31T00:29:10.697052",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762101663,
+      "asset_name": "🔥Sefa & D-Block - Symphony of Life (20K)#79🔥",
+      "granted_at": "2025-10-31T00:29:12.097055",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762095572,
+      "asset_name": "🔥Rooler & Sickmode - LOV THE WAY (20K)#78🔥",
+      "granted_at": "2025-10-31T00:29:13.675017",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762085844,
+      "asset_name": "🔥Rooler & Sickmode - TOO HAPPY (20K)#77🔥",
+      "granted_at": "2025-10-31T00:29:15.085797",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762074938,
+      "asset_name": "🔥Rooler & Kronos - FC DAT! (20K)#76🔥",
+      "granted_at": "2025-10-31T00:29:16.502834",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762068117,
+      "asset_name": "🔥POLTERGST - Open Your Eyes (20K)#75🔥",
+      "granted_at": "2025-10-31T00:29:18.061407",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762060161,
+      "asset_name": "🔥Outside (20K)#74🔥",
+      "granted_at": "2025-10-31T00:29:19.645242",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762053088,
+      "asset_name": "🔥Malice & Kronos - THE NEW RAVE (20K)#73🔥",
+      "granted_at": "2025-10-31T00:29:21.051289",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18762043872,
+      "asset_name": "🔥Ma Chérie (20K)#72🔥",
+      "granted_at": "2025-10-31T00:29:22.461973",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758799358,
+      "asset_name": "🔥Hrdwell ft. Mitch - Call Me Spaceman (20K)#71🔥",
+      "granted_at": "2025-10-31T00:29:24.020200",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758793056,
+      "asset_name": "🔥Hardwell ft. Jonatan Mendelson - Echo (20K)#70🔥",
+      "granted_at": "2025-10-31T00:29:25.597083",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758783000,
+      "asset_name": "🔥Hardwell feat. Harrison -  Earthquake (20K)#69🔥",
+      "granted_at": "2025-10-31T00:29:27.148926",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758779339,
+      "asset_name": "🔥Hardwell & Madix feat. Luciana - ACID (20K)#68🔥",
+      "granted_at": "2025-10-31T00:29:28.712130",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758766304,
+      "asset_name": "🔥Hardwell - XTC (20K)#67🔥",
+      "granted_at": "2025-10-31T00:29:30.199441",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758762342,
+      "asset_name": "🔥Hardwell - INTO THE UNKNOWN (20K)#66🔥",
+      "granted_at": "2025-10-31T00:29:31.604345",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758757483,
+      "asset_name": "🔥FOVOS - Feel The Rhythm (20K)#65🔥",
+      "granted_at": "2025-10-31T00:29:33.001161",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758753153,
+      "asset_name": "🔥FIFTY FIFTY - Cupid (20K)#64🔥",
+      "granted_at": "2025-10-31T00:29:34.558502",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758739226,
+      "asset_name": "🔥Deadly Guns - From The Underground (20K)#63🔥",
+      "granted_at": "2025-10-31T00:29:35.957346",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758725327,
+      "asset_name": "🔥Blasterjaxx - JUMP AND RAVE (20K)#62🔥",
+      "granted_at": "2025-10-31T00:29:37.366560",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758708892,
+      "asset_name": "🔥Avao - Be With Me (20K)#61🔥",
+      "granted_at": "2025-10-31T00:29:38.938479",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758699989,
+      "asset_name": "🔥Aftershock & Atmozfears - Reactivate (20K)#60🔥",
+      "granted_at": "2025-10-31T00:29:40.497352",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758690216,
+      "asset_name": "🔥Afrojack - Ten Feet Tall (20K)#59🔥",
+      "granted_at": "2025-10-31T00:29:41.905162",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758678941,
+      "asset_name": "🔥Soltera Remix - Lunay X Daddy Yankee (20K)#58🔥",
+      "granted_at": "2025-10-31T00:29:43.279488",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758669798,
+      "asset_name": "🔥Justin Quiles - Si Ella Quisiera (20K)#57🔥",
+      "granted_at": "2025-10-31T00:29:44.693468",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758662219,
+      "asset_name": "🔥Gente de Zona - La Gozadera (20K)#56🔥",
+      "granted_at": "2025-10-31T00:29:46.093233",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758656415,
+      "asset_name": "🔥Dalmata - Pasarela (20K)#55🔥",
+      "granted_at": "2025-10-31T00:29:47.568963",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758652203,
+      "asset_name": "🔥DADDY YANKEE  PASARELA (20K)#54🔥",
+      "granted_at": "2025-10-31T00:29:49.130476",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758646913,
+      "asset_name": "🔥AnuelAA, Luar La - Gatita Michu Michu (20K)#53🔥",
+      "granted_at": "2025-10-31T00:29:50.689924",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758639538,
+      "asset_name": "🔥Anuel AA & Mvsis - Si Yo Me Muero (20K)#52🔥",
+      "granted_at": "2025-10-31T00:29:52.245269",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18758635234,
+      "asset_name": "🔥Anuel AA - 23 Preguntas (20K)#51🔥",
+      "granted_at": "2025-10-31T00:29:53.876052",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18702258111,
+      "asset_name": "DjNOVA - Billie Eilish - CHIHIRO prod. (i_Sininho)",
+      "granted_at": "2025-10-31T00:29:55.276510",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18642012843,
+      "asset_name": "DjNOVA - Perros Salvajes - Daddy Yankee ",
+      "granted_at": "2025-10-31T00:29:56.786986",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18642007589,
+      "asset_name": "DjNOVA - Daddy Yankee  Pose ",
+      "granted_at": "2025-10-31T00:29:58.147428",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18642000190,
+      "asset_name": "DjNOVA - Mix Billie Eilish ",
+      "granted_at": "2025-10-31T00:29:59.680307",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18641984010,
+      "asset_name": "DjNOVA - BrunoMars - Talking To The Moon Hardstyle",
+      "granted_at": "2025-10-31T00:30:01.050072",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18641967663,
+      "asset_name": "DjNOVA - Billie Eilish - Ocean Eyes Hardstyle",
+      "granted_at": "2025-10-31T00:30:02.415125",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18641960789,
+      "asset_name": "DjNOVA - Billie Eilish - Bad Guy Frenchcore Edit",
+      "granted_at": "2025-10-31T00:30:03.748476",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18641954425,
+      "asset_name": "DjNOVA - Christina Perri - A Thousand Years",
+      "granted_at": "2025-10-31T00:30:05.278194",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18593962106,
+      "asset_name": "DjNOVA - Andy Rivera, - Te Pintaron Pajaritos",
+      "granted_at": "2025-10-31T00:30:06.811122",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18593949996,
+      "asset_name": "DjNOVA - Anuel AA, Bad Bunny - Hasta Que Dios Diga",
+      "granted_at": "2025-10-31T00:30:08.305026",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18593944440,
+      "asset_name": "DjNOVA - Escápate Conmigo, Wolfine",
+      "granted_at": "2025-10-31T00:30:09.834161",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18593938085,
+      "asset_name": "DjNOVA - Paulo Londra - Tal Vez",
+      "granted_at": "2025-10-31T00:30:11.363307",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18593931536,
+      "asset_name": "DjNOVA - Paulo Londra ft Lenny - Nena Maldicion",
+      "granted_at": "2025-10-31T00:30:12.728324",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18593924841,
+      "asset_name": "DjNOVA - Reykon - Imáginandote feat. Daddy Yankee",
+      "granted_at": "2025-10-31T00:30:14.249872",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18593916795,
+      "asset_name": "DjNOVA - Canserbero - Stupid Love History",
+      "granted_at": "2025-10-31T00:30:15.777491",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18431488878,
+      "asset_name": "Justin Bieber - Ghost",
+      "granted_at": "2025-10-31T00:30:17.305671",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18431486220,
+      "asset_name": "We'll see each other again - Angel 🤍💔🕊️",
+      "granted_at": "2025-10-31T00:30:18.708952",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18416096122,
+      "asset_name": "DjNOVA - Universe! (Original Mix)",
+      "granted_at": "2025-10-31T00:30:20.233251",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18416093698,
+      "asset_name": "DjNOVA - Turu R9 Funk - DJ Ikeraus",
+      "granted_at": "2025-10-31T00:30:21.775467",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18416090314,
+      "asset_name": "DjNOVA - STEREO LOVE FUNK",
+      "granted_at": "2025-10-31T00:30:23.293447",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18416086571,
+      "asset_name": "DjNOVA - SÃO PAULO DRIFT . DJ Graf XP, Noguera DJ ",
+      "granted_at": "2025-10-31T00:30:24.794313",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18416082376,
+      "asset_name": "DjNOVA - RITMADINHA DO HG - PART 5 - MC SILLVEER",
+      "granted_at": "2025-10-31T00:30:26.314711",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18416074298,
+      "asset_name": "DjNOVA - O COLAPSO DE MUNDOS",
+      "granted_at": "2025-10-31T00:30:27.841480",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18416070763,
+      "asset_name": "DjNOVA - Montagem Rave Eterno",
+      "granted_at": "2025-10-31T00:30:29.383608",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18416067401,
+      "asset_name": "DjNOVA - MEME FUNK",
+      "granted_at": "2025-10-31T00:30:30.739321",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18416064322,
+      "asset_name": "DjNOVA - MCBruninho e Vitinho Ferrari - Sou Favla ",
+      "granted_at": "2025-10-31T00:30:32.266473",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18416053130,
+      "asset_name": "DjNOVA - Eu Sento Gabu!",
+      "granted_at": "2025-10-31T00:30:33.791951",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18416047974,
+      "asset_name": "DjNOVA - AI Seu Te Pego",
+      "granted_at": "2025-10-31T00:30:35.342501",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18416030257,
+      "asset_name": "DjNOVA - DERRUBA NÓIA DE ARAISÓPOLIS",
+      "granted_at": "2025-10-31T00:30:36.714731",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18416015765,
+      "asset_name": "DjNOVA - CASHA DE FUNK",
+      "granted_at": "2025-10-31T00:30:38.100980",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18416006914,
+      "asset_name": "DjNOVA - Bibi Babydol - Eu não nasci pra trabalhar",
+      "granted_at": "2025-10-31T00:30:39.620622",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18416001348,
+      "asset_name": "DjNOVA - Baile do Coqueiro 5",
+      "granted_at": "2025-10-31T00:30:41.148348",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415997188,
+      "asset_name": "DjNOVA - Automotivo Sangra Timpano",
+      "granted_at": "2025-10-31T00:30:42.511121",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415988765,
+      "asset_name": "DjNOVA - AUTOMOTIVO DO JAGUARÉ 2",
+      "granted_at": "2025-10-31T00:30:44.031587",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415983596,
+      "asset_name": "DjNOVA - Automotivo Amar, Ma Ma Ma",
+      "granted_at": "2025-10-31T00:30:45.399956",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415978532,
+      "asset_name": "DjNOVA - ASSOBIO DERRUBA HELIOPOLIS",
+      "granted_at": "2025-10-31T00:30:46.765760",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415972075,
+      "asset_name": "DjNOVA - Ainsi Bas La Vida Funk",
+      "granted_at": "2025-10-31T00:30:48.294639",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415911260,
+      "asset_name": "DjNOVA - LOUCA ENCUBADA ",
+      "granted_at": "2025-10-31T00:30:49.659460",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415906631,
+      "asset_name": "DjNOVA - IShowSpeed - Monkey",
+      "granted_at": "2025-10-31T00:30:51.027346",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415902144,
+      "asset_name": "DjNOVA - Eu Sento Gabu!",
+      "granted_at": "2025-10-31T00:30:52.402306",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415899158,
+      "asset_name": "DjNOVA - DERRUBA NÓIA DE ARAISÓPOLIS  DJ NGSKO",
+      "granted_at": "2025-10-31T00:30:53.765446",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415892214,
+      "asset_name": "DjNOVA - Chamber of Reflection",
+      "granted_at": "2025-10-31T00:30:55.275719",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415888812,
+      "asset_name": "DjNOVA - CASHA DE FUNK",
+      "granted_at": "2025-10-31T00:30:56.798306",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415884747,
+      "asset_name": "DjNOVA - Bumbum Granada - MCs Zaac e Jerry",
+      "granted_at": "2025-10-31T00:30:58.318134",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415879868,
+      "asset_name": "DjNOVA - Bibi Babydoll DJWill - Automotivo Nota 10",
+      "granted_at": "2025-10-31T00:30:59.681512",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415870692,
+      "asset_name": "DjNOVA - Bibi Babydoll - Tapa Tapa No Popo",
+      "granted_at": "2025-10-31T00:31:01.321530",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415865675,
+      "asset_name": "DjNOVA - Bibi Babydol - Eu não nasci pra trabalhar",
+      "granted_at": "2025-10-31T00:31:03.027247",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415860226,
+      "asset_name": "DjNOVA - Bibi Babydoll - Assombra Dimensão 4",
+      "granted_at": "2025-10-31T00:31:04.543863",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415855330,
+      "asset_name": "DjNOVA - Bibi Babydoll - Automotivo Bibi Fogosa",
+      "granted_at": "2025-10-31T00:31:06.008038",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415845297,
+      "asset_name": "DjNOVA - Baile do Coqueiro 5",
+      "granted_at": "2025-10-31T00:31:07.535482",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415841300,
+      "asset_name": "DjNOVA - Automotivo Sangra Timpano",
+      "granted_at": "2025-10-31T00:31:09.069192",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415835390,
+      "asset_name": "DjNOVA - AUTOMOTIVO DO JAGUARÉ 2",
+      "granted_at": "2025-10-31T00:31:10.432389",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415831724,
+      "asset_name": "DjNOVA - Automotivo Amar, Ma Ma Ma",
+      "granted_at": "2025-10-31T00:31:11.953506",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415827234,
+      "asset_name": "DjNOVA - ASSOBIO DERRUBA HELIOPOLIS",
+      "granted_at": "2025-10-31T00:31:13.479172",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415822342,
+      "asset_name": "DjNOVA - Ainsi Bas La Vida Funk",
+      "granted_at": "2025-10-31T00:31:15.012142",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18415818716,
+      "asset_name": "DjNOVA - AI Seu Te Pego",
+      "granted_at": "2025-10-31T00:31:16.526784",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18338219499,
+      "asset_name": "Himno de Estados Unidos - DjNOVA",
+      "granted_at": "2025-10-31T00:31:17.892240",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18324884137,
+      "asset_name": "Tourner Dans Le Vide (Techno Remix)",
+      "granted_at": "2025-10-31T00:31:19.332435",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18324875340,
+      "asset_name": "DjNOVA - Sub Zero Project - LASER ",
+      "granted_at": "2025-10-31T00:31:20.899241",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18324866176,
+      "asset_name": "DjNOVA - Sickmode & Rooler & Krowdexx - SAVE ME ",
+      "granted_at": "2025-10-31T00:31:22.470698",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18324859553,
+      "asset_name": "DjNOVA - Riot Shift - OUR DESTRUCTION ",
+      "granted_at": "2025-10-31T00:31:24.035725",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18324852112,
+      "asset_name": "DjNOVA - Riot Shift - DAMATION",
+      "granted_at": "2025-10-31T00:31:25.599338",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18324843727,
+      "asset_name": "DjNOVA - Krowdexx- Nocturnal Rebellion",
+      "granted_at": "2025-10-31T00:31:27.156924",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18324836715,
+      "asset_name": "DjNOVA - KELTEK - Music Is Magic  ",
+      "granted_at": "2025-10-31T00:31:28.759352",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18324829802,
+      "asset_name": "DjNOVA - Hard Driver - Fire To The Fuse",
+      "granted_at": "2025-10-31T00:31:30.494193",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18324820958,
+      "asset_name": "DjNOVA - D_Sturb & E_Life - Through My Veins",
+      "granted_at": "2025-10-31T00:31:32.059340",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18324805068,
+      "asset_name": "DjNOVA - Dr. Peacock - Trip to Valhalla",
+      "granted_at": "2025-10-31T00:31:33.459601",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18324801907,
+      "asset_name": "DjNOVA - D_Fence - MTFKING LOUD!",
+      "granted_at": "2025-10-31T00:31:34.864922",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18324790895,
+      "asset_name": "DjNOVA - DERNIERE DANSE (HARDSTYLE)",
+      "granted_at": "2025-10-31T00:31:36.390763",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18248452817,
+      "asset_name": " LA INOCENTE - DjNOVA",
+      "granted_at": "2025-10-31T00:31:37.921244",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18248320556,
+      "asset_name": "Set: Hardstyle #15 - DjNOVA",
+      "granted_at": "2025-10-31T00:31:39.400865",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18248314890,
+      "asset_name": "Set: Hardstyle #14 - DjNOVA",
+      "granted_at": "2025-10-31T00:31:40.931390",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18248308577,
+      "asset_name": "Set: Hardstyle #13 - DjNOVA",
+      "granted_at": "2025-10-31T00:31:42.457080",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18248276581,
+      "asset_name": "Set: Hardstyle #12 - DjNOVA",
+      "granted_at": "2025-10-31T00:31:43.813974",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18248270414,
+      "asset_name": "Set: Hardstyle #11 - DjNOVA",
+      "granted_at": "2025-10-31T00:31:45.234947",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18248263407,
+      "asset_name": "Set: Hardstyle #10 - DjNOVA",
+      "granted_at": "2025-10-31T00:31:46.593989",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18248254662,
+      "asset_name": "Set: Hardstyle #9 - DjNOVA",
+      "granted_at": "2025-10-31T00:31:48.110104",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18248247327,
+      "asset_name": "Set: Hardstyle #8 - DjNOVA",
+      "granted_at": "2025-10-31T00:31:49.638013",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18248211829,
+      "asset_name": "Set: Hardstyle #7 - DjNOVA",
+      "granted_at": "2025-10-31T00:31:51.148973",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18248179098,
+      "asset_name": "Set: Hardstyle #6 - DjNOVA",
+      "granted_at": "2025-10-31T00:31:52.677233",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18248168419,
+      "asset_name": "Set: Hardstyle #5 - DjNOVA",
+      "granted_at": "2025-10-31T00:31:54.206951",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18248150061,
+      "asset_name": "Set: Hardstyle #4 - DjNOVA",
+      "granted_at": "2025-10-31T00:31:55.765965",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18248103646,
+      "asset_name": "Set: Hardstyle #3 - DjNOVA",
+      "granted_at": "2025-10-31T00:31:57.474051",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18248093713,
+      "asset_name": "Set: Hardstyle #2 - DjNOVA",
+      "granted_at": "2025-10-31T00:31:59.003150",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18248086737,
+      "asset_name": "Set: Hardstyle #1 - DjNOVA",
+      "granted_at": "2025-10-31T00:32:00.518200",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18166287657,
+      "asset_name": "Are U Ready To Rave?",
+      "granted_at": "2025-10-31T00:32:02.015201",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18152406605,
+      "asset_name": "Ella y Yo - DjNOVA",
+      "granted_at": "2025-10-31T00:32:03.374227",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18151777868,
+      "asset_name": "Una Noche Mas - DjNOVA",
+      "granted_at": "2025-10-31T00:32:04.904187",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18151741752,
+      "asset_name": "Dame - DjNOVA",
+      "granted_at": "2025-10-31T00:32:06.300122",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18151398570,
+      "asset_name": "🎉Feliz Cumpleaños K1T4!!!🥳🎊",
+      "granted_at": "2025-10-31T00:32:08.009914",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18151200351,
+      "asset_name": "Feliz Cumpleaños K1T4!!",
+      "granted_at": "2025-10-31T00:32:09.536899",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18122185298,
+      "asset_name": "Intro DBZ Party - DjNOVA",
+      "granted_at": "2025-10-31T00:32:11.088496",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18120726220,
+      "asset_name": "DjNOVA - Retaliation x Voice (Hardstyle)",
+      "granted_at": "2025-10-31T00:32:12.443523",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18120705198,
+      "asset_name": "DjNOVA - Party With Cops (Bigroom)",
+      "granted_at": "2025-10-31T00:32:13.805438",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18120698290,
+      "asset_name": "DjNOVA - Move (Bigroom)",
+      "granted_at": "2025-10-31T00:32:15.164653",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18120693596,
+      "asset_name": "DjNOVA - Legion (Bigroom)",
+      "granted_at": "2025-10-31T00:32:16.639515",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18120680374,
+      "asset_name": "DjNOVA - Fuego (Bigroom)",
+      "granted_at": "2025-10-31T00:32:18.164089",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18120674332,
+      "asset_name": "DJ_Thay x DjNOVA - Tech Mix",
+      "granted_at": "2025-10-31T00:32:19.694553",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18120669080,
+      "asset_name": "DJ_Thay x DjNOVA - Sin Señal x Tarot",
+      "granted_at": "2025-10-31T00:32:21.214661",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18120659204,
+      "asset_name": "DJ_Thay x DjNOVA - Mirandote x TACATA",
+      "granted_at": "2025-10-31T00:32:22.744081",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18120552786,
+      "asset_name": "DJ_Thay x DjNOVA - No Sigue Modas x Danza Kuduro",
+      "granted_at": "2025-10-31T00:32:24.270002",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18111182610,
+      "asset_name": "DjNOVA - 0 Sentimientos Remix",
+      "granted_at": "2025-10-31T00:32:25.763811",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18111173003,
+      "asset_name": "DjNOVA - Corazon Roto Remix",
+      "granted_at": "2025-10-31T00:32:27.284194",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18111158993,
+      "asset_name": "DJ_Thay x DjNOVA - Mix Phonk (Hardstyle) ",
+      "granted_at": "2025-10-31T00:32:28.812713",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18111147033,
+      "asset_name": "ILikeToMov(HardstylevsBigroom) - DJ Sol ft. DjNOVA",
+      "granted_at": "2025-10-31T00:32:30.329973",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18111130577,
+      "asset_name": "DjNOVA - Juan Magan (Hardstyle)",
+      "granted_at": "2025-10-31T00:32:31.856638",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18111114674,
+      "asset_name": "DjNOVA x DJ_Thay - Mix Ferxxo",
+      "granted_at": "2025-10-31T00:32:33.210209",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 18111102223,
+      "asset_name": "DjNOVA - Toda Remix ",
+      "granted_at": "2025-10-31T00:32:34.741948",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17828175832,
+      "asset_name": "Lokotron Remix - DjNOVA",
+      "granted_at": "2025-10-31T00:32:36.313754",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17827971674,
+      "asset_name": "Cayó La Noche Remix - DjNOVA",
+      "granted_at": "2025-10-31T00:32:37.882611",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17812724727,
+      "asset_name": "💥DANCE WITH THE DEVIL - DjNOVA ",
+      "granted_at": "2025-10-31T00:32:39.283297",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17812715639,
+      "asset_name": "💥HARDSTYLE NEVER DIES - DjNOVA ",
+      "granted_at": "2025-10-31T00:32:40.872973",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17812706210,
+      "asset_name": "💥RAVE - DjNOVA ",
+      "granted_at": "2025-10-31T00:32:42.441932",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17812699095,
+      "asset_name": "💥LIGHTNING - DjNOVA ",
+      "granted_at": "2025-10-31T00:32:43.848174",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17812691268,
+      "asset_name": "💥NEVER - DjNOVA ",
+      "granted_at": "2025-10-31T00:32:45.446758",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17812667106,
+      "asset_name": "💥VIPER - DjNOVA ",
+      "granted_at": "2025-10-31T00:32:46.856991",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17773272620,
+      "asset_name": "Dile - DjNOVA",
+      "granted_at": "2025-10-31T00:32:48.262922",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17773266408,
+      "asset_name": "Me Acostumbre - DjNOVA",
+      "granted_at": "2025-10-31T00:32:49.624078",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17773257866,
+      "asset_name": "La Ocasion Remix - DjNOVA",
+      "granted_at": "2025-10-31T00:32:51.191848",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17773248422,
+      "asset_name": "Soy Peor - DjNOVA",
+      "granted_at": "2025-10-31T00:32:52.718463",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17773241053,
+      "asset_name": "Tu No Vive Asi - DjNOVA",
+      "granted_at": "2025-10-31T00:32:54.372173",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17757811223,
+      "asset_name": "YOU SHOOK ME ALL NIGHT LONG - DjNOVA",
+      "granted_at": "2025-10-31T00:32:55.864231",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17757790887,
+      "asset_name": "TOXICITY - DjNOVA",
+      "granted_at": "2025-10-31T00:32:57.461080",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17757785876,
+      "asset_name": "SONNE - DjNOVA",
+      "granted_at": "2025-10-31T00:32:58.990069",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17757757217,
+      "asset_name": "MEIN HERZ BRENNT - DjNOVA",
+      "granted_at": "2025-10-31T00:33:00.342135",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17757749769,
+      "asset_name": "ICH WILL - DjNOVA",
+      "granted_at": "2025-10-31T00:33:01.711944",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17757686729,
+      "asset_name": "FREAK ON A LEASH - DjNOVA",
+      "granted_at": "2025-10-31T00:33:03.276605",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17757667604,
+      "asset_name": "DU HAST - DjNOVA",
+      "granted_at": "2025-10-31T00:33:04.691218",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17757662482,
+      "asset_name": "AUSLANDER - DjNOVA",
+      "granted_at": "2025-10-31T00:33:06.251194",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17747885991,
+      "asset_name": "🎸CHOP - DjNOVA",
+      "granted_at": "2025-10-31T00:33:07.826436",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17747877803,
+      "asset_name": "🎸CRAWLING  - DjNOVA",
+      "granted_at": "2025-10-31T00:33:09.436177",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17747870636,
+      "asset_name": "🎸ENTER SANDMAN - DjNOVA",
+      "granted_at": "2025-10-31T00:33:10.905070",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17747863868,
+      "asset_name": "🎸HIGHWAY TO HELL - DjNOVA",
+      "granted_at": "2025-10-31T00:33:12.477561",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17747856995,
+      "asset_name": "🎸I WAS MADE FOR YOU - DjNOVA",
+      "granted_at": "2025-10-31T00:33:14.088909",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17747848986,
+      "asset_name": "🎸LEAVE OUT ALL THE REST - DjNOVA",
+      "granted_at": "2025-10-31T00:33:15.648762",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17747843366,
+      "asset_name": "🎸LIVIN ON A PRAYER - DjNOVA",
+      "granted_at": "2025-10-31T00:33:17.048321",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17747834357,
+      "asset_name": "🎸MISERY - DjNOVA",
+      "granted_at": "2025-10-31T00:33:18.630405",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17747829806,
+      "asset_name": "🎸NOTHING ELSE MATTERS - DjNOVA",
+      "granted_at": "2025-10-31T00:33:20.202588",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17747816903,
+      "asset_name": "🎸NOVEMBER RAIN - DjNOVA",
+      "granted_at": "2025-10-31T00:33:21.771054",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17747800852,
+      "asset_name": "🎸ONE MORE - DjNOVA",
+      "granted_at": "2025-10-31T00:33:23.340553",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17747790503,
+      "asset_name": "🎸SWT CHLD - DjNOVA",
+      "granted_at": "2025-10-31T00:33:24.904555",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17747781940,
+      "asset_name": "🎸THUNDERSTRUCK - DjNOVA",
+      "granted_at": "2025-10-31T00:33:26.300009",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17747775425,
+      "asset_name": "🎸WELCOME TO THE JUNGLE - DjNOVA",
+      "granted_at": "2025-10-31T00:33:27.713455",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17739515059,
+      "asset_name": "💥Battleborn - DjNOVA",
+      "granted_at": "2025-10-31T00:33:29.070998",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17739511074,
+      "asset_name": "💥Gasolina - DjNOVA",
+      "granted_at": "2025-10-31T00:33:30.594606",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17739507931,
+      "asset_name": "💥Jump and Rave - DjNOVA",
+      "granted_at": "2025-10-31T00:33:32.241679",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17739505305,
+      "asset_name": "💥Starlight - DjNOVA",
+      "granted_at": "2025-10-31T00:33:33.775673",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17739501574,
+      "asset_name": "💥Virtual Reality - DjNOVA",
+      "granted_at": "2025-10-31T00:33:35.354765",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17739139883,
+      "asset_name": "💥Survivor - DjNOVA",
+      "granted_at": "2025-10-31T00:33:36.933456",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17739120744,
+      "asset_name": "💥Fall Apart (Dubstep) - DjNOVA",
+      "granted_at": "2025-10-31T00:33:38.493640",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17739117481,
+      "asset_name": "💥BASS DONT LIE (Bigroom) - DjNOVA",
+      "granted_at": "2025-10-31T00:33:40.063965",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17739114104,
+      "asset_name": "💥Another Love (Remake) - DjNOVA",
+      "granted_at": "2025-10-31T00:33:41.457579",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17739111523,
+      "asset_name": "💥Legends of Tomorrow - DjNOVA",
+      "granted_at": "2025-10-31T00:33:42.858386",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17738925172,
+      "asset_name": "💥Our Church - DjNOVA",
+      "granted_at": "2025-10-31T00:33:44.388401",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17738878973,
+      "asset_name": "💥GODS - DjNOVA",
+      "granted_at": "2025-10-31T00:33:46.061441",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17738840558,
+      "asset_name": "💥 The Rave Dome - DjNOVA",
+      "granted_at": "2025-10-31T00:33:47.629935",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17713349617,
+      "asset_name": "Ride or Die pt2. (TECHNO) - DjNOVA",
+      "granted_at": "2025-10-31T00:33:49.138964",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17713330293,
+      "asset_name": "Another Love - DjNOVA",
+      "granted_at": "2025-10-31T00:33:51.291845",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17704689058,
+      "asset_name": "Stars Of Destiny - DjNOVA ",
+      "granted_at": "2025-10-31T00:33:52.648512",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17689920530,
+      "asset_name": " 🇪🇬🇦🇪 | Intro",
+      "granted_at": "2025-10-31T00:33:54.171891",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17688187508,
+      "asset_name": "DjNOVA_-_Not_Afraid_x_Mockingbird_Eminem",
+      "granted_at": "2025-10-31T00:33:55.704941",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17672157583,
+      "asset_name": "🇦🇪Egyptian Party 9🇪🇬 | DjNOVA",
+      "granted_at": "2025-10-31T00:33:57.058317",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17672154924,
+      "asset_name": "🇦🇪Egyptian Party 8🇪🇬 | DjNOVA",
+      "granted_at": "2025-10-31T00:33:58.424670",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17672152209,
+      "asset_name": "🇦🇪Egyptian Party 7🇪🇬 | DjNOVA",
+      "granted_at": "2025-10-31T00:33:59.955986",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17672149462,
+      "asset_name": "🇦🇪Egyptian Party 6🇪🇬 | DjNOVA",
+      "granted_at": "2025-10-31T00:34:01.482984",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17672145539,
+      "asset_name": "🇦🇪Egyptian Party 5🇪🇬 | DjNOVA",
+      "granted_at": "2025-10-31T00:34:03.005075",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17672142872,
+      "asset_name": "🇦🇪Egyptian Party 4🇪🇬 | DjNOVA",
+      "granted_at": "2025-10-31T00:34:04.357036",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17672139925,
+      "asset_name": "🇦🇪Egyptian Party 3🇪🇬 | DjNOVA",
+      "granted_at": "2025-10-31T00:34:05.914208",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17672137992,
+      "asset_name": "🇦🇪Egyptian Party 2🇪🇬 | DjNOVA",
+      "granted_at": "2025-10-31T00:34:07.454171",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17672134136,
+      "asset_name": "🇦🇪Egyptian Party🇪🇬 | DjNOVA",
+      "granted_at": "2025-10-31T00:34:08.986439",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17660832837,
+      "asset_name": "DjNOVA - With About Us (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:34:10.659348",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17660781939,
+      "asset_name": "DjNOVA - She Doesn't Mind (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:34:12.180548",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17660691055,
+      "asset_name": "DjNOVA - Qlimax 2017 💥(Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:34:13.713242",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17660687603,
+      "asset_name": "DjNOVA - Hardstyle💥vs Electronica🔥",
+      "granted_at": "2025-10-31T00:34:15.068162",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17660683846,
+      "asset_name": "DjNOVA - Electronic🔥vs Hardstyle💥",
+      "granted_at": "2025-10-31T00:34:16.596134",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17660679905,
+      "asset_name": "DjNOVA - Aria x Real One 💥(Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:34:17.956491",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17660675742,
+      "asset_name": "DjNOVA - The sound of silence 💥(Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:34:19.485522",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17651216774,
+      "asset_name": "Set: Majic Homestore 8🔥",
+      "granted_at": "2025-10-31T00:34:21.006449",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17651187787,
+      "asset_name": "Set: Majic Homestore 7🔥",
+      "granted_at": "2025-10-31T00:34:22.531126",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17651185754,
+      "asset_name": "Set: Majic Homestore 6🔥",
+      "granted_at": "2025-10-31T00:34:24.050270",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17651121734,
+      "asset_name": "Set: Majic Homestore 5🔥",
+      "granted_at": "2025-10-31T00:34:25.403471",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17651119286,
+      "asset_name": "Set: Majic Homestore 4🔥",
+      "granted_at": "2025-10-31T00:34:26.931416",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17651116646,
+      "asset_name": "Set: Majic Homestore 3🔥",
+      "granted_at": "2025-10-31T00:34:28.276448",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17651114068,
+      "asset_name": "Set: Majic Homestore 2🔥",
+      "granted_at": "2025-10-31T00:34:29.818051",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17651111972,
+      "asset_name": "Set: Majic Homestore 🔥",
+      "granted_at": "2025-10-31T00:34:31.384461",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17648666578,
+      "asset_name": "DjNOVA - Mix Regueton OldSchool3🎧",
+      "granted_at": "2025-10-31T00:34:32.919082",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17648662593,
+      "asset_name": "DjNOVA - Mix Regueton OldSchool2🎧",
+      "granted_at": "2025-10-31T00:34:34.280289",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17648660333,
+      "asset_name": "DjNOVA - Mix Regueton OldSchool🎧",
+      "granted_at": "2025-10-31T00:34:35.648211",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17648657579,
+      "asset_name": "DjNOVA - Summertime Sadness (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:34:37.195315",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17648655699,
+      "asset_name": "DjNOVA - Iky where x It's My Life (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:34:38.725676",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17648652077,
+      "asset_name": "DjNOVA - Radioactive x Bad (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:34:40.258243",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17648649186,
+      "asset_name": "DjNOVA - Don’tYouWorryChild x Stars (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:34:41.619309",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17640466960,
+      "asset_name": "DjNOVA - Mix Maroon5 (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:34:42.983427",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17640426222,
+      "asset_name": "DjNOVA - The Way x Applause (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:34:44.352577",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17640423841,
+      "asset_name": "DjNOVA - Youth Of The Nation (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:34:45.717521",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17640311576,
+      "asset_name": "DjNOVA - We Are The Champions (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:34:47.216860",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17640276507,
+      "asset_name": "DjNOVA - Crazy Hardstyle🔥",
+      "granted_at": "2025-10-31T00:34:48.584852",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17640273350,
+      "asset_name": "DjNOVA - If Tomorrow Never Comes (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:34:50.000502",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17640271220,
+      "asset_name": "DjNOVA - The Show Must Go On (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:34:51.366654",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17639850714,
+      "asset_name": "DjNOVA - In The End (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:34:52.909379",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17639847950,
+      "asset_name": "DjNOVA - Taking x Untamed (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:34:54.445777",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17402914546,
+      "asset_name": "DjNOVA - Angelito Vuela🕊️",
+      "granted_at": "2025-10-31T00:34:56.020907",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17399904739,
+      "asset_name": "DjNOVA - Una En Un Millón ✨",
+      "granted_at": "2025-10-31T00:34:57.393762",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17399817840,
+      "asset_name": "DjNOVA - A Que No Te Atreves👀",
+      "granted_at": "2025-10-31T00:34:58.953646",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17399463150,
+      "asset_name": "DjNOVA - Donde Estés Llegaré🔥",
+      "granted_at": "2025-10-31T00:35:00.488084",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17399453433,
+      "asset_name": "DjNOVA - Tocarte Toa👀",
+      "granted_at": "2025-10-31T00:35:01.856111",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17399051893,
+      "asset_name": "DjNOVA - Mi Cama Huele a Ti🔥",
+      "granted_at": "2025-10-31T00:35:03.246158",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17384241603,
+      "asset_name": "DjNOVA - Don’t Stop The Party (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:04.784835",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17383476726,
+      "asset_name": "DjNOVA - Push Up (Frenchcore)🔥",
+      "granted_at": "2025-10-31T00:35:06.300915",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17383337709,
+      "asset_name": "DjNOVA - Numb (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:07.830957",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17383316422,
+      "asset_name": "DjNOVA - Tattoo (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:09.277040",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17383284298,
+      "asset_name": "DjNOVA - Memories (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:10.806021",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17383278145,
+      "asset_name": "DjNOVA - Titanium (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:12.338998",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17379426003,
+      "asset_name": "DjNOVA - Work Hard vs Stereo Lov (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:13.718940",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17376866927,
+      "asset_name": "DjNOVA - Illutions (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:15.076051",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17376865168,
+      "asset_name": "DjNOVA - The Solution (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:16.476315",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17376862685,
+      "asset_name": "DjNOVA - The Silence (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:17.838098",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17376860192,
+      "asset_name": "DjNOVA - Trip To Mars (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:19.372387",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17376859063,
+      "asset_name": "DjNOVA - Halo (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:20.888188",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17376857525,
+      "asset_name": "DjNOVA - The Unknown (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:22.259609",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17376855310,
+      "asset_name": "DjNOVA - Fight Fire With Fire (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:23.928750",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17376852947,
+      "asset_name": "DjNOVA - Illuminate (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:25.461179",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17376851094,
+      "asset_name": "DjNOVA - Thunderbolts of lightning (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:26.998909",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17376849516,
+      "asset_name": "DjNOVA - What I’ve Done (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:28.546403",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17376847955,
+      "asset_name": "DjNOVA - Psychopath (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:29.909375",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17365709524,
+      "asset_name": "DjNOVA - Navigator (Hardstyle) 🔥",
+      "granted_at": "2025-10-31T00:35:31.279409",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17365662169,
+      "asset_name": "DjNOVA - Viper (Hardstyle) 🔥",
+      "granted_at": "2025-10-31T00:35:32.810441",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17365632492,
+      "asset_name": "DjNOVA - Out of Control (Hardstyle) 🔥",
+      "granted_at": "2025-10-31T00:35:34.550880",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17365617436,
+      "asset_name": "DjNOVA - Timmy Trumpet x Sub Zero Project🔥",
+      "granted_at": "2025-10-31T00:35:36.097486",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17365576226,
+      "asset_name": "DjNOVA - The Hunt (Hardstyle) 🔥",
+      "granted_at": "2025-10-31T00:35:37.618391",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17365520507,
+      "asset_name": "DjNOVA - Run (Harstyle) 🔥",
+      "granted_at": "2025-10-31T00:35:38.977201",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17365501051,
+      "asset_name": "DjNOVA - Living for the moment (Hardstyle)🔥",
+      "granted_at": "2025-10-31T00:35:40.385468",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17365472963,
+      "asset_name": "DjNOVA - Teka For. Maji💃",
+      "granted_at": "2025-10-31T00:35:41.802346",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17364774521,
+      "asset_name": "DjNOVA - Dreams x Revelation (Hardstyle) 🔥 ",
+      "granted_at": "2025-10-31T00:35:43.167311",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17364772593,
+      "asset_name": "DjNOVA - Hold x Rest (Hardstyle) 🔥 ",
+      "granted_at": "2025-10-31T00:35:44.700025",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17364769153,
+      "asset_name": "DjNOVA - Storm x Rave (Hardstyle) 🔥 ",
+      "granted_at": "2025-10-31T00:35:46.235748",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17364765042,
+      "asset_name": "DjNOVA - Here x Taste (Hardstyle) 🔥 ",
+      "granted_at": "2025-10-31T00:35:47.592180",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17364761660,
+      "asset_name": "DjNOVA - Sky x Bang (Hardstyle) 🔥 ",
+      "granted_at": "2025-10-31T00:35:49.129629",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17362599258,
+      "asset_name": "Lana EM Owner Special Mix ❤️🙌",
+      "granted_at": "2025-10-31T00:35:50.714718",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17357757748,
+      "asset_name": "DjNOVA - We will rock you (Hardstyle)",
+      "granted_at": "2025-10-31T00:35:52.252730",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17357750737,
+      "asset_name": "DjNOVA -🔥",
+      "granted_at": "2025-10-31T00:35:53.659308",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17357727465,
+      "asset_name": "DjNOVA - Guaya Guaya 🥵",
+      "granted_at": "2025-10-31T00:35:55.042324",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17357726393,
+      "asset_name": "DjNOVA - Great Spirit 🔥",
+      "granted_at": "2025-10-31T00:35:56.588292",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17357725261,
+      "asset_name": "DjNOVA - Agxchate x Buscando Money 👀",
+      "granted_at": "2025-10-31T00:35:57.952317",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17357723356,
+      "asset_name": "DjNOVA - Lvmba (Hardstyle) 🔥",
+      "granted_at": "2025-10-31T00:35:59.308517",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17357721222,
+      "asset_name": "DjNOVA - La Despedida vs Taboo 💃",
+      "granted_at": "2025-10-31T00:36:00.992949",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17356483127,
+      "asset_name": "DjNOVA - Reality (Hardstyle) 🙌",
+      "granted_at": "2025-10-31T00:36:02.356955",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17356481046,
+      "asset_name": "DjNOVA - Rave Sparrow 🏴‍☠️",
+      "granted_at": "2025-10-31T00:36:03.903933",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17356419210,
+      "asset_name": "DjNOVA - MegaHardstyle 🔥🙌",
+      "granted_at": "2025-10-31T00:36:05.436900",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17356374913,
+      "asset_name": "DjNOVA - One Kss 🔥",
+      "granted_at": "2025-10-31T00:36:07.018056",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17346680618,
+      "asset_name": "DjNOVA - Sunshine (Bigroom) 🔥",
+      "granted_at": "2025-10-31T00:36:08.382487",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17342887190,
+      "asset_name": "DjNOVA - Canserbero ",
+      "granted_at": "2025-10-31T00:36:09.989351",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17342810119,
+      "asset_name": "DjNOVA - Eminem_Slim Shady",
+      "granted_at": "2025-10-31T00:36:11.540863",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17342642540,
+      "asset_name": "DjNOVA - Eminem_Lose Yourself ",
+      "granted_at": "2025-10-31T00:36:13.071674",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17341399880,
+      "asset_name": "DjNOVA - KoRn vs Slipknot🎸",
+      "granted_at": "2025-10-31T00:36:14.622006",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17341095938,
+      "asset_name": "DjNOVA - Useless x Fearless🎸",
+      "granted_at": "2025-10-31T00:36:16.157011",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17341088987,
+      "asset_name": "DjNOVA - Skillet_Not Gonna Die🎸",
+      "granted_at": "2025-10-31T00:36:17.697016",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17341081994,
+      "asset_name": "DjNOVA - Losing my mind 🎸",
+      "granted_at": "2025-10-31T00:36:19.239139",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17341074854,
+      "asset_name": "DjNOVA - Monster 🎸",
+      "granted_at": "2025-10-31T00:36:20.778622",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17297241924,
+      "asset_name": "DjNOVA - El amr que perdimos ",
+      "granted_at": "2025-10-31T00:36:22.343674",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17297180207,
+      "asset_name": "DJNOVA - Dog fiel (Cover) 💃",
+      "granted_at": "2025-10-31T00:36:23.701507",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17297173677,
+      "asset_name": "DjNOVA - Andas en mi cabeza (Cover) 💃",
+      "granted_at": "2025-10-31T00:36:25.131070",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17296949133,
+      "asset_name": "DjNOVA - D4 ki ti 🐰",
+      "granted_at": "2025-10-31T00:36:26.541265",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17296943654,
+      "asset_name": "DjNOVA - Mi Diosa MikeTwers",
+      "granted_at": "2025-10-31T00:36:28.090968",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17296938576,
+      "asset_name": "DjNOVA - Caramelo 💃",
+      "granted_at": "2025-10-31T00:36:29.439926",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17296935242,
+      "asset_name": "DjNOVA - Solía 🐰",
+      "granted_at": "2025-10-31T00:36:30.806032",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17296923754,
+      "asset_name": "DjNOVA - K 11Ing me softly For. QUEENCHINITA",
+      "granted_at": "2025-10-31T00:36:32.393990",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17267527723,
+      "asset_name": "DjNOVA - Lose Control x Acid🔥",
+      "granted_at": "2025-10-31T00:36:33.750102",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17232870041,
+      "asset_name": "DjNOVA - Bigroom 🔥",
+      "granted_at": "2025-10-31T00:36:35.110797",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17189519293,
+      "asset_name": "DjNOVA - Ojala_Beret",
+      "granted_at": "2025-10-31T00:36:36.536343",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17189516594,
+      "asset_name": "DjNOVA - Aqui sigo_Khea",
+      "granted_at": "2025-10-31T00:36:38.080717",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17189428178,
+      "asset_name": "DjNOVA - Me Rehuso (Cover) ",
+      "granted_at": "2025-10-31T00:36:39.445155",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17189142752,
+      "asset_name": "DjNOVA - 3AM Mashup ",
+      "granted_at": "2025-10-31T00:36:40.842315",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17189044939,
+      "asset_name": "DjNOVA - 3AM _ Vuela ✈️",
+      "granted_at": "2025-10-31T00:36:42.385487",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17188969110,
+      "asset_name": "DjNOVA - Changes _ XTentacion 🕊️",
+      "granted_at": "2025-10-31T00:36:43.932622",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17181357432,
+      "asset_name": "DjNOVA - Intro The Purgue 👹",
+      "granted_at": "2025-10-31T00:36:45.473060",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17180086732,
+      "asset_name": "DjNOVA - Astrology (Bigroom)",
+      "granted_at": "2025-10-31T00:36:47.046348",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17180083527,
+      "asset_name": "DjNOVA - Lvers in the space (Bigroom)",
+      "granted_at": "2025-10-31T00:36:48.580475",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17180080629,
+      "asset_name": "DjNOVA - Am I Wrong (Bigroom)",
+      "granted_at": "2025-10-31T00:36:50.128778",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17180077383,
+      "asset_name": "DjNOVA - Above The Stars (Bigroom)",
+      "granted_at": "2025-10-31T00:36:51.546564",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17180071702,
+      "asset_name": "DjNOVA - Bigroom Mashup",
+      "granted_at": "2025-10-31T00:36:52.905338",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17180068342,
+      "asset_name": "DjNOVA - Heads Will Roll x Andromeda",
+      "granted_at": "2025-10-31T00:36:54.453964",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17173812423,
+      "asset_name": "DjNOVA - Mashup Hardwell x Rave Time🔥",
+      "granted_at": "2025-10-31T00:36:55.975783",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17173807570,
+      "asset_name": "DjNOVA - Slander (Bigroom)",
+      "granted_at": "2025-10-31T00:36:57.530715",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17173709740,
+      "asset_name": "DjNOVA - Mashup Lilpep For. QUEENCHINITA🕊️",
+      "granted_at": "2025-10-31T00:36:59.119288",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17173706417,
+      "asset_name": "DjNOVA - Bigroom Never Dies🔥",
+      "granted_at": "2025-10-31T00:37:00.503932",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17163942541,
+      "asset_name": "DjNOVA_X_DELOP_BIGROOM_MIX🔥",
+      "granted_at": "2025-10-31T00:37:02.078977",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17115461324,
+      "asset_name": "DjNOVA - Acid 303 x Papaoutai Hardstyle",
+      "granted_at": "2025-10-31T00:37:03.437456",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17115452438,
+      "asset_name": "DjNOVA - Alors on Dance Hardstyle",
+      "granted_at": "2025-10-31T00:37:04.979308",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17115446784,
+      "asset_name": "DjNOVA - Levels🕊️",
+      "granted_at": "2025-10-31T00:37:06.341611",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17115434005,
+      "asset_name": "DjNOVA - The Nights🕊️",
+      "granted_at": "2025-10-31T00:37:07.886783",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17115430418,
+      "asset_name": "DjNOVA - Bigroom EDM Mashup 3",
+      "granted_at": "2025-10-31T00:37:09.424660",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17102608943,
+      "asset_name": "DjNOVA - Bigroom EDM Mashup 2",
+      "granted_at": "2025-10-31T00:37:10.967530",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17102570866,
+      "asset_name": "DjNOVA - Bigroom EDM Mashup",
+      "granted_at": "2025-10-31T00:37:12.522903",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17102205243,
+      "asset_name": "DjNOVA - Mashup Old Electronic",
+      "granted_at": "2025-10-31T00:37:13.876976",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17102201676,
+      "asset_name": "DjNOVA - Are you with me? Hardstyle",
+      "granted_at": "2025-10-31T00:37:15.559088",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17102198011,
+      "asset_name": "DjNOVA - Chorrito pa las Animas x Qveedoo",
+      "granted_at": "2025-10-31T00:37:17.183119",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17102193217,
+      "asset_name": "DjNOVA - Wake me up 🕊️",
+      "granted_at": "2025-10-31T00:37:18.537036",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 17043800054,
+      "asset_name": "DJ_Narussy ft. DjNOVA - Control your mind Mashup",
+      "granted_at": "2025-10-31T00:37:19.901001",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16819713129,
+      "asset_name": "DjNOVA - Mix ⚡️Energy⚡️15",
+      "granted_at": "2025-10-31T00:37:21.495856",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16819706398,
+      "asset_name": "DjNOVA - Mix ⚡️Energy⚡️14",
+      "granted_at": "2025-10-31T00:37:23.254655",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16819699788,
+      "asset_name": "DjNOVA - Mix ⚡️Energy⚡️13",
+      "granted_at": "2025-10-31T00:37:24.786834",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16819696789,
+      "asset_name": "DjNOVA - Mix ⚡️Energy⚡️12",
+      "granted_at": "2025-10-31T00:37:26.144414",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16819692279,
+      "asset_name": "DjNOVA - Mix ⚡️Energy⚡️11",
+      "granted_at": "2025-10-31T00:37:27.679351",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16802068721,
+      "asset_name": "DjNOVA - Mix ⚡️ Energy ⚡️ 10",
+      "granted_at": "2025-10-31T00:37:29.081045",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16794932683,
+      "asset_name": "DjNOVA - Gasolina Tech House",
+      "granted_at": "2025-10-31T00:37:30.624624",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16794931742,
+      "asset_name": "DjNOVA - Don 0mar ft. Plan B ",
+      "granted_at": "2025-10-31T00:37:32.269040",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16794929496,
+      "asset_name": "DjNOVA - Don 0mar 2 ",
+      "granted_at": "2025-10-31T00:37:33.805998",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16794927957,
+      "asset_name": "DjNOVA -  Don 0mar 1",
+      "granted_at": "2025-10-31T00:37:35.178140",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16794925523,
+      "asset_name": "DjNOVA - Mix ⚡️ Energy ⚡️9",
+      "granted_at": "2025-10-31T00:37:36.726053",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16794923851,
+      "asset_name": "DjNOVA - Mix ⚡️ Energy ⚡️8",
+      "granted_at": "2025-10-31T00:37:38.266293",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16794915583,
+      "asset_name": "DjNOVA - Mix ⚡️ Energy ⚡️7",
+      "granted_at": "2025-10-31T00:37:39.810108",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16794914072,
+      "asset_name": "DjNOVA - Mix ⚡️ Energy ⚡️6",
+      "granted_at": "2025-10-31T00:37:41.350734",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16794912215,
+      "asset_name": "DjNOVA - Mix ⚡️ Energy ⚡️5",
+      "granted_at": "2025-10-31T00:37:42.886945",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16794910734,
+      "asset_name": "DjNOVA - Mix ⚡️Energy ⚡️4",
+      "granted_at": "2025-10-31T00:37:44.438656",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16794909680,
+      "asset_name": "DjNOVA - Mix ⚡️Energy ⚡️3",
+      "granted_at": "2025-10-31T00:37:45.801189",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16794908554,
+      "asset_name": "DjNOVA - Mix ⚡️Energy ⚡️2",
+      "granted_at": "2025-10-31T00:37:47.337033",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16794907493,
+      "asset_name": "DjNOVA - Mix ⚡️Energy ⚡️1",
+      "granted_at": "2025-10-31T00:37:48.697043",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16767523672,
+      "asset_name": "DjNOVA - Mix ☠️ DEATH ☠️ 5",
+      "granted_at": "2025-10-31T00:37:50.262219",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16767504255,
+      "asset_name": "DjNOVA - Mix ☠️ DEATH ☠️ 4",
+      "granted_at": "2025-10-31T00:37:51.635425",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16767497668,
+      "asset_name": "DjNOVA - Mix ☠️ DEATH ☠️ 3",
+      "granted_at": "2025-10-31T00:37:53.133151",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16767491391,
+      "asset_name": "DjNOVA - Mix ☠️ DEATH ☠️ 2",
+      "granted_at": "2025-10-31T00:37:54.681677",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16767486175,
+      "asset_name": "DjNOVA - Mix ☠️ DEATH ☠️ 1",
+      "granted_at": "2025-10-31T00:37:56.067444",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16767481534,
+      "asset_name": "DjNOVA - Intro ☠️ DEATH ☠️",
+      "granted_at": "2025-10-31T00:37:57.609975",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16660406501,
+      "asset_name": "DjNOVA - Mix 🌿 REGGAE 🌿 7",
+      "granted_at": "2025-10-31T00:37:58.961102",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16660403393,
+      "asset_name": "DjNOVA - Mix 🌿 REGGAE 🌿 6",
+      "granted_at": "2025-10-31T00:38:00.314925",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16660400461,
+      "asset_name": "DjNOVA - Mix 🌿 REGGAE 🌿 5",
+      "granted_at": "2025-10-31T00:38:01.856480",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16660397579,
+      "asset_name": "DjNOVA - Mix 🌿 REGGAE 🌿 4",
+      "granted_at": "2025-10-31T00:38:03.209027",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16660393681,
+      "asset_name": "DjNOVA - Mix 🌿 REGGAE 🌿 3 ",
+      "granted_at": "2025-10-31T00:38:04.751272",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16660387404,
+      "asset_name": "DjNOVA - Mix 🌿 REGGAE 🌿 2",
+      "granted_at": "2025-10-31T00:38:06.294027",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16660384234,
+      "asset_name": "DjNOVA - Mix 🌿 REGGAE 🌿 1",
+      "granted_at": "2025-10-31T00:38:07.651993",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16660379192,
+      "asset_name": "DjNOVA - Mix 🌴 TROPICAL HOUSE 🌴 8",
+      "granted_at": "2025-10-31T00:38:09.199756",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16660371034,
+      "asset_name": "DjNOVA - Mix 🌴 TROPICAL HOUSE 🌴 7",
+      "granted_at": "2025-10-31T00:38:10.736612",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16660368113,
+      "asset_name": "DjNOVA - Mix 🌴 TROPICAL HOUSE 🌴 6",
+      "granted_at": "2025-10-31T00:38:12.089165",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16660363748,
+      "asset_name": "DjNOVA - Mix 🌴 TROPICAL HOUSE 🌴 5",
+      "granted_at": "2025-10-31T00:38:13.639193",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16660361358,
+      "asset_name": "DjNOVA - Mix 🌴 TROPICAL HOUSE 🌴 4",
+      "granted_at": "2025-10-31T00:38:15.325101",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16660359233,
+      "asset_name": "DjNOVA - Mix 🌴 TROPICAL HOUSE 🌴 3",
+      "granted_at": "2025-10-31T00:38:16.708248",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16660357666,
+      "asset_name": "DjNOVA - Mix 🌴 TROPICAL HOUSE 🌴 2",
+      "granted_at": "2025-10-31T00:38:18.061751",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16660355753,
+      "asset_name": "DjNOVA - Mix 🌴 TROPICAL HOUSE 🌴 1",
+      "granted_at": "2025-10-31T00:38:19.616748",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16582052312,
+      "asset_name": "DjNOVA - Mix 🎧 FIRE 🎧 12",
+      "granted_at": "2025-10-31T00:38:21.210322",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16582048303,
+      "asset_name": "DjNOVA - Mix 🎧 FIRE 🎧 11",
+      "granted_at": "2025-10-31T00:38:22.610772",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16582043005,
+      "asset_name": "DjNOVA - Mix 🎧 FIRE 🎧 1",
+      "granted_at": "2025-10-31T00:38:24.154118",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16581866037,
+      "asset_name": "DjNOVA - Mix 🎧 FIRE 🎧 10",
+      "granted_at": "2025-10-31T00:38:25.513446",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16581860999,
+      "asset_name": "DjNOVA - Mix 🎧 FIRE 🎧 9",
+      "granted_at": "2025-10-31T00:38:27.075381",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16581856980,
+      "asset_name": "DjNOVA - Mix 🎧 FIRE 🎧 8",
+      "granted_at": "2025-10-31T00:38:28.616918",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16581852053,
+      "asset_name": "DjNOVA - Mix 🎧 FIRE 🎧 7",
+      "granted_at": "2025-10-31T00:38:30.119161",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16581847220,
+      "asset_name": "DjNOVA - Mix 🎧 FIRE 🎧 6",
+      "granted_at": "2025-10-31T00:38:31.536787",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16581841905,
+      "asset_name": "DjNOVA - Mix 🎧 FIRE 🎧 5",
+      "granted_at": "2025-10-31T00:38:33.085302",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16581836185,
+      "asset_name": "DjNOVA - Mix 🎧 FIRE 🎧 4",
+      "granted_at": "2025-10-31T00:38:34.446068",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16581831137,
+      "asset_name": "DjNOVA - Mix 🎧 FIRE 🎧 3",
+      "granted_at": "2025-10-31T00:38:36.010779",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16581821172,
+      "asset_name": "DjNOVA - Mix 🎧 FIRE 🎧 2",
+      "granted_at": "2025-10-31T00:38:37.360131",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16480174418,
+      "asset_name": "DjNOVA - 🔥Mix For Jump 8🔥",
+      "granted_at": "2025-10-31T00:38:38.909003",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16480170727,
+      "asset_name": "DjNOVA - 🔥Mix For Jump 7🔥",
+      "granted_at": "2025-10-31T00:38:40.455094",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16480167180,
+      "asset_name": "DjNOVA - 🔥Mix For Jump 6🔥",
+      "granted_at": "2025-10-31T00:38:42.012177",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16480162243,
+      "asset_name": "DjNOVA - 🔥Mix For Jump 5 🔥",
+      "granted_at": "2025-10-31T00:38:43.616976",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16480149978,
+      "asset_name": "DjNOVA - 🔥Mix For Jump 4🔥",
+      "granted_at": "2025-10-31T00:38:45.168132",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16480134080,
+      "asset_name": "DjNOVA - 🔥Mix For Jump 3🔥",
+      "granted_at": "2025-10-31T00:38:46.727188",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16480130464,
+      "asset_name": "DjNOVA - 🔥Mix For Jump 2 🔥",
+      "granted_at": "2025-10-31T00:38:48.172668",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16480111908,
+      "asset_name": "DjNOVA - 🔥 Mix For Jump 1 🔥",
+      "granted_at": "2025-10-31T00:38:49.531777",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16469236157,
+      "asset_name": "DjNOVA - Mix Dubstep",
+      "granted_at": "2025-10-31T00:38:51.077235",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16465488990,
+      "asset_name": "DjNOVA - Dubstep 2",
+      "granted_at": "2025-10-31T00:38:52.690991",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16465455759,
+      "asset_name": "DjNOVA - On Forever Dubstep",
+      "granted_at": "2025-10-31T00:38:54.045066",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16394099436,
+      "asset_name": "DjNOVA - Electro Techno",
+      "granted_at": "2025-10-31T00:38:55.417069",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16394093809,
+      "asset_name": "DjNOVA - Roses Techno",
+      "granted_at": "2025-10-31T00:38:56.775134",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16394051083,
+      "asset_name": "DJNOVA - Mix Avici 2",
+      "granted_at": "2025-10-31T00:38:58.143235",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16394046479,
+      "asset_name": "DjNOVA - Mix Avici",
+      "granted_at": "2025-10-31T00:38:59.700188",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16379770006,
+      "asset_name": "DjNOVA - Hollow Dubstep",
+      "granted_at": "2025-10-31T00:39:01.238497",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16379766639,
+      "asset_name": "DjNOVA - Metal Dubstep 11",
+      "granted_at": "2025-10-31T00:39:02.789324",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16379762770,
+      "asset_name": "DjNOVA - Metal Dubstep 10",
+      "granted_at": "2025-10-31T00:39:04.329337",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16379759310,
+      "asset_name": "DjNOVA - Metal Dubstep 9",
+      "granted_at": "2025-10-31T00:39:05.684289",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16379755953,
+      "asset_name": "DjNOVA - Metal Dubstep 8",
+      "granted_at": "2025-10-31T00:39:07.206042",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16379752120,
+      "asset_name": "DjNOVA - Metal Dubstep 7",
+      "granted_at": "2025-10-31T00:39:08.831949",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16379748535,
+      "asset_name": "DjNOVA Metal Event - INTRO",
+      "granted_at": "2025-10-31T00:39:10.133418",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16379738743,
+      "asset_name": "DjNOVA - Devil In in Metal Dubstep",
+      "granted_at": "2025-10-31T00:39:11.454855",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16304881532,
+      "asset_name": "MIND-VIX",
+      "granted_at": "2025-10-31T00:39:13.057406",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16304876934,
+      "asset_name": "S%26M-VIX",
+      "granted_at": "2025-10-31T00:39:14.601458",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16281043343,
+      "asset_name": "DjNOVA - Metal dubstep 6",
+      "granted_at": "2025-10-31T00:39:16.135954",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16281040784,
+      "asset_name": "DjNOVA - Metal dubstep 5",
+      "granted_at": "2025-10-31T00:39:17.672609",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16281037740,
+      "asset_name": "DjNOVA - Metal Dubstep 4",
+      "granted_at": "2025-10-31T00:39:19.216612",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16281034762,
+      "asset_name": "DjNOVA - Metal Dubstep 3",
+      "granted_at": "2025-10-31T00:39:20.570349",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16281032212,
+      "asset_name": "DjNOVA - Metal Dubstep 2",
+      "granted_at": "2025-10-31T00:39:22.118131",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16281028949,
+      "asset_name": "DjNOVA - Metal Dubstep",
+      "granted_at": "2025-10-31T00:39:23.603600",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16260277695,
+      "asset_name": "DjNOVA - RKT",
+      "granted_at": "2025-10-31T00:39:25.140581",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16260271556,
+      "asset_name": "DjNOVA - Bad",
+      "granted_at": "2025-10-31T00:39:26.586238",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16260268566,
+      "asset_name": "DjNOVA - Techno Hard",
+      "granted_at": "2025-10-31T00:39:28.132131",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16260265417,
+      "asset_name": "DjNOVA - Mix Techno 7",
+      "granted_at": "2025-10-31T00:39:29.669231",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16258087673,
+      "asset_name": "DjNOVA - Techno Mix 6",
+      "granted_at": "2025-10-31T00:39:31.027864",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16258084019,
+      "asset_name": "DjNOVA - Techno Mix 5",
+      "granted_at": "2025-10-31T00:39:32.384361",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16257975654,
+      "asset_name": "DjNOVA - Metal Vantablack",
+      "granted_at": "2025-10-31T00:39:33.739358",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16257972062,
+      "asset_name": "DjNOVA - Metal Step back",
+      "granted_at": "2025-10-31T00:39:35.284837",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16257962983,
+      "asset_name": "DjNOVA - Metal Hammer",
+      "granted_at": "2025-10-31T00:39:36.774732",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16257959749,
+      "asset_name": "DjNOVA - Metal The dead march",
+      "granted_at": "2025-10-31T00:39:38.294943",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16257938359,
+      "asset_name": "DjNOVA - Metal Riot",
+      "granted_at": "2025-10-31T00:39:39.605309",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16257930392,
+      "asset_name": "DjNOVA - Y and B",
+      "granted_at": "2025-10-31T00:39:41.008297",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16257923038,
+      "asset_name": "DjNOVA - Godzilla for. Hecate",
+      "granted_at": "2025-10-31T00:39:42.359306",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16243406594,
+      "asset_name": "DjNOVA - Techno Mix 3",
+      "granted_at": "2025-10-31T00:39:43.865996",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16243380444,
+      "asset_name": "DjNOVA - Techno Mix 4",
+      "granted_at": "2025-10-31T00:39:45.416852",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16243373518,
+      "asset_name": "DjNOVA - Rockstar techno",
+      "granted_at": "2025-10-31T00:39:46.982352",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16243363670,
+      "asset_name": "DjNOVA - bun bun Tam Tam techno",
+      "granted_at": "2025-10-31T00:39:48.336452",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16243353314,
+      "asset_name": "DjNOVA - Mi gente techno",
+      "granted_at": "2025-10-31T00:39:49.880462",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16243346575,
+      "asset_name": "DjNOVA - Dismal light Metal",
+      "granted_at": "2025-10-31T00:39:51.429588",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16243340191,
+      "asset_name": "DjNOVA - Mix metal",
+      "granted_at": "2025-10-31T00:39:52.973755",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16243332569,
+      "asset_name": "DjNOVA - Paradise",
+      "granted_at": "2025-10-31T00:39:54.573224",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16243328298,
+      "asset_name": "DjNOVA - Papercut",
+      "granted_at": "2025-10-31T00:39:56.126051",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16232603568,
+      "asset_name": "DjNOVA - Faint for. K1T4",
+      "granted_at": "2025-10-31T00:39:57.677182",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16232538412,
+      "asset_name": "DjNOVA - HBFS",
+      "granted_at": "2025-10-31T00:39:59.255201",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16232534451,
+      "asset_name": "DjNOVA - Sxybth",
+      "granted_at": "2025-10-31T00:40:00.795149",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16232530875,
+      "asset_name": "DjNOVA - Without me H",
+      "granted_at": "2025-10-31T00:40:02.335320",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16232526623,
+      "asset_name": "DjNOVA - Tokyo drift",
+      "granted_at": "2025-10-31T00:40:04.036039",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16232521516,
+      "asset_name": "DjNOVA - Duality",
+      "granted_at": "2025-10-31T00:40:05.555135",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16232515821,
+      "asset_name": "DjNOVA - Alors on danse",
+      "granted_at": "2025-10-31T00:40:06.932131",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16232512923,
+      "asset_name": "DjNOVA - Take you dancing",
+      "granted_at": "2025-10-31T00:40:08.477284",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16232509717,
+      "asset_name": "DjNOVA - Enemy Hardstyle",
+      "granted_at": "2025-10-31T00:40:10.030280",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16232495704,
+      "asset_name": "DjNOVA - Bad habits",
+      "granted_at": "2025-10-31T00:40:11.379010",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16232483218,
+      "asset_name": "DjNOVA - Pepas",
+      "granted_at": "2025-10-31T00:40:12.730681",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16232479857,
+      "asset_name": "DjNOVA - Play for me",
+      "granted_at": "2025-10-31T00:40:14.293289",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16215086191,
+      "asset_name": "DjNOVA - In the end ",
+      "granted_at": "2025-10-31T00:40:15.650936",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16215082230,
+      "asset_name": "DjNOVA - Therefore I am ",
+      "granted_at": "2025-10-31T00:40:17.012404",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16215077491,
+      "asset_name": "DjNOVA - Don't stop the music",
+      "granted_at": "2025-10-31T00:40:18.369113",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16215072048,
+      "asset_name": "DjNOVA - Falling in lv",
+      "granted_at": "2025-10-31T00:40:19.777056",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16215066955,
+      "asset_name": "DjNOVA - Out of the dark ",
+      "granted_at": "2025-10-31T00:40:21.476959",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16215058549,
+      "asset_name": "DjNOVA - Creepin' ",
+      "granted_at": "2025-10-31T00:40:22.912414",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16215051867,
+      "asset_name": "DjNOVA -Skrillex ",
+      "granted_at": "2025-10-31T00:40:24.492423",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16215046861,
+      "asset_name": "DjNOVA - Dgs from Ansterdam ",
+      "granted_at": "2025-10-31T00:40:26.044019",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16215041695,
+      "asset_name": "DjNOVA - Make it bun dem ",
+      "granted_at": "2025-10-31T00:40:27.582909",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16215035348,
+      "asset_name": "DjNOVA - The motto Techno",
+      "granted_at": "2025-10-31T00:40:29.135338",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16203082328,
+      "asset_name": "DjNOVA - Without me techno",
+      "granted_at": "2025-10-31T00:40:30.688290",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16203074822,
+      "asset_name": "DjNOVA - Sweet dreams techno",
+      "granted_at": "2025-10-31T00:40:32.237464",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16203066903,
+      "asset_name": "DjNOVA - Beat it techno",
+      "granted_at": "2025-10-31T00:40:33.784008",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16196384269,
+      "asset_name": "DjNOVA - Tech hardstyle mix",
+      "granted_at": "2025-10-31T00:40:35.334062",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16196378885,
+      "asset_name": "DjNOVA - Blinding Lights",
+      "granted_at": "2025-10-31T00:40:36.878231",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16191422009,
+      "asset_name": "DjNOVA - Save your thrs",
+      "granted_at": "2025-10-31T00:40:38.428174",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16191419859,
+      "asset_name": "DjNOVA - Die for you",
+      "granted_at": "2025-10-31T00:40:39.789163",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16191413786,
+      "asset_name": "DjNOVA - Radioactive techno",
+      "granted_at": "2025-10-31T00:40:41.137445",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16191410762,
+      "asset_name": "DjNOVA - New divide techno",
+      "granted_at": "2025-10-31T00:40:42.682191",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16191406343,
+      "asset_name": "DjNOVA - Techno Hardstyle 4",
+      "granted_at": "2025-10-31T00:40:44.036513",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16191402317,
+      "asset_name": "DjNOVA - Age of love Techno",
+      "granted_at": "2025-10-31T00:40:45.592187",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16191398635,
+      "asset_name": "DjNOVA - Bad Guy techno",
+      "granted_at": "2025-10-31T00:40:47.132784",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16179992305,
+      "asset_name": "DjNOVA - Techno Mix 2",
+      "granted_at": "2025-10-31T00:40:48.680234",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16179987846,
+      "asset_name": "DjNOVA - Techno Mix 1",
+      "granted_at": "2025-10-31T00:40:50.032334",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16179984145,
+      "asset_name": "DjNOVA - Is this love Techno",
+      "granted_at": "2025-10-31T00:40:51.388918",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16179980162,
+      "asset_name": "DjNOVA - Techno 3",
+      "granted_at": "2025-10-31T00:40:52.744962",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16179974331,
+      "asset_name": "DjNOVA - Bigroom Techno",
+      "granted_at": "2025-10-31T00:40:54.289318",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16179971712,
+      "asset_name": "DjNOVA - Hard Techno Rave ",
+      "granted_at": "2025-10-31T00:40:55.841581",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16171272157,
+      "asset_name": "DjNOVA - Electronic",
+      "granted_at": "2025-10-31T00:40:57.412140",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16171269902,
+      "asset_name": "DjNOVA - Rave",
+      "granted_at": "2025-10-31T00:40:58.960463",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16171268142,
+      "asset_name": "DjNOVA - Techno Rave 4",
+      "granted_at": "2025-10-31T00:41:00.331014",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16171265124,
+      "asset_name": "DjNOVA - Techno Hardstyle 2",
+      "granted_at": "2025-10-31T00:41:01.881321",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16171262264,
+      "asset_name": "DjNOVA - Techno rave 3.",
+      "granted_at": "2025-10-31T00:41:03.439647",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16160038381,
+      "asset_name": "DjNOVA - Phonk 3",
+      "granted_at": "2025-10-31T00:41:04.990926",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16160035104,
+      "asset_name": "DjNOVA - Agressive Phonk 2",
+      "granted_at": "2025-10-31T00:41:06.548938",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16160030572,
+      "asset_name": "DjNOVA - Phonk Agressive",
+      "granted_at": "2025-10-31T00:41:08.103256",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16160022509,
+      "asset_name": "DjNOVA - Techno Hardstyle",
+      "granted_at": "2025-10-31T00:41:09.460205",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16156114228,
+      "asset_name": "DjNOVA - Metal Electro 3",
+      "granted_at": "2025-10-31T00:41:10.954468",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16156100069,
+      "asset_name": "DjNOVA - Metal Electro 2",
+      "granted_at": "2025-10-31T00:41:12.283180",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16156087065,
+      "asset_name": "DjNOVA - Metal House",
+      "granted_at": "2025-10-31T00:41:13.774243",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16156077708,
+      "asset_name": "DjNOVA - Metal Electro",
+      "granted_at": "2025-10-31T00:41:15.067335",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16156069196,
+      "asset_name": "DjNOVA - Metal Tech",
+      "granted_at": "2025-10-31T00:41:16.552437",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16146785774,
+      "asset_name": "DjNOVA - Sky full of stars ",
+      "granted_at": "2025-10-31T00:41:18.148604",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16144717695,
+      "asset_name": "DjNOVA - Tech House",
+      "granted_at": "2025-10-31T00:41:19.697349",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16144704168,
+      "asset_name": "DjNOVA - Phonk",
+      "granted_at": "2025-10-31T00:41:21.333523",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16144697552,
+      "asset_name": "DjNOVA - Deep House",
+      "granted_at": "2025-10-31T00:41:22.730673",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16144684767,
+      "asset_name": "DjNOVA - Can't Get You Out Of My Head",
+      "granted_at": "2025-10-31T00:41:24.088531",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 16144678371,
+      "asset_name": "DjNOVA - Tech Hardstyle",
+      "granted_at": "2025-10-31T00:41:25.629343",
+      "status": "newly_granted"
+    }
+  ]
+}
