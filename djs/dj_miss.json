@@ -1,0 +1,254 @@
+{
+  "timestamp": "2025-11-02T12:46:44.171662",
+  "operation_type": "bulk_audio",
+  "source_group": {
+    "id": 788497092,
+    "name": "DJ Miss_Cam"
+  },
+  "target_group": {
+    "id": 33965578,
+    "name": "Two Chiquilines"
+  },
+  "permissions_granted": [
+    {
+      "asset_id": 84886187687792,
+      "asset_name": "DJ Miss_Cam LA MONTAÑA ⛰️ Afro House",
+      "granted_at": "2025-11-02T12:46:45.649852",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106476852035443,
+      "asset_name": "DJ Miss_Cam DANCING Afro House ⚡️",
+      "granted_at": "2025-11-02T12:46:47.397943",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119250918330075,
+      "asset_name": "DJ Miss_Cam Afro House para las sifrinitas 🔥",
+      "granted_at": "2025-11-02T12:46:49.139217",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106321785857632,
+      "asset_name": "DJ Miss_Cam YO NI SU NOMBRE ME SE 🍓 Afro House ",
+      "granted_at": "2025-11-02T12:46:50.660187",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88297883019108,
+      "asset_name": "DJ Miss_Cam SONIDITO 🎧 Afro House",
+      "granted_at": "2025-11-02T12:46:52.154235",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116515828522171,
+      "asset_name": "DJ Miss_Cam PA ACA Afro House 🔥",
+      "granted_at": "2025-11-02T12:46:53.653211",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102328103956572,
+      "asset_name": "DJ Miss_Cam - Afro House Basico ☁️",
+      "granted_at": "2025-11-02T12:46:55.347034",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136187652606013,
+      "asset_name": "DJ Miss_Cam para las fresas 👀🍓 pt2",
+      "granted_at": "2025-11-02T12:46:57.714770",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80231402775942,
+      "asset_name": "DJ Miss_Cam PA QUE LO BAILE 🦈 Afro House",
+      "granted_at": "2025-11-02T12:46:59.419483",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98950519622767,
+      "asset_name": "DJ Miss_Cam MI GAITA 🇻🇪 Afro House ",
+      "granted_at": "2025-11-02T12:47:01.122030",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109918656914033,
+      "asset_name": "DJ Miss_Cam PA DELANTE Afro House 🦈",
+      "granted_at": "2025-11-02T12:47:03.053360",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85573420180448,
+      "asset_name": "DJ Miss_Cam DEFINITIVO 🔥 Afro House ",
+      "granted_at": "2025-11-02T12:47:04.546855",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123031874447856,
+      "asset_name": "DJ Miss_Cam - Afro House Basico 3 ⚡️",
+      "granted_at": "2025-11-02T12:47:06.246084",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120318405946596,
+      "asset_name": "DJ Miss_Cam - Afro House Basico 2 ⚡️",
+      "granted_at": "2025-11-02T12:47:07.745179",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87951302487149,
+      "asset_name": "DJ Miss_Cam - Afro House Basico ⚡️",
+      "granted_at": "2025-11-02T12:47:09.241792",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104671662386097,
+      "asset_name": "DJ Miss_Cam A MARIA 🦈 Afro House",
+      "granted_at": "2025-11-02T12:47:10.744575",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99553267985649,
+      "asset_name": "DJ Miss_Cam BOMBOM 🍓 Afro House",
+      "granted_at": "2025-11-02T12:47:12.435731",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122094562400455,
+      "asset_name": "DJ Miss_Cam NO TE DA 👀 Afro House",
+      "granted_at": "2025-11-02T12:47:14.004273",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75152931724177,
+      "asset_name": "DJ Miss_Cam Guaracha Afro House 🔥⚡️",
+      "granted_at": "2025-11-02T12:47:15.516821",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114243979208797,
+      "asset_name": "DJ Miss_Cam - Afro House SHAKIRA ⚡️",
+      "granted_at": "2025-11-02T12:47:17.037406",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122328115118489,
+      "asset_name": "DJ Miss_Cam LOMILO 🦈 Afro House",
+      "granted_at": "2025-11-02T12:47:18.755764",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94048206292289,
+      "asset_name": "DJ Miss_Cam Afro para fresass 👀🍓",
+      "granted_at": "2025-11-02T12:47:20.244455",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82416790216899,
+      "asset_name": "DJ Miss_Cam NO PUEDO PARAR 👀 Afro House",
+      "granted_at": "2025-11-02T12:47:21.741496",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123166975646851,
+      "asset_name": "DJ Miss_Cam Afro House BASICO ⚡️",
+      "granted_at": "2025-11-02T12:47:23.337492",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100329304305448,
+      "asset_name": "DJ Miss_Cam NANANA 👀 - Afro House ",
+      "granted_at": "2025-11-02T12:47:24.835271",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88979077293580,
+      "asset_name": "DJ Miss_Cam Afro House Basico 2 ⚡️",
+      "granted_at": "2025-11-02T12:47:26.510416",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117734072942316,
+      "asset_name": "DJ Miss_Cam DESEARTE - Afro House 🔥",
+      "granted_at": "2025-11-02T12:47:28.036416",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81300943736050,
+      "asset_name": "DJ Miss_Cam Afro House SALSA 💃🏻",
+      "granted_at": "2025-11-02T12:47:29.562451",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107789169354127,
+      "asset_name": "DJ Miss_Cam MARIANELA 🍓 Afro House",
+      "granted_at": "2025-11-02T12:47:31.338353",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84803292761839,
+      "asset_name": "DJ Miss_Cam IGUAL QUE AYER ⚡️ Afro House",
+      "granted_at": "2025-11-02T12:47:32.943058",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118500088230606,
+      "asset_name": "DJ Miss_Cam PUNTO Y APARTE 🤔 Afro House",
+      "granted_at": "2025-11-02T12:47:35.318834",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125174348562524,
+      "asset_name": "DJ Miss_Cam ASEREJE 🦈 Afro House",
+      "granted_at": "2025-11-02T12:47:37.691024",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123856898333366,
+      "asset_name": "DJ Miss_Cam CAFE 🔥 bad bunny Afro House",
+      "granted_at": "2025-11-02T12:47:39.425302",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79062408672624,
+      "asset_name": "DJ Miss_Cam Afro House basico ⚡️",
+      "granted_at": "2025-11-02T12:47:41.032680",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79930411414938,
+      "asset_name": "DJ Miss_Cam Afro House malandro ⚡️",
+      "granted_at": "2025-11-02T12:47:42.770925",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 140663806468445,
+      "asset_name": "DJ Miss_Cam SOMBRITA ☁️ Afro House",
+      "granted_at": "2025-11-02T12:47:44.496716",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125658719276544,
+      "asset_name": "DJ Miss_Cam SUEÑO🤔 House",
+      "granted_at": "2025-11-02T12:47:46.217838",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108526246069789,
+      "asset_name": "DJ Miss_Cam LUNA 🌙 Afro House",
+      "granted_at": "2025-11-02T12:47:47.820864",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124662470687870,
+      "asset_name": "DJ Miss_Cam UN GRRR 🦁 Afro House",
+      "granted_at": "2025-11-02T12:47:49.545863",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101075717991204,
+      "asset_name": "DJ Miss_Cam NUEVAYOL Afro House 🐊",
+      "granted_at": "2025-11-02T12:47:51.276490",
+      "status": "newly_granted"
+    }
+  ]
+}
