@@ -1,0 +1,2150 @@
+{
+  "timestamp": "2025-11-17T10:50:54.832675",
+  "operation_type": "bulk_audio",
+  "source_group": {
+    "id": 34980580,
+    "name": "DJ ERRE"
+  },
+  "target_group": {
+    "id": 33965578,
+    "name": "Two Chiquilines"
+  },
+  "permissions_granted": [
+    {
+      "asset_id": 110997804555991,
+      "asset_name": "DJ ERRE - MONSTRUO (Tainy Ft. Feid)🔥",
+      "granted_at": "2025-11-17T10:50:59.440138",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80211105309028,
+      "asset_name": "DJ ERRE - Se Riega (El Alfa Ft Myke Towers) 🔥",
+      "granted_at": "2025-11-17T10:51:02.626197",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82487712002642,
+      "asset_name": "DJ ERRE - Mora - Detrás de tu alma 💔🔥",
+      "granted_at": "2025-11-17T10:51:05.204262",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105913364810502,
+      "asset_name": "DJ ERRE - Jezzy - Que Sensación 🔥",
+      "granted_at": "2025-11-17T10:51:07.571110",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109364584071101,
+      "asset_name": "DJ ERRE - Garden Of Madness (Vol. 4) 🔥",
+      "granted_at": "2025-11-17T10:51:09.916499",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126736228483837,
+      "asset_name": "DJ ERRE - Garden Of Madness (Vol. 3) 🔥",
+      "granted_at": "2025-11-17T10:51:12.344798",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99295849199304,
+      "asset_name": "DJ ERRE - Garden Of Madness (Vol. 2) 🔥",
+      "granted_at": "2025-11-17T10:51:14.734140",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72522427343583,
+      "asset_name": "DJ ERRE - Garden Of Madness (Vol. 1) 🔥",
+      "granted_at": "2025-11-17T10:51:17.084272",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121139626214478,
+      "asset_name": "DJ ERRE - El Show De La Maravilla 🔥",
+      "granted_at": "2025-11-17T10:51:19.458236",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129044939817521,
+      "asset_name": "DJ ERRE - El Pindin Caliente🔥 (By HadiAysel❤️) 01",
+      "granted_at": "2025-11-17T10:51:21.876836",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136509330286066,
+      "asset_name": "DJ ERRE - Dancehall (Sean Paul 1) 🔥",
+      "granted_at": "2025-11-17T10:51:24.252160",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105673542520597,
+      "asset_name": "DJ ERRE - Classic Garden Vol.  2 🔥",
+      "granted_at": "2025-11-17T10:51:26.633897",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83351237751296,
+      "asset_name": "DJ ERRE - Classic Garden Vol. 1 🔥",
+      "granted_at": "2025-11-17T10:51:29.019269",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76833683852995,
+      "asset_name": "DJ ERRE - KETU TeCRÉ (Bad Bunny) 🔥",
+      "granted_at": "2025-11-17T10:51:32.203971",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92311242834267,
+      "asset_name": "DJ ERRE - BAILE INoLVIDABLE (Bad Bunny) 🕺🔥",
+      "granted_at": "2025-11-17T10:51:34.589967",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79158098178144,
+      "asset_name": "DJ ERRE - A Melhor Que Ta Tendo 🇧🇷🔥",
+      "granted_at": "2025-11-17T10:51:37.140900",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114594179497846,
+      "asset_name": "DJ ERRE - We continue 🔥",
+      "granted_at": "2025-11-17T10:51:39.542224",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135076784735089,
+      "asset_name": "DJ ERRE - This Is Not Over Yet 🔥",
+      "granted_at": "2025-11-17T10:51:41.958416",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110038209407448,
+      "asset_name": "DJ ERRE - Let the Party Continue 🔥",
+      "granted_at": "2025-11-17T10:51:44.395448",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86934451427648,
+      "asset_name": "DJ ERRE - Happy Birthday With Flow 🔥🥳",
+      "granted_at": "2025-11-17T10:51:47.761495",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74460686580163,
+      "asset_name": "DJ ERRE - What I Want Is a Party 🔥",
+      "granted_at": "2025-11-17T10:51:50.165361",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82198786454846,
+      "asset_name": "DJ ERRE - Panamá Vol. 5 🔥🇵🇦❤️",
+      "granted_at": "2025-11-17T10:51:53.297501",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76490500738108,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Enzo 😎) 18",
+      "granted_at": "2025-11-17T10:51:55.664207",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124985942391465,
+      "asset_name": "DJ ERRE - Mix Beéle (Urbano Tropical) 🔥",
+      "granted_at": "2025-11-17T10:51:58.271248",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130095523087563,
+      "asset_name": "DJ ERRE - I'm Not So Good 🔥",
+      "granted_at": "2025-11-17T10:52:00.688767",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103792117768247,
+      "asset_name": "DJ ERRE - Everything Will Be Okay 🔥",
+      "granted_at": "2025-11-17T10:52:03.155377",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139395558437758,
+      "asset_name": "DJ ERRE - Calvin Harris Vol. 2 🔥",
+      "granted_at": "2025-11-17T10:52:05.619880",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117872101567064,
+      "asset_name": "DJ ERRE - Blaiz Fayah Vs Konshens (Dancehall)🔥",
+      "granted_at": "2025-11-17T10:52:08.052760",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131230641453803,
+      "asset_name": "DJ EREE - The Sun Rises For Everyone 🔥",
+      "granted_at": "2025-11-17T10:52:10.675936",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109836887391118,
+      "asset_name": "DJChiqui - MIX Twenty One Pilots",
+      "granted_at": "2025-11-17T10:52:13.051731",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83051222866615,
+      "asset_name": "DJChiqui - MIX Basshouse ",
+      "granted_at": "2025-11-17T10:52:15.418835",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92591549220173,
+      "asset_name": "DJChiqui - MIX Pop 80s",
+      "granted_at": "2025-11-17T10:52:17.783772",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112629499772416,
+      "asset_name": "DJChiqui - Afro House (Prod jooosh)",
+      "granted_at": "2025-11-17T10:52:20.161798",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82461285354114,
+      "asset_name": "DJChiqui - Dancehall (Prod Jooosh)",
+      "granted_at": "2025-11-17T10:52:22.533816",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122165031734889,
+      "asset_name": "DJChiqui - Bacilos Caraluna",
+      "granted_at": "2025-11-17T10:52:24.906984",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128907040116278,
+      "asset_name": "DJChiqui - MIX Belicore",
+      "granted_at": "2025-11-17T10:52:27.283533",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122322615947550,
+      "asset_name": "DJ Chiqui - Mix De La Demencia 🔥",
+      "granted_at": "2025-11-17T10:52:30.640736",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114171245978188,
+      "asset_name": "DJChiqui - Zenobia - Una de piratas",
+      "granted_at": "2025-11-17T10:52:33.028661",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111548597609333,
+      "asset_name": "DJChiqui - Do I Wanna Know",
+      "granted_at": "2025-11-17T10:52:35.610850",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132217532331673,
+      "asset_name": "DJChiqui - MIX Limon y Sal ",
+      "granted_at": "2025-11-17T10:52:38.187836",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131208005709167,
+      "asset_name": "DJChiqui - the weeknd - são Paulo",
+      "granted_at": "2025-11-17T10:52:40.762584",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79141446197929,
+      "asset_name": "DJChiqui - MIX Chamaco",
+      "granted_at": "2025-11-17T10:52:43.152322",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121070545376731,
+      "asset_name": "DJChiqui - MIX boza",
+      "granted_at": "2025-11-17T10:52:45.527322",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123910979776396,
+      "asset_name": "DJ CHIQUI MIX bbno$",
+      "granted_at": "2025-11-17T10:52:47.934566",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110416297941017,
+      "asset_name": "DJ CHIQUI - Panamá Pa La Racha 2 Ft. DJ ERRE 🔥",
+      "granted_at": "2025-11-17T10:52:50.331198",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112645944702207,
+      "asset_name": "DJ CHIQUI - Panamá Pa La Racha Ft DJ ERRE 🔥",
+      "granted_at": "2025-11-17T10:52:53.670817",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119269129009791,
+      "asset_name": "DJ ERRE - Feel The Vibe SET 6 🔥",
+      "granted_at": "2025-11-17T10:52:56.889450",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121533722118404,
+      "asset_name": "DJ ERRE - Feel The Vibe SET 5 🔥",
+      "granted_at": "2025-11-17T10:53:00.048750",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104869273895912,
+      "asset_name": "DJ ERRE - Feel The Vibe SET 4 🔥",
+      "granted_at": "2025-11-17T10:53:03.220285",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100001255160638,
+      "asset_name": "DJ ERRE - Feel The Vibe SET 3 🔥",
+      "granted_at": "2025-11-17T10:53:05.590387",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96955686463651,
+      "asset_name": "DJ ERRE - Feel The Vibe SET 2 🔥",
+      "granted_at": "2025-11-17T10:53:08.065885",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71854336545212,
+      "asset_name": "DJ ERRE - Feel The Vibe SET 1 🔥",
+      "granted_at": "2025-11-17T10:53:10.439383",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114699667734993,
+      "asset_name": "DJ ERRE - Let It Flow Vol. 5 🔥",
+      "granted_at": "2025-11-17T10:53:13.596323",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78881477217540,
+      "asset_name": "DJ ERRE - Let It Flow Vol. 4 🔥",
+      "granted_at": "2025-11-17T10:53:16.824540",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139037021513385,
+      "asset_name": "DJ ERRE - Let It Flow Vol. 3 🔥",
+      "granted_at": "2025-11-17T10:53:19.409361",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78988410730445,
+      "asset_name": "DJ ERRE - Let It Flow Vol. 2 🔥",
+      "granted_at": "2025-11-17T10:53:22.564830",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95977387949453,
+      "asset_name": "DJ ERRE - Let It Flow Vol. 1 🔥",
+      "granted_at": "2025-11-17T10:53:24.997581",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75288639993585,
+      "asset_name": "DJ ERRE - Shakira Vol. 1 🔥",
+      "granted_at": "2025-11-17T10:53:27.361002",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76146440345882,
+      "asset_name": "DJ ERRE - Rock Español Vol. 1 🔥",
+      "granted_at": "2025-11-17T10:53:29.736110",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81346512986695,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Enzo 😎) 16",
+      "granted_at": "2025-11-17T10:53:32.153052",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119331324723471,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Jeannn 🎵) 04",
+      "granted_at": "2025-11-17T10:53:35.323068",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100582859391907,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Enzo 😎) 15",
+      "granted_at": "2025-11-17T10:53:37.697616",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110669108687882,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Enzo 😎) 14",
+      "granted_at": "2025-11-17T10:53:40.275907",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114841726022436,
+      "asset_name": "DJ ERRE - ONLY MIX ❤️ (By Lyn 🌷) 16",
+      "granted_at": "2025-11-17T10:53:42.651987",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101710799818154,
+      "asset_name": "DJ ERRE - Hades66 & Anuel AA (Vol. 2) 🔥",
+      "granted_at": "2025-11-17T10:53:45.042875",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83112813202289,
+      "asset_name": "DJ ERRE - Hades66 & Anuel AA (Vol. 1) 🔥",
+      "granted_at": "2025-11-17T10:53:47.476891",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72984604227582,
+      "asset_name": "DJ ERRE - Bad Bunny Vol. 5 🔥",
+      "granted_at": "2025-11-17T10:53:49.878018",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94574149529622,
+      "asset_name": "DJ ERRE - Electro House (SET 1) 🔥",
+      "granted_at": "2025-11-17T10:53:52.254241",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136461738945416,
+      "asset_name": "DJ ERRE - Rauw Alejandro (Vol. 2) 🔥",
+      "granted_at": "2025-11-17T10:53:54.655051",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75322011464581,
+      "asset_name": "DJ ERRE - Mix Urbano (Vol. 2) (ROA) 🔥",
+      "granted_at": "2025-11-17T10:53:57.041976",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73041355623113,
+      "asset_name": "DJ ERRE - Rauw Alejandro - Ni Me Conozco 💔",
+      "granted_at": "2025-11-17T10:53:59.388692",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118296919861856,
+      "asset_name": "DJ ERRE - Live The Night Vol. 8 🔥",
+      "granted_at": "2025-11-17T10:54:01.760544",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105670738900220,
+      "asset_name": "DJ ERRE - Live The Night Vol. 6 🔥",
+      "granted_at": "2025-11-17T10:54:04.984124",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124905764667302,
+      "asset_name": "DJ ERRE - Live The Night Vol. 5 🔥",
+      "granted_at": "2025-11-17T10:54:07.440337",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126942952947867,
+      "asset_name": "DJ ERRE - Live The Night Vol. 4 🔥",
+      "granted_at": "2025-11-17T10:54:10.637338",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88146042373509,
+      "asset_name": "DJ ERRE - Live The Night Vol. 2 🔥",
+      "granted_at": "2025-11-17T10:54:13.113687",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73015161960098,
+      "asset_name": "DJ ERRE - Mix Barbel 🔥 (Vol. 2) (Panama) 🇵🇦",
+      "granted_at": "2025-11-17T10:54:15.591654",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104758492699660,
+      "asset_name": "DJ ERRE - Huan62 🔥",
+      "granted_at": "2025-11-17T10:54:17.938874",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116727092001750,
+      "asset_name": "DJ ERRE - Bailalo Rocky 🔥",
+      "granted_at": "2025-11-17T10:54:20.306232",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 140648416115228,
+      "asset_name": "DJ ERRE - Bad Bunny Trilogía 🔥",
+      "granted_at": "2025-11-17T10:54:23.493707",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127201046600304,
+      "asset_name": "DJ ERRE - Bad Bunny (Que Kbron) 🔥",
+      "granted_at": "2025-11-17T10:54:25.847682",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96657261901232,
+      "asset_name": "DJ ERRE - Anuel AA (Vol. 4) 🔥 RHLM 🔥",
+      "granted_at": "2025-11-17T10:54:29.087756",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111698626024430,
+      "asset_name": "DJ ERRE - Anuel AA & Blessd 🔥",
+      "granted_at": "2025-11-17T10:54:31.427231",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80268371737525,
+      "asset_name": "DJ ERRE - Danger Man - Corre Funeral 🔥",
+      "granted_at": "2025-11-17T10:54:34.604617",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128549262115363,
+      "asset_name": "DJ ERRE - Danger Man - Pulla Pulla 🔥",
+      "granted_at": "2025-11-17T10:54:36.981819",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84890229747516,
+      "asset_name": "DJ ERRE - El Chombo Y Los Pumas 🔥",
+      "granted_at": "2025-11-17T10:54:39.326657",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109041635439577,
+      "asset_name": "DJ ERRE - Yaires - Zamba Remix 🔥",
+      "granted_at": "2025-11-17T10:54:41.694974",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92455344789258,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Shuyy 🎵) 03",
+      "granted_at": "2025-11-17T10:54:44.061924",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117098726405457,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Shuyy 🎵) 02",
+      "granted_at": "2025-11-17T10:54:46.427005",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99003259459001,
+      "asset_name": "DJ ERRE - Zacarias Ferreira (Bachata)  ❤️🔥",
+      "granted_at": "2025-11-17T10:54:48.874275",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83202922341709,
+      "asset_name": "DJ ERRE - Teodoro Reyes (Bachata) ❤️🔥",
+      "granted_at": "2025-11-17T10:54:51.243882",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124102995253088,
+      "asset_name": "DJ ERRE - ONLY MIX ❤️ (By ELEN 🧃) 1",
+      "granted_at": "2025-11-17T10:54:53.608562",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80128095064475,
+      "asset_name": "DJ ERRE - Myke Towerrs 🔥 (Young Kingz)",
+      "granted_at": "2025-11-17T10:54:56.022182",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77001187959698,
+      "asset_name": "DJ ERRE - Donaty & Papera 2 (Dembow) 🔥",
+      "granted_at": "2025-11-17T10:54:59.341321",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130535453599935,
+      "asset_name": "DJ ERRE - Donaty & Papera 1 (Dembow) 🔥",
+      "granted_at": "2025-11-17T10:55:01.714041",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77275759522808,
+      "asset_name": "DJ ERRE - Anuel AA 🔥( Old Vol. 2) RHLM 🔥",
+      "granted_at": "2025-11-17T10:55:04.128002",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90639227708255,
+      "asset_name": "DJ ERRE - Anuel AA (Vol. 3) 🔥 RHLM 🔥",
+      "granted_at": "2025-11-17T10:55:06.554092",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118217479632386,
+      "asset_name": "DJ ERRE - Perreo 🥵 (Flow Brasilero 🇧🇷)  1",
+      "granted_at": "2025-11-17T10:55:08.926076",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115095861817363,
+      "asset_name": "DJ ERRE - A 200 & The Hobbie 🔥",
+      "granted_at": "2025-11-17T10:55:11.296473",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126044058030701,
+      "asset_name": "DJ ERRE - R&B, Soul. (Miguel) 3 🔥",
+      "granted_at": "2025-11-17T10:55:13.672504",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101555998842465,
+      "asset_name": "DJ ERRE - R&B, Soul. (Frank Ocean) 4 🔥",
+      "granted_at": "2025-11-17T10:55:16.926926",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129966883414708,
+      "asset_name": "DJ ERRE - R&B, Soul. (English) 1 🔥",
+      "granted_at": "2025-11-17T10:55:19.301026",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101602158107767,
+      "asset_name": "DJ ERRE - R&B, Soul. (Daniel Caesar) 2 🔥",
+      "granted_at": "2025-11-17T10:55:21.682912",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119720725771841,
+      "asset_name": "DJ ERRE - Perreo 🥵 (Flow Brasilero 🇧🇷)  2",
+      "granted_at": "2025-11-17T10:55:24.072780",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133661348945666,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Shuyy 🎵) 01",
+      "granted_at": "2025-11-17T10:55:26.456306",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129344165875271,
+      "asset_name": "DJ ERRE - Shakira x Karol G ❤️🔥",
+      "granted_at": "2025-11-17T10:55:28.874778",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96309497144326,
+      "asset_name": "DJ ERRE - Nathy Peluso & Tokischa🔥",
+      "granted_at": "2025-11-17T10:55:31.286217",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80812416627025,
+      "asset_name": "DJ ERRE - Mashup English (Retro) 🔥",
+      "granted_at": "2025-11-17T10:55:34.481910",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104997486646277,
+      "asset_name": "DJ ERRE - MASHUP (Reggaeton, Momba, Electro) 🔥",
+      "granted_at": "2025-11-17T10:55:36.851421",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119202540397054,
+      "asset_name": "DJ ERRE - Hip Hop, R&B.  (English) 🔥",
+      "granted_at": "2025-11-17T10:55:39.222864",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81591789875695,
+      "asset_name": "DJ ERRE - Hip Hop (Tyler The Creator) 1 🔥",
+      "granted_at": "2025-11-17T10:55:42.388167",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76694853589025,
+      "asset_name": "DJ ERRE - Hip Hop (Pop Smoke) 5 🔥",
+      "granted_at": "2025-11-17T10:55:45.556304",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129937556989036,
+      "asset_name": "DJ ERRE - Hip Hop (Playboì Carti) 4 🔥",
+      "granted_at": "2025-11-17T10:55:48.771375",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91926111638112,
+      "asset_name": "DJ ERRE - Hip Hop (Lil Uzi Vert) 3 🔥",
+      "granted_at": "2025-11-17T10:55:51.177973",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73493933455915,
+      "asset_name": "DJ ERRE - Hip Hop (Drake Tyler The Creator) 6 🔥",
+      "granted_at": "2025-11-17T10:55:53.552226",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133008533234101,
+      "asset_name": "DJ ERRE - Hip Hop (21 Savage) 2 🔥",
+      "granted_at": "2025-11-17T10:55:56.721690",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105014039194772,
+      "asset_name": "DJ ERRE - Dancehall Various Artists 1 🔥",
+      "granted_at": "2025-11-17T10:55:59.881325",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119119647019313,
+      "asset_name": "DJ ERRE - Bedroom (Alternative) 2 🔥",
+      "granted_at": "2025-11-17T10:56:03.182162",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102458683218174,
+      "asset_name": "DJ ERRE - Bedroom (Alternative) 1 🔥",
+      "granted_at": "2025-11-17T10:56:05.552820",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114031240339054,
+      "asset_name": "DJ ERRE - Bad Bunny Vol. 12 🔥",
+      "granted_at": "2025-11-17T10:56:07.920295",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110403641744487,
+      "asset_name": "DJ ERRE - BAD BUNNY - EoO 🔥",
+      "granted_at": "2025-11-17T10:56:10.300297",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114056833672698,
+      "asset_name": "DJ ERRE - Alternative English 🔥",
+      "granted_at": "2025-11-17T10:56:12.678259",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126514294980850,
+      "asset_name": "DJ ERRE - BAD BUNNY - NUEVAYoL 🔥",
+      "granted_at": "2025-11-17T10:56:15.070895",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80455649774190,
+      "asset_name": "DJ ERRE - Perreo Intenso Vol. 2 🔥",
+      "granted_at": "2025-11-17T10:56:18.280188",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87818049951390,
+      "asset_name": "DJ ERRE - Perreo Intenso Vol. 1 🔥",
+      "granted_at": "2025-11-17T10:56:20.654976",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102474596264987,
+      "asset_name": "Chencho Corleone x Bad Bunny x De Vega - Dándote",
+      "granted_at": "2025-11-17T10:56:23.988897",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94556107636339,
+      "asset_name": "DJ ERRE - XXTentacion RIP 🤍 🔥",
+      "granted_at": "2025-11-17T10:56:26.363475",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128687296598483,
+      "asset_name": "DJ ERRE - Mix Urbano Vol. 2 🔥",
+      "granted_at": "2025-11-17T10:56:28.785102",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 140731991410581,
+      "asset_name": "DJ ERRE - Rauw Alejandro Vol. 1 🔥",
+      "granted_at": "2025-11-17T10:56:31.188409",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92645614721700,
+      "asset_name": "DJ ERRE - Mix Urbano Vol. 1 🔥",
+      "granted_at": "2025-11-17T10:56:33.562966",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125357805345850,
+      "asset_name": "DJ ERRE - Mix J Balvin Vol. 1 🔥",
+      "granted_at": "2025-11-17T10:56:35.931370",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78349520969257,
+      "asset_name": "DJ ERRE - Mix J Alvarez Vol. 1 🔥",
+      "granted_at": "2025-11-17T10:56:39.120702",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75255209458006,
+      "asset_name": "DJ ERRE - Metal Tekkno Vol. 1 🎸🔥",
+      "granted_at": "2025-11-17T10:56:41.642154",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114812366632425,
+      "asset_name": "DJ ERRE - Metal Reggae Vol. 1 🎸🔥",
+      "granted_at": "2025-11-17T10:56:44.014946",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100243083854530,
+      "asset_name": "DJ ERRE - Metal Heavy Vol. 1 🎸💀🔥",
+      "granted_at": "2025-11-17T10:56:46.447923",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72981461043402,
+      "asset_name": "DJ ERRE - Metal Heavy Vol. 2 🎸💀🔥",
+      "granted_at": "2025-11-17T10:56:48.818380",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 70781378950561,
+      "asset_name": "DJ ERRE - Jowel Y Randy Vol. 1 🔥",
+      "granted_at": "2025-11-17T10:56:51.238821",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88802371220132,
+      "asset_name": "DJ ERRE - Electro Dance (SET 6) 🔥",
+      "granted_at": "2025-11-17T10:56:53.618064",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124979096715613,
+      "asset_name": "DJ ERRE - Electro Dance (SET 5) 🔥",
+      "granted_at": "2025-11-17T10:56:55.991075",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120761354928363,
+      "asset_name": "DJ ERRE - Electro Dance (SET 3) 🔥",
+      "granted_at": "2025-11-17T10:56:59.282817",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131361021088050,
+      "asset_name": "DJ ERRE - Electro Dance (SET 4) 🔥",
+      "granted_at": "2025-11-17T10:57:01.660507",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71628680656296,
+      "asset_name": "DJ ERRE - Electro Dance (SET 2) 🔥",
+      "granted_at": "2025-11-17T10:57:04.053487",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124194335032157,
+      "asset_name": "DJ ERRE - Dembow (Vol. 3) 🔥",
+      "granted_at": "2025-11-17T10:57:06.599482",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103770168099529,
+      "asset_name": "DJ ERRE - De La Ghetto Vs R&K Down 🔥",
+      "granted_at": "2025-11-17T10:57:08.970137",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109327633022548,
+      "asset_name": "DJ ERRE - Calle 13 (Reggaeton) 🔥",
+      "granted_at": "2025-11-17T10:57:11.333148",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 89091737792983,
+      "asset_name": "DJ ERRE - Corridos 🇲🇽🔥 (Despecho)",
+      "granted_at": "2025-11-17T10:57:13.758174",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105166986099831,
+      "asset_name": "DJ ERRE - Calvin Harris (Electro) 🔥",
+      "granted_at": "2025-11-17T10:57:16.876883",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128837168495789,
+      "asset_name": "DJ ERRE - Anuel AA (Vol. 1) 🔥 RLHM",
+      "granted_at": "2025-11-17T10:57:19.311924",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122721846669931,
+      "asset_name": "DJ ERRE - Anuel AA - Headshot 🔥",
+      "granted_at": "2025-11-17T10:57:21.686423",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134939146230256,
+      "asset_name": "DJ ERRE - Rock In English Vol. 1 🎸🔥",
+      "granted_at": "2025-11-17T10:57:24.056543",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118934310082875,
+      "asset_name": "DJ ERRE - Queen Vol. 2 🎸🔥",
+      "granted_at": "2025-11-17T10:57:26.621505",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110676171831483,
+      "asset_name": "DJ ERRE - Queen Vol. 1 🎸🔥",
+      "granted_at": "2025-11-17T10:57:29.005918",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126008572859287,
+      "asset_name": "DJ ERRE - Jerry Rivera 🔥 (Salsa) ❤️",
+      "granted_at": "2025-11-17T10:57:31.423166",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115501650832384,
+      "asset_name": "DJ ERRE - Aventura Vol. 1 🔥 (Bachata) ❤️",
+      "granted_at": "2025-11-17T10:57:33.869582",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100143627392838,
+      "asset_name": "DJ ERRE - Elvis Martinez 🔥 (Bachata) ❤️",
+      "granted_at": "2025-11-17T10:57:36.511409",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81098773581723,
+      "asset_name": "DJ ERRE - November Rain 🎸🔥",
+      "granted_at": "2025-11-17T10:57:42.965216",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117565915062627,
+      "asset_name": "DJ ERRE - Nirvana Vol. 1 🎸🔥",
+      "granted_at": "2025-11-17T10:57:45.377946",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103653241754370,
+      "asset_name": "DJ ERRE - Hotel California 🎸🔥",
+      "granted_at": "2025-11-17T10:57:47.760040",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94866697585936,
+      "asset_name": "DJ ERRE - Heavy Rock Vol. 3 🎸🔥👹",
+      "granted_at": "2025-11-17T10:57:54.208534",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80828956600624,
+      "asset_name": "DJ ERRE - Heavy Rock Vol. 2 🎸🔥👹",
+      "granted_at": "2025-11-17T10:57:56.723415",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139146150359186,
+      "asset_name": "DJ ERRE - Heavy Rock Vol. 1  🎸🔥👹",
+      "granted_at": "2025-11-17T10:57:59.103110",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137952769756571,
+      "asset_name": "DJ ERRE - Guns N' Roses Vol. 1 🎸🔥",
+      "granted_at": "2025-11-17T10:58:02.442555",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78779892646458,
+      "asset_name": "DJ ERRE - Bon Jovi Vol. 1 🎸🔥",
+      "granted_at": "2025-11-17T10:58:04.807637",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121965506965640,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Takis) 01",
+      "granted_at": "2025-11-17T10:58:11.318243",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127020434119646,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Jeannn) 05",
+      "granted_at": "2025-11-17T10:58:13.696691",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72141415017818,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Shuyy 🎵) 01",
+      "granted_at": "2025-11-17T10:58:17.178085",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127969480318418,
+      "asset_name": "DJ ERRE - (Jon Z) & (Jamby El Favo) 🔥",
+      "granted_at": "2025-11-17T10:58:20.435146",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82647093845023,
+      "asset_name": "DJ ERRE - ONLY MIX 🐰🔥 (By Nicky 👑) 26",
+      "granted_at": "2025-11-17T10:58:22.801960",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133868974372545,
+      "asset_name": "DJ ERRE - Mix Boza 2 🔥 (Panamá) 🇵🇦",
+      "granted_at": "2025-11-17T10:58:25.179914",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117737434546816,
+      "asset_name": "DJ ERRE - Mix Sech 🔥 (Panamá) 🇵🇦",
+      "granted_at": "2025-11-17T10:58:27.576388",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107612730603137,
+      "asset_name": "DJ ERRE - Mix Barbel 🔥 (Panamá) 🇵🇦",
+      "granted_at": "2025-11-17T10:58:29.962506",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110225468649590,
+      "asset_name": "DJ ERRE - Dubosky 🔥 (By Nicky 👑) 25",
+      "granted_at": "2025-11-17T10:58:33.223841",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 70896056075427,
+      "asset_name": "DJ ERRE - Electronica Clasicas 2 🔥",
+      "granted_at": "2025-11-17T10:58:35.590760",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116348896909810,
+      "asset_name": "DJ ERRE - Electronica Clasicas 1 🔥",
+      "granted_at": "2025-11-17T10:58:38.748490",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 140132792847919,
+      "asset_name": "DJ ERRE - Vintage Culture Vol. 1 🔥",
+      "granted_at": "2025-11-17T10:58:41.120450",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 70759489494039,
+      "asset_name": "DJ ERRE - Mix Hip Hop (Ja Rule) 🔥",
+      "granted_at": "2025-11-17T10:58:43.676173",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80959071462430,
+      "asset_name": "DJ ERRE - Mix Hip Hop (Rick Ross) Vol. 1 🔥",
+      "granted_at": "2025-11-17T10:58:46.107856",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115938405116843,
+      "asset_name": "DJ ERRE - Live The Party Vol. 7 🔥",
+      "granted_at": "2025-11-17T10:58:48.447671",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 70529498963429,
+      "asset_name": "DJ ERRE - Live The Party Vol. 6 🔥",
+      "granted_at": "2025-11-17T10:58:51.612457",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127954747922450,
+      "asset_name": "DJ ERRE - ONLY MIX 🎸🔥 (By Cinna 🩵) 01",
+      "granted_at": "2025-11-17T10:58:53.981371",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98953672580360,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Enzo 😎) 12",
+      "granted_at": "2025-11-17T10:58:57.201155",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76773940750034,
+      "asset_name": "DJ ERRE - DeBÍ TiRAR MáS FOToS Vol. 4 🔥",
+      "granted_at": "2025-11-17T10:58:59.575881",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113291023612762,
+      "asset_name": "DJ ERRE - DeBÍ TiRAR MáS FOToS Vol. 2 🔥",
+      "granted_at": "2025-11-17T10:59:01.951087",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120429719065211,
+      "asset_name": "DJ ERRE - DeBÍ TiRAR MáS FOToS Vol. 1 🔥",
+      "granted_at": "2025-11-17T10:59:04.350125",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127763304177896,
+      "asset_name": "DJ ERRE - XXTentacion R.I.P 🤍🔥",
+      "granted_at": "2025-11-17T10:59:06.722225",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128100280963765,
+      "asset_name": "DJ ERRE - Wisin & Yandel Vol. 1 🔥",
+      "granted_at": "2025-11-17T10:59:09.089398",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82487827464186,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Renna 👹) 01",
+      "granted_at": "2025-11-17T10:59:11.497308",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91834269550871,
+      "asset_name": "DJ ERRE - Tupac Shakur Vol. 1 🔥",
+      "granted_at": "2025-11-17T10:59:13.892404",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133778588855627,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Nicky 👑) 19",
+      "granted_at": "2025-11-17T10:59:16.273520",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131448632422398,
+      "asset_name": "DJ ERRE - ONLY MIX 🥵 (By Nicky 👑) 18",
+      "granted_at": "2025-11-17T10:59:18.692268",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123541276210647,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Nicky 👑) 17",
+      "granted_at": "2025-11-17T10:59:21.061677",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102444312382595,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Nicky 👑) 16",
+      "granted_at": "2025-11-17T10:59:24.304192",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97364549835587,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Nicky 👑) 15",
+      "granted_at": "2025-11-17T10:59:26.735063",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98200171830372,
+      "asset_name": "DJ ERRE - Anuel AA 🔥( Old Vol. 1) RHLM ",
+      "granted_at": "2025-11-17T10:59:29.144571",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85279581137033,
+      "asset_name": "DJ ERRE - Notorious Vs Tupac 🔥",
+      "granted_at": "2025-11-17T10:59:35.592150",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75997277364614,
+      "asset_name": "DJ ERRE - Notorious B.I.G 🔥",
+      "granted_at": "2025-11-17T10:59:37.961503",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72672064769261,
+      "asset_name": "DJ ERRE - Navidad Extrema 2 🔥",
+      "granted_at": "2025-11-17T10:59:40.333461",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138678892684077,
+      "asset_name": "DJ ERRE - Mix Drake Old 🔥",
+      "granted_at": "2025-11-17T10:59:42.701829",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87052324432178,
+      "asset_name": "DJ ERRE - Mix Afrobeat Vol. 2 🔥",
+      "granted_at": "2025-11-17T10:59:45.083392",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100846761780658,
+      "asset_name": "DJ ERRE - Mix Afrobeat Vol. 1 🔥",
+      "granted_at": "2025-11-17T10:59:47.455821",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97483152725983,
+      "asset_name": "DJ ERRE - Live The Party Vol. 5 🔥",
+      "granted_at": "2025-11-17T10:59:49.948656",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126376916651295,
+      "asset_name": "DJ ERRE - Live The Party Vol. 4 🔥",
+      "granted_at": "2025-11-17T10:59:52.348289",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101673857071559,
+      "asset_name": "DJ ERRE - Live The Party Vol. 3 🔥",
+      "granted_at": "2025-11-17T10:59:54.687053",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72948294182453,
+      "asset_name": "DJ ERRE - Live The Party Vol. 2 🔥",
+      "granted_at": "2025-11-17T10:59:57.030990",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85524525019637,
+      "asset_name": "DJ ERRE - Live The Party Vol. 1 🔥",
+      "granted_at": "2025-11-17T10:59:59.373282",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100651813227780,
+      "asset_name": "DJ ERRE - Lil Wayne Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:00:01.751109",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81342541103198,
+      "asset_name": "DJ ERRE - Kendrick Lamar Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:00:04.193119",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 70371710775794,
+      "asset_name": "DJ ERRE - Hip Hop Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:00:06.563560",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83095231101828,
+      "asset_name": "DJ ERRE - Funk Wav Bounces Vol. 2 🔥",
+      "granted_at": "2025-11-17T11:00:08.937279",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76596966867245,
+      "asset_name": "DJ ERRE - Funk Wav Bounces Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:00:11.315007",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124898893646229,
+      "asset_name": "DJ ERRE - Electro Dance (SET 1) 🔥",
+      "granted_at": "2025-11-17T11:00:13.739225",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139267918891040,
+      "asset_name": "DJ ERRE - El Alfa El Jefe (Dembow) 🔥",
+      "granted_at": "2025-11-17T11:00:16.128282",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94260868968458,
+      "asset_name": "DJ ERRE - Drake Vol. 2 🔥",
+      "granted_at": "2025-11-17T11:00:18.502354",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124477778171057,
+      "asset_name": "DJ ERRE - Drake Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:00:20.871971",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138333403837832,
+      "asset_name": "DJ ERRE - Dembow Vol. 3 🔥",
+      "granted_at": "2025-11-17T11:00:23.250017",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122126888711674,
+      "asset_name": "DJ ERRE - (Dembow Vol. 2) 🔥",
+      "granted_at": "2025-11-17T11:00:25.666123",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109131892024087,
+      "asset_name": "DJ ERRE - Bad Bunny Vol. 11 🔥",
+      "granted_at": "2025-11-17T11:00:28.053627",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123144846442328,
+      "asset_name": "DJ ERRE - Bad Bunny Vol. 1 🔥 (By Nicky ♥️👑)",
+      "granted_at": "2025-11-17T11:00:30.458739",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128305326036259,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Enzo 😎) 11",
+      "granted_at": "2025-11-17T11:00:32.969743",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74032502297943,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Enzo 😎) 10",
+      "granted_at": "2025-11-17T11:00:35.341395",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76006883539746,
+      "asset_name": "DJ ERRE - Merengue 🔥❤️",
+      "granted_at": "2025-11-17T11:00:37.762756",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131929852666689,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Enzo 😎) 08",
+      "granted_at": "2025-11-17T11:00:40.143717",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119288743578987,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Enzo 😎) 07",
+      "granted_at": "2025-11-17T11:00:43.368466",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 70457677855900,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Enzo 😎) 06",
+      "granted_at": "2025-11-17T11:00:46.575339",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95725726355792,
+      "asset_name": "DJ ERRE - Chris Brown Vol. 4 🔥",
+      "granted_at": "2025-11-17T11:00:49.736103",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101265632358953,
+      "asset_name": "DJ ERRE - Tomorrowland Aftermovie 2012 Vol. 2🔥",
+      "granted_at": "2025-11-17T11:00:52.219128",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74376890916474,
+      "asset_name": "DJ ERRE - Tomorrowland Aftermovie 2012 Vol. 1🔥",
+      "granted_at": "2025-11-17T11:00:54.635051",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105608629102186,
+      "asset_name": "DJ ERRE - Safaera x Que pretendes 🔥",
+      "granted_at": "2025-11-17T11:00:57.030133",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132685278341062,
+      "asset_name": "DJ ERRE - Plan B Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:01:00.248459",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85192478127763,
+      "asset_name": "DJ ERRE - Mi Sech 2 🔥",
+      "granted_at": "2025-11-17T11:01:02.742118",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104105530679801,
+      "asset_name": "DJ ERRE - Martin Garrix Set 2 🔥",
+      "granted_at": "2025-11-17T11:01:05.949374",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124752428880029,
+      "asset_name": "DJ ERRE - Martin Garrix Set 1 🔥",
+      "granted_at": "2025-11-17T11:01:08.325698",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88595518684000,
+      "asset_name": "DJ ERRE - La Romana x Coronao Remix 🔥",
+      "granted_at": "2025-11-17T11:01:10.752775",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86604854148923,
+      "asset_name": "DJ ERRE - Ivy Queen 🔥",
+      "granted_at": "2025-11-17T11:01:13.164900",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75606984181080,
+      "asset_name": "DJ ERRE - Ferxxo Vol. 3 💚",
+      "granted_at": "2025-11-17T11:01:15.597916",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73625006709526,
+      "asset_name": "DJ ERRE - Feliz Navidad Kbrones 🎅🏻🎄",
+      "granted_at": "2025-11-17T11:01:18.801158",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100462333601636,
+      "asset_name": "DJ ERRE - Electronica Set 7 🔥",
+      "granted_at": "2025-11-17T11:01:21.171671",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100327265837074,
+      "asset_name": "DJ ERRE - Electronica Set 6 🔥",
+      "granted_at": "2025-11-17T11:01:24.432195",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136032228997522,
+      "asset_name": "DJ ERRE - Electronica Set 5 🔥",
+      "granted_at": "2025-11-17T11:01:26.814387",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88806350627312,
+      "asset_name": "DJ ERRE - Electronica Set 4 🔥",
+      "granted_at": "2025-11-17T11:01:33.360300",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137107891580755,
+      "asset_name": "DJ ERRE - Electronica Set 3 🔥",
+      "granted_at": "2025-11-17T11:01:35.729853",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102519176420661,
+      "asset_name": "DJ ERRE - Electronica Set 2 🔥",
+      "granted_at": "2025-11-17T11:01:38.932592",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71178573890147,
+      "asset_name": "DJ ERRE - Electronica Set 1 🔥",
+      "granted_at": "2025-11-17T11:01:41.306761",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102603357049357,
+      "asset_name": "DJ ERRE - Don Omar Vol. 2 🔥",
+      "granted_at": "2025-11-17T11:01:44.479487",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75713303184873,
+      "asset_name": "DJ ERRE - Dembow (Vol. 1) 🔥",
+      "granted_at": "2025-11-17T11:01:47.752693",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114453860163808,
+      "asset_name": "DJ ERRE - Daddy Yankee Vol. 3 🔥",
+      "granted_at": "2025-11-17T11:01:50.148541",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110566843505011,
+      "asset_name": "DJ ERRE - Daddy Yankee Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:01:53.345053",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98837541556959,
+      "asset_name": "DJ ERRE - Chris Brown Vol. 3 🔥",
+      "granted_at": "2025-11-17T11:01:55.722046",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86190507476276,
+      "asset_name": "DJ ERRE - Chris Brown Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:01:59.073051",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86837228826807,
+      "asset_name": "DJ ERRE - Bad Bunny Vol. 10 🔥",
+      "granted_at": "2025-11-17T11:02:02.286577",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85451828329787,
+      "asset_name": "DJ ERRE - Bad Bunny Vol. 9 🔥",
+      "granted_at": "2025-11-17T11:02:05.626018",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99006733409965,
+      "asset_name": "DJ ERRE - Bad Bunny Vol. 4 🔥",
+      "granted_at": "2025-11-17T11:02:08.852977",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71279888508763,
+      "asset_name": "DJ ERRE - Bad Bunny Vol. 3 🔥",
+      "granted_at": "2025-11-17T11:02:11.226741",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126435866205833,
+      "asset_name": "DJ ERRE - AC DC 🔥🎸",
+      "granted_at": "2025-11-17T11:02:13.625244",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79906985453976,
+      "asset_name": "DJ ERRE - 50 Cent Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:02:16.831037",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121726670881028,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥(By Nicky 👑) 06",
+      "granted_at": "2025-11-17T11:02:19.223041",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137324442274813,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Enzo 😎) 05",
+      "granted_at": "2025-11-17T11:02:25.727620",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132770603696101,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Enzo 😎) 04",
+      "granted_at": "2025-11-17T11:02:28.100976",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81041025114334,
+      "asset_name": "DJ ERRE - Rock Metal Pesado 🎸💀🔥",
+      "granted_at": "2025-11-17T11:02:30.511091",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121712781962832,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Enzo 😎) 02",
+      "granted_at": "2025-11-17T11:02:32.899876",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92400402428321,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥 (By Enzo 😎) 01",
+      "granted_at": "2025-11-17T11:02:35.320726",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137438597095946,
+      "asset_name": "DJ ERRE - Bad Bunny Vol. 8 🔥",
+      "granted_at": "2025-11-17T11:02:37.736045",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118502103540090,
+      "asset_name": "DJ ERRE - Yailin La Mas Viral 🥵🔥",
+      "granted_at": "2025-11-17T11:02:40.944500",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119918949898509,
+      "asset_name": "DJ ERRE - The Weeknd & Coldplay 🔥",
+      "granted_at": "2025-11-17T11:02:43.357788",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91072119114855,
+      "asset_name": "DJ ERRE - Bruno Mars (Vol. 1) 🔥",
+      "granted_at": "2025-11-17T11:02:45.776678",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111310262765925,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥(By Nicky 👑) 04",
+      "granted_at": "2025-11-17T11:02:52.317261",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133136008085338,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥(By Nicky 👑) 03",
+      "granted_at": "2025-11-17T11:02:54.700229",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123908607675727,
+      "asset_name": "DJ ERRE - ❤️ Para El Am0r De Mi Vida ❤️ 👑NICKY👑",
+      "granted_at": "2025-11-17T11:02:57.108269",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76443261825312,
+      "asset_name": "DJ ERRE - Hard Techno 🔥 (By Conz) 01",
+      "granted_at": "2025-11-17T11:02:59.485312",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97890492464874,
+      "asset_name": "DJ ERRE - Wisin & Yandel Vol. 3 🔥",
+      "granted_at": "2025-11-17T11:03:01.898867",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131944355662417,
+      "asset_name": "DJ ERRE - Mix Urbano (Rochy RD) 🔥",
+      "granted_at": "2025-11-17T11:03:04.342785",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79937913750185,
+      "asset_name": "DJ ERRE - Musica Retro (Cumbia 1) 🔥",
+      "granted_at": "2025-11-17T11:03:06.729761",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74760489364761,
+      "asset_name": "DJ ERRE - Mix Urbano 🔥 (Los Diablos) 👹",
+      "granted_at": "2025-11-17T11:03:10.114397",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123863708508413,
+      "asset_name": "DJ ERRE - Hardstyle Vol. 4 🔥",
+      "granted_at": "2025-11-17T11:03:12.483319",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95766735147170,
+      "asset_name": "DJ ERRE - Hardstyle Vol. 3 🔥",
+      "granted_at": "2025-11-17T11:03:15.692165",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104776615702186,
+      "asset_name": "DJ ERRE - Ferxxo Vol. 2 💚",
+      "granted_at": "2025-11-17T11:03:18.180286",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124087277651226,
+      "asset_name": "DJ ERRE - Electro Latino Vol. 3 🔥",
+      "granted_at": "2025-11-17T11:03:21.487020",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116121539947653,
+      "asset_name": "DJ ERRE - Eladio Carrion Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:03:23.866017",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78395570225713,
+      "asset_name": "DJ ERRE - Daddy Yankee Vol. 2 🔥",
+      "granted_at": "2025-11-17T11:03:27.070802",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84874897134906,
+      "asset_name": "DJ ERRE - Bad Bunny Vol. 5 🔥",
+      "granted_at": "2025-11-17T11:03:30.232650",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117536614577864,
+      "asset_name": "DJ ERRE - Urbano Vol. 2 🔥",
+      "granted_at": "2025-11-17T11:03:32.657563",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84194153633695,
+      "asset_name": "DJ ERRE - TRAP PR 🔥 (Vol. 3) 🔥",
+      "granted_at": "2025-11-17T11:03:35.083558",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120828214503422,
+      "asset_name": "DJ ERRE - Electro House Vol. 9 🔥",
+      "granted_at": "2025-11-17T11:03:37.456029",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113565962614221,
+      "asset_name": "DJ ERRE - ONLY MIX 🔥🇵🇦 (By Ashley 💃🏻) 01",
+      "granted_at": "2025-11-17T11:03:39.917684",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136938593916169,
+      "asset_name": "DJ ERRE - Electro House Vol. 10 🔥",
+      "granted_at": "2025-11-17T11:03:42.342842",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79168153796170,
+      "asset_name": "DJ ERRE - Electro House Vol. 8 🔥",
+      "granted_at": "2025-11-17T11:03:44.719872",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134121967369138,
+      "asset_name": "DJ ERRE - Electro House Vol. 7 🔥",
+      "granted_at": "2025-11-17T11:03:47.129885",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96101085102714,
+      "asset_name": "DJ ERRE - Anuel AA (Vol. 2) 🔥 RHLM 🔥",
+      "granted_at": "2025-11-17T11:03:49.522739",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99969216211751,
+      "asset_name": "DJ ERRE - Mix Urbano (Mora) 🔥",
+      "granted_at": "2025-11-17T11:03:56.032683",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124400233138464,
+      "asset_name": "DJ ERRE - The Yeyo Rennaissance 🔥🇵🇦",
+      "granted_at": "2025-11-17T11:03:58.371137",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114953838010047,
+      "asset_name": "DJ ERRE - Mix Panamá Vol. 2 🔥🇵🇦",
+      "granted_at": "2025-11-17T11:04:00.712299",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72825796640916,
+      "asset_name": "DJ ERRE - Mix Dancehall 🔥",
+      "granted_at": "2025-11-17T11:04:03.132322",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99944814167766,
+      "asset_name": "DJ ERRE - Mix Beéle 🔥",
+      "granted_at": "2025-11-17T11:04:05.568587",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110376577843587,
+      "asset_name": "DJ ERRE - Lady Gaga Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:04:12.098283",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119463624878503,
+      "asset_name": "DJ ERRE - Bad Bunny Vol. 6 🔥",
+      "granted_at": "2025-11-17T11:04:15.044394",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109307782872664,
+      "asset_name": "DJ ERRE - Mix Urbano (Bryant Myers) 🔥",
+      "granted_at": "2025-11-17T11:04:17.426758",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95227159660891,
+      "asset_name": "DJ ERRE - Reggaeton 🔥 (Ivy Queen) 🥵",
+      "granted_at": "2025-11-17T11:04:23.993238",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112322304777628,
+      "asset_name": "DJ ERRE - Mix Tropical (Beéle) (Kapo) 🔥",
+      "granted_at": "2025-11-17T11:04:26.416833",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137134261978099,
+      "asset_name": "DJ ERRE - Mix Urbano (Clarent) 🔥",
+      "granted_at": "2025-11-17T11:04:28.836010",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92912130258441,
+      "asset_name": "DJ ERRE - Mix Urbano (Vol. 1) (ROA) 🔥",
+      "granted_at": "2025-11-17T11:04:32.114087",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103857816997142,
+      "asset_name": "DJ ERRE - Mix Juanes ❤️",
+      "granted_at": "2025-11-17T11:04:34.675254",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73901446203473,
+      "asset_name": "DJ ERRE - Reggaeton (Vol. 1) 🔥",
+      "granted_at": "2025-11-17T11:04:41.170573",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94820465606432,
+      "asset_name": "DJ ERRE - Lady Gaga Vol. 2 🔥",
+      "granted_at": "2025-11-17T11:04:43.625888",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137607108272683,
+      "asset_name": "DJ ERRE - Mix Ingles Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:04:46.015892",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95733422466084,
+      "asset_name": "DJ ERRE - Kenia Os Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:04:48.442490",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137552281829985,
+      "asset_name": "DJ ERRE - Taylor Swift Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:04:51.689623",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100925459783337,
+      "asset_name": "DJ ERRE - Panamá 507 🇵🇦🔥",
+      "granted_at": "2025-11-17T11:04:54.066292",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97598922392972,
+      "asset_name": "DJ ERRE - TRAP PR 🔥 (Vol. 2) 🔥",
+      "granted_at": "2025-11-17T11:04:56.486198",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126569370432753,
+      "asset_name": "DJ ERRE - Sucessos brasileiros 🔥🇧🇷",
+      "granted_at": "2025-11-17T11:04:59.809694",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130103063520911,
+      "asset_name": "DJ ERRE - Snoop & Jeanette Vs Can & Vicente",
+      "granted_at": "2025-11-17T11:05:02.180935",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121674505712779,
+      "asset_name": "DJ ERRE - Mix Rihanna Vol. 1 ❤️🔥",
+      "granted_at": "2025-11-17T11:05:04.570232",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73809765938232,
+      "asset_name": "DJ ERRE - Morad 🔥",
+      "granted_at": "2025-11-17T11:05:07.133961",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136750415346371,
+      "asset_name": "DJ ERRE - Mix Panamá Vol. 3 🔥🇵🇦",
+      "granted_at": "2025-11-17T11:05:09.503507",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71779452088830,
+      "asset_name": "DJ ERRE - Mix House 🔥 Vol. 5",
+      "granted_at": "2025-11-17T11:05:12.735570",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111925283374779,
+      "asset_name": "DJ ERRE - Mix House 🔥 Vol. 4",
+      "granted_at": "2025-11-17T11:05:15.105709",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122282926391031,
+      "asset_name": "DJ ERRE - Mix House 🔥 Vol. 3",
+      "granted_at": "2025-11-17T11:05:17.483633",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118792296499660,
+      "asset_name": "DJ ERRE - Mix House 🔥 Vol. 2",
+      "granted_at": "2025-11-17T11:05:19.858486",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84484195566739,
+      "asset_name": "DJ ERRE - Mix House 🔥 Vol. 1",
+      "granted_at": "2025-11-17T11:05:22.234615",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77489862914377,
+      "asset_name": "DJ ERRE - Mix Corta Venas 💔",
+      "granted_at": "2025-11-17T11:05:24.602745",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97229854808583,
+      "asset_name": "DJ ERRE - Malandreo Para Mi Loquita (By Nicky 👑)",
+      "granted_at": "2025-11-17T11:05:26.979611",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119425682882729,
+      "asset_name": "DJ ERRE - Electro House Vol. 6 🔥",
+      "granted_at": "2025-11-17T11:05:29.350769",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114586246005458,
+      "asset_name": "DJ ERRE - Electro House Vol. 5 🔥",
+      "granted_at": "2025-11-17T11:05:31.725237",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112440063421906,
+      "asset_name": "DJ ERRE - Electro House Vol. 4🔥",
+      "granted_at": "2025-11-17T11:05:34.105805",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80151747576772,
+      "asset_name": "DJ ERRE - Electro House Vol. 3 🔥",
+      "granted_at": "2025-11-17T11:05:36.479143",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72037313820104,
+      "asset_name": "DJ ERRE - Electro House Vol. 2 🔥",
+      "granted_at": "2025-11-17T11:05:38.951973",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124929984104664,
+      "asset_name": "DJ ERRE - Electro House Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:05:42.249127",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122785642097947,
+      "asset_name": "DJ ERRE - Mix Marc Anthony Vol. 1 💃🏻",
+      "granted_at": "2025-11-17T11:05:45.485397",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120011867783141,
+      "asset_name": "DJ ERRE - Bad Bunny Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:05:47.907160",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84222557907459,
+      "asset_name": "DJ ERRE - TRAP PR 🔥 (Vol. 1) 🔥",
+      "granted_at": "2025-11-17T11:05:50.336594",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95384201671396,
+      "asset_name": "DJ ERRE - RTM Ritual De Iniciacion 🔥",
+      "granted_at": "2025-11-17T11:05:52.715554",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87721053669527,
+      "asset_name": "DJ ERRE - RIP Yeruza (Los Diablos 👹) 🤍",
+      "granted_at": "2025-11-17T11:05:55.117644",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96139201902072,
+      "asset_name": "DJ ERRE - Tego Calderon 🔥 (El Abayarde) 🔥",
+      "granted_at": "2025-11-17T11:05:57.507432",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81616559845560,
+      "asset_name": "DJ ERRE - Sech 🔥 (Panamá) 🇵🇦 (Vol. 2)",
+      "granted_at": "2025-11-17T11:06:03.991540",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99421662145833,
+      "asset_name": "DJ ERRE - Me Hace Daño x Este Loco Que Te Mira🕺🔥",
+      "granted_at": "2025-11-17T11:06:06.479514",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71445692612091,
+      "asset_name": "DJ ERRE - Mix Rels B 🔥",
+      "granted_at": "2025-11-17T11:06:08.853634",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106308129536512,
+      "asset_name": "DJ ERRE - Mix Panama Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:06:11.191421",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78862492083393,
+      "asset_name": "DJ ERRE - Mix Millo J 💔",
+      "granted_at": "2025-11-17T11:06:13.742843",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132460306923835,
+      "asset_name": "DJ ERRE - Mix Mana Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:06:16.965422",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107822878067157,
+      "asset_name": "DJ ERRE - Hades66 (Los Pulpos) 🐙🔥",
+      "granted_at": "2025-11-17T11:06:19.387275",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96802548307265,
+      "asset_name": "DJ ERRE - (Somos De Calle & Los Bandoleros) 🔥",
+      "granted_at": "2025-11-17T11:06:22.653042",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90463426396180,
+      "asset_name": "DJ ERRE - Mix Juan Luis Guerra 💃🏻",
+      "granted_at": "2025-11-17T11:06:25.031215",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131775892610632,
+      "asset_name": "DJ ERRE - Mix House Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:06:28.317056",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84335368395979,
+      "asset_name": "DJ ERRE - Ferxxo Vol 1 💚",
+      "granted_at": "2025-11-17T11:06:30.756511",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119483763192797,
+      "asset_name": "DJ ERRE - Mix Electronica Vol 2 🔥",
+      "granted_at": "2025-11-17T11:06:33.130597",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122222543476881,
+      "asset_name": "DJ ERRE - Mix Electronica Vol. 1 🔥",
+      "granted_at": "2025-11-17T11:06:36.354692",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120431843468047,
+      "asset_name": "DJ ERRE - Mix El Desvergue Dembow 🔥",
+      "granted_at": "2025-11-17T11:06:38.781735",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106594061110344,
+      "asset_name": "DJ ERRE - Mix Drake Old 🔥",
+      "granted_at": "2025-11-17T11:06:41.159282",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136388633773042,
+      "asset_name": "DJ ERRE - Mix Dembow Rochy RD 🔥",
+      "granted_at": "2025-11-17T11:06:43.584874",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84591554234309,
+      "asset_name": "DJ ERRE - Bad Bunny Vol. 2 🔥",
+      "granted_at": "2025-11-17T11:06:46.008362",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81481922263741,
+      "asset_name": "DJ ERRE - Mix Bachata Old 💃🏻",
+      "granted_at": "2025-11-17T11:06:48.384884",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125183161077464,
+      "asset_name": "DJ ERRE - Mix Avaion 🔥",
+      "granted_at": "2025-11-17T11:06:50.884327",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88418883040489,
+      "asset_name": "DJ ERRE - Mix Anuel AA (Old) 👹🔥",
+      "granted_at": "2025-11-17T11:06:53.316078",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124200371279455,
+      "asset_name": "DJ ERRE - Mix AfroHouse 🔥 Vol. 1",
+      "granted_at": "2025-11-17T11:06:55.762358",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75351562003377,
+      "asset_name": "DJ ERRE - Llevarte a Marte Vol2 🇵🇦🔥",
+      "granted_at": "2025-11-17T11:06:58.107988",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110264300199661,
+      "asset_name": "DJ ERRE - Llevarte a Marte Vol1 🇵🇦🔥",
+      "granted_at": "2025-11-17T11:07:00.497783",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74942021083879,
+      "asset_name": "DJ ERRE - Carnaval Do Brasil 🇧🇷🔥(By Nicky👑)",
+      "granted_at": "2025-11-17T11:07:02.866225",
+      "status": "newly_granted"
+    }
+  ]
+}
