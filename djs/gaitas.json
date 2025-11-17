@@ -1,0 +1,320 @@
+{
+  "timestamp": "2025-11-16T21:38:14.637490",
+  "operation_type": "bulk_audio",
+  "source_group": {
+    "id": 657397830,
+    "name": "Gaitas Venezolanas"
+  },
+  "target_group": {
+    "id": 33965578,
+    "name": "Two Chiquilines"
+  },
+  "permissions_granted": [
+    {
+      "asset_id": 74531104508443,
+      "asset_name": "GAITA 🇻🇪 La Cabra Mocha - Miss_Cam",
+      "granted_at": "2025-11-16T21:38:16.200108",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129698047290044,
+      "asset_name": "GAITA 🇻🇪 Amarte En Silencio - Miss_Cam",
+      "granted_at": "2025-11-16T21:38:19.723378",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120719679556927,
+      "asset_name": "GAITA 🇻🇪 Flor De La Habana - Miss_Cam ",
+      "granted_at": "2025-11-16T21:38:23.253186",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113974974316913,
+      "asset_name": "GAITA 🇻🇪 La Gaita Que a Mi Me Gusta - Miss_Cam",
+      "granted_at": "2025-11-16T21:38:26.773522",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123414986178365,
+      "asset_name": "GAITA 🇻🇪 La Tarjeta de Navidad - Miss_Cam",
+      "granted_at": "2025-11-16T21:38:30.291706",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77901667565014,
+      "asset_name": "GAITA 🇻🇪 Tamborera No. 9 - Miss_Cam",
+      "granted_at": "2025-11-16T21:38:33.787629",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113110972227397,
+      "asset_name": "GAITA 🇻🇪 Gaita Onomatopéyica - Miss_Cam",
+      "granted_at": "2025-11-16T21:38:37.318712",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91824035782235,
+      "asset_name": "GAITA 🇻🇪 Lole Lolaila - Miss_Cam ",
+      "granted_at": "2025-11-16T21:38:40.842246",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128067521179871,
+      "asset_name": "GAITA 🇻🇪 El Ayayero - Miss_Cam",
+      "granted_at": "2025-11-16T21:38:44.364334",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81990726791123,
+      "asset_name": "GAITA 🇻🇪 VHG Los Forjadores - Miss_Cam ",
+      "granted_at": "2025-11-16T21:38:47.891429",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116851261960123,
+      "asset_name": "GAITA 🇻🇪 Gaiton No. 4 - Miss_Cam",
+      "granted_at": "2025-11-16T21:38:51.431183",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82358084835969,
+      "asset_name": "GAITA 🇻🇪 La Arestinga - Miss_Cam ",
+      "granted_at": "2025-11-16T21:38:54.985356",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116754916633233,
+      "asset_name": "GAITA 🇻🇪 Los Botelleros - Miss_Cam",
+      "granted_at": "2025-11-16T21:38:58.506849",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138798400481620,
+      "asset_name": "GAITA 🇻🇪 El Fullero - Miss_Cam",
+      "granted_at": "2025-11-16T21:39:02.034237",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77694304429237,
+      "asset_name": "GAITA 🇻🇪 El Pergamino - Miss_Cam",
+      "granted_at": "2025-11-16T21:39:05.668237",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77145170008185,
+      "asset_name": "GAITA 🇻🇪 El Bambuco - Miss_Cam",
+      "granted_at": "2025-11-16T21:39:09.232565",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114738632610224,
+      "asset_name": "GAITA 🇻🇪 Pascua - Miss_Cam ",
+      "granted_at": "2025-11-16T21:39:12.817763",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91763789013515,
+      "asset_name": "GAITA 🇻🇪 La Zandunguera - Miss_Cam",
+      "granted_at": "2025-11-16T21:39:16.551266",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87867966966153,
+      "asset_name": "GAITA 🇻🇪 Paraguaipoa - Miss_Cam",
+      "granted_at": "2025-11-16T21:39:20.091557",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100400594056364,
+      "asset_name": "GAITA 🇻🇪 Amanecer Zuliano - Miss_Cam",
+      "granted_at": "2025-11-16T21:39:23.608431",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71334657082015,
+      "asset_name": "GAITA 🇻🇪 Fiesta Decembrina - Miss_Cam ",
+      "granted_at": "2025-11-16T21:39:27.131729",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 131887792793035,
+      "asset_name": "GAITA 🇻🇪 Los Patinadores - Miss_Cam",
+      "granted_at": "2025-11-16T21:39:30.690760",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132497306240629,
+      "asset_name": "GAITA 🇻🇪 Bobures - Miss_Cam",
+      "granted_at": "2025-11-16T21:39:34.223762",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83332983651105,
+      "asset_name": "GAITA 🇻🇪 Amor Marginal - Miss_Cam",
+      "granted_at": "2025-11-16T21:39:37.748690",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102358084174219,
+      "asset_name": "GAITA 🇻🇪 Las Hojas del Calendario - Miss_Cam",
+      "granted_at": "2025-11-16T21:39:41.392777",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100287560452027,
+      "asset_name": "GAITA 🇻🇪 de Molero - Miss_Cam ",
+      "granted_at": "2025-11-16T21:39:45.197308",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124752789946269,
+      "asset_name": "GAITA 🇻🇪 El Mercado - Miss_Cam",
+      "granted_at": "2025-11-16T21:39:48.724294",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113174686038855,
+      "asset_name": "GAITA 🇻🇪 Prefiero mi Gaita - Miss_Cam",
+      "granted_at": "2025-11-16T21:39:52.470857",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85937694842814,
+      "asset_name": "GAITA 🇻🇪 La Pava - Miss_Cam",
+      "granted_at": "2025-11-16T21:39:55.986520",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106178937827058,
+      "asset_name": "GAITA 🇻🇪 Punta Icotea - Miss_Cam",
+      "granted_at": "2025-11-16T21:39:59.518901",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95247301789104,
+      "asset_name": "GAITA 🇻🇪 La Ciudad Más Bella - Miss_Cam",
+      "granted_at": "2025-11-16T21:40:03.042815",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127684993576933,
+      "asset_name": "GAITA 🇻🇪 Las Cosas Buenas - Miss_Cam",
+      "granted_at": "2025-11-16T21:40:06.756813",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101608572722591,
+      "asset_name": "GAITA 🇻🇪 Grey Zuliana - Miss_Cam",
+      "granted_at": "2025-11-16T21:40:10.281272",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108540145353368,
+      "asset_name": "GAITA 🇻🇪 Sin Rencor - Miss_Cam",
+      "granted_at": "2025-11-16T21:40:13.818968",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84170344990854,
+      "asset_name": "GAITA 🇻🇪 Son Mis Deseos - Miss_Cam",
+      "granted_at": "2025-11-16T21:40:17.354272",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95748483584920,
+      "asset_name": "GAITA 🇻🇪 Dejala Que Agarre el Golpe - Miss_Cam",
+      "granted_at": "2025-11-16T21:40:20.880810",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106863098107232,
+      "asset_name": "GAITA 🇻🇪 En Casa Se Larga El Forro - Miss_Cam",
+      "granted_at": "2025-11-16T21:40:24.451339",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93039764122844,
+      "asset_name": "GAITA 🇻🇪 Grito de Gloria - Miss_Cam",
+      "granted_at": "2025-11-16T21:40:27.967612",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99476601113866,
+      "asset_name": "GAITA 🇻🇪 Una Luz en el Camino - Miss_Cam",
+      "granted_at": "2025-11-16T21:40:31.697317",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123811030940662,
+      "asset_name": "GAITA 🇻🇪 La Gaita Matemática - Miss_Cam",
+      "granted_at": "2025-11-16T21:40:35.221832",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99770950619281,
+      "asset_name": "GAITA 🇻🇪 De la Pastora al Saladillo - Miss_Cam",
+      "granted_at": "2025-11-16T21:40:38.740351",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118088517476698,
+      "asset_name": "GAITA 🇻🇪 La Parabolica - Miss_Cam ",
+      "granted_at": "2025-11-16T21:40:42.256408",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92978193680760,
+      "asset_name": "GAITA🇻🇪La Felicidad Me Llegó de Paso - Miss_Cam",
+      "granted_at": "2025-11-16T21:40:45.772934",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124178296653549,
+      "asset_name": "GAITA 🇻🇪 El Maracaibero - Miss_Cam",
+      "granted_at": "2025-11-16T21:40:49.303612",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120905596719822,
+      "asset_name": "GAITA 🇻🇪 De Grata Recordación - Miss_Cam",
+      "granted_at": "2025-11-16T21:40:52.821357",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134198373946016,
+      "asset_name": "GAITA 🇻🇪 Pa' Qué Luis - Miss_Cam",
+      "granted_at": "2025-11-16T21:40:56.357472",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111500709913156,
+      "asset_name": "GAITA 🇻🇪 El Enlosao - Miss_Cam",
+      "granted_at": "2025-11-16T21:40:59.879209",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91459092187533,
+      "asset_name": "GAITA 🇻🇪 Y Volvió a Llorar - Miss_Cam",
+      "granted_at": "2025-11-16T21:41:03.422734",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116760521370562,
+      "asset_name": "GAITA 🇻🇪 El Ferry - Miss_Cam",
+      "granted_at": "2025-11-16T21:41:06.976886",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129203003468579,
+      "asset_name": "GAITA 🇻🇪 Háblame de Maracaibo - Miss_Cam",
+      "granted_at": "2025-11-16T21:41:10.509383",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135201689560313,
+      "asset_name": "GAITA 🇻🇪 La Voy a Tocar a Pie - Miss_Cam",
+      "granted_at": "2025-11-16T21:41:15.281475",
+      "status": "newly_granted"
+    }
+  ]
+}
