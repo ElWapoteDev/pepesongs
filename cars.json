@@ -16,5 +16,11 @@
     "id": "A3-test",
     "nombre": "Helicopter",
     "image": "rbxassetid://7790518252"
+  },
+  {
+    "assetId": 76039455904250,
+    "id": "A4-test",
+    "nombre": "TRX Ram",
+    "image": "rbxassetid://7790518252"
   }
 ]
