@@ -1,0 +1,674 @@
+{
+  "timestamp": "2026-01-07T23:27:53.111775",
+  "operation_type": "bulk_audio",
+  "source_group": {
+    "id": 814888571,
+    "name": "Pact six"
+  },
+  "target_group": {
+    "id": 33965578,
+    "name": "Two Chiquilines"
+  },
+  "permissions_granted": [
+    {
+      "asset_id": 104215376274733,
+      "asset_name": "PEOPLE II | DJ MOI6 ft BNN ",
+      "granted_at": "2026-01-07T23:27:55.406346",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129216622269177,
+      "asset_name": "3 AM || DJ MOI6 ft BNN ",
+      "granted_at": "2026-01-07T23:27:58.125895",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 140051273409415,
+      "asset_name": "CAILE | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:28:00.845905",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113347773352711,
+      "asset_name": "DILE A TU AMIGA | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:28:03.563644",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111213428595967,
+      "asset_name": "SOCORRO | DJ MOI6 ft BNN ",
+      "granted_at": "2026-01-07T23:28:06.021050",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84436285292147,
+      "asset_name": "SABANAS BLANCAS | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:28:08.464285",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 79839454627991,
+      "asset_name": "GERVONTA | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:28:11.223105",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125747928618519,
+      "asset_name": "PPC || DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:28:13.720126",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132611970479323,
+      "asset_name": "CUATRO BABYS || DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:28:16.429676",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 130262214409554,
+      "asset_name": "LA INOCENTE | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:28:18.945043",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72629959393794,
+      "asset_name": "PO' ENCIMA | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:28:21.392370",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119520898548744,
+      "asset_name": "CORINA PRESIDENTE 🇻🇪",
+      "granted_at": "2026-01-07T23:28:23.844907",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88569513115484,
+      "asset_name": "FDSR - Ryan castro, Maisak // moi6",
+      "granted_at": "2026-01-07T23:28:26.556954",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86150840233188,
+      "asset_name": "Encantadora REMIX - Yandel, Farruko // moi6",
+      "granted_at": "2026-01-07T23:28:29.265799",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92580141675627,
+      "asset_name": "Boomerang - Sech // moi6",
+      "granted_at": "2026-01-07T23:28:31.775222",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139510263107139,
+      "asset_name": "Sigues con el - Arcangel, sech // moi6",
+      "granted_at": "2026-01-07T23:28:34.431530",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133666214951699,
+      "asset_name": "Tranquila - Julianno sosa // moi6 insomiacc",
+      "granted_at": "2026-01-07T23:28:37.124082",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91032403467588,
+      "asset_name": "conociera",
+      "granted_at": "2026-01-07T23:28:39.793142",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93876556458508,
+      "asset_name": "Loyalty 4 ever - Hanzel la H, Hades66 // moi6 ",
+      "granted_at": "2026-01-07T23:28:42.471644",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77046458816420,
+      "asset_name": "Aprovecha - Daddy Yankee, Nova y Jory // moi6",
+      "granted_at": "2026-01-07T23:28:45.167011",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85906997787190,
+      "asset_name": "desespero",
+      "granted_at": "2026-01-07T23:28:47.543929",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93918918966347,
+      "asset_name": "voltio",
+      "granted_at": "2026-01-07T23:28:49.919698",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137048847452426,
+      "asset_name": "TODAS EN FILA | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:28:52.641897",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73140983591737,
+      "asset_name": "Tentacion - Yayo // DJ MOI6",
+      "granted_at": "2026-01-07T23:28:55.335041",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138743520057611,
+      "asset_name": "NO SEAS ASI | BNN ft DJ MOI6",
+      "granted_at": "2026-01-07T23:28:57.793078",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133286334281579,
+      "asset_name": "ABUSADORA - Wisin & Yandel // DJ MOI6",
+      "granted_at": "2026-01-07T23:29:00.596982",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105672977496909,
+      "asset_name": "PERRE0 MIX | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:03.322924",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116774342593669,
+      "asset_name": "NAVIDAD MIX | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:05.775982",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85123126822480,
+      "asset_name": "GIVENCHY | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:08.513187",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 73678588931255,
+      "asset_name": "¿PORQUE SIGUES CON EL?  | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:10.970148",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101249258627148,
+      "asset_name": "VELITAS | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:13.472213",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 124141858557177,
+      "asset_name": "P0 L NO | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:15.916235",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105785429906195,
+      "asset_name": "SECUESTRO | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:18.633560",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 106663126911946,
+      "asset_name": "AMIGOS Y ENEMIGOS | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:21.079141",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90134315133866,
+      "asset_name": "DEJATE LLEVAR | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:23.786347",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97000445138938,
+      "asset_name": "YO QUISIERA | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:26.258982",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99148342759406,
+      "asset_name": "HASTA ABAJO | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:28.987945",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122796818801296,
+      "asset_name": "BSAME REMIX | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:31.693050",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123853888497744,
+      "asset_name": "ME GUSTA CC | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:34.404866",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76876645129701,
+      "asset_name": "TODA | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:37.103040",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102937243253433,
+      "asset_name": "DIME SI TE ACUERDAS | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:39.833947",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 121444011920910,
+      "asset_name": "PPC | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:42.353277",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87287161700600,
+      "asset_name": "MI REINA | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:45.066056",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125629864593260,
+      "asset_name": "Pacto remix - Jhey Wheeler, Anuel AA // moi6",
+      "granted_at": "2026-01-07T23:29:47.767883",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135642896953702,
+      "asset_name": "Zero esperanza -  Babyloc // moi6",
+      "granted_at": "2026-01-07T23:29:50.484240",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111656749595228,
+      "asset_name": "111 | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:53.167684",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104916110447275,
+      "asset_name": "DEPORTIVO | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:29:55.621752",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94559918439891,
+      "asset_name": "Baby demon - Anuel AA, Young chimi // moi6",
+      "granted_at": "2026-01-07T23:29:58.329370",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83742254818036,
+      "asset_name": "La cama - Nicky jam, Daddy yankee // moi6",
+      "granted_at": "2026-01-07T23:30:00.759735",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115899197191291,
+      "asset_name": "Las Gatas - Nicky Jam // moi6",
+      "granted_at": "2026-01-07T23:30:03.455688",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135674646287813,
+      "asset_name": "FLORES EN ANONIMO | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:30:06.281470",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101469465762619,
+      "asset_name": "EX 4ZZ | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:30:09.011953",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134224931911634,
+      "asset_name": "HOOKAH | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:30:11.953452",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102778817526834,
+      "asset_name": "YOGURCITO REMIX | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:30:14.675373",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110750408510168,
+      "asset_name": "BNN",
+      "granted_at": "2026-01-07T23:30:17.396470",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90623327110271,
+      "asset_name": "N1NF0MAN4 | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:30:19.843041",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91011565533236,
+      "asset_name": "DOS MIL 16 | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:30:22.774890",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78894771844016,
+      "asset_name": "ESA MIRADA | DJ MOI6 ft BNN",
+      "granted_at": "2026-01-07T23:30:25.498431",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116273030315007,
+      "asset_name": "BNN PLACE // Dos Mil 16",
+      "granted_at": "2026-01-07T23:30:28.231128",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110131746083473,
+      "asset_name": "Que nos paso? - Anuel AA // moi6",
+      "granted_at": "2026-01-07T23:30:30.922181",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134426710423972,
+      "asset_name": "Eso en 4 no se ve - J alvarez // moi6",
+      "granted_at": "2026-01-07T23:30:33.562195",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123395334091955,
+      "asset_name": "Que sensacion - Arcangel, Jezzy // moi6",
+      "granted_at": "2026-01-07T23:30:36.236258",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90889438925069,
+      "asset_name": "Balconsito - Blessd, Brytiago, Dei V // moi6",
+      "granted_at": "2026-01-07T23:30:38.664286",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128162514264643,
+      "asset_name": "Nena fichu - Farruko // moi6",
+      "granted_at": "2026-01-07T23:30:41.356901",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 139335965712469,
+      "asset_name": "Ktede - Lil naay // moi6",
+      "granted_at": "2026-01-07T23:30:44.033926",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107284606789334,
+      "asset_name": "Guasa guasa - Tego calde // moi6",
+      "granted_at": "2026-01-07T23:30:46.778344",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126071102588737,
+      "asset_name": "Del kilo - Anuel AA, Treintisiete // moi6",
+      "granted_at": "2026-01-07T23:30:49.458304",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 128444198466439,
+      "asset_name": "Carne Hincha - El boys c, Lil shany // moi6",
+      "granted_at": "2026-01-07T23:30:52.167169",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126818934298194,
+      "asset_name": "Reina pepiada - Alvaro diaz // moi6",
+      "granted_at": "2026-01-07T23:30:54.847604",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88052644378783,
+      "asset_name": "Tremenda hp - Hades66, Kris r // moi6",
+      "granted_at": "2026-01-07T23:30:57.561679",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137411998625262,
+      "asset_name": "Efecto - Leandro, Samulx, Westcol, Chanty // moi6",
+      "granted_at": "2026-01-07T23:31:00.241323",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94441139954571,
+      "asset_name": "Let's go to my crib - Jowel y randy // moi6",
+      "granted_at": "2026-01-07T23:31:02.939623",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84333394948612,
+      "asset_name": "Amor Bandido - Oso Mañoso // moi6",
+      "granted_at": "2026-01-07T23:31:05.626570",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98140358585787,
+      "asset_name": "Quienes son - Cdobleta // moi6",
+      "granted_at": "2026-01-07T23:31:08.343209",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104297371222720,
+      "asset_name": "Salgamos - Kevin roldan, Andy rivera // moi6",
+      "granted_at": "2026-01-07T23:31:10.742257",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83351109488901,
+      "asset_name": "Obligao - Luigi 21 Plus // moi6",
+      "granted_at": "2026-01-07T23:31:13.244960",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82067598607571,
+      "asset_name": "Mamacita - Americano 4KT // moi6",
+      "granted_at": "2026-01-07T23:31:15.925231",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129105426768697,
+      "asset_name": "Hablame claro - Yovng manota // moi6",
+      "granted_at": "2026-01-07T23:31:18.613438",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88389737916528,
+      "asset_name": "Tu no vive asi - Arcangel, Bad bunny // moi6",
+      "granted_at": "2026-01-07T23:31:21.264890",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 140200672255846,
+      "asset_name": "Si me gano un grammy - Jon z // moi6",
+      "granted_at": "2026-01-07T23:31:23.681028",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104297783080844,
+      "asset_name": "Dema ga ge gi go gu - Alfa el jefe // moi6",
+      "granted_at": "2026-01-07T23:31:26.345143",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108406711072290,
+      "asset_name": "Me compre un full - El favo // moi6",
+      "granted_at": "2026-01-07T23:31:28.765984",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137154026681661,
+      "asset_name": "Soldado y Profeta - Anuel AA // moi6",
+      "granted_at": "2026-01-07T23:31:31.502074",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125564427375000,
+      "asset_name": "Come back to my crib - Jowell // moi6",
+      "granted_at": "2026-01-07T23:31:33.953149",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 113305317873389,
+      "asset_name": "Mas que ustedes - Carabin3 // moi66",
+      "granted_at": "2026-01-07T23:31:36.377959",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102807984634076,
+      "asset_name": "Burlao - Bryant mayers // moi6",
+      "granted_at": "2026-01-07T23:31:38.767706",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88264366767741,
+      "asset_name": "Mi dog es - West, Leandro x2 // moi6",
+      "granted_at": "2026-01-07T23:31:41.185253",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122889190226019,
+      "asset_name": "Donde no se ve - Cloyy, Kris R // moi6",
+      "granted_at": "2026-01-07T23:31:43.601225",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74175280069650,
+      "asset_name": "Musa - Carabin3, Svnti // moi6",
+      "granted_at": "2026-01-07T23:31:46.318924",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 86849984188713,
+      "asset_name": "Mojojo - Pirlo, El americano 4kt // moi6",
+      "granted_at": "2026-01-07T23:31:48.748855",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 108955410743261,
+      "asset_name": "Rehen - Wallace // moi6",
+      "granted_at": "2026-01-07T23:31:51.216210",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138928559649707,
+      "asset_name": "Oh my - Blessd, Clarent // moi6",
+      "granted_at": "2026-01-07T23:31:53.636601",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104024196090798,
+      "asset_name": "mercedes",
+      "granted_at": "2026-01-07T23:31:56.069885",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135119013069009,
+      "asset_name": "tuku",
+      "granted_at": "2026-01-07T23:31:58.483173",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78077055266329,
+      "asset_name": "G Spot - Sahir, YOVNGCHIMI // moi6",
+      "granted_at": "2026-01-07T23:32:00.901472",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90753413527617,
+      "asset_name": "Ella quiere cualto // moi6",
+      "granted_at": "2026-01-07T23:32:03.581673",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107443795870718,
+      "asset_name": "La fuga - Daddy yanke // moi6",
+      "granted_at": "2026-01-07T23:32:06.271768",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 104596239495948,
+      "asset_name": "Gangster en la disco - Blessd, Pirlo, Ovi // moi6",
+      "granted_at": "2026-01-07T23:32:08.951735",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118527389694958,
+      "asset_name": "Traqueto - Izaak, Clarent // moi6",
+      "granted_at": "2026-01-07T23:32:11.369689",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134974431721439,
+      "asset_name": "Subelo - Anuel AA, Jheyco // moi6",
+      "granted_at": "2026-01-07T23:32:14.098772",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119712235910300,
+      "asset_name": "Talento - Yan block // moi6",
+      "granted_at": "2026-01-07T23:32:16.935649",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125122872139560,
+      "asset_name": "Piña - Slayter, Yan block, Sombra // moi6",
+      "granted_at": "2026-01-07T23:32:19.641907",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87659936877895,
+      "asset_name": "Mastercard - Yan block // moi6",
+      "granted_at": "2026-01-07T23:32:22.340966",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135553381407914,
+      "asset_name": "Esta noche de travesuras - Ozuna // moi6",
+      "granted_at": "2026-01-07T23:32:25.016564",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 133701943341546,
+      "asset_name": "Fuera del planeta - Jowell y Randy // moi6",
+      "granted_at": "2026-01-07T23:32:27.428759",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84615543633985,
+      "asset_name": "Se vale todo - Los de la piña, Ryan castro // moi6",
+      "granted_at": "2026-01-07T23:32:29.838961",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83481678473547,
+      "asset_name": "Chikiribon - Mozart la para // moi6",
+      "granted_at": "2026-01-07T23:32:32.252991",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85918733446607,
+      "asset_name": "Papacit0 - Blessd // moi6",
+      "granted_at": "2026-01-07T23:32:34.945008",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127260537485498,
+      "asset_name": "7 locas - Don miguelo // moi6",
+      "granted_at": "2026-01-07T23:32:37.631992",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 84792044713009,
+      "asset_name": "7lok",
+      "granted_at": "2026-01-07T23:32:40.343419",
+      "status": "newly_granted"
+    }
+  ]
+}
