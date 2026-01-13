@@ -4,41 +4,5 @@
     "assetId": 97238756208481,
     "nombre": "Toyobobo FJ2025",
     "image": "rbxassetid://132278783679098"
-  },
-  {
-    "id": "A2-test",
-    "assetId": 123613745567649,
-    "nombre": "2021 test 2",
-    "image": "rbxassetid://7790518252"
-  },
-  {
-    "assetId": 139276094665431,
-    "id": "A3-test",
-    "nombre": "Helicopter",
-    "image": "rbxassetid://7790518252"
-  },
-  {
-    "assetId": 117016992515929,
-    "id": "A4-test",
-    "nombre": "TRX Ram 2",
-    "image": "rbxassetid://7790518252"
-  },
-  {
-    "assetId": 97289723439044,
-    "id": "A5-test",
-    "nombre": "Irizar i8",
-    "image": "rbxassetid://7790518252"
-  },
-  {
-    "assetId": 111966953720099,
-    "id": "A6-test",
-    "nombre": "Lambo",
-    "image": "rbxassetid://111966953720099"
-  },
-  {
-    "assetId": 112684084727866,
-    "id": "A7-test",
-    "nombre": "Brabus",
-    "image": "rbxassetid://111966953720099"
   }
 ]
