@@ -12,5 +12,29 @@
     "image": "rbxassetid://132278783679098",
     "shop": true,
     "price": 50000 
-  }  
+  },
+  {
+    "id": "A3",
+    "assetId": 140063387835267,
+    "nombre": "Bachaquero",
+    "image": "rbxassetid://132278783679098",
+    "shop": true,
+    "price": 90000 
+  },
+  {
+    "id": "A4",
+    "assetId": 96439649900509,
+    "nombre": "Blazer Viajero",
+    "image": "rbxassetid://132278783679098",
+    "shop": true,
+    "price": 35000 
+  },
+  {
+    "id": "A5",
+    "assetId": 132428401013922,
+    "nombre": "Blazer Viajero",
+    "image": "rbxassetid://132278783679098",
+    "shop": true,
+    "price": 20000 
+  }
 ]
