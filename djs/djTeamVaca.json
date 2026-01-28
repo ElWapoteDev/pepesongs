@@ -1,0 +1,614 @@
+{
+  "timestamp": "2026-01-27T23:30:51.863339",
+  "operation_type": "bulk_audio",
+  "source_group": {
+    "id": 33331539,
+    "name": "TEAM VACA Roblox ID’s"
+  },
+  "target_group": {
+    "id": 33965578,
+    "name": "Two Chiquilines"
+  },
+  "permissions_granted": [
+    {
+      "asset_id": 133349193320483,
+      "asset_name": "Si tú superas cuando te veo _1",
+      "granted_at": "2026-01-27T23:30:52.500852",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88989681694879,
+      "asset_name": "Chaparrita _1",
+      "granted_at": "2026-01-27T23:30:53.046682",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98904503073517,
+      "asset_name": "Tú le tiras al dm _1",
+      "granted_at": "2026-01-27T23:30:53.530865",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125112290271691,
+      "asset_name": "Assesina _1_1",
+      "granted_at": "2026-01-27T23:30:54.058843",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 98112992346775,
+      "asset_name": "👑HeyYurgen ❌ Bad Bunny - Vuelve 🔥",
+      "granted_at": "2026-01-27T23:30:54.754829",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93537651122044,
+      "asset_name": "LAMINE 1 - 9 👑💙❤️ | Joss",
+      "granted_at": "2026-01-27T23:30:55.235567",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132576580664156,
+      "asset_name": "vete",
+      "granted_at": "2026-01-27T23:30:55.716981",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 71517211414687,
+      "asset_name": "tribal",
+      "granted_at": "2026-01-27T23:30:56.218000",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81541705738439,
+      "asset_name": "despedida",
+      "granted_at": "2026-01-27T23:30:56.724937",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101002095418792,
+      "asset_name": "####",
+      "granted_at": "2026-01-27T23:30:57.263919",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 110213163276434,
+      "asset_name": "safari",
+      "granted_at": "2026-01-27T23:30:57.749662",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112380291792351,
+      "asset_name": "Una Bala X Tus Vueltas - Milo J | Joss",
+      "granted_at": "2026-01-27T23:30:58.297946",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 80732501758870,
+      "asset_name": "Custom Mix 8 (Chinxaa) [TVC🐮] - Joss",
+      "granted_at": "2026-01-27T23:30:58.792707",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77841189953670,
+      "asset_name": "Recordé X Gil 🌼 - Milo J | Joss",
+      "granted_at": "2026-01-27T23:30:59.298200",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 88829831309723,
+      "asset_name": "despacito",
+      "granted_at": "2026-01-27T23:30:59.794610",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129502394780085,
+      "asset_name": "efecto",
+      "granted_at": "2026-01-27T23:31:00.401675",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118977120498763,
+      "asset_name": "si supieras",
+      "granted_at": "2026-01-27T23:31:00.686003",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100435884116019,
+      "asset_name": "provenza",
+      "granted_at": "2026-01-27T23:31:01.224971",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135144147581451,
+      "asset_name": "Custom Mix 7 (Chinxaa) [TVC🐮] - Joss",
+      "granted_at": "2026-01-27T23:31:01.766784",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118887378875571,
+      "asset_name": "ji",
+      "granted_at": "2026-01-27T23:31:02.251674",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120532126847766,
+      "asset_name": "plan b",
+      "granted_at": "2026-01-27T23:31:03.031678",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 78881776802554,
+      "asset_name": "mie nuevo",
+      "granted_at": "2026-01-27T23:31:03.313863",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122902276127707,
+      "asset_name": "yaaaa",
+      "granted_at": "2026-01-27T23:31:03.851307",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115284123945569,
+      "asset_name": "mix ellas",
+      "granted_at": "2026-01-27T23:31:04.392361",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107850066657537,
+      "asset_name": "Custom Mix 6 (Chinxaa) [TVC🐮] - Joss",
+      "granted_at": "2026-01-27T23:31:04.932961",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 122313898939732,
+      "asset_name": "mix bachatta",
+      "granted_at": "2026-01-27T23:31:05.692617",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102702303078593,
+      "asset_name": "si se da",
+      "granted_at": "2026-01-27T23:31:06.228180",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 76048463716951,
+      "asset_name": "Menor (2)",
+      "granted_at": "2026-01-27T23:31:06.757967",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 96395535687059,
+      "asset_name": "loktita por mii",
+      "granted_at": "2026-01-27T23:31:07.289120",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115169488730467,
+      "asset_name": "mix angel 1",
+      "granted_at": "2026-01-27T23:31:08.051685",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 92326417650049,
+      "asset_name": "mix bachatta",
+      "granted_at": "2026-01-27T23:31:08.653023",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116130215051560,
+      "asset_name": "👑HeyYurgen ❌ Ozuna FARSANTES REMIX 🗣️",
+      "granted_at": "2026-01-27T23:31:09.210832",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99466920504315,
+      "asset_name": "👑HeyYurgen ❌ EL ALFA ANDAMOS RULETA😈",
+      "granted_at": "2026-01-27T23:31:09.783234",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 136887364329024,
+      "asset_name": "El Bogueto👅 x El Malilla Mix😈 | Dj🐮 Ft Dj Erick",
+      "granted_at": "2026-01-27T23:31:10.644714",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129787170575929,
+      "asset_name": "CHARLY & JOHAYRON ❌ NICKYJAM - MAGIA🔮|DjErick &🐮",
+      "granted_at": "2026-01-27T23:31:11.198100",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91477974169883,
+      "asset_name": "Magia x si eliminan el otro",
+      "granted_at": "2026-01-27T23:31:11.782189",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100890593788533,
+      "asset_name": "Mix Kenia Os🪷 | Dj Angelisai Ft. Dj Erick",
+      "granted_at": "2026-01-27T23:31:12.275631",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97897942456798,
+      "asset_name": "Mimosa 2000✨ | Dj Angelisai Ft. Dj Erick",
+      "granted_at": "2026-01-27T23:31:12.827942",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102927643372255,
+      "asset_name": "Mimosa x si eliminan el otro",
+      "granted_at": "2026-01-27T23:31:13.365823",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87865970379042,
+      "asset_name": "2 Pa 1 Mix⭐  Reggaeton🌴| Dj Angelisai Ft Dj Erick",
+      "granted_at": "2026-01-27T23:31:13.912747",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123785032046172,
+      "asset_name": "Mix Reggaeton Sucio👅 | Dj Angelisai Ft. Dj Erick",
+      "granted_at": "2026-01-27T23:31:14.464355",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 82150747288492,
+      "asset_name": "Sayuri & Sopholov Mix💋 | Dj Angelisai Ft Dj Erick",
+      "granted_at": "2026-01-27T23:31:15.050764",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135795992531440,
+      "asset_name": "Custom Mix 4 (Chinxaa) [TVC🐮] - Dark",
+      "granted_at": "2026-01-27T23:31:15.679959",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 97745098319587,
+      "asset_name": "Custom Mix 5 (Chinxaa) [TVC🐮] - Dark",
+      "granted_at": "2026-01-27T23:31:16.222636",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 112982491904429,
+      "asset_name": "Custom Mix 3 (Chinxaa) [TVC🐮] - Dark",
+      "granted_at": "2026-01-27T23:31:16.832978",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 94630643176042,
+      "asset_name": "Custom Mix 2 (Chinxaa) [TVC🐮] - Dark",
+      "granted_at": "2026-01-27T23:31:17.314527",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 83786457025375,
+      "asset_name": "Custom Mix 1 (Chinxaa) [TVC🐮] - Dark",
+      "granted_at": "2026-01-27T23:31:18.092351",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 77314945081401,
+      "asset_name": "Custom Mix (Ventura) [TVC🐮] - Joss",
+      "granted_at": "2026-01-27T23:31:18.634866",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 95362551038494,
+      "asset_name": "DJ RAUL - Welcome 2 Da Record Shop🗣🔥",
+      "granted_at": "2026-01-27T23:31:19.230948",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 103106715730338,
+      "asset_name": "DJ RAUL - Too Angry x Too Happy🗣🔥",
+      "granted_at": "2026-01-27T23:31:19.774143",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 74350512207025,
+      "asset_name": "DJ RAUL - Titanium Remix🗣🔥",
+      "granted_at": "2026-01-27T23:31:20.450806",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 126359374787482,
+      "asset_name": "DJ RAUL - Rooler Remix🗣🔥",
+      "granted_at": "2026-01-27T23:31:21.210893",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 134124200944244,
+      "asset_name": "DJ RAUL - Rooler Remix 2🗣🔥",
+      "granted_at": "2026-01-27T23:31:21.777472",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 116167399875112,
+      "asset_name": "DJ RAUL - I Think I Like IT🎶🔥",
+      "granted_at": "2026-01-27T23:31:22.330194",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 120605733222713,
+      "asset_name": "DJ RAUL - Enter The Dome🗣🔥",
+      "granted_at": "2026-01-27T23:31:22.888025",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129397150541070,
+      "asset_name": "DJ RAUL - Holy Priest Remix🗣🔥",
+      "granted_at": "2026-01-27T23:31:23.447471",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75120361114984,
+      "asset_name": "DJ RAUL - Dual Damage🗣🔥",
+      "granted_at": "2026-01-27T23:31:23.987500",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 89720764919619,
+      "asset_name": "DJ RAUl - Hyiena Remix🗣🔥",
+      "granted_at": "2026-01-27T23:31:24.307087",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118929387755121,
+      "asset_name": "DJ RAUL - Act Of Rage Mix 2🗣🔥",
+      "granted_at": "2026-01-27T23:31:24.741137",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 93658684633331,
+      "asset_name": "DJ RAUl - Bella Ciao Remix🗣🔥",
+      "granted_at": "2026-01-27T23:31:25.247301",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87346088191326,
+      "asset_name": "DJ RAUL - Act Of Rage🗣🔥",
+      "granted_at": "2026-01-27T23:31:25.960882",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 85545404100045,
+      "asset_name": "DJ RAUL -  Faded Euphorical🗣🔥",
+      "granted_at": "2026-01-27T23:31:26.589406",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115043249787785,
+      "asset_name": "🍭 PALETA🍭 - HeyYurgen🔥 ",
+      "granted_at": "2026-01-27T23:31:27.113646",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 114626893085997,
+      "asset_name": "Rock 🎸 RammStein Sonne 🎸 - HeyYurgen",
+      "granted_at": "2026-01-27T23:31:27.669350",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117981889240054,
+      "asset_name": "Rock 🎸 América - HeyYurgen❄️",
+      "granted_at": "2026-01-27T23:31:28.216029",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138643161271655,
+      "asset_name": "El Alfa ❌ Siéntate En Ese Deo😈 - HeyYurgen 👑",
+      "granted_at": "2026-01-27T23:31:28.777217",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 101786449532461,
+      "asset_name": "Tiagz ❌ Hmu baila si baila no😈 - HeyYurgen 🐮",
+      "granted_at": "2026-01-27T23:31:29.338133",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 91909887145535,
+      "asset_name": "Bizzarap ❌ #53 Shakira - HeyYurgen",
+      "granted_at": "2026-01-27T23:31:29.887209",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 138077395038232,
+      "asset_name": "Bubalu ❌ Como Antes - 👑 HeyYurgen ❄️",
+      "granted_at": "2026-01-27T23:31:30.447342",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 135801757751337,
+      "asset_name": "👑 FEIN_x_Booyah 🔥 - HeyYurgen ❄️",
+      "granted_at": "2026-01-27T23:31:30.989635",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72006527492926,
+      "asset_name": "NETFLIX ❌ Brytiago Bad Bunny - HeyYurgen 🍃",
+      "granted_at": "2026-01-27T23:31:31.729328",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115083055982495,
+      "asset_name": "Funk slowed 😈 -HeyYurgen 🔥 ",
+      "granted_at": "2026-01-27T23:31:32.298660",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 100857104644456,
+      "asset_name": "Me Dicen Alucion🔥 - heyyurgen ❄️",
+      "granted_at": "2026-01-27T23:31:32.825971",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81705440813716,
+      "asset_name": "El Alfa ❌ La Ma De La Ma - HeyYurgen ❄️ ",
+      "granted_at": "2026-01-27T23:31:33.479652",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 81355270308649,
+      "asset_name": "Shakira ❌ Clandestino - HeyYurgen❄️",
+      "granted_at": "2026-01-27T23:31:34.018584",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 109059277692250,
+      "asset_name": "Tiago ❌ entre nosotros - HeyYurgen ❄️",
+      "granted_at": "2026-01-27T23:31:34.697421",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107992522340486,
+      "asset_name": "Natti Natasha ❌ Criminal - HeyYurgen ❄️",
+      "granted_at": "2026-01-27T23:31:35.163049",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 75291871984340,
+      "asset_name": "Oye Mujer 🍃 - HeyYurgen",
+      "granted_at": "2026-01-27T23:31:35.348636",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 119869160183525,
+      "asset_name": "Neto Te Quería Ver ✨- HeyYurgen🍃",
+      "granted_at": "2026-01-27T23:31:35.539269",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129086385173674,
+      "asset_name": "Rock 🎸 Skillet Monster - HeyYurgen ",
+      "granted_at": "2026-01-27T23:31:35.729578",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 115592007441384,
+      "asset_name": "🎸Rock Its My Life 🔥 - HeyYurgen",
+      "granted_at": "2026-01-27T23:31:35.920173",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 117716494384960,
+      "asset_name": "Rock Sonne Techno - 🐮 HeyYurgen",
+      "granted_at": "2026-01-27T23:31:36.132765",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 127464242958348,
+      "asset_name": "La Candy 🔥 - HeyYurgen",
+      "granted_at": "2026-01-27T23:31:36.322807",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111627867939528,
+      "asset_name": "El Faraón Duro 2 horas - HeyYurgen",
+      "granted_at": "2026-01-27T23:31:36.511699",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 111646267136320,
+      "asset_name": "🔥NENA UN 2 PA 2 😈 - HeyYurgen",
+      "granted_at": "2026-01-27T23:31:36.703092",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 105954210128226,
+      "asset_name": "ATE QUEBRAR A 🛏️ - HEYYURGEN 💫",
+      "granted_at": "2026-01-27T23:31:36.890810",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 90701582514077,
+      "asset_name": "Arcángel Me prefieres a Mi🌙 - HeyYurgen🔥",
+      "granted_at": "2026-01-27T23:31:37.080677",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 102182754945263,
+      "asset_name": "🇧🇷MIX FUNK 💯 -  HeyYurgen",
+      "granted_at": "2026-01-27T23:31:37.342679",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129077599796011,
+      "asset_name": "😈El Alfa 4k🔥 - HeyYurgen ",
+      "granted_at": "2026-01-27T23:31:37.530735",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 123425337183359,
+      "asset_name": "Khea Es Una Loka🔥 - HeyYurgen",
+      "granted_at": "2026-01-27T23:31:37.722160",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 87869063711645,
+      "asset_name": "Natti Amantes De Una Noche💫 - HeyYurgen👑",
+      "granted_at": "2026-01-27T23:31:37.911854",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 99422904146760,
+      "asset_name": "🐍Jhon z Nunca me amo👹 - HeyYurgen🔥",
+      "granted_at": "2026-01-27T23:31:38.101176",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 137687029579489,
+      "asset_name": "🔥Cochinae😈 - HeyYurgen ",
+      "granted_at": "2026-01-27T23:31:38.289255",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129078950339856,
+      "asset_name": "Zion Zun Da Da 🔥- Hey Yurgen ",
+      "granted_at": "2026-01-27T23:31:38.480795",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 72482916054899,
+      "asset_name": "Mix Romeo Santos Formula V. 1 | DJ 🐮Ft DJ Erick ",
+      "granted_at": "2026-01-27T23:31:38.667758",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 132133902673452,
+      "asset_name": "Mix Dembow Prendido🇩🇴🔥 | DJ 🐮 Ft. DJ Erick",
+      "granted_at": "2026-01-27T23:31:38.853462",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 125456384457072,
+      "asset_name": "Yailin La Mas Viral Mix👅 | DJ🐮 Ft. DJ Erick",
+      "granted_at": "2026-01-27T23:31:39.041799",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 129856727071012,
+      "asset_name": "Dembow Mix Vol. 4🇩🇴🍑 | DJ Angelisai FT DJ Erick",
+      "granted_at": "2026-01-27T23:31:39.206204",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 107360216256869,
+      "asset_name": "Dembow Mix Vol. 3🇩🇴🍑 | DJ Angelisai FT DJ Erick",
+      "granted_at": "2026-01-27T23:31:39.371333",
+      "status": "newly_granted"
+    },
+    {
+      "asset_id": 118857067580724,
+      "asset_name": "Dembow Mix🇩🇴🍑 | DJ Angelisai FT DJ Erick",
+      "granted_at": "2026-01-27T23:31:39.532858",
+      "status": "newly_granted"
+    }
+  ]
+}
