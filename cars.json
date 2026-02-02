@@ -36,5 +36,37 @@
     "image": "rbxassetid://76021463683906",
     "shop": true,
     "price": 20000 
+  },
+  {
+    "id": "A6",
+    "assetId": 131900859754228,
+    "nombre": "Versus SF Sport",
+    "image": "rbxassetid://132278783679098",
+    "shop": true,
+    "price": 190000 
+  },
+  {
+    "id": "A7",
+    "assetId": 118409410538594,
+    "nombre": "Jeepeta YJ Full",
+    "image": "rbxassetid://99522426985330",
+    "shop": true,
+    "price": 150000 
+  },
+  {
+    "id": "A8",
+    "assetId": 134477756280488,
+    "nombre": "Jeepeta YJ",
+    "image": "rbxassetid://83463752811667",
+    "shop": true,
+    "price": 100000 
+  },
+  {
+    "id": "A9",
+    "assetId": 96336118942945,
+    "nombre": "Explorer",
+    "image": "rbxassetid://96304475720791",
+    "shop": true,
+    "price": 70000 
   }
 ]
