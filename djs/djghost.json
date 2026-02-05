@@ -11,6 +11,2052 @@
   },
   "permissions_granted": [
     {
+      "asset_id": 95056241913644,
+      "asset_name": "Dj Ghost & Dj Alxx - Daddy Yankee Bailando Fue Mix",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:10:59.449688"
+    },
+    {
+      "asset_id": 135045041140403,
+      "asset_name": "DJ GHOST & DJ WEREN - MIX PLAYERO\ud83c\udfdd\ufe0f",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:01.833274"
+    },
+    {
+      "asset_id": 125008239841707,
+      "asset_name": "DJ WEREN & DJ GHOST ZOMBOY MIX 2\ud83e\udddf",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:04.561764"
+    },
+    {
+      "asset_id": 119915456402007,
+      "asset_name": "DJ WEREN & DJ GHOST - Mix Zomboy\ud83e\udddf",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:07.292587"
+    },
+    {
+      "asset_id": 121460169298874,
+      "asset_name": "DJ Weren & DJ GHOST - Skllismm , Rage Pit\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:10.088684"
+    },
+    {
+      "asset_id": 71986066406776,
+      "asset_name": "Marshmello x SVDDEN DEATH - Burn It Down ",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:12.823868"
+    },
+    {
+      "asset_id": 134338207850213,
+      "asset_name": "Marshmello x SVDDEN DEATH - Vortexblade ",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:15.556299"
+    },
+    {
+      "asset_id": 111320692882764,
+      "asset_name": "Marshmello SVDDEN DEATH Crown The Empire Fireball ",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:17.932748"
+    },
+    {
+      "asset_id": 110332238428204,
+      "asset_name": "Marshmello x SVDDEN DEATH - Triumphant ",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:20.351411"
+    },
+    {
+      "asset_id": 110766779213707,
+      "asset_name": "DJ GHOST NEOPRENE INTRO\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:22.765274"
+    },
+    {
+      "asset_id": 77933598833007,
+      "asset_name": "Dj Ghost - The Weeknd moth to a flame\ud83d\udd7a\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:25.592875"
+    },
+    {
+      "asset_id": 92292860329679,
+      "asset_name": "Dj Ghost - The Weeknd take my breath\ud83d\udd7a\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:28.000427"
+    },
+    {
+      "asset_id": 96879370938412,
+      "asset_name": "moth to a flame",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:30.745252"
+    },
+    {
+      "asset_id": 93771114165565,
+      "asset_name": "Dj Ghost - The Weeknd out of time\ud83d\udd7a\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:33.298083"
+    },
+    {
+      "asset_id": 74729336290558,
+      "asset_name": "Dj Ghost - The Weeknd after hours\ud83d\udd7a\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:35.720216"
+    },
+    {
+      "asset_id": 106777373401663,
+      "asset_name": "Dj Ghost - The Weeknd Die for u \ud83d\udd7a\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:38.482064"
+    },
+    {
+      "asset_id": 107113803043968,
+      "asset_name": "Dj Ghost - The Weeknd blinding lights \ud83d\udd7a\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:41.223941"
+    },
+    {
+      "asset_id": 102038715016424,
+      "asset_name": "Dj Ghost - The weeknd i feel it  coming \ud83d\udd7a\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:43.666839"
+    },
+    {
+      "asset_id": 98267962636900,
+      "asset_name": "Dj Ghost - The Weeknd save your tears\ud83d\udd7a\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:46.433476"
+    },
+    {
+      "asset_id": 74378707077771,
+      "asset_name": "Dj Ghost - The Weeknd cant feel my face\ud83d\udd7a\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:48.847796"
+    },
+    {
+      "asset_id": 104656187135273,
+      "asset_name": "Dj Ghost Mix Guaracha 2",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:51.216903"
+    },
+    {
+      "asset_id": 129065621826252,
+      "asset_name": "Dj Ghost Guaracha mix 1",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:53.989396"
+    },
+    {
+      "asset_id": 96303452946104,
+      "asset_name": "Dj Ghost binomio de oro de america Me Ilusione",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:56.399350"
+    },
+    {
+      "asset_id": 70552901309266,
+      "asset_name": "Dj Ghost - Diomedes  Diaz  Sin medir distancias",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:11:59.394314"
+    },
+    {
+      "asset_id": 78071330205724,
+      "asset_name": "Dj Ghost - Los Inquietos volver",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:02.330684"
+    },
+    {
+      "asset_id": 86727055924685,
+      "asset_name": "Dj Ghost & Dj Narussy Megamix Riddim\ud83d\udc80",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:04.915876"
+    },
+    {
+      "asset_id": 98673952729491,
+      "asset_name": "Dj Ghost - El Comando Exclusivo Panchito \ud83d\udea8\ud83d\udd2b\ud83c\uddf2\ud83c\uddfd",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:07.661824"
+    },
+    {
+      "asset_id": 139076628079956,
+      "asset_name": "Dj Ghost - payaso de Rodeo",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:10.437344"
+    },
+    {
+      "asset_id": 113009839563847,
+      "asset_name": "Dj Ghost ft Dj Gun - Rauw Alejandro x Rosa Pastel",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:12.827074"
+    },
+    {
+      "asset_id": 138731222568700,
+      "asset_name": "Dj Ghost - Bob Marley is this love (Mashup)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:15.248541"
+    },
+    {
+      "asset_id": 83653461444087,
+      "asset_name": "Dj Ghost - Mix Dembow\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:18.024511"
+    },
+    {
+      "asset_id": 134685923160464,
+      "asset_name": "Dj Ghost -  Mix trompeta // Bad Bunny\ud83c\udfba\ud83d\udc30",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:20.890458"
+    },
+    {
+      "asset_id": 80054123729815,
+      "asset_name": "Dj Ghost Dj Blakes - Beat Magicamente Magico\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:23.772047"
+    },
+    {
+      "asset_id": 71292188277076,
+      "asset_name": "Dj Ghost x Dj Blakes ultradimensional\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:26.194476"
+    },
+    {
+      "asset_id": 116367127740914,
+      "asset_name": "Dj Ghost x Dj Blakes BANHO DE CHUVA BRUXARIA\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:28.612333"
+    },
+    {
+      "asset_id": 72158006192189,
+      "asset_name": "Dj Ghost - Kiya  Mix\ud83d\udc85\ud83c\udffc\ud83d\udc85\ud83c\udffc\ud83d\udc85\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:31.342507"
+    },
+    {
+      "asset_id": 94162753469148,
+      "asset_name": "Dj Ghost - Daddy Yankee Barrio Fino\ud83d\udd25 #2",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:34.110974"
+    },
+    {
+      "asset_id": 109876704604618,
+      "asset_name": "Dj Ghost - Daddy Yankee barrio fino\ud83d\udd25#1",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:36.895127"
+    },
+    {
+      "asset_id": 92183542046922,
+      "asset_name": "Dj Ghost Dj Blakes - HOJE EU VOU COMER NOVINHA\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:39.692271"
+    },
+    {
+      "asset_id": 121317801088544,
+      "asset_name": "Dj Ghost Dj Blakes - TROMPETE DA SURTA\u00c7\u00c3O\ud83c\udfba\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:42.237844"
+    },
+    {
+      "asset_id": 133535191766068,
+      "asset_name": "Dj Ghost Dj Blakes - Mandel\u00e3o World\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:44.658662"
+    },
+    {
+      "asset_id": 87009682986899,
+      "asset_name": "Dj Ghost -  Fein! (Funk Remix)\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:47.084920"
+    },
+    {
+      "asset_id": 126599350142214,
+      "asset_name": "Dj Ghost - Luigi 21 Mix \ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:49.504615"
+    },
+    {
+      "asset_id": 106942459605880,
+      "asset_name": "Dj Ghost Luigi 21 - 2 Clases de Mujeres\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:52.263098"
+    },
+    {
+      "asset_id": 85632289936238,
+      "asset_name": "Dj Ghost - Romeo imitadora",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:54.690814"
+    },
+    {
+      "asset_id": 117998207271587,
+      "asset_name": "Dj Ghost - Plan B candy x Choca \ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:57.485078"
+    },
+    {
+      "asset_id": 105422855456786,
+      "asset_name": " Dj Ghost -  Suavemente",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:12:59.913745"
+    },
+    {
+      "asset_id": 140024518411819,
+      "asset_name": "Dj Ghost - luna llena ",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:02.384544"
+    },
+    {
+      "asset_id": 125064141601282,
+      "asset_name": "Dj Ghost - Tiempo de Vals  ",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:04.804142"
+    },
+    {
+      "asset_id": 100861870849617,
+      "asset_name": "Dj Ghost Skrillex Young Miko - Apaga La Luz (Edit)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:07.530465"
+    },
+    {
+      "asset_id": 92205964806323,
+      "asset_name": "Dj Ghost Dj Snake Let Me Lv You\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:10.397001"
+    },
+    {
+      "asset_id": 115707087254439,
+      "asset_name": "Dj Ghost - Happy Birthday (Hardstyle Remix)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:13.111044"
+    },
+    {
+      "asset_id": 74149268311075,
+      "asset_name": "Dj Ghost Major Lazer -  Lean On (Edit\ud83d\udc7b)\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:15.619928"
+    },
+    {
+      "asset_id": 124598415141824,
+      "asset_name": "Dj Ghost - Panjabi Mashup \ud83d\udd25Tsunami",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:18.081238"
+    },
+    {
+      "asset_id": 133037855627636,
+      "asset_name": "Dj Ghost - KSHMR Strange  Lands\u2600\ufe0f",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:20.497739"
+    },
+    {
+      "asset_id": 94320722620308,
+      "asset_name": "Dj Ghost Skrillex - XENA \ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:23.274482"
+    },
+    {
+      "asset_id": 109340856203985,
+      "asset_name": "Dj Ghost Dj Snake Disco Maghreb\ud83d\udd0a\ud83c\udfb6",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:26.098036"
+    },
+    {
+      "asset_id": 82960315719154,
+      "asset_name": "Dj Ghost  Dj Snake - Magenta Riddim \ud83d\udd25\ud83d\udd0a",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:28.521242"
+    },
+    {
+      "asset_id": 127391417792109,
+      "asset_name": "Dj Ghost - E'Telu Arabic Mix \ud83d\udd0a",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:31.384764"
+    },
+    {
+      "asset_id": 77279955535332,
+      "asset_name": "Dj Ghost - Drake mix\ud83e\udde2\ud83d\udd0a",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:33.805215"
+    },
+    {
+      "asset_id": 81231442045911,
+      "asset_name": "Dj Ghost - Diplo Xan Colorblind\ud83d\udd35",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:36.217998"
+    },
+    {
+      "asset_id": 121637068571773,
+      "asset_name": "Dj Ghost - Lil Peep Forever\ud83d\udc7b\ud83d\udda4 Mix #4 (GBC)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:38.998435"
+    },
+    {
+      "asset_id": 129387499828451,
+      "asset_name": "Dj Ghost - Lil Peep Forever\ud83d\udc7b\ud83d\udda4 Mix #3 (GBC)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:41.427533"
+    },
+    {
+      "asset_id": 110936930541379,
+      "asset_name": "Dj Ghost - Lil Peep Forever\ud83d\udc7b\ud83d\udda4Mix #2 (GBC)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:44.219308"
+    },
+    {
+      "asset_id": 122662995865822,
+      "asset_name": "Dj Ghost - Lil Peep Forever\ud83d\udc7b\ud83d\udda4Mix (GBC)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:47.000924"
+    },
+    {
+      "asset_id": 134183687162048,
+      "asset_name": "Dj Ghost - Resistencia Suburbana (Prod.Loky)\ud83c\udf31",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:49.792147"
+    },
+    {
+      "asset_id": 131487299407928,
+      "asset_name": "Dj Ghost - mix Guayeteo (Jowel & Randy)\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:52.780971"
+    },
+    {
+      "asset_id": 105344476800327,
+      "asset_name": "Dj Ghost - jingle belt x tremenda Santa arcangel\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:55.537244"
+    },
+    {
+      "asset_id": 90095966651157,
+      "asset_name": "LUZ ROJA DJ JOE MIX FT DJ Ghost",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:13:58.242853"
+    },
+    {
+      "asset_id": 133921963413030,
+      "asset_name": "Dj - Ghost - 10-Alberto Stylee reggaeton Playero",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:00.880397"
+    },
+    {
+      "asset_id": 140308122784596,
+      "asset_name": "Dj Ghost - Mamazota vs Yailin \ud83d\udd25Mix",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:03.268644"
+    },
+    {
+      "asset_id": 76634119285867,
+      "asset_name": "Dj Ghost - Propaganda Mashup (HardTrap)\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:06.029781"
+    },
+    {
+      "asset_id": 103917895599436,
+      "asset_name": "Dj Ghost - Ocho cinco Mashup\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:08.463466"
+    },
+    {
+      "asset_id": 74171945767286,
+      "asset_name": "Dj Ghost - Fuga De Gas Mix\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:11.231940"
+    },
+    {
+      "asset_id": 121804117262543,
+      "asset_name": "Dj Ghost - Donde esta el bad bunny de 2017 Mashup",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:13.997602"
+    },
+    {
+      "asset_id": 82156660441966,
+      "asset_name": "Dj Ghost - Paleta Dame Paleta Mashup\ud83c\udf6d",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:16.940163"
+    },
+    {
+      "asset_id": 72776432601414,
+      "asset_name": "Dj Ghost Rafaga mentirosa\ud83d\udc83\ud83c\udffb",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:19.743962"
+    },
+    {
+      "asset_id": 131229738001611,
+      "asset_name": "Dj Ghost - Antonio Rios\ud83d\udc83\ud83c\udffb",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:22.501528"
+    },
+    {
+      "asset_id": 115957791976882,
+      "asset_name": "Dj Ghost - Foquitos Navidenos x Jingle Bell\ud83c\udf84\ud83c\udf85\ud83c\udffb",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:25.283058"
+    },
+    {
+      "asset_id": 134136724451460,
+      "asset_name": "Dj Ghost - CHRYSTAL The Days\ud83d\udc99\ud83c\udfb6",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:28.074644"
+    },
+    {
+      "asset_id": 119589779623319,
+      "asset_name": "Dj Ghost - 100 gecs 800db Cloud\ud83d\udd0a",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:30.856884"
+    },
+    {
+      "asset_id": 96446955284136,
+      "asset_name": "Dj Ghost x Dj Saigo Destiny mix (Trance)\ud83c\udfb6",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:33.702110"
+    },
+    {
+      "asset_id": 133321666853078,
+      "asset_name": "Dj Ghost x Dj Saigo - Imogen Heap (TIESTO)\ud83c\udfb6",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:36.142530"
+    },
+    {
+      "asset_id": 126813858026859,
+      "asset_name": "Dj Ghost - Rascal Flatss Life Is A Highway\ud83c\udfb8\ud83d\ude97",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:38.549593"
+    },
+    {
+      "asset_id": 121271932896246,
+      "asset_name": "Dj Ghost - Foquitos navide\u00f1os (REMIX)\ud83c\udf84",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:41.404211"
+    },
+    {
+      "asset_id": 77749304476880,
+      "asset_name": "Dj Ghost - Myke Tower Diosa \ud83d\udd25\ud83d\udc51",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:43.797173"
+    },
+    {
+      "asset_id": 100922678052098,
+      "asset_name": "Dj Ghost - Lil Jon Sweat (Prod.Oaks)\ud83d\udd0a",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:46.191400"
+    },
+    {
+      "asset_id": 125423384584681,
+      "asset_name": "Dj Ghost - Furac\u00e3o 2000 (Mimosa 2000)\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:48.927325"
+    },
+    {
+      "asset_id": 119696016011124,
+      "asset_name": "Dj Ghost & DJ LONELY - Tiesto Trance Collab (90's)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:51.317891"
+    },
+    {
+      "asset_id": 72286197181346,
+      "asset_name": "Dj Ghost - Reed Wonder The Machine\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:53.755029"
+    },
+    {
+      "asset_id": 71998032470270,
+      "asset_name": "DJ Ghost - Do You  Believe In Life After Love\ud83d\udd7a\ud83c\udffb",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:56.215483"
+    },
+    {
+      "asset_id": 88259735377046,
+      "asset_name": "Dj Ghost - Where's Your Head At\ud83d\udd25\ud83d\udcbf",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:14:59.047960"
+    },
+    {
+      "asset_id": 84311870341473,
+      "asset_name": "Dj Ghost  - Heaven\ud83d\udd7a\ud83c\udffb",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:01.826346"
+    },
+    {
+      "asset_id": 117281432218924,
+      "asset_name": "Dj Ghost - Real McCoy another night\ud83d\udd7a\ud83c\udffb",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:04.228596"
+    },
+    {
+      "asset_id": 120680852765287,
+      "asset_name": "MIRAVI DJ.JOE RAJA\ud83d\udc96RANI Ft Dj Ghost ",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:07.181957"
+    },
+    {
+      "asset_id": 71696582650428,
+      "asset_name": "ZARA SA DJ.JOE MIX   FT Dj Ghost ",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:09.563791"
+    },
+    {
+      "asset_id": 109908242343581,
+      "asset_name": "Dj Ghost - Rupee Jump\ud83d\udc83\ud83c\udffb",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:12.013433"
+    },
+    {
+      "asset_id": 136867040925294,
+      "asset_name": "Dj Ghost - Jes Imagination Armada Music\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:14.680308"
+    },
+    {
+      "asset_id": 116283831389579,
+      "asset_name": "Dj Ghost Tiesto Loves Comes Again(Trance Classics)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:17.462573"
+    },
+    {
+      "asset_id": 77676646120370,
+      "asset_name": "Dj Ghost - Fatan 5 Pa' las 12 (Fin de a\u00f1o)\ud83c\udf89",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:19.788861"
+    },
+    {
+      "asset_id": 103994135693672,
+      "asset_name": "Dj Ghost - Nuevo Vida Nueva",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:22.317018"
+    },
+    {
+      "asset_id": 80936270198341,
+      "asset_name": "Dj Ghost - Nuevo Vida Nueva",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:25.060196"
+    },
+    {
+      "asset_id": 76824675560522,
+      "asset_name": "Dj Ghost - Tony Camargo A\u00f1o Viejo\ud83c\udde8\ud83c\uddf4",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:27.657507"
+    },
+    {
+      "asset_id": 96720979127263,
+      "asset_name": "Dj Ghost - Los 50 De Joselito Maria Teresa\ud83c\udde8\ud83c\uddf4",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:30.404820"
+    },
+    {
+      "asset_id": 73752239109303,
+      "asset_name": "Dj Ghost - Pastor Lopez Cari\u00f1o Sin Mi\ud83c\udde8\ud83c\uddf4",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:32.772889"
+    },
+    {
+      "asset_id": 75124325940595,
+      "asset_name": "Dj Ghost - Rodolfo Aicardi Cari\u00f1ito\ud83c\udde8\ud83c\uddf4",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:35.741026"
+    },
+    {
+      "asset_id": 113492952178871,
+      "asset_name": "Dj Ghost - Pastor Lopez Baion De Madrid\ud83c\udde8\ud83c\uddf4",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:38.150917"
+    },
+    {
+      "asset_id": 91818168859318,
+      "asset_name": "Dj Ghost - Pastor Lopez Brisas Del Valle\ud83c\udde8\ud83c\uddf4",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:40.862496"
+    },
+    {
+      "asset_id": 81040066121030,
+      "asset_name": "Dj Ghost - Pastor Lopez A Tiempo\ud83c\udde8\ud83c\uddf4",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:43.667822"
+    },
+    {
+      "asset_id": 128127750113597,
+      "asset_name": "Dj Ghost - Queen Bohemian (EDM MASHUP\ud83d\udd25)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:46.423602"
+    },
+    {
+      "asset_id": 109899739015878,
+      "asset_name": "Dj Ghost & Dj Kyoto - Without Me Mashup \ud83d\udd25\ud83d\udd0a",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:49.195638"
+    },
+    {
+      "asset_id": 136557003724644,
+      "asset_name": "Dj Ghost - Korn Freak On A Leash\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:51.962547"
+    },
+    {
+      "asset_id": 134218488410356,
+      "asset_name": "Dj Ghost - Mortis Frenchcore Vol.2\ud83d\udd25\ud83d\udd0a",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:54.945410"
+    },
+    {
+      "asset_id": 81253486328728,
+      "asset_name": "Dj Ghost - Mago De Oz Mix (Vanee)\ud83d\udd25\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:15:57.706036"
+    },
+    {
+      "asset_id": 129878602582321,
+      "asset_name": "Dj Ghost - Vikings Hard Techno Mix \ud83d\udd25\ud83d\udd0a",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:00.128423"
+    },
+    {
+      "asset_id": 96877868255113,
+      "asset_name": "Dj Ghost - Ragnarok Hardstyle\ud83d\udd25\ud83d\udd0a",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:02.550274"
+    },
+    {
+      "asset_id": 77534769711986,
+      "asset_name": "mago",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:04.929791"
+    },
+    {
+      "asset_id": 108258050179079,
+      "asset_name": "Dj Ghost - Slaughter To Prevail Viking\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:07.753987"
+    },
+    {
+      "asset_id": 140618770853717,
+      "asset_name": "Dj Ghost - Mix Personalizado | Leax\ud83d\udd0a",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:10.513098"
+    },
+    {
+      "asset_id": 75767413547438,
+      "asset_name": "Dj Ghost - Bassnectar A Strange World\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:13.293855"
+    },
+    {
+      "asset_id": 124153369923041,
+      "asset_name": "Dj Ghost - Sara Landry Heaven \ud83d\udc97",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:15.777852"
+    },
+    {
+      "asset_id": 79433837241025,
+      "asset_name": "Dj Ghost Dj Blakes - Beat Innerbloom\ud83c\udde7\ud83c\uddf7 (GBC)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:18.662681"
+    },
+    {
+      "asset_id": 72258376043981,
+      "asset_name": "GHOSTBOICLIQUE (GBC INTRO)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:21.407687"
+    },
+    {
+      "asset_id": 73166538029043,
+      "asset_name": "Dj Ghost x Dj Blakes - Heliopolis Ta No Helipa\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:24.124895"
+    },
+    {
+      "asset_id": 120525344358129,
+      "asset_name": "Dj Ghost - MTG Assombra PipoKinha Mix \ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:26.552398"
+    },
+    {
+      "asset_id": 80508285816172,
+      "asset_name": "Dj Ghost - FRENCHCORE TRIP Vol.2 \ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:29.477961"
+    },
+    {
+      "asset_id": 99838229862003,
+      "asset_name": "Dj Ghost - Children x When Love Takes Over Mashup",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:31.896912"
+    },
+    {
+      "asset_id": 122704872846976,
+      "asset_name": "Dj Ghost - Timbaland The Way You Are Remix\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:34.669671"
+    },
+    {
+      "asset_id": 90805260851188,
+      "asset_name": "Dj Ghost - Billie Eilish x Satisfaction (Mashup\ud83d\udc7b)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:37.079921"
+    },
+    {
+      "asset_id": 78647216684880,
+      "asset_name": "bili",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:39.840087"
+    },
+    {
+      "asset_id": 105265598769438,
+      "asset_name": "Dj Ghost - Daddy Yankee SALGO PA' LA CALLE\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:42.238694"
+    },
+    {
+      "asset_id": 99962925675375,
+      "asset_name": "Dj Ghost - Alexis & Fido El Tiburon \ud83e\udd88",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:44.941740"
+    },
+    {
+      "asset_id": 108357085824878,
+      "asset_name": "Dj Ghost - Hay Algo En Ti Zion & Lennox\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:47.706480"
+    },
+    {
+      "asset_id": 100555458022383,
+      "asset_name": "Dj Ghost - Daddy Yankee BZRP MUSIC SESSIONS#066\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:50.755345"
+    },
+    {
+      "asset_id": 83126417859365,
+      "asset_name": "Dj Ghost - Daddy Yankee La Fuga \ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:53.164747"
+    },
+    {
+      "asset_id": 115714432419457,
+      "asset_name": "Rammstein Intro",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:55.878695"
+    },
+    {
+      "asset_id": 126456610594745,
+      "asset_name": "Dj Ghost - ARREMANGALA , ARREMPUJALA\ud83d\udc83\ud83c\udffc\ud83d\udc83\ud83c\udffc\ud83d\udc83\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:16:58.292582"
+    },
+    {
+      "asset_id": 139370236830614,
+      "asset_name": "Dj Ghost - Olga Ta\u00f1on Vendras Llorando\ud83d\udc83\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:00.700185"
+    },
+    {
+      "asset_id": 99234313298673,
+      "asset_name": "Dj Ghost - Rammstein Mein Herz Brennt\ud83c\udfb8\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:03.441208"
+    },
+    {
+      "asset_id": 84899399096979,
+      "asset_name": "DJ Ghost - Rammstein Amerika\ud83c\udfb8\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:06.200330"
+    },
+    {
+      "asset_id": 105928730897734,
+      "asset_name": "Dj Ghost - Rammstein Ich Will\ud83c\udfb8\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:08.950957"
+    },
+    {
+      "asset_id": 125930539355266,
+      "asset_name": "Dj Ghost - Rammstein Feuer Frei\ud83c\udfb8\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:11.508248"
+    },
+    {
+      "asset_id": 75655610131308,
+      "asset_name": "Dj Ghost - Rammstein Deutschland\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:13.898031"
+    },
+    {
+      "asset_id": 96816290850751,
+      "asset_name": "Dj Ghost - Rammstein Sonne \ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:16.547806"
+    },
+    {
+      "asset_id": 124598784830980,
+      "asset_name": "Dj Ghost - Rammstein Du Hast \ud83c\udfb8\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:19.307767"
+    },
+    {
+      "asset_id": 92060977442211,
+      "asset_name": "Dj Ghost - The Cure Boy's Don't Cry\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:22.076435"
+    },
+    {
+      "asset_id": 127685802379564,
+      "asset_name": "CLAN RHLM \ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:24.509902"
+    },
+    {
+      "asset_id": 100097396207537,
+      "asset_name": "DJ GHOST ULTRA VOZ",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:27.261874"
+    },
+    {
+      "asset_id": 131712990453392,
+      "asset_name": "Dj Ghost - eye of tiger\ud83d\udc2f( Mashup DVLM\ud83d\udd25)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:30.019318"
+    },
+    {
+      "asset_id": 99046940197267,
+      "asset_name": "Dj GUN &  Dj Ghost - KSHMR mix\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:32.737617"
+    },
+    {
+      "asset_id": 133255441528780,
+      "asset_name": "Dj Ghost  Dr. Peacock - Japanese Nightclub ",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:35.328250"
+    },
+    {
+      "asset_id": 134708665717055,
+      "asset_name": "Dj Ghost - Charlie Puth & The Weeknd (Vanee mix\u2728)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:38.057973"
+    },
+    {
+      "asset_id": 137984642380869,
+      "asset_name": "DJ Ghost - Yandel Moviendo Caderas\ud83d\udd0a",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:41.037016"
+    },
+    {
+      "asset_id": 134249812086565,
+      "asset_name": "Dj Ghost - Daddy Yankee Con Calma\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:43.993112"
+    },
+    {
+      "asset_id": 76618974217956,
+      "asset_name": "Dj Ghost - Daddy Yankee ft Plan B El Desorden\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:46.387138"
+    },
+    {
+      "asset_id": 137181693562770,
+      "asset_name": "Dj Ghost - Maluma Cosas Pendientes\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:48.744609"
+    },
+    {
+      "asset_id": 134370625270701,
+      "asset_name": "DJ Ghost  - RKT Malandreeeeoooo \ud83d\udd2b",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:51.449998"
+    },
+    {
+      "asset_id": 102400997331084,
+      "asset_name": "Dj Narussy & Dj Ghost - Cumbia Mix \ud83d\udc83\ud83c\udffb",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:54.349736"
+    },
+    {
+      "asset_id": 99294011192101,
+      "asset_name": "Dj Ghost -  Coraz\u00f3n Enamorado ft. Raymix \ud83d\udc83\ud83c\udffb",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:17:57.066708"
+    },
+    {
+      "asset_id": 98664609553826,
+      "asset_name": "DJ GUN FT DJ GHOST - Too Bizarre",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:00.101746"
+    },
+    {
+      "asset_id": 137343024732117,
+      "asset_name": "DJ GUN FT DJ GHOST - FLY SOLO - WIZ KHALIFA",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:02.863429"
+    },
+    {
+      "asset_id": 84977566015502,
+      "asset_name": "DJ GUN FT DJ GHOST - Matte Black\ud83d\udd2b",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:05.973003"
+    },
+    {
+      "asset_id": 126209671619810,
+      "asset_name": "pathetic Society",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:08.823390"
+    },
+    {
+      "asset_id": 101916956810953,
+      "asset_name": "Dj Ghost - J Balvin rojo\ud83d\udd34",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:11.578180"
+    },
+    {
+      "asset_id": 131724441231090,
+      "asset_name": "Dj Ghost - Moviendo La Cadera Mix\ud83d\udc83\ud83c\udffb",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:14.312881"
+    },
+    {
+      "asset_id": 101300518877209,
+      "asset_name": "Dj Ghost - Arcangel Hace Mucho Tiempo \ud83c\udfb6",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:16.732333"
+    },
+    {
+      "asset_id": 81412308014979,
+      "asset_name": "Weren, Ghost, Gun - Uptempo Mashup\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:19.500475"
+    },
+    {
+      "asset_id": 88250587915905,
+      "asset_name": "Dj Weren Ft Dj Ghost - Knife Party Mix \ud83d\udd2a",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:22.270068"
+    },
+    {
+      "asset_id": 96118996070530,
+      "asset_name": "Dj Weren ft Dj Ghost - Daddy Yanke Mirame Mirame",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:24.625080"
+    },
+    {
+      "asset_id": 106913997787111,
+      "asset_name": "Dj Ghost - CLAN (GO) \ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:27.030888"
+    },
+    {
+      "asset_id": 78958987661256,
+      "asset_name": "Dj Ghost - Get Enough (Kat Mix)\ud83d\udd0a\ud83c\udfb6",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:29.469563"
+    },
+    {
+      "asset_id": 133118618547904,
+      "asset_name": "Dj Ghost - Club Banger x The Law (Angerfist)\ud83d\udd25\ud83c\udfb6",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:31.859371"
+    },
+    {
+      "asset_id": 81574042272633,
+      "asset_name": "Dj Ghost - Hard Knock Life\ud83d\udd25\ud83c\udfb6(Hardcore)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:34.644447"
+    },
+    {
+      "asset_id": 105921377397249,
+      "asset_name": "DJ GUN FT DJ GHOST - Adictiva Mashup\ud83d\ude08",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:37.451728"
+    },
+    {
+      "asset_id": 138432407459514,
+      "asset_name": "Dj Ghost - This Is Halloween \ud83c\udf83",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:40.232540"
+    },
+    {
+      "asset_id": 94678633205833,
+      "asset_name": "Dj Ghost - Jowell y Randy x J Balvin Anaranjado\ud83e\udde1",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:42.940121"
+    },
+    {
+      "asset_id": 104506199627389,
+      "asset_name": "Dj Ghost - GHOSTBUSTERS\ud83d\udeab\ud83d\udc7b",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:45.301389"
+    },
+    {
+      "asset_id": 106273374260622,
+      "asset_name": "Dj Ghost - Lambada Da Tweekaz (Edit\ud83c\udfb6\ud83d\udc7b)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:48.086308"
+    },
+    {
+      "asset_id": 98981084124018,
+      "asset_name": "Dj Ghost - Gunz For Hire  Dia De Los Muertos\ud83d\udc80",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:50.452385"
+    },
+    {
+      "asset_id": 126923726516527,
+      "asset_name": "Dj Ghost - Dr. Peacock Trip To Kyoto \ud83c\udf38\ud83c\udfef",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:52.848449"
+    },
+    {
+      "asset_id": 78314150974910,
+      "asset_name": "Dj Ghost - Dark Monks Insane \ud83d\ude4f (\ud83d\udc8a)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:55.240271"
+    },
+    {
+      "asset_id": 102974250534106,
+      "asset_name": " Dj Ghost -  feliz cumplea\u00f1os  pdj\ud83c\udf82\ud83c\udf88",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:18:57.650868"
+    },
+    {
+      "asset_id": 118752844660476,
+      "asset_name": "Dj Ghost - Trippie Redd Miss The Rage (BASS\u2623\ufe0f)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:00.405753"
+    },
+    {
+      "asset_id": 91609116934248,
+      "asset_name": "Dj Ghost - MTG EU VOU NA SUA CASA \ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:02.976858"
+    },
+    {
+      "asset_id": 124445158718613,
+      "asset_name": "Dj Ghost - MTG HEAR ME NOW \ud83c\udfa7\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:05.382795"
+    },
+    {
+      "asset_id": 140691427432616,
+      "asset_name": "Dj Ghost - BEAT HELLO  Funk\ud83c\udfa7\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:07.791451"
+    },
+    {
+      "asset_id": 113131019918315,
+      "asset_name": "Dj Ghost - MTG TITANIUM  (FUNK  Rave) \ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:10.164733"
+    },
+    {
+      "asset_id": 92774292110477,
+      "asset_name": " Dj Ghost - Rachadores Fui tapeado \ud83d\udd25\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:12.967856"
+    },
+    {
+      "asset_id": 76560490880198,
+      "asset_name": "Dj Ghost - Lady Gaga MTG mix\ud83d\udd25\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:15.724492"
+    },
+    {
+      "asset_id": 85663451096283,
+      "asset_name": "Dj Ghost - FUNK DO TIK TAK \ud83d\udd25\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:18.491150"
+    },
+    {
+      "asset_id": 129726457593310,
+      "asset_name": "Dj Ghost - MTG MELZINHO  ZUM ZUM ZUM \ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:21.297886"
+    },
+    {
+      "asset_id": 130823307325245,
+      "asset_name": "Dj Ghost - Chirio // 1 Thing (MTG)\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:24.075827"
+    },
+    {
+      "asset_id": 133935485800882,
+      "asset_name": "Dj  Ghost - ASSOBIO DO LOB\u00c3O \ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:26.873969"
+    },
+    {
+      "asset_id": 135003994849744,
+      "asset_name": "Dj Ghost - Daft Punk One More Time\ud83e\udd16\ud83d\udd7a",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:29.310413"
+    },
+    {
+      "asset_id": 94115974434921,
+      "asset_name": "Dj Ghost - Playa del ingles x Infinity Mashup\ud83c\udfa7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:32.029758"
+    },
+    {
+      "asset_id": 115146842624090,
+      "asset_name": "Dj Ghost - Otra Vez x Neverita x I Gotta Feeling\ud83c\udfa7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:34.383562"
+    },
+    {
+      "asset_id": 76858120625745,
+      "asset_name": "Dj Ghost - Wanda x Una en un millon\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:36.750886"
+    },
+    {
+      "asset_id": 93538109276141,
+      "asset_name": "Dj Ghost - Qloo x Tatami \ud83d\udd25\ud83d\udde3\ufe0f",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:39.146334"
+    },
+    {
+      "asset_id": 119511996898001,
+      "asset_name": "Dj Ghost - Mayor Que Yo x Dile \ud83d\udde3\ufe0f",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:41.537378"
+    },
+    {
+      "asset_id": 131637097281440,
+      "asset_name": "Dj Ghost - Sabado Regueton Mix\ud83d\ude08",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:44.311551"
+    },
+    {
+      "asset_id": 90797629528415,
+      "asset_name": "Dj Ghost - Anuel China\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:46.846958"
+    },
+    {
+      "asset_id": 110088696534783,
+      "asset_name": "Dj Ghost - Watch out for this mashup\ud83c\udfa7\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:49.603097"
+    },
+    {
+      "asset_id": 93581833519788,
+      "asset_name": "Dj Ghost - Vielleicht Vielleicht \ud83c\udde9\ud83c\uddea (Frenchcore)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:51.971208"
+    },
+    {
+      "asset_id": 84670075613240,
+      "asset_name": "Dj Ghost  - Hardwell & Machine Made  Human ",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:54.902658"
+    },
+    {
+      "asset_id": 83843987549498,
+      "asset_name": "Ghost Weren Mind",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:19:57.663960"
+    },
+    {
+      "asset_id": 140178572833897,
+      "asset_name": "Dj Ghost - Purge Intro (ALARMAA\ud83d\udea8)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:00.456720"
+    },
+    {
+      "asset_id": 76821976069743,
+      "asset_name": "Dj Ghost - Alarma Techno\ud83d\udea8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:03.212729"
+    },
+    {
+      "asset_id": 122234423617994,
+      "asset_name": "Dj Ghost -  Mix Guaracha Vol.6\ud83d\udc83",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:06.104884"
+    },
+    {
+      "asset_id": 108189528561657,
+      "asset_name": "Dj Ghost - Deorro Yee Mashup\ud83d\udd25\ud83c\udfa7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:08.476648"
+    },
+    {
+      "asset_id": 101624546745149,
+      "asset_name": "Dj Ghost - Chapa Que Vibra\ud83d\udde3\ufe0f",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:11.252508"
+    },
+    {
+      "asset_id": 112313219205790,
+      "asset_name": "Dj Ghost - Menea Tu Chapa",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:14.026845"
+    },
+    {
+      "asset_id": 116211757912362,
+      "asset_name": "Dj Ghost - Nicky Jam x J Balvin (\u274c) Remix",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:16.420260"
+    },
+    {
+      "asset_id": 96234221783390,
+      "asset_name": "Dj Ghost - Don Omar el senor de la noche\ud83e\udd87",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:19.401447"
+    },
+    {
+      "asset_id": 90238661613893,
+      "asset_name": "Dj Ghost - Bad Bunny Ft Daddy Yankee La Santa\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:21.802991"
+    },
+    {
+      "asset_id": 128802783294853,
+      "asset_name": "Dj Ghost - Pitbull Como Yo Le Doy\ud83e\udd75",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:24.207535"
+    },
+    {
+      "asset_id": 88338178867485,
+      "asset_name": "Dj Ghost - My Hero Academy",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:26.590501"
+    },
+    {
+      "asset_id": 129007199774441,
+      "asset_name": "Dj Ghost - El Alfa JamRock\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:28.975036"
+    },
+    {
+      "asset_id": 128506911546672,
+      "asset_name": "Dj Ghost - Don't Speak (Deep House)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:31.856393"
+    },
+    {
+      "asset_id": 82708378535958,
+      "asset_name": "Dj Ghost - Farruko Pepas",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:34.573783"
+    },
+    {
+      "asset_id": 96214420719673,
+      "asset_name": "Dj Ghost - El Alfa x Rauw Alejandro Mashup\ud83d\udd25\ud83d\udde3\ufe0f",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:36.931014"
+    },
+    {
+      "asset_id": 80291515966618,
+      "asset_name": "Dj Ghost - RKT Oye Mi Canto Mashup\ud83c\udfa7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:39.329795"
+    },
+    {
+      "asset_id": 118601436344534,
+      "asset_name": "Dj Ghost - Wisin & Yandel Tu Olor\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:42.096927"
+    },
+    {
+      "asset_id": 78318192837166,
+      "asset_name": "Dj Ghost - Yandel Encantadora\ud83c\udfa7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:45.024785"
+    },
+    {
+      "asset_id": 111967458576311,
+      "asset_name": "Dj Ghost - Don Omar ft Aventura Ella y Yo (Edit)\ud83d\udde3",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:47.449507"
+    },
+    {
+      "asset_id": 117685961041006,
+      "asset_name": "Dj Ghost - Gata Celosa\ud83d\udc08",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:50.413598"
+    },
+    {
+      "asset_id": 74612758565860,
+      "asset_name": "Dj Ghost - Khriz & Angel Mix\ud83c\udfa7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:53.143370"
+    },
+    {
+      "asset_id": 110656600655543,
+      "asset_name": "Dj Ghost - Zion, ken Arcangel More\ud83c\udfa7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:55.906328"
+    },
+    {
+      "asset_id": 103414053967176,
+      "asset_name": "Dj Ghost - Daddy yankee & De La Ghetto  La Formula",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:20:58.821349"
+    },
+    {
+      "asset_id": 121304617347217,
+      "asset_name": "Dj Ghost - Don Omar Dile\ud83d\udde3\ufe0f",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:01.355343"
+    },
+    {
+      "asset_id": 113170330331106,
+      "asset_name": "Dj Ghost - GUAYA GUAYA DON OMAR\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:03.956575"
+    },
+    {
+      "asset_id": 103967754286701,
+      "asset_name": "Dj Ghost - Daddy Yankee Que Tire Pa Lante\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:06.808510"
+    },
+    {
+      "asset_id": 91270692633153,
+      "asset_name": "Dj Ghost - Daddy Yankee Sigueme Y Te Sigo\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:09.617841"
+    },
+    {
+      "asset_id": 101431605631136,
+      "asset_name": "Dj Ghost - Daddy Yankee Dura\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:12.300849"
+    },
+    {
+      "asset_id": 130695264666514,
+      "asset_name": "Dj Ghost - Daddy Yankee Perros Salvajes\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:14.686669"
+    },
+    {
+      "asset_id": 84179672975408,
+      "asset_name": "Dj Ghost - Daddy Yankee Lovumba\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:17.072905"
+    },
+    {
+      "asset_id": 109606390006421,
+      "asset_name": "Dj Ghost & Dj Weren - Galantis Mix\ud83c\udfa7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:19.863747"
+    },
+    {
+      "asset_id": 95983760391050,
+      "asset_name": "Dj Ghost - David Guetta Play Hard\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:22.613222"
+    },
+    {
+      "asset_id": 111795717034850,
+      "asset_name": "DjGhost Hardwell Sub Zero Project BRACE FOR IMPACT",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:25.358497"
+    },
+    {
+      "asset_id": 137586570950061,
+      "asset_name": "Dj Ghost - D-Devils The 6th Gate",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:27.833747"
+    },
+    {
+      "asset_id": 97733517400753,
+      "asset_name": "Dj Ghost - GOLDEN\ud83d\udc9b (Pam\ud83c\udf82)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:30.380477"
+    },
+    {
+      "asset_id": 97266934870764,
+      "asset_name": "Dj Ghost - Que Mas Pues x Gasolina Mashup\ud83d\udd25\ud83c\udfa7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:32.753233"
+    },
+    {
+      "asset_id": 134830576542375,
+      "asset_name": "Dj Ghost - No Sigue Modas Mashup\ud83c\udfa7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:35.667843"
+    },
+    {
+      "asset_id": 94210502900286,
+      "asset_name": "Dj Ghost - Pegate Mas x Mal de Amores Mashup\ud83d\udc83",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:38.438109"
+    },
+    {
+      "asset_id": 115055336364165,
+      "asset_name": "Dj Ghost - J Balvin Tainy Agua\ud83c\udf0a",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:41.224796"
+    },
+    {
+      "asset_id": 96420711093202,
+      "asset_name": "Dj Ghost - Sefa 1527\ud83d\udd25\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:43.676011"
+    },
+    {
+      "asset_id": 103029628094017,
+      "asset_name": "Dj Ghost - Vivo En El Limbo (Salserin x Zona7)\ud83c\uddfb\ud83c\uddea",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:46.662766"
+    },
+    {
+      "asset_id": 129724931865416,
+      "asset_name": "Dj Ghost - ABBA Gimme Gimme\ud83d\udd7a\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:49.469224"
+    },
+    {
+      "asset_id": 112684877355137,
+      "asset_name": "Dj Ghost - Aqua Barbie Girl\ud83e\ude77",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:52.264914"
+    },
+    {
+      "asset_id": 108125033745675,
+      "asset_name": "Dj Ghost - Kate Bush Running Up That Hill\ud83d\udd7a\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:54.679746"
+    },
+    {
+      "asset_id": 87117552892392,
+      "asset_name": "Dj Ghost -  Last Train To London\ud83d\udd7a\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:21:57.096089"
+    },
+    {
+      "asset_id": 90835804379354,
+      "asset_name": "Dj Ghost ft Dj Gun Earth,Wind & Fire Lets Groove",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:00.208670"
+    },
+    {
+      "asset_id": 109216598792609,
+      "asset_name": "Dj Ghost - Un Minuto De Ti\ud83d\udd7a\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:02.631871"
+    },
+    {
+      "asset_id": 122911109490446,
+      "asset_name": "Dj Ghost - Haddaway What Is Love\ud83d\udd7a\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:05.069995"
+    },
+    {
+      "asset_id": 139089358971400,
+      "asset_name": "Dj Ghost - Alice Deejay Better Off Alone\ud83d\udd7a\ud83c\udffc",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:07.463422"
+    },
+    {
+      "asset_id": 113748210859331,
+      "asset_name": "Dj Ghost - Exploration Space\ud83d\ude80",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:09.870186"
+    },
+    {
+      "asset_id": 121368246059956,
+      "asset_name": "Dj Ghost - Sugaa Mix 4\ud83c\udf38\u2728",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:12.715780"
+    },
+    {
+      "asset_id": 95073199749332,
+      "asset_name": "Dj Ghost - Trip To Greece\ud83c\uddec\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:15.324188"
+    },
+    {
+      "asset_id": 98283197483334,
+      "asset_name": "Dj Ghost - Frenchore Trip\ud83d\udc8a",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:18.225802"
+    },
+    {
+      "asset_id": 123393059491068,
+      "asset_name": "Dj  Ghost - Yaga y Mackie Aparantamente",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:20.793196"
+    },
+    {
+      "asset_id": 118207045241786,
+      "asset_name": "Dj Ghost Ft Dj Gun - Mix\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:23.561342"
+    },
+    {
+      "asset_id": 73261095562900,
+      "asset_name": "Trala ",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:25.974674"
+    },
+    {
+      "asset_id": 105674929698531,
+      "asset_name": "Dj Ghost - Alan Walker Unity\ud83c\udfa7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:28.948676"
+    },
+    {
+      "asset_id": 72643326884377,
+      "asset_name": "Dj Weren Dj Ghost -Midnight City-Pressure Mashup\ud83c\udfa7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:31.318607"
+    },
+    {
+      "asset_id": 92031737472364,
+      "asset_name": "Dj Ghost - Alan Walker Faded Dash Berlin\ud83d\udd0a",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:33.757620"
+    },
+    {
+      "asset_id": 79038792955578,
+      "asset_name": "Dj Ghost - Blink-182 mix\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:36.479059"
+    },
+    {
+      "asset_id": 98228033117332,
+      "asset_name": "Dj Ghost - REZZ Edge Blanke \ud83d\udc8a",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:38.862371"
+    },
+    {
+      "asset_id": 98130594651916,
+      "asset_name": "Dj Ghost - Skrillex Spitfire\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:41.294981"
+    },
+    {
+      "asset_id": 84729914154622,
+      "asset_name": "Dj Ghost - Disturbed Decadence",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:43.946219"
+    },
+    {
+      "asset_id": 130795703741749,
+      "asset_name": "Dj Ghost - Fight Phonk Rock\ud83d\udd34",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:46.780944"
+    },
+    {
+      "asset_id": 129290067275726,
+      "asset_name": "Dj Ghost -  Hallelujah Phonk",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:49.208349"
+    },
+    {
+      "asset_id": 79753013506510,
+      "asset_name": "Dj Ghost - Phonk Rock\ud83d\udd34",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:51.625507"
+    },
+    {
+      "asset_id": 79457272414107,
+      "asset_name": "Dj Ghost - GO HARD!!!!!\ud83e\uddea",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:54.000589"
+    },
+    {
+      "asset_id": 124868607459085,
+      "asset_name": "Happy Birthday By Kiri\ud83c\udf82\ud83c\udf88",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:56.890564"
+    },
+    {
+      "asset_id": 93074359206022,
+      "asset_name": "Dj Ghost - Rihanna MTG Mix Funk\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:22:59.239762"
+    },
+    {
+      "asset_id": 81841836363320,
+      "asset_name": "Dj  Ghost - Misterio De Salem\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:02.214845"
+    },
+    {
+      "asset_id": 95172630138709,
+      "asset_name": "Dj Ghost -  Funk Todo Mundo\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:05.123600"
+    },
+    {
+      "asset_id": 128477613202398,
+      "asset_name": "Dj Ghost - Strike x Tada Dum\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:07.517662"
+    },
+    {
+      "asset_id": 133179273328902,
+      "asset_name": "Dj Ghost - Aurora Boreal Dj Blakes\ud83c\udde7\ud83c\uddf7",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:10.503536"
+    },
+    {
+      "asset_id": 84405546212321,
+      "asset_name": "Dj Ghost - Deadmau5 The Vledt Remix\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:13.261834"
+    },
+    {
+      "asset_id": 122364746913784,
+      "asset_name": "Dj Ghost - Chino y Nacho Bla Bla Bla",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:15.976336"
+    },
+    {
+      "asset_id": 129884175153395,
+      "asset_name": "Dj Ghost - Don Miguelo 7 Locas\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:18.329677"
+    },
+    {
+      "asset_id": 99807913021110,
+      "asset_name": "Dj Ghost - Coqueta X Bocchi The Rock\ud83e\udd20(^\u03c9^\uff3c)",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:21.044179"
+    },
+    {
+      "asset_id": 75720076611973,
+      "asset_name": "Dj Ghost - El Paso Del Gigante \ud83d\udc83",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:23.961996"
+    },
+    {
+      "asset_id": 83165555576816,
+      "asset_name": "Dj Ghost - Heroes Del Silencio Entre dos Tierras\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:26.708138"
+    },
+    {
+      "asset_id": 79654029075478,
+      "asset_name": "Dj Ghost - Zion Yo Voy A Llegar\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:29.056632"
+    },
+    {
+      "asset_id": 70487963229738,
+      "asset_name": "Dj Ghost - R.K.M  & KEN-Y Igual que ayer",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:32.023632"
+    },
+    {
+      "asset_id": 121981450721813,
+      "asset_name": "Dj Ghost - Daddy Yankee La Fuga\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:34.864378"
+    },
+    {
+      "asset_id": 121801767286546,
+      "asset_name": "Dj Ghost - Wisin Yandel Abusadora \ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:37.192548"
+    },
+    {
+      "asset_id": 74243468742809,
+      "asset_name": "Dj Ghost - Wisin Yandel ft Don Omar My Space\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:39.908243"
+    },
+    {
+      "asset_id": 116018736949716,
+      "asset_name": "Dj Ghost - Calabria Acid Mind\ud83e\uddea",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:42.803226"
+    },
+    {
+      "asset_id": 90151181669974,
+      "asset_name": "Dj Gun ft Dj Ghost - Chichi Mix\ud83d\udc83",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:45.555176"
+    },
+    {
+      "asset_id": 99161536711991,
+      "asset_name": "Dj Gun ft Dj Ghost - Se Portal Mal\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:47.929022"
+    },
+    {
+      "asset_id": 106714525497982,
+      "asset_name": "Dj Ghost - Guns N Roses Knocking On Heavens Door\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:50.295924"
+    },
+    {
+      "asset_id": 112239741860837,
+      "asset_name": "Dj Ghost - Guns N Roses Paradise City\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:52.653084"
+    },
+    {
+      "asset_id": 87990394620606,
+      "asset_name": "Dj Ghost - Megadeth Holy Wars... \ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:55.415866"
+    },
+    {
+      "asset_id": 134597572483529,
+      "asset_name": "Dj Ghost - Megadeth A tout Le Monde \ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:23:57.809172"
+    },
+    {
+      "asset_id": 79242223899303,
+      "asset_name": "Dj Ghost - Megadeth Tornado Of Souls\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:00.191965"
+    },
+    {
+      "asset_id": 120497605874022,
+      "asset_name": "Dj Ghost - Iron Maiden Fear Of The Dark\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:02.656009"
+    },
+    {
+      "asset_id": 105994277008651,
+      "asset_name": "Dj Ghost - Iron Maiden 2 Minutes To Midnight\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:05.021502"
+    },
+    {
+      "asset_id": 86431110277126,
+      "asset_name": "Dj Ghost - Iron Maiden Wasted Years \ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:07.895070"
+    },
+    {
+      "asset_id": 78858366820780,
+      "asset_name": "Dj Ghost - Metallica In The Jar\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:11.117710"
+    },
+    {
+      "asset_id": 95510136746084,
+      "asset_name": "Dj Ghost - Metallica Master Of Puppets\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:13.851508"
+    },
+    {
+      "asset_id": 100051612363705,
+      "asset_name": "Dj Ghost - Metallica Fuel\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:16.598177"
+    },
+    {
+      "asset_id": 93150868631015,
+      "asset_name": "Dj Ghost - Metallica Sad But True \ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:19.184206"
+    },
+    {
+      "asset_id": 79571902787435,
+      "asset_name": "TKG Club baja",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:21.950433"
+    },
+    {
+      "asset_id": 117040031432794,
+      "asset_name": "Dj Ghost - el boleta enamorado",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:24.732131"
+    },
+    {
+      "asset_id": 139086505175639,
+      "asset_name": "Dj Ghost - - Diplo Revolution vs I Cant Stop\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:27.311216"
+    },
+    {
+      "asset_id": 112190429627380,
+      "asset_name": "Dj Ghost - Ali Love Alvin Risk\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:29.656836"
+    },
+    {
+      "asset_id": 93517829699968,
+      "asset_name": "Dj Ghost - Barely Alive Electric Lady LongCatt\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:32.386885"
+    },
+    {
+      "asset_id": 93053567912759,
+      "asset_name": "Dj Ghost - Go Deep DnB Torro Torro\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:35.259672"
+    },
+    {
+      "asset_id": 109841623380070,
+      "asset_name": "Dj Ghost - Lacth vs Gem Shards Skrillex\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:37.671116"
+    },
+    {
+      "asset_id": 114177120679694,
+      "asset_name": "Dj Ghost - Modestep \ud83d\udde3\ufe0fAnother Day Xcore",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:40.410061"
+    },
+    {
+      "asset_id": 95864727313643,
+      "asset_name": "Dj Ghost - Skrillex Recess Mashup \ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:43.152534"
+    },
+    {
+      "asset_id": 120232126298060,
+      "asset_name": "Dj Ghost - Skrillex My Name Is Skrillex\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:45.882887"
+    },
+    {
+      "asset_id": 78354540905002,
+      "asset_name": "Dj Ghost - Skrillex Reptile\ud83e\udd8e",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:48.252649"
+    },
+    {
+      "asset_id": 129245704991651,
+      "asset_name": "Dj Ghost - TWRK Bandinga!\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:51.158204"
+    },
+    {
+      "asset_id": 84139862954341,
+      "asset_name": "Dj Ghost - Spag Heady Spooks VIP\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:53.908033"
+    },
+    {
+      "asset_id": 97734067241808,
+      "asset_name": "Dj Ghost - Datsik Just Saiyan\ud83e\udd77",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:56.792226"
+    },
+    {
+      "asset_id": 134895246925483,
+      "asset_name": "Dj Ghost - Datsik Let 'Em Know\ud83e\udd77",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:24:59.604402"
+    },
+    {
+      "asset_id": 91992530971473,
+      "asset_name": "Dj Ghost - Old School Dub Mix Shambala\ud83d\udd25",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:02.351461"
+    },
+    {
+      "asset_id": 136606368325024,
+      "asset_name": "Dj Ghost - Metallica Enter Sandman\ud83e\udd18\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:04.729068"
+    },
+    {
+      "asset_id": 95776615108359,
+      "asset_name": "Dj Ghost - Sombr Back To Friends\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:07.112779"
+    },
+    {
+      "asset_id": 99129547252844,
+      "asset_name": "Dj Ghost - The Beatles Don't Let Me Down\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:10.148773"
+    },
+    {
+      "asset_id": 70679884754807,
+      "asset_name": "Dj Ghost - Metallica Nothing Else Matters\ud83e\udd18\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:12.523856"
+    },
+    {
+      "asset_id": 86815464855114,
+      "asset_name": "Dj Ghost - Ozzy Osbourne Mama I'm Coming Home\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:14.920132"
+    },
+    {
+      "asset_id": 81277331776196,
+      "asset_name": "OZZY OSBOURNE GOOD BYE\ud83d\udd4a\ufe0f\ud83e\udd18\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:17.981994"
+    },
+    {
+      "asset_id": 75092035001434,
+      "asset_name": "Dj Ghost -Ozzy Osbourne Perry Mason\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:20.752362"
+    },
+    {
+      "asset_id": 97309047369235,
+      "asset_name": "Dj Ghost - Ozzy Osbourne Shot In The Dark\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:23.566443"
+    },
+    {
+      "asset_id": 131718628281167,
+      "asset_name": "Dj Ghost - Ozzy Osbourne See You On The Other Side",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:26.335316"
+    },
+    {
+      "asset_id": 77430885010987,
+      "asset_name": "Dj Ghost - Ozzy Osbourne Road To Nowhere\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:28.708948"
+    },
+    {
+      "asset_id": 93326283143319,
+      "asset_name": "Dj Ghost - Ozzy Osbourne Mr. Crowley\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:31.464935"
+    },
+    {
+      "asset_id": 78401538219052,
+      "asset_name": "Dj Ghost - Black Sabbath Iron Man\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:34.205168"
+    },
+    {
+      "asset_id": 111711598106617,
+      "asset_name": "Dj Ghost - Ozzy Osbourne I Just Want You\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:36.986292"
+    },
+    {
+      "asset_id": 90835068900125,
+      "asset_name": "Dj Ghost - Ozzy Osbourne I Dont Wanna Stop\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:39.715356"
+    },
+    {
+      "asset_id": 113957713555500,
+      "asset_name": "Dj Ghost - Ozzy Osbourne Dreamer\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:42.482716"
+    },
+    {
+      "asset_id": 125149577306933,
+      "asset_name": "Dj Ghost - Ozzy Osbourne Crazy Train\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:45.195788"
+    },
+    {
+      "asset_id": 121167480481399,
+      "asset_name": "Dj Ghost - Ozzy Osbourne Bark At The Moon\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:48.123798"
+    },
+    {
+      "asset_id": 129328323770923,
+      "asset_name": "Dj Ghost - Coal Chamber Shock The Monkey \ud83c\udfb8ft Ozzy",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:50.933643"
+    },
+    {
+      "asset_id": 106965004281774,
+      "asset_name": "Dj Ghost - Black Sabbath War Pigs\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:53.678506"
+    },
+    {
+      "asset_id": 71203180465614,
+      "asset_name": "Dj Ghost - Black Sabbath N.I.B\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:56.413493"
+    },
+    {
+      "asset_id": 79875849601458,
+      "asset_name": "Dj Ghost - Black Sabbath Cornucopia\ud83c\udfb8",
+      "status": "newly_granted",
+      "at": "2026-02-05T16:25:59.172327"
+    },
+    {
       "asset_id": 106407545923991,
       "asset_name": "Dj Ghost - J Balvin Rojo Remix",
       "granted_at": "2025-07-07T16:41:36.991604",
