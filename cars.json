@@ -9,7 +9,9 @@
     "id": "B1-Admin",
     "assetId": 126300872228138,
     "nombre": "AMG V63 Tung",
-    "image": "rbxassetid://84943239102297"
+    "image": "rbxassetid://84943239102297",
+    "shop": false,
+    "price": 5000000 
   },
   {
     "id": "A1-Admin",
@@ -104,7 +106,7 @@
     "assetId": 71516419056341,
     "nombre": "AMG V63 - Japan",
     "image": "rbxassetid://94899942197436",
-    "shop": true,
+    "shop": false,
     "price": 500000 
   }
 ]
