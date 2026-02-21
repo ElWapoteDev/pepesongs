@@ -114,7 +114,7 @@
     "assetId": 117860972054499,
     "nombre": "Vochido Valentino",
     "image": "rbxassetid://92033330734982",
-    "shop": true,
+    "shop": false,
     "price": 50000 
   }
 ]
