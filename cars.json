@@ -116,5 +116,13 @@
     "image": "rbxassetid://92033330734982",
     "shop": false,
     "price": 50000 
+  },
+  {
+    "id": "A12",
+    "assetId": 118292943916832,
+    "nombre": "El Griton",
+    "image": "rbxassetid://86574919038873",
+    "shop": true,
+    "price": 90000 
   }
 ]
