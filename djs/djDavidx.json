@@ -11,6 +11,138 @@
   },
   "permissions_granted": [
     {
+      "asset_id": 137517325265948,
+      "asset_name": "Vamos pa Belen 3 - Geezy - Davidx",
+      "status": "newly_granted",
+      "at": "2026-03-16T21:05:33.696779"
+    },
+    {
+      "asset_id": 111272681669939,
+      "asset_name": "Que Risarlda - Kris R - Davidx",
+      "status": "newly_granted",
+      "at": "2026-03-16T21:05:36.539160"
+    },
+    {
+      "asset_id": 75897800455361,
+      "asset_name": "Mix Tech House VL3 - Davidx - ING",
+      "status": "newly_granted",
+      "at": "2026-03-16T21:05:39.457774"
+    },
+    {
+      "asset_id": 95120281014305,
+      "asset_name": "Tuki Tuki - Kris R ft Geezy ft ING ft Davidx",
+      "status": "newly_granted",
+      "at": "2026-03-16T21:05:41.929796"
+    },
+    {
+      "asset_id": 85296222844659,
+      "asset_name": "Mix Tech House VL2 - Davidx",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:29:22.342998"
+    },
+    {
+      "asset_id": 95466103405647,
+      "asset_name": "Mix Tech House VL1 - Davidx",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:29:25.256355"
+    },
+    {
+      "asset_id": 102580068948690,
+      "asset_name": "Alaska Victambo- Hades66- Davidx ft 4sebb",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:29:28.229654"
+    },
+    {
+      "asset_id": 110307543390526,
+      "asset_name": "Pasion- Roa - Davidx",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:29:31.203441"
+    },
+    {
+      "asset_id": 115015705847820,
+      "asset_name": "More - Zion and Ken-Y ft Jory - Davidx",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:29:34.074735"
+    },
+    {
+      "asset_id": 131678157231166,
+      "asset_name": "Boquisuci - Los Extraditablessd - Davidx",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:29:36.995735"
+    },
+    {
+      "asset_id": 139738371564964,
+      "asset_name": "Killa - Bryan Myers - Clarent - Davidx - Moi6",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:29:39.915845"
+    },
+    {
+      "asset_id": 84138379596203,
+      "asset_name": "Yo quiero - Hades66 - Davidx",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:29:42.986848"
+    },
+    {
+      "asset_id": 127086789483236,
+      "asset_name": "Ouviou - Hades66 - Davidx - Moi6",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:29:45.891469"
+    },
+    {
+      "asset_id": 114511047985861,
+      "asset_name": "Salseros - Davidx",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:29:48.827030"
+    },
+    {
+      "asset_id": 139598658827406,
+      "asset_name": "Senal Bebe - Yeviad - Davidx - DXFIXX",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:29:51.752293"
+    },
+    {
+      "asset_id": 138275370581630,
+      "asset_name": "Tremenda - Davidx - DXFIXX",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:29:54.238683"
+    },
+    {
+      "asset_id": 120852337674603,
+      "asset_name": "Chichar - Neutro Shorty - Davidx",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:29:57.148580"
+    },
+    {
+      "asset_id": 118440859328870,
+      "asset_name": "Parche Tranqui - S4MMY - Moi6 - Davidx",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:30:00.093137"
+    },
+    {
+      "asset_id": 131262326603755,
+      "asset_name": "El Peor Boy The Word - Davidx - Moi6",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:30:03.063613"
+    },
+    {
+      "asset_id": 103414523156394,
+      "asset_name": "Blessd Kris R - Miu Miu - Dj Davidx - Dj Moi6",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:30:05.965452"
+    },
+    {
+      "asset_id": 109793498785663,
+      "asset_name": "Musa - Blessd - Carabin3 - Dj Davidx",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:30:08.466872"
+    },
+    {
+      "asset_id": 121410567884614,
+      "asset_name": "Pura Adrenalina - Dj Davidx - Corrido",
+      "status": "newly_granted",
+      "at": "2026-03-09T11:30:11.395176"
+    },
+    {
       "asset_id": 105684751788045,
       "asset_name": "Siempre Cojo Un Barrigon \ud83d\udc56- Raspa Canilla - David",
       "status": "already_had_permission",
