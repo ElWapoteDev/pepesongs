@@ -126,6 +126,22 @@
     "price": 100000 
   },
   {
+    "id": "A13",
+    "assetId": 135148516644047,
+    "nombre": "Machito 2026",
+    "image": "rbxassetid://71170544223707",
+    "shop": true,
+    "price": 80000 
+  },
+  {
+    "id": "A14",
+    "assetId": 104221305751547,
+    "nombre": "Ni-Chan 日産自動車",
+    "image": "rbxassetid://135091765321164",
+    "shop": true,
+    "price": 100000 
+  },
+  {
     "id": "EVENT_1",
     "assetId": 97192201470510,
     "nombre": "Carrerita Beisbolera",
