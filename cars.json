@@ -154,5 +154,21 @@
     "image": "rbxassetid://131825571257889",
     "shop": false,
     "price": 50000
+  },
+  {
+    "id": "A15",
+    "assetId": 134474203461104,
+    "nombre": "Brebita 300",
+    "image": "rbxassetid://82062101317565",
+    "shop": true,
+    "price": 50000
+  },
+    {
+    "id": "A16",
+    "assetId": 137712482933756,
+    "nombre": "Malvadaz Rx-7",
+    "image": "rbxassetid://105714173710487",
+    "shop": true,
+    "price": 80000
   }
 ]
