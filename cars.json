@@ -14,12 +14,6 @@
     "price": 3000000 
   },
   {
-    "id": "A1-Admin",
-    "assetId": 101186560091322,
-    "nombre": "Wapote",
-    "image": "rbxassetid://140163736858344"
-  },
-  {
     "id": "A2-Admin",
     "assetId": 126598154439785,
     "nombre": "TORETO",
